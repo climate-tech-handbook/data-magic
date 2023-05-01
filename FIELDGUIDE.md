@@ -1,4 +1,4 @@
-# Hello and welcome to the stack guide for the Climate Tech Handbook
+# Hello and welcome to the field guide for the Climate Tech Handbook
 
 Feel free to make contributions, suggestions, or comments on the suggested stack so far.
 
