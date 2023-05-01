@@ -4,7 +4,7 @@ Feel free to make contributions, suggestions, or comments on the suggested stack
 
 I have includes an extensive list of additional relative technologies to look into that we may find useful.
 
-This guide is still a "work in progress" so please stay tuned for updates!
+This guide is still a "work in progress" and this is meant to be a starting point, so please stay tuned for updates!
 
 ## My suggested starting stack
 
