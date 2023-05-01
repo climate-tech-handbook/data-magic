@@ -26,21 +26,3 @@ Navigate to the sub-directory `content-generator`
 `cd content-generator`
 
 Run the script: `python3 generate_markdown.py`
-
-_**Uh oh...**_
-
-The script is currently buggy :(
-
-It does the first part correctly, which is to generate markdown `.md` files based on the parameters listed in `file_info.csv`.
-
-But, it doesn't properly replace {Topic} with the `Topic` from `file_info.csv` and doesn't fill out all the sections of the `template.md` with GPT content that is prompted by `prompts.yml`.
-
----
-
-### What's supposed to happen
-
-1) Page Title, File Name, and Topic (same as Page Title) are populated from `file_info.csv`
-
-2) GPT Prompts are authored in `prompts.yml`
-
-3) The content is generated into Markdown `.md` files based on the structure provided in `template.md`
