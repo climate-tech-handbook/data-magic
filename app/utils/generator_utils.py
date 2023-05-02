@@ -65,3 +65,26 @@ def generate_completion(
     )
     completion = response.choices[0].text.strip()
     return completion
+
+
+def validate_and_assign(content_generator, prompts, file_info, template):
+    if prompts is not None:
+        content_generator.prompts = prompts
+    else:
+        raise FileNotFoundError(
+            f"Could not load prompts from '{content_generator.yml_file}'"
+        )
+
+    if file_info is not None:
+        content_generator.file_info = file_info
+    else:
+        raise FileNotFoundError(
+            f"Could not load file info from '{content_generator.csv_file}'"
+        )
+
+    if template is not None:
+        content_generator.template = template
+    else:
+        raise FileNotFoundError(
+            f"Could not load template from '{content_generator.template_md}'"
+        )
