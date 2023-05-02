@@ -9,8 +9,7 @@
 *.pyd
 *.pyw
 __pycache__/
-.env/
-app/.env
+.env
 venv/
 instance/
 *.log
