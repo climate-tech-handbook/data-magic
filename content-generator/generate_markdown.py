@@ -53,8 +53,35 @@ def fetch_unsplash_image(topic):
     else:
         return None, None
 
+
+# save the current progress in the "progress.txt" file and continue from the last saved progress 
+# when run the script again,
+def save_progress(progress):
+    with open("progress.txt", "w") as f:
+        f.write(str(progress))
+
+def load_progress():
+    try:
+        with open("progress.txt", "r") as f:
+            return int(f.read().strip())
+    except FileNotFoundError:
+        return 0
+
+request_count = 0
+progress = load_progress()
+
 # Loop over pages and generate output
-for page in file_info:
+for idx, page in enumerate(file_info):
+
+    if idx < progress:
+        continue
+
+    # Stop the script once the limit has been reached
+    if request_count >= 50:
+        print("Reached the Unsplash API limit (50 requests). Please try again after 1 hour.")
+        break
+
+    
     # Generate output for current page
     progress_made = generate_content(prompts['Progress Made']['prompt'].replace('{Topic}', page['Topic']))
     lessons_learned = generate_content(prompts['Lessons Learned']['prompt'].replace('{Topic}', page['Topic']))
@@ -63,6 +90,10 @@ for page in file_info:
 
     # Fetch an image from Unsplash
     image_url, credit_url = fetch_unsplash_image(page['Topic'])
+
+    # Increment the request count and save the progress
+    request_count += 1
+    save_progress(idx + 1)
 
     # Populate the template with the generated content and image URL
     output = template.format(
