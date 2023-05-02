@@ -11,7 +11,8 @@ Set up your Python environment variable `python3 -m venv env`.
 
 Create a `.env` file and add your OpenAI API Key and UNSPLASH_ACCESS_KEY = like this:
 
-`OPENAI_API_KEY=your_api_key_here` \\
+`OPENAI_API_KEY=your_api_key_here` 
+
 `UNSPLASH_ACCESS_KEY=your_api_key_here`
 
 Replace `your_api_key_here` with your actual OpenAI API key, which you create from your OpenAI account dashboard.
