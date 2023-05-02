@@ -1,5 +1,8 @@
 # {topic}
 
+![Cover Image]({image_url})
+Image Credit: [Unsplash]({credit_url})
+
 ## Progress Made
 
 {progress_made}
