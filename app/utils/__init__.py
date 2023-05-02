@@ -1,2 +1,3 @@
-from .utils import capitalize_words
+from .utils import fetch_unsplash_image
+
 
