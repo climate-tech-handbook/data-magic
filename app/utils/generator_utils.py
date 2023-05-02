@@ -22,8 +22,11 @@ def stage_content(
     template_md,
     output_dir,
 ):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    try:
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+    except FileExistsError:
+        return 0
     try:
         with open(yml_file) as f:
             prompts = yaml.safe_load(f)
@@ -32,6 +35,7 @@ def stage_content(
         file_info = [row for row in reader]
         with open(template_md) as f:
             template = f.read()
+        return prompts, file_info, template
     except FileNotFoundError:
         return 0
 

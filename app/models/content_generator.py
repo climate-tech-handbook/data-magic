@@ -23,6 +23,8 @@ class ContentGenerator:
         self.csv_file = csv_file
         self.template_md = template_md
         self.output_dir = output_dir
+        self.request_count = 0
+        self.progress = self.handle_progress("load")
 
         if self.mode == "markdown":
             self._initialize()
@@ -30,13 +32,29 @@ class ContentGenerator:
             self.generate_completion(**completion_params)
 
     def _initialize(self):
-        stage_content(
-            self.api_key,
+        prompts, file_info, template = stage_content(
             self.yml_file,
             self.csv_file,
             self.template_md,
             self.output_dir,
         )
+
+        if prompts is not None:
+            self.prompts = prompts
+        else:
+            raise FileNotFoundError(f"Could not load prompts from '{self.yml_file}'")
+
+        if file_info is not None:
+            self.file_info = file_info
+        else:
+            raise FileNotFoundError(f"Could not load file info from '{self.csv_file}'")
+
+        if template is not None:
+            self.template = template
+        else:
+            raise FileNotFoundError(
+                f"Could not load template from '{self.template_md}'"
+            )
 
     def handle_progress(save_or_load, progress=None):
         if save_or_load == "load":
