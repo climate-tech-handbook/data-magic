@@ -1,4 +1,4 @@
-from loader import requests, unsplash_access_key, csv, yaml, os
+from loader import requests, unsplash_access_key, csv, yaml, os, openai
 
 
 # Fetch an image from Unsplash based on the topic
@@ -32,10 +32,10 @@ def load_progress():
 
 
 def stage_content(
-    yml_file="prompts.yml",
-    csv_file="file_info.csv",
-    template_md="template.md",
-    output_dir="output",
+    yml_file,
+    csv_file,
+    template_md,
+    output_dir,
 ):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -49,3 +49,30 @@ def stage_content(
             template = f.read()
     except FileNotFoundError:
         return 0
+
+
+def generate_completion(
+    api_key,
+    prompt,
+    engine,
+    temp,
+    max_tokens,
+    n,
+    stop,
+    freq_pen,
+    pres_pen,
+):
+    openai.api_key = api_key
+
+    response = openai.Completion.create(
+        engine=engine,
+        prompt=prompt,
+        temperature=temp,
+        max_tokens=max_tokens,
+        n=n,
+        stop=stop,
+        frequency_penalty=freq_pen,
+        presence_penalty=pres_pen,
+    )
+    completion = response.choices[0].text.strip()
+    return completion
