@@ -61,10 +61,10 @@ git push origin main
 
 ```
 gh pr create --title "Field Guide 1.0" --body "First iteration of the list of suggested and alternative technologies we may find useful" --base main --head <your-github-username>:main --repo climate-tech-handbook/data-magic
-```
 
 Replace `<your-github-username>` with your actual GitHub username.
 
 This command specifies the base repository (the original `data-magic` repository) using the `--repo` option. The pull request will be created from your fork's `main` branch to the original repository's `main` branch.
 
 After running this command, the pull request will be created, and you can then collaborate with the project maintainers on the changes you've proposed.
+```
