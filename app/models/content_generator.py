@@ -42,7 +42,7 @@ class ContentGenerator:
 
         validate_and_assign(self, prompts, file_info, template)
 
-    def handle_progress(save_or_load, progress=None):
+    def handle_progress(self, save_or_load, progress=None):
         if save_or_load == "load":
             return load_progress()
         else:

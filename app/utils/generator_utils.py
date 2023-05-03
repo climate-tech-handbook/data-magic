@@ -1,8 +1,6 @@
 from loader import requests, csv, yaml, os, openai
 
 
-# save the current progress in the "progress.txt" file and continue from the last saved progress
-# when run the script again,
 def save_progress(progress):
     with open("progress.txt", "w") as f:
         f.write(str(progress))
