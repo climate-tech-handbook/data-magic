@@ -1,3 +1,4 @@
+import pdb
 from utils.generator_utils import (
     stage_content,
     save_progress,
@@ -67,21 +68,21 @@ class ContentGenerator:
             self.api_key, prompt, engine, temp, max_tokens, n, stop, freq_pen, pres_pen
         )
 
-    def generate_content(self, prompt):
-        if self.request_count < self.max_requests:
-            completion = self.generate_completion(prompt)
-            self.request_count += 1
-            return completion
-        else:
-            return "Max requests reached. No more content will be generated."
+    # def generate_content(self, prompt):
+    #     if self.request_count < self.max_requests:
+    #         completion = self.generate_completion(prompt)
+    #         self.request_count += 1
+    #         return completion
+    #     else:
+    #         return "Max requests reached. No more content will be generated."
 
-    def create_output(self, page):
-        output = generate_output(self, page)
+    async def create_output(self, page):
+        output = await generate_output(self, page)
         return output
 
-    def write_output(self, page, output):
+    async def write_output(self, page, output):
         with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
-            f.write(output)
+            await f.write(await output)
 
     def prompt_user_for_model_list(self):
         choice = input(

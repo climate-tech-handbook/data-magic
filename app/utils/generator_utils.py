@@ -3,6 +3,7 @@ import os
 import requests
 import yaml
 import openai
+import pdb
 
 
 def save_progress(progress):
@@ -71,7 +72,7 @@ def generate_completion(
 ):
     openai.api_key = api_key
 
-    response = openai.Completion.create(
+    response = openai.Completion.acreate(
         engine=engine,
         prompt=prompt,
         temperature=temp,
@@ -85,7 +86,7 @@ def generate_completion(
     return completion
 
 
-def validate_and_assign(content_generator, prompts, file_info, template):
+def validate_and_assign(content_generator, prompts, file_info, templates):
     if prompts is not None:
         content_generator.prompts = prompts
     else:
@@ -100,30 +101,44 @@ def validate_and_assign(content_generator, prompts, file_info, template):
             f"Could not load file info from '{content_generator.csv_file}'"
         )
 
-    if template is not None:
-        content_generator.template = template
+    if templates is not None:
+        content_generator.templates = templates
     else:
         raise FileNotFoundError(
             f"Could not load template from '{content_generator.template_md}'"
         )
 
 
-def generate_output(self, page):
+async def generate_content(generator, prompt):
+    if generator.request_count < generator.max_requests:
+        completion = await generator.generate_completion(prompt)
+        generator.request_count += 1
+        return completion
+    else:
+        return "Max requests reached. No more content will be generated."
+
+
+async def generate_output(generator, page):
     separator = "\n---\n"
     combined_prompt = separator.join(
         [
-            self.prompts["Progress Made"]["prompt"].replace("{Topic}", page["Topic"]),
-            self.prompts["Lessons Learned"]["prompt"].replace("{Topic}", page["Topic"]),
-            self.prompts["Challenges Ahead"]["prompt"].replace(
+            generator.prompts["Progress Made"]["prompt"].replace(
                 "{Topic}", page["Topic"]
             ),
-            self.prompts["Best Path Forward"]["prompt"].replace(
+            generator.prompts["Lessons Learned"]["prompt"].replace(
+                "{Topic}", page["Topic"]
+            ),
+            generator.prompts["Challenges Ahead"]["prompt"].replace(
+                "{Topic}", page["Topic"]
+            ),
+            generator.prompts["Best Path Forward"]["prompt"].replace(
                 "{Topic}", page["Topic"]
             ),
         ]
     )
 
-    combined_completion = self.generate_content(combined_prompt)
+    combined_completion = await generate_content(generator, combined_prompt)
+    pdb.set_trace()
     (
         progress_made,
         lessons_learned,
@@ -134,7 +149,7 @@ def generate_output(self, page):
     template_name = page.get(
         "Template", "template"
     )  # Use default template if not specified
-    output = self.templates[template_name].format(
+    output = generator.templates[template_name].format(
         topic=page["Topic"],
         progress_made=progress_made.strip(),
         lessons_learned=lessons_learned.strip(),
