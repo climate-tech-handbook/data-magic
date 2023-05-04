@@ -1,1 +1,1 @@
-from content_generator import ContentGenerator
+from .content_generator import ContentGenerator

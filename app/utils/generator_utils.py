@@ -1,4 +1,8 @@
-from loader import requests, csv, yaml, os, openai
+import csv
+import os
+import requests
+import yaml
+import openai
 
 
 def save_progress(progress):
@@ -104,7 +108,7 @@ def validate_and_assign(content_generator, prompts, file_info, template):
         )
 
 
-def create_output(self, page):
+def generate_output(self, page):
     separator = "\n---\n"
     combined_prompt = separator.join(
         [

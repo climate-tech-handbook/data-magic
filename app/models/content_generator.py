@@ -4,7 +4,7 @@ from utils.generator_utils import (
     load_progress,
     generate_completion,
     validate_and_assign,
-    create_output,
+    generate_output,
     list_models,
 )
 
@@ -76,7 +76,7 @@ class ContentGenerator:
             return "Max requests reached. No more content will be generated."
 
     def create_output(self, page):
-        return create_output(self, page)
+        return generate_output(self, page)
 
     def write_output(self, page, output):
         with open(f"{self.output_dir}/{page['File Name']}", "w") as f:

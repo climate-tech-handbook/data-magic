@@ -1,19 +1,32 @@
-from app import app
-from loader import load_dotenv, openai, os
-from app.models.content_generator import ContentGenerator
+import sys, os
+
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+
+from flask import Flask
+from app.api.routes import api_bp
+
+from dotenv import load_dotenv
+from utils.utils import get_env_vars, create_generator
 
 load_dotenv()
 
-unsplash_access_key = os.getenv("UNSPLASH_ACCESS_KEY")
+yml_files = ["data/prompts/prompts.yml"]
+csv_files = ["data/csv/file_info.csv"]
+template_mds = ["data/templates/template.md"]
+output_dir = "output_test"
 
-if unsplash_access_key is None:
-    print("Error: UNSPLASH_ACCESS_KEY environment variable is not set.")
+Climate_Tech_Handbook = create_generator(yml_files, csv_files, template_mds, output_dir)
+
+app = Flask(__name__)
+app.register_blueprint(api_bp)
 
 
-api_key = os.getenv("OPENAI_SECRET_KEY")
+@app.before_first_request
+def create_file():
+    page = Climate_Tech_Handbook.file_info[0]
+    output = Climate_Tech_Handbook.create_output(Climate_Tech_Handbook, page)
+    Climate_Tech_Handbook.write_output(page, output)
 
-if api_key is None:
-    print(
-        "Error: OPENAI_SECRET_KEY environment variable is not set. OpenAI API key needed to make requests."
-    )
-    exit(1)
+
+if __name__ == "__main__":
+    app.run()
