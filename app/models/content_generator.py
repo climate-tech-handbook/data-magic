@@ -4,6 +4,7 @@ from utils.generator_utils import (
     load_progress,
     generate_completion,
     validate_and_assign,
+    create_output,
 )
 
 
@@ -21,9 +22,9 @@ class ContentGenerator:
     ):
         self.api_key = api_key
         self.mode = mode
-        self.yml_file = yml_files
-        self.csv_file = csv_files
-        self.template_md = template_mds
+        self.yml_files = yml_files
+        self.csv_files = csv_files
+        self.template_mds = template_mds
         self.output_dir = output_dir
         self.request_count = 0
         self.progress = self.handle_progress("load")
@@ -35,14 +36,14 @@ class ContentGenerator:
             self.generate_completion(**completion_params)
 
     def _initialize(self):
-        prompts, file_info, template = stage_content(
-            self.yml_file,
-            self.csv_file,
-            self.template_md,
+        prompts, file_info, templates = stage_content(
+            self.yml_files,
+            self.csv_files,
+            self.template_mds,
             self.output_dir,
         )
 
-        validate_and_assign(self, prompts, file_info, template)
+        validate_and_assign(self, prompts, file_info, templates)
 
     def handle_progress(self, save_or_load, progress=None):
         if save_or_load == "load":
@@ -72,3 +73,10 @@ class ContentGenerator:
             return completion
         else:
             return "Max requests reached. No more content will be generated."
+
+    def create_output(self, page):
+        return create_output(self, page)
+
+    def write_output(self, page, output):
+        with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
+            f.write(output)

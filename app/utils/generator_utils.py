@@ -97,3 +97,31 @@ def validate_and_assign(content_generator, prompts, file_info, template):
         raise FileNotFoundError(
             f"Could not load template from '{content_generator.template_md}'"
         )
+
+
+def create_output(self, page):
+    progress_made = self.generate_content(
+        self.prompts["Progress Made"]["prompt"].replace("{Topic}", page["Topic"])
+    )
+    lessons_learned = self.generate_content(
+        self.prompts["Lessons Learned"]["prompt"].replace("{Topic}", page["Topic"])
+    )
+    challenges_ahead = self.generate_content(
+        self.prompts["Challenges Ahead"]["prompt"].replace("{Topic}", page["Topic"])
+    )
+    best_path_forward = self.generate_content(
+        self.prompts["Best Path Forward"]["prompt"].replace("{Topic}", page["Topic"])
+    )
+
+    template_name = page.get(
+        "Template", "template"
+    )  # Use default template if not specified
+    output = self.templates[template_name].format(
+        topic=page["Topic"],
+        progress_made=progress_made,
+        lessons_learned=lessons_learned,
+        challenges_ahead=challenges_ahead,
+        best_path_forward=best_path_forward,
+    )
+
+    return output
