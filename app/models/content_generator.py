@@ -4,6 +4,7 @@ from utils.generator_utils import (
     load_progress,
     generate_completion,
     validate_and_assign,
+    create_output,
 )
 
 
@@ -12,20 +13,22 @@ class ContentGenerator:
         self,
         api_key,
         mode="markdown",
-        yml_file="prompts.yml",
-        csv_file="file_info.csv",
-        template_md="template.md",
+        yml_files=["prompts.yml"],
+        csv_files=["file_info.csv"],
+        template_mds=["template.md"],
         output_dir="output",
         completion_params=None,
+        max_requests=1,
     ):
         self.api_key = api_key
         self.mode = mode
-        self.yml_file = yml_file
-        self.csv_file = csv_file
-        self.template_md = template_md
+        self.yml_files = yml_files
+        self.csv_files = csv_files
+        self.template_mds = template_mds
         self.output_dir = output_dir
         self.request_count = 0
         self.progress = self.handle_progress("load")
+        self.max_requests = max_requests
 
         if self.mode == "markdown":
             self._initialize()
@@ -33,14 +36,14 @@ class ContentGenerator:
             self.generate_completion(**completion_params)
 
     def _initialize(self):
-        prompts, file_info, template = stage_content(
-            self.yml_file,
-            self.csv_file,
-            self.template_md,
+        prompts, file_info, templates = stage_content(
+            self.yml_files,
+            self.csv_files,
+            self.template_mds,
             self.output_dir,
         )
 
-        validate_and_assign(self, prompts, file_info, template)
+        validate_and_assign(self, prompts, file_info, templates)
 
     def handle_progress(self, save_or_load, progress=None):
         if save_or_load == "load":
@@ -64,5 +67,16 @@ class ContentGenerator:
         )
 
     def generate_content(self, prompt):
-        completion = self.generate_completion(prompt)
-        return completion
+        if self.request_count < self.max_requests:
+            completion = self.generate_completion(prompt)
+            self.request_count += 1
+            return completion
+        else:
+            return "Max requests reached. No more content will be generated."
+
+    def create_output(self, page):
+        return create_output(self, page)
+
+    def write_output(self, page, output):
+        with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
+            f.write(output)
