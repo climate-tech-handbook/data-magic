@@ -76,7 +76,8 @@ class ContentGenerator:
             return "Max requests reached. No more content will be generated."
 
     def create_output(self, page):
-        return generate_output(self, page)
+        output = generate_output(self, page)
+        return output
 
     def write_output(self, page, output):
         with open(f"{self.output_dir}/{page['File Name']}", "w") as f:

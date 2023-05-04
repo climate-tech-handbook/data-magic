@@ -24,7 +24,7 @@ app.register_blueprint(api_bp)
 @app.before_first_request
 def create_file():
     page = Climate_Tech_Handbook.file_info[0]
-    output = Climate_Tech_Handbook.create_output(Climate_Tech_Handbook, page)
+    output = Climate_Tech_Handbook.create_output(page)
     Climate_Tech_Handbook.write_output(page, output)
 
 
