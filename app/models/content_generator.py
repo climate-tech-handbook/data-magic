@@ -62,3 +62,7 @@ class ContentGenerator:
         return generate_completion(
             self.api_key, prompt, engine, temp, max_tokens, n, stop, freq_pen, pres_pen
         )
+
+    def generate_content(self, prompt):
+        completion = self.generate_completion(prompt)
+        return completion
