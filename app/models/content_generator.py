@@ -12,20 +12,22 @@ class ContentGenerator:
         self,
         api_key,
         mode="markdown",
-        yml_file="prompts.yml",
-        csv_file="file_info.csv",
-        template_md="template.md",
+        yml_files=["prompts.yml"],
+        csv_files=["file_info.csv"],
+        template_mds=["template.md"],
         output_dir="output",
         completion_params=None,
+        max_requests=1,
     ):
         self.api_key = api_key
         self.mode = mode
-        self.yml_file = yml_file
-        self.csv_file = csv_file
-        self.template_md = template_md
+        self.yml_file = yml_files
+        self.csv_file = csv_files
+        self.template_md = template_mds
         self.output_dir = output_dir
         self.request_count = 0
         self.progress = self.handle_progress("load")
+        self.max_requests = max_requests
 
         if self.mode == "markdown":
             self._initialize()
@@ -64,5 +66,9 @@ class ContentGenerator:
         )
 
     def generate_content(self, prompt):
-        completion = self.generate_completion(prompt)
-        return completion
+        if self.request_count < self.max_requests:
+            completion = self.generate_completion(prompt)
+            self.request_count += 1
+            return completion
+        else:
+            return "Max requests reached. No more content will be generated."

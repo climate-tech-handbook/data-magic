@@ -14,28 +14,39 @@ def load_progress():
         return 0
 
 
-def stage_content(
-    yml_file,
-    csv_file,
-    template_md,
-    output_dir,
-):
+def stage_content(yml_files, csv_files, template_files, output_dir):
+    if not isinstance(yml_files, list):
+        yml_files = [yml_files]
+    if not isinstance(csv_files, list):
+        csv_files = [csv_files]
+    if not isinstance(template_files, list):
+        template_files = [template_files]
+
     try:
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
     except FileExistsError:
         return 0
-    try:
+
+    prompts = {}
+    file_info = []
+    templates = {}
+
+    for yml_file in yml_files:
         with open(yml_file) as f:
-            prompts = yaml.safe_load(f)
+            prompts.update(yaml.safe_load(f))
+
+    for csv_file in csv_files:
         with open(csv_file, newline="") as f:
             reader = csv.DictReader(f)
-        file_info = [row for row in reader]
-        with open(template_md) as f:
-            template = f.read()
-        return prompts, file_info, template
-    except FileNotFoundError:
-        return 0
+            file_info.extend([row for row in reader])
+
+    for template_file in template_files:
+        template_name = os.path.splitext(os.path.basename(template_file))[0]
+        with open(template_file) as f:
+            templates[template_name] = f.read()
+
+    return prompts, file_info, templates
 
 
 def generate_completion(
