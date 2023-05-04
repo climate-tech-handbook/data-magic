@@ -100,28 +100,37 @@ def validate_and_assign(content_generator, prompts, file_info, template):
 
 
 def create_output(self, page):
-    progress_made = self.generate_content(
-        self.prompts["Progress Made"]["prompt"].replace("{Topic}", page["Topic"])
+    separator = "\n---\n"
+    combined_prompt = separator.join(
+        [
+            self.prompts["Progress Made"]["prompt"].replace("{Topic}", page["Topic"]),
+            self.prompts["Lessons Learned"]["prompt"].replace("{Topic}", page["Topic"]),
+            self.prompts["Challenges Ahead"]["prompt"].replace(
+                "{Topic}", page["Topic"]
+            ),
+            self.prompts["Best Path Forward"]["prompt"].replace(
+                "{Topic}", page["Topic"]
+            ),
+        ]
     )
-    lessons_learned = self.generate_content(
-        self.prompts["Lessons Learned"]["prompt"].replace("{Topic}", page["Topic"])
-    )
-    challenges_ahead = self.generate_content(
-        self.prompts["Challenges Ahead"]["prompt"].replace("{Topic}", page["Topic"])
-    )
-    best_path_forward = self.generate_content(
-        self.prompts["Best Path Forward"]["prompt"].replace("{Topic}", page["Topic"])
-    )
+
+    combined_completion = self.generate_content(combined_prompt)
+    (
+        progress_made,
+        lessons_learned,
+        challenges_ahead,
+        best_path_forward,
+    ) = combined_completion.split(separator)
 
     template_name = page.get(
         "Template", "template"
     )  # Use default template if not specified
     output = self.templates[template_name].format(
         topic=page["Topic"],
-        progress_made=progress_made,
-        lessons_learned=lessons_learned,
-        challenges_ahead=challenges_ahead,
-        best_path_forward=best_path_forward,
+        progress_made=progress_made.strip(),
+        lessons_learned=lessons_learned.strip(),
+        challenges_ahead=challenges_ahead.strip(),
+        best_path_forward=best_path_forward.strip(),
     )
 
     return output
