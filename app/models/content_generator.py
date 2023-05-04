@@ -5,6 +5,7 @@ from utils.generator_utils import (
     generate_completion,
     validate_and_assign,
     create_output,
+    list_models,
 )
 
 
@@ -27,8 +28,8 @@ class ContentGenerator:
         self.template_mds = template_mds
         self.output_dir = output_dir
         self.request_count = 0
-        self.progress = self.handle_progress("load")
         self.max_requests = max_requests
+        self.progress = self.handle_progress("load")
 
         if self.mode == "markdown":
             self._initialize()
@@ -80,3 +81,15 @@ class ContentGenerator:
     def write_output(self, page, output):
         with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
             f.write(output)
+
+    def prompt_user_for_model_list(self):
+        choice = input(
+            "Would you like to see a list of available models? (y/n): "
+        ).lower()
+
+        if choice == "y":
+            list_models()
+        elif choice == "n":
+            print("Fine then I won't list the models....")
+        else:
+            print("Invalid input. Please enter 'y' or 'n'.")

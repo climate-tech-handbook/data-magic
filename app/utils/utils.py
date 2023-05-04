@@ -1,4 +1,4 @@
-from loader import requests, unsplash_access_key
+from loader import requests, unsplash_access_key, openai
 
 
 # Fetch an image from Unsplash based on the topic

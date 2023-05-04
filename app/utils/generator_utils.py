@@ -14,6 +14,11 @@ def load_progress():
         return 0
 
 
+def list_models():
+    models = openai.Model.list()
+    print(models.data)
+
+
 def stage_content(yml_files, csv_files, template_files, output_dir):
     if not isinstance(yml_files, list):
         yml_files = [yml_files]
