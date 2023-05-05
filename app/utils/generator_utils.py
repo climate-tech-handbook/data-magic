@@ -65,18 +65,19 @@ def generate_completion(
     openai.api_key = api_key
 
     # Create a chat message with the prompt
-    messages = [
-        {
-            "role": "system",
-            "content": "You will be answering multiple prompts set by the stop paramater.",
-        },
-        {"role": "user", "content": prompt},
-    ]
+    # messages = [
+    #     {
+    #         "role": "system",
+    #         "content": "You will be answering multiple prompts set by the stop paramater.",
+    #     },
+    #     {"role": "user", "content": prompt},
+    # ]
 
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.Completion.create(
             engine=engine,
-            messages=messages,
+            # messages=messages,
+            prompt=prompt,
             max_tokens=max_tokens,
             n=n,
             stop="\n---\n",
@@ -119,39 +120,74 @@ def generate_content(generator, prompt):
         generator.request_count += 1
         return completion
     else:
-        print(f"Max requests reached. No more content will be generated.")
-        return "", "", "", ""
+        return "Max requests reached. No more content will be generated."
+
+
+# async def generate_output(generator, page):
+#     separator = "\n---\n"
+#     combined_prompt = separator.join(
+#         [
+#             generator.prompts["Progress Made"]["prompt"].replace(
+#                 "{Topic}", page["Topic"]
+#             ),
+#             generator.prompts["Lessons Learned"]["prompt"].replace(
+#                 "{Topic}", page["Topic"]
+#             ),
+#             generator.prompts["Challenges Ahead"]["prompt"].replace(
+#                 "{Topic}", page["Topic"]
+#             ),
+#             generator.prompts["Best Path Forward"]["prompt"].replace(
+#                 "{Topic}", page["Topic"]
+#             ),
+#         ]
+#     )
+
+#     completion = generate_content(generator, combined_prompt)
+#     print(completion)
+#     combined_completion = completion.strip()
+
+#     (
+#         progress_made,
+#         lessons_learned,
+#         challenges_ahead,
+#         best_path_forward,
+#     ) = combined_completion.split(separator)
+
+#     template_name = page.get(
+#         "Template", "template"
+#     )  # Use default template if not specified
+#     output = generator.templates[template_name].format(
+#         topic=page["Topic"],
+#         progress_made=progress_made.strip(),
+#         lessons_learned=lessons_learned.strip(),
+#         challenges_ahead=challenges_ahead.strip(),
+#         best_path_forward=best_path_forward.strip(),
+#     )
+
+#     return output
 
 
 async def generate_output(generator, page):
-    separator = "\n---\n"
-    combined_prompt = separator.join(
-        [
-            generator.prompts["Progress Made"]["prompt"].replace(
-                "{Topic}", page["Topic"]
-            ),
-            generator.prompts["Lessons Learned"]["prompt"].replace(
-                "{Topic}", page["Topic"]
-            ),
-            generator.prompts["Challenges Ahead"]["prompt"].replace(
-                "{Topic}", page["Topic"]
-            ),
-            generator.prompts["Best Path Forward"]["prompt"].replace(
-                "{Topic}", page["Topic"]
-            ),
-        ]
-    )
+    # separator = "\n---\n"
+    prompt_keys = [
+        "Progress Made",
+        "Lessons Learned",
+        "Challenges Ahead",
+        "Best Path Forward",
+    ]
+    completions = []
 
-    completion = generate_content(generator, combined_prompt)
-    print(completion)
-    combined_completion = completion.strip()
+    for key in prompt_keys:
+        prompt = generator.prompts[key]["prompt"].replace("{Topic}", page["Topic"])
+        completion = generate_content(generator, prompt)
+        completions.append(completion)
 
     (
         progress_made,
         lessons_learned,
         challenges_ahead,
         best_path_forward,
-    ) = combined_completion.split(separator)
+    ) = completions
 
     template_name = page.get(
         "Template", "template"

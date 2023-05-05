@@ -20,7 +20,7 @@ class ContentGenerator:
         template_mds=["template.md"],
         output_dir="output",
         completion_params=None,
-        max_requests=1,
+        max_requests=5,
     ):
         self.api_key = api_key
         self.mode = mode
@@ -56,7 +56,7 @@ class ContentGenerator:
     def create_completion(
         self,
         prompt,
-        engine="text-davinci-003",
+        engine="text-davinci-002",
         temp=0.7,
         max_tokens=1024,
         n=1,
@@ -81,9 +81,14 @@ class ContentGenerator:
         output = await generate_output(self, page)
         return output
 
+    # async def write_output(self, page, output):
+    #     with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
+    #         await f.write(await output)
+
     async def write_output(self, page, output):
-        with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
-            await f.write(await output)
+        file_name = f"{self.output_dir}/{page['File Name']}"
+        with open(file_name, "w") as f:
+            f.write(output)
 
     def prompt_user_for_model_list(self):
         choice = input(
