@@ -60,33 +60,34 @@ def stage_content(yml_files, csv_files, template_files, output_dir):
 
 
 def generate_completion(
-    api_key,
-    prompt,
-    engine,
-    temp,
-    max_tokens,
-    n,
-    stop,
-    freq_pen,
-    pres_pen,
+    api_key, prompt, engine, temp, max_tokens, n, stop, freq_pen, pres_pen
 ):
     openai.api_key = api_key
 
-    response = openai.Completion.create(
-        engine=engine,
-        prompt=prompt,
-        temperature=temp,
-        max_tokens=max_tokens,
-        n=n,
-        stop=stop,
-        frequency_penalty=freq_pen,
-        presence_penalty=pres_pen,
-    )
+    # Create a chat message with the prompt
+    messages = [
+        {
+            "role": "system",
+            "content": "You will be answering multiple prompts set by the stop paramater.",
+        },
+        {"role": "user", "content": prompt},
+    ]
 
-    print(response)
-
-    completion = response.choices[0].text.strip()
-    return completion
+    try:
+        response = openai.ChatCompletion.create(
+            engine=engine,
+            messages=messages,
+            max_tokens=max_tokens,
+            n=n,
+            stop="\n---\n",
+            temperature=temp,
+            frequency_penalty=freq_pen,
+            presence_penalty=pres_pen,
+        )
+        return response.choices[0].text.strip()
+    except Exception as e:
+        print(f"Error generating completion: {e}")
+        return None
 
 
 def validate_and_assign(content_generator, prompts, file_info, templates):
@@ -114,13 +115,12 @@ def validate_and_assign(content_generator, prompts, file_info, templates):
 
 def generate_content(generator, prompt):
     if generator.request_count < generator.max_requests:
-        completion = generator.create_completion(
-            prompt, stop=["\n\n---\n\n"], engine="gpt-3.5-turbo"
-        )
+        completion = generator.create_completion(prompt)
         generator.request_count += 1
         return completion
     else:
-        return "Max requests reached. No more content will be generated."
+        print(f"Max requests reached. No more content will be generated.")
+        return "", "", "", ""
 
 
 async def generate_output(generator, page):
@@ -142,8 +142,8 @@ async def generate_output(generator, page):
         ]
     )
 
-    completion = await generate_content(generator, combined_prompt)
-    pdb.set_trace()
+    completion = generate_content(generator, combined_prompt)
+    print(completion)
     combined_completion = completion.strip()
 
     (

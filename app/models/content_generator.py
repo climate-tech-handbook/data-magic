@@ -56,7 +56,7 @@ class ContentGenerator:
     def create_completion(
         self,
         prompt,
-        engine="text-davinci-002",
+        engine="text-davinci-003",
         temp=0.7,
         max_tokens=1024,
         n=1,
@@ -67,7 +67,6 @@ class ContentGenerator:
         completion = generate_completion(
             self.api_key, prompt, engine, temp, max_tokens, n, stop, freq_pen, pres_pen
         )
-        pdb.set_trace()
         return completion
 
     # def generate_content(self, prompt):

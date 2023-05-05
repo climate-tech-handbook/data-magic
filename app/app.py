@@ -1,3 +1,4 @@
+import pdb
 import sys, os
 
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
@@ -24,7 +25,9 @@ app.register_blueprint(api_bp)
 @app.before_first_request
 async def create_file():
     page = Climate_Tech_Handbook.file_info[0]
+    print(f"Page: {page}")
     output = await Climate_Tech_Handbook.create_output(page)
+    print(f"Output: {output}")
     await Climate_Tech_Handbook.write_output(page, output)
 
 
