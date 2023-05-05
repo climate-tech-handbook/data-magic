@@ -72,7 +72,7 @@ def generate_completion(
 ):
     openai.api_key = api_key
 
-    response = openai.Completion.acreate(
+    response = openai.Completion.create(
         engine=engine,
         prompt=prompt,
         temperature=temp,
@@ -82,6 +82,9 @@ def generate_completion(
         frequency_penalty=freq_pen,
         presence_penalty=pres_pen,
     )
+
+    print(response)
+
     completion = response.choices[0].text.strip()
     return completion
 
@@ -109,9 +112,11 @@ def validate_and_assign(content_generator, prompts, file_info, templates):
         )
 
 
-async def generate_content(generator, prompt):
+def generate_content(generator, prompt):
     if generator.request_count < generator.max_requests:
-        completion = await generator.generate_completion(prompt)
+        completion = generator.create_completion(
+            prompt, stop=["\n\n---\n\n"], engine="gpt-3.5-turbo"
+        )
         generator.request_count += 1
         return completion
     else:
@@ -137,8 +142,10 @@ async def generate_output(generator, page):
         ]
     )
 
-    combined_completion = await generate_content(generator, combined_prompt)
+    completion = await generate_content(generator, combined_prompt)
     pdb.set_trace()
+    combined_completion = completion.strip()
+
     (
         progress_made,
         lessons_learned,
