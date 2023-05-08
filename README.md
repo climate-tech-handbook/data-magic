@@ -53,12 +53,33 @@ This project provides an API for generating content using OpenAI's completion mo
 2. Create a virtual environment and activate it.
 3. Install the required packages using `pip install -r requirements.txt`.
 
-## Usage
+## Setting and Using the OpenAI API Key
+
+To use the generator, you will need an OpenAI API key. Follow these steps to set and use the `OPENAI_SECRET_KEY`:
+
+1. Obtain your OpenAI API key from the [OpenAI Dashboard](https://beta.openai.com/signup/).
+2. Create a `.env` file in the root directory of your project (if it doesn't already exist).
+3. Add your OpenAI API key to the `.env` file in the following format:
+
+`OPENAI_SECRET_KEY=your_api_key_here`
+
+Replace `your_api_key_here` with the actual key you obtained from OpenAI.
+
+4. In your Python code, you can use the `dotenv` library to load the API key from the `.env` file:
+
+```python
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+api_key = os.getenv("OPENAI_SECRET_KEY")
+```
 
 ### Running the Flask App
 
 1. Run the Flask app by executing `flask run` or try `python app.py` if struggling, but you should make sure flask is installed.
 2. The app will create a file for a specific topic using the prompts, templates, and configurations provided in the `data` folder.
+   - At this moment in the app it's being forced with a `@before_request` decorator, this will be improved upon in the future.
 3. The generated file will be saved in the `output_test` folder.
 
 ### Using the ContentGenerator Class
