@@ -81,10 +81,6 @@ class ContentGenerator:
         output = await generate_output(self, page)
         return output
 
-    # async def write_output(self, page, output):
-    #     with open(f"{self.output_dir}/{page['File Name']}", "w") as f:
-    #         await f.write(await output)
-
     async def write_output(self, page, output):
         file_name = f"{self.output_dir}/{page['File Name']}"
         with open(file_name, "w") as f:
