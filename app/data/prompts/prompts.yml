@@ -1,3 +1,7 @@
+Overview:
+  prompt: |
+    Give a general overview of {Topic}'s role in climate tech.
+
 Progress Made:
   prompt: |
     Describe the progress that has been made in developing {Topic} to reverse climate change. Include examples of breakthrough technologies that have been developed and explain how these technologies have contributed to the reduction of greenhouse gas emissions.

@@ -127,6 +127,7 @@ def generate_content(generator, prompt):
 async def generate_output(generator, page):
     # separator = "\n---\n" - How to make stops and multiple questions in one request?
     prompt_keys = [
+        "Overview",
         "Progress Made",
         "Lessons Learned",
         "Challenges Ahead",
@@ -141,6 +142,7 @@ async def generate_output(generator, page):
         completions.append(completion)
 
     (
+        overview,
         progress_made,
         lessons_learned,
         challenges_ahead,
@@ -154,6 +156,7 @@ async def generate_output(generator, page):
     )  # Use default template if not specified
     output = generator.templates[template_name].format(
         topic=page["Topic"],
+        overview=overview.strip(),
         progress_made=progress_made.strip(),
         lessons_learned=lessons_learned.strip(),
         challenges_ahead=challenges_ahead.strip(),
