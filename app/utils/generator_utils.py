@@ -72,6 +72,7 @@ def generate_completion(
     #     },
     #     {"role": "user", "content": prompt},
     # ]
+    # openai.ChatCompletion == gpt3+
 
     try:
         response = openai.Completion.create(
@@ -80,7 +81,7 @@ def generate_completion(
             prompt=prompt,
             max_tokens=max_tokens,
             n=n,
-            stop="\n---\n",
+            stop=stop,
             temperature=temp,
             frequency_penalty=freq_pen,
             presence_penalty=pres_pen,
@@ -123,58 +124,15 @@ def generate_content(generator, prompt):
         return "Max requests reached. No more content will be generated."
 
 
-# async def generate_output(generator, page):
-#     separator = "\n---\n"
-#     combined_prompt = separator.join(
-#         [
-#             generator.prompts["Progress Made"]["prompt"].replace(
-#                 "{Topic}", page["Topic"]
-#             ),
-#             generator.prompts["Lessons Learned"]["prompt"].replace(
-#                 "{Topic}", page["Topic"]
-#             ),
-#             generator.prompts["Challenges Ahead"]["prompt"].replace(
-#                 "{Topic}", page["Topic"]
-#             ),
-#             generator.prompts["Best Path Forward"]["prompt"].replace(
-#                 "{Topic}", page["Topic"]
-#             ),
-#         ]
-#     )
-
-#     completion = generate_content(generator, combined_prompt)
-#     print(completion)
-#     combined_completion = completion.strip()
-
-#     (
-#         progress_made,
-#         lessons_learned,
-#         challenges_ahead,
-#         best_path_forward,
-#     ) = combined_completion.split(separator)
-
-#     template_name = page.get(
-#         "Template", "template"
-#     )  # Use default template if not specified
-#     output = generator.templates[template_name].format(
-#         topic=page["Topic"],
-#         progress_made=progress_made.strip(),
-#         lessons_learned=lessons_learned.strip(),
-#         challenges_ahead=challenges_ahead.strip(),
-#         best_path_forward=best_path_forward.strip(),
-#     )
-
-#     return output
-
-
 async def generate_output(generator, page):
-    # separator = "\n---\n"
+    # separator = "\n---\n" - How to make stops and multiple questions in one request?
     prompt_keys = [
         "Progress Made",
         "Lessons Learned",
         "Challenges Ahead",
         "Best Path Forward",
     ]
+    # Want to abstract the prompt keys into a passable parameter
     completions = []
 
     for key in prompt_keys:
@@ -188,6 +146,8 @@ async def generate_output(generator, page):
         challenges_ahead,
         best_path_forward,
     ) = completions
+    # The passed in prompt keys will be grabbed here for completions
+    # We can set a default
 
     template_name = page.get(
         "Template", "template"

@@ -69,14 +69,6 @@ class ContentGenerator:
         )
         return completion
 
-    # def generate_content(self, prompt):
-    #     if self.request_count < self.max_requests:
-    #         completion = self.generate_completion(prompt)
-    #         self.request_count += 1
-    #         return completion
-    #     else:
-    #         return "Max requests reached. No more content will be generated."
-
     async def create_output(self, page):
         output = await generate_output(self, page)
         return output
