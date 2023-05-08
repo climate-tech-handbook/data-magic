@@ -1,12 +1,4 @@
-# Hello and welcome to the field guide for the Climate Tech Handbook
-
-Feel free to make contributions, suggestions, or comments on the suggested stack so far.
-
-I have includes an extensive list of additional relative technologies to look into that we may find useful.
-
-This guide is still a "work in progress" and this is meant to be a starting point, so please stay tuned for updates!
-
-## My suggested starting stack
+# Here's a list of relevant technologies
 
 1. Social:
 
