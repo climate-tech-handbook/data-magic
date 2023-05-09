@@ -1,35 +1,50 @@
 # Public Transit
 
+![Cover Image](https://images.unsplash.com/photo-1477966947045-3d612755af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDM1NTZ8MHwxfHNlYXJjaHwxfHxQdWJsaWMlMjBUcmFuc2l0fGVufDB8fHx8MTY4MzA2MjYzOA&ixlib=rb-4.0.3&q=80&w=1080)
+Image Credit: [Unsplash](https://unsplash.com/@delajed)
+
 ## Progress Made
 
-In the past few years, there has been an increase in investment and development of public transit infrastructure and technology to help reverse climate change. For example, many cities are now investing in electric buses which emit far less greenhouse gases than traditional buses. In addition, new technology has been developed to help make public transit systems more efficient, such as real-time tracking of buses and trains which allows for more accurate scheduling and routing. This has lead to shorter wait times and less time wasted idling in traffic, which reduces emissions.
+Public transportation has made great strides in reducing greenhouse gas emissions. New technologies have emerged that allow public transportation vehicles to run on clean energy sources, such as electric power and hydrogen fuel cells. These technologies have significantly reduced the emissions of public transportation vehicles, making them a more environmentally friendly option for travel.
 
 ## Lessons Learned
 
-The development and implementation of public transit has been a key strategy in mitigating the effects of climate change. Public transit can help reduce greenhouse gas emissions by providing an alternative to private vehicles, which are a major source of emissions. Additionally, public transit can help reduce traffic congestion and improve air quality.
+Some of the key lessons that have been learned in the development and implementation of Public Transit to mitigate the effects of climate change include the following:
 
-However, public transit has also faced some challenges. One of the biggest challenges is funding. Public transit requires significant investment, and it can be difficult to secure the necessary funding. Additionally, public transit can be difficult to implement in areas with low population density.
+1. It is important to develop a comprehensive and coordinated plan for Public Transit that takes into account the needs of all stakeholders, including riders, transit agencies, and the communities served.
+
+2. It is essential to involve stakeholders in the planning and decision-making process to ensure buy-in and support for the project.
+
+3. There must be a clear and consistent vision for the project, and all parties must work towards achieving that vision.
+
+4. It is important to have the right partners in place to help develop and implement the project, including those with experience in transit operations, planning, and funding.
+
+5. It is essential to secure the necessary funding to support the development and implementation of Public Transit.
+
+6. It is important to monitor and evaluate the progress of the project on an ongoing basis to ensure that it is meeting its objectives.
 
 ## Challenges Ahead
 
-The major challenges that remain in the development and implementation of Public Transit to reverse climate change are funding, infrastructure, and public acceptance.
+There are a few major challenges that remain in the development and implementation of public transit to reverse climate change:
 
-Funding is a major obstacle to the development and implementation of public transit. Many public transit projects require significant up-front investment, which can be difficult to secure. Additionally, operating and maintenance costs can be high, making public transit a costly option for many communities.
+1. Funding - Public transit requires significant investment in infrastructure and operations, and it can be difficult to secure the necessary funding from government and private sources.
 
-Infrastructure is another significant obstacle to the development and implementation of public transit. In many cases, transit infrastructure does not exist or is not adequate to meet demand. This can make it difficult to implement new transit projects or expand existing ones.
+2. Equity - Public transit can have a significant impact on reducing traffic congestion and air pollution, but it can also exacerbate social and economic inequality if not properly designed and implemented.
 
-Finally, public acceptance of public transit can be a challenge. In many cases, people are resistant to using public transit, preferring to drive their own cars. This resistance can make it difficult to get people to use public transit, even when it is available.
+3. Technological challenges - Public transit faces a number of technological challenges, including the need for better real-time information and trip planning tools, and the need to develop more efficient and environmentally-friendly vehicles.
+
+4. Behavioral change - Public transit can be an effective tool for reducing greenhouse gas emissions, but it requires a significant shift in travel behavior.
 
 ## Best Path Forward
 
-Public transit can play a significant role in mitigating the effects of climate change by reducing emissions from passenger vehicles. In order for public transit to be effective in mitigating climate change, a number of steps need to be taken to ensure its widespread adoption.
+Public transit can play a significant role in mitigating climate change by reducing greenhouse gas emissions from the transportation sector. In order to ensure the effective development and implementation of public transit, a number of steps need to be taken.
 
-First, it is important to increase awareness of the role that public transit can play in reducing emissions. This can be done through public education campaigns that highlight the benefits of public transit and how it can help reduce emissions.
+First, it is important to develop a clear and comprehensive understanding of the climate impacts of the transportation sector. This understanding should consider the full life-cycle of transportation, from the extraction of raw materials to the end-of-life of vehicles. Once the climate impacts of transportation are understood, it is possible to develop strategies to reduce these impacts.
 
-Second, it is important to make public transit more accessible and convenient. This can be done by increasing the number of public transit options and routes, and by making public transit more affordable.
+Second, it is necessary to develop policies and regulations that incentivize the use of public transit. These policies could include carbon pricing, fuel taxes, and vehicle emission standards.
 
-Third, it is important to make public transit more efficient. This can be done by investing in new technologies that improve the efficiency of public transit systems, and by working to reduce congestion and improve the flow of traffic.
+Third, it is essential to invest in the infrastructure necessary to support public transit. This includes both the physical infrastructure (e.g. transit stations and routes) and the technological infrastructure (e.g. fare collection systems and real-time information).
 
-Fourth, it is important to reduce the emissions from public transit vehicles. This can be done by investing in cleaner and more efficient vehicles, and by using alternative fuels.
+Fourth, it is necessary to ensure that public transit is accessible and affordable for all. This includes providing subsidies for low-income riders and ensuring that transit services are designed to meet the needs of all members of the community.
 
-By taking these steps, public transit can be an effective tool in mitigating the effects of climate change.
+Finally, it is important to raise awareness of the benefits of public transit and the ways in which it can help to mitigate climate change. This can be done through education and outreach campaigns aimed at the general public and decision-makers.

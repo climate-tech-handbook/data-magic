@@ -65,6 +65,13 @@ To use the generator, you will need an OpenAI API key. Follow these steps to set
 
 Replace `your_api_key_here` with the actual key you obtained from OpenAI.
 
+**For Unsplash photos**
+
+Add this to your .env as well:
+
+`UNSPLASH_ACCESS_KEY=your_api_key_here`
+
+
 4. In your Python code, you can use the `dotenv` library to load the API key from the `.env` file:
 
 ```python

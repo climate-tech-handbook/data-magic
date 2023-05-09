@@ -1,47 +1,50 @@
 # Building Automation Systems
 
+![Cover Image](https://images.unsplash.com/photo-1598518142144-68fdb94156e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDM1NTZ8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMEF1dG9tYXRpb24lMjBTeXN0ZW1zfGVufDB8fHx8MTY4MzA0ODkwMg&ixlib=rb-4.0.3&q=80&w=1080)
+Image Credit: [Unsplash](https://unsplash.com/@sammoghadamkhamseh)
+
 ## Progress Made
 
-Some of the breakthrough technologies that have been developed to help reduce greenhouse gas emissions from buildings include:
-
-1. High-efficiency lighting systems: These systems use less energy to produce the same amount of light as traditional lighting systems, thus reducing the overall energy consumption of a building and the emissions associated with it.
-
-2. High-efficiency heating and cooling systems: These systems use less energy to maintain comfortable temperatures in a building, thus reducing the overall energy consumption of a building and the emissions associated with it.
-
-3. Building envelope insulation: This helps to keep a building’s interior temperature stable, thus reducing the energy consumption of the building and the emissions associated with it.
-
-4. On-site renewable energy generation: This can offset a portion of a building’s energy consumption from the grid, thus reducing the emissions associated with the building.
+The most significant progress that has been made in developing Building Automation Systems to reverse climate change is the development of more energy efficient buildings. In the past, buildings were not designed with energy efficiency in mind and as a result, they wasted a lot of energy. However, new building designs are now incorporating energy efficiency into the design process, which has resulted in more energy efficient buildings. One example of a breakthrough technology that has been developed to improve energy efficiency in buildings is double-glazed windows. Double-glazed windows are designed to reduce the amount of heat that is lost through windows, which can help to reduce the amount of energy that is needed to heat and cool a building. Another example of a technology that has been developed to improve energy efficiency in buildings is LED lighting. LED lighting is much more energy efficient than traditional incandescent lighting, and it can help to reduce the amount of energy that is needed to lighting a building.
 
 ## Lessons Learned
 
-The key lessons that have been learned in the development and implementation of Building Automation Systems to mitigate the effects of climate change include both successes and failures associated with the technology and its use.
+Some of the key lessons that have been learned in the development and implementation of Building Automation Systems to mitigate the effects of climate change include:
 
-Successes:
+1. The need for an integrated approach: Building Automation Systems need to be integrated into the overall design and operation of a building in order to be effective.
 
-1. Building Automation Systems (BAS) have been successful in reducing energy consumption in buildings.
+2. The need for user involvement: Building occupants need to be involved in the operation of Building Automation Systems in order to make them effective.
 
-2. BAS have been successful in reducing emissions from buildings.
+3. The importance of monitoring and feedback: Building Automation Systems need to be monitored and feedback needs to be provided to occupants in order to make them effective.
 
-3. BAS have been successful in improving the comfort of occupants in buildings.
+4. The need for regular maintenance: Building Automation Systems need to be regularly maintained in order to be effective.
 
-Failures:
-
-1. BAS have been unsuccessful in reducing the cost of energy in buildings.
-
-2. BAS have been unsuccessful in reducing the time required to maintain or operate buildings.
+5. The need for proper training: Building occupants and operators need to be properly trained in the use of Building Automation Systems in order to make them effective.
 
 ## Challenges Ahead
 
-The challenges that remain in the development and implementation of Building Automation Systems to reverse climate change are mainly obstacles that need to be overcome to scale up and widely adopt this technology. The main challenges are:
+Some of the major challenges that remain in the development and implementation of Building Automation Systems to reverse climate change include:
 
-1. Cost: The cost of Building Automation Systems is still relatively high compared to other energy efficiency measures. This high cost is a barrier to widespread adoption of the technology.
+1. Ensuring that the systems are interoperable and can communicate with each other seamlessly.
 
-2. Lack of awareness: There is still a lack of awareness of the potential of Building Automation Systems to reduce energy consumption and emissions. This lack of awareness is a barrier to wider adoption of the technology.
+2. Developing standards for data exchange and communication protocols.
 
-3. Technical challenges: There are still some technical challenges associated with the implementation of Building Automation Systems. These challenges need to be overcome to ensure the technology works effectively and efficiently.
+3. Ensuring that the data collected by the systems is accurate and can be used to make informed decisions.
 
-4. Standardization: There is still a lack of standardization in the Building Automation Systems industry. This lack of standardization makes it difficult to compare products and services and makes it difficult to scale up the technology.
+4. Overcoming the initial high cost of installation and implementation.
+
+5. educating building owners and operators on the benefits of using Building Automation Systems.
 
 ## Best Path Forward
 
-The best path forward for the continued development and implementation of Building Automation Systems to effectively mitigate the effects of climate change is to continue to develop and improve the technology so that it is more effective and efficient, and to make sure that it is adopted on a large scale.
+The best path forward for the continued development and implementation of Building Automation Systems to effectively mitigate the effects of climate change is to continue to develop and refine the technology so that it is more effective and efficient, and to promote its adoption on a larger scale. Steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
+
+1. Increasing awareness of the technology and its potential benefits among building owners and operators.
+
+2. Demonstrating the effectiveness of the technology through case studies and pilot projects.
+
+3. Offering incentives for the adoption of the technology, such as tax breaks or subsidies.
+
+4. Developing standards for the technology so that it can be more easily adopted and implemented.
+
+5. Working with utilities to integrate the technology into the existing power grid.

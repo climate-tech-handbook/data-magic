@@ -1,27 +1,48 @@
 # Utility-Scale Solar Photovoltaics
 
+![Cover Image](https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDM1NTZ8MHwxfHNlYXJjaHwxfHxVdGlsaXR5LVNjYWxlJTIwU29sYXIlMjBQaG90b3ZvbHRhaWNzfGVufDB8fHx8MTY4MzA2MjgxMw&ixlib=rb-4.0.3&q=80&w=1080)
+Image Credit: [Unsplash](https://unsplash.com/@rgaleriacom)
+
 ## Progress Made
 
-Significant progress has been made in developing Utility-Scale Solar Photovoltaics (PV) to reverse climate change. In particular, significant advances have been made in the efficiency of PV cells, the development of new materials for PV cells, and the integration of PV cells into larger scale systems.
+Solar photovoltaic technology has advanced rapidly in recent years, becoming increasingly efficient and less expensive. In 2010, the cost of solar photovoltaic panels was about $3 per watt. By 2018, the cost had dropped to about $0.30 per watt, and it is continuing to decline. This decrease in cost is due to a number of factors, including advances in manufacturing and the development of new, more efficient solar cell materials.
 
-For example, in terms of efficiency, PV cells have been developed that are capable of converting over 40% of the incident sunlight into electricity. This is a significant improvement from the early days of PV when conversion efficiencies were in the low single digits.
+One of the most important breakthroughs in solar photovoltaic technology is the development of thin-film solar cells. These cells are made from a variety of materials, including cadmium telluride (CdTe), copper indium gallium selenide (CIGS), and amorphous silicon (a-Si). They are much thinner than conventional solar cells, which makes them less expensive to produce. Thin-film solar cells are also more flexible, which makes them easier to integrate into building materials such as roofs and walls.
 
-In terms of materials, new types of PV cells have been developed that are made from materials such as perovskites and quantum dots. These new materials have a number of advantages over traditional PV materials, including higher efficiency and lower cost.
+Another important breakthrough has been the development of solar photovoltaic panels that can track the movement of the sun across the sky. These panels are able to capture more sunlight than fixed panels, which increases their power output.
 
-Finally, in terms of integration, PV cells are now being integrated into larger scale systems such as rooftops and solar farms. This allows for the efficient capture of solar energy on a much larger scale, which is essential for reducing greenhouse gas emissions.
+The advances in solar photovoltaic technology have led to a dramatic increase in the installation of solar photovoltaic systems around the world. In 2010, there was a total of about 40 gigawatts (GW) of solar photovoltaic capacity installed globally. By 2018, this had increased to more than 400 GW. The vast majority of this growth has been in China, the United States, and Europe.
+
+The increase in solar photovoltaic capacity has resulted in a significant decrease in greenhouse gas emissions. In 2018, solar photovoltaic systems generated about 2.6% of the world’s electricity, which avoided the emissions of about 1.2 billion metric tons of carbon dioxide. This is equivalent to the emissions of about 250 million cars.
+
+The advances in solar photovoltaic technology are playing a vital role in the fight against climate change. The continued development of new and improved solar photovoltaic technologies will help to further reduce greenhouse gas emissions and accelerate the transition to a low-carbon future.
 
 ## Lessons Learned
 
-Some of the key lessons that have been learned in the development and implementation of Utility-Scale Solar Photovoltaics to mitigate the effects of climate change include the importance of siting, land use, water use, and environmental impacts. Additionally, the role of government incentives, financing, and policy in the development of solar PV projects has been critical in some cases and less so in others.
+Some of the key lessons that have been learned in the development and implementation of Utility-Scale Solar Photovoltaics to mitigate the effects of climate change include the importance of:
 
-One of the major successes of solar PV has been its ability to be deployed quickly and at a large scale. This has been particularly important in the case of utility-scale projects, which can have a significant impact on carbon emissions.
+1. Technology: Improving the efficiency of solar cells and developing new types of solar cells (e.g. thin-film solar cells) that are cheaper and easier to manufacture on a large scale.
 
-However, there have also been some failures associated with solar PV. One of the biggest challenges has been its intermittency, which can lead to higher costs and lower efficiency. Additionally, the technology is still relatively new and there is a lack of standardization, which can make it difficult to compare different projects.
+2. Infrastructure: Building the necessary infrastructure (e.g. power lines, storage facilities) to support the widespread use of solar power.
+
+3. Policy: Creating incentives (e.g. subsidies, tax breaks) to encourage the use of solar power.
+
+Solar power has been successful in reducing greenhouse gas emissions and mitigating the effects of climate change. However, there are still some challenges associated with the technology, including the high upfront costs of solar panels and the need for sunny locations to generate enough power.
 
 ## Challenges Ahead
 
-The major challenges that remain in the development and implementation of Utility-Scale Solar Photovoltaics to reverse climate change are the high cost of solar panels, the need for more efficient solar cells, and the need for improved storage technologies.
+The major challenges that remain in the development and implementation of Utility-Scale Solar Photovoltaics to reverse climate change are:
+
+1. Scalability: Utility-scale solar photovoltaics need to be scalable in order to be widely adopted. This means that the technology needs to be able to be installed on a large scale, and that the infrastructure needs to be in place to support it.
+
+2. Cost: The cost of utility-scale solar photovoltaics needs to be reduced in order to make it more affordable.
+
+3. Efficiency: The efficiency of solar photovoltaics needs to be increased in order to make them more effective at generating electricity.
+
+4. Intermittency: The intermittency of solar photovoltaics needs to be addressed in order to make them more reliable.
+
+5. Storage: The storage of solar photovoltaics needs to be improved in order to make them more efficient and to allow for the generation of electricity even when the sun is not shining.
 
 ## Best Path Forward
 
-There are a few steps that need to be taken in order to ensure that Utility-Scale Solar Photovoltaics (USSPV) are adopted on a large scale and are effective in mitigating the effects of climate change. First, it is important to continue to develop this technology so that it is more efficient and cheaper to produce. Second, it is important to provide incentives for people and businesses to switch to USSPV. Finally, it is important to create regulations that require the use of USSPV in new construction and renovations.
+The best path forward for the continued development and implementation of Utility-Scale Solar Photovoltaics to effectively mitigate the effects of climate change is to continue to invest in research and development to improve the efficiency of the technology and to reduce the cost. In addition, it is important to develop a comprehensive policy framework that provides incentives for utilities and other entities to adopt solar photovoltaics on a large scale.

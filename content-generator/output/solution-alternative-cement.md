@@ -1,51 +1,38 @@
 # Alternative Cement
 
+![Cover Image](https://images.unsplash.com/photo-1467779009031-53938b78ca38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDM1NTZ8MHwxfHNlYXJjaHwxfHxBbHRlcm5hdGl2ZSUyMENlbWVudHxlbnwwfHx8fDE2ODMwNDg4NDI&ixlib=rb-4.0.3&q=80&w=1080)
+Image Credit: [Unsplash](https://unsplash.com/@lukeporter)
+
 ## Progress Made
 
-The production of Portland cement, the most common type of cement, accounts for approximately 5% of global anthropogenic CO2 emissions, making it one of the world’s leading sources of industrial carbon dioxide emissions. In order to reduce these emissions, the cement industry has begun to explore the development of alternative cements that require less energy to produce and result in a lower carbon footprint.
-
-One such alternative is known as “geopolymer cement”. Geopolymer cements are made from industrial wastes such as fly ash and slag, which would otherwise be disposed of in landfills. These materials are mixed with an alkaline solution to create a geopolymer gel, which can then be used to bind together aggregates to create a concrete-like material. Geopolymer cements require less energy to produce than Portland cement, and can result in a carbon footprint that is up to 80% lower.
-
-Another alternative cement that is being developed is known as “magnesium oxide cement”. Magnesium oxide cement is made from magnesium oxide (MgO), which is a waste product of the magnesium production process. MgO is mixed with water to create a slurry, which is then mixed with an aggregate to create a concrete-like material. Magnesium oxide cements are non-toxic, fire resistant, and have a lower carbon footprint than Portland cement.
-
-The development of alternative cements is a promising area of research that has the potential to significantly reduce the carbon footprint of the cement industry.
+The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. For example, the use of alternative materials such as fly ash, slag, and rice husk ash have been shown to be effective in reducing emissions. In addition, new production methods such as the use of pre-heaters and pre-calciners have also been shown to be effective in reducing emissions. These new technologies have significantly reduced the emissions of greenhouse gases from the cement industry, and have the potential to continue to do so in the future.
 
 ## Lessons Learned
 
-Some key lessons that have been learned in the development and implementation of Alternative Cement to mitigate the effects of climate change are as follows:
+Some key lessons that have been learned in the development and implementation of Alternative Cement to mitigate the effects of climate change include the following:
 
-Successes:
+1. It is important to ensure that the raw materials used to make Alternative Cement are of high quality and consistency.
 
-1. Alternative cement has been shown to be an effective means of reducing emissions of greenhouse gases.
+2. The manufacturing process of Alternative Cement must be carefully monitored and controlled in order to produce a product that is of the highest possible quality.
 
-2. The technology has been successfully implemented in a number of countries, resulting in significant emissions reductions.
+3. It is essential to carry out extensive testing of Alternative Cement before it is used in any construction project, in order to ensure that it meets all the required safety and quality standards.
 
-3. Alternative cement has been shown to be durable and long-lasting, with minimal maintenance required.
+4. The use of Alternative Cement can help to reduce the overall carbon footprint of a construction project, as it requires less energy to produce than traditional Portland cement.
 
-4. The technology is relatively low-cost and can be easily adopted by cement manufacturers.
+5. Alternative Cement is not suitable for all construction applications, and its use should be carefully considered on a case-by-case basis.
 
-Failures:
-
-1. Alternative cement has not been widely adopted due to a lack of awareness of its benefits.
-
-2. The technology has not been implemented in a number of countries due to the high cost of investment.
-
-3. Alternative cement has not been shown to be effective in all areas, with some studies showing it to be inferior to traditional cement in terms of strength and durability.
-
-4. There has been a lack of standardization in the manufacturing of alternative cement, which has resulted in inconsistent quality.
+Despite these lessons, the use of Alternative Cement has not been without its problems. One of the biggest issues has been the high cost of the product, which has made it unaffordable for many construction companies. Additionally, the manufacturing process of Alternative Cement is still not completely understood, which has led to some inconsistency in the quality of the finished product.
 
 ## Challenges Ahead
 
-There are a few major challenges that need to be overcome to develop and implement Alternative Cement on a larger scale:
+The major challenges that remain in the development and implementation of Alternative Cement to reverse climate change are:
 
-1. Cost: Alternative Cement is currently more expensive to produce than traditional cement. This is a major barrier to widespread adoption.
+1. The high cost of alternative cement.
 
-2. Infrastructure: Alternative Cement requires different infrastructure than traditional cement. This includes different manufacturing plants, different transportation, and different construction methods.
+2. The lack of infrastructure to support its widespread use.
 
-3. Awareness: Alternative Cement is a new technology and many people are not aware of it. This includes both the general public and the construction industry.
-
-4. Standards: Alternative Cement needs to meet the same standards as traditional cement in order to be widely adopted.
+3. The need for more research and development to improve the technology.
 
 ## Best Path Forward
 
-The best path forward for the continued development and implementation of Alternative Cement to effectively mitigate the effects of climate change is to continue to invest in research and development to improve the technology and make it more affordable. Additionally, policy measures should be put in place to encourage the use of Alternative Cement, such as tax incentives or mandates.
+The best path forward for the continued development and implementation of alternative cement to effectively mitigate the effects of climate change would be to continue research and development of the technology to make it more efficient and reduce the emissions released during the manufacturing process. Additionally, measures need to be taken to ensure that alternative cement is adopted on a large scale, such as creating incentives for its use or mandating its use in certain applications.
