@@ -1,6 +1,4 @@
 # from loader import requests
-import os
-from models.content_generator import ContentGenerator
 
 # Fetch an image from Unsplash based on the topic
 # def fetch_unsplash_image(topic):
@@ -15,6 +13,8 @@ from models.content_generator import ContentGenerator
 #         )
 #     else:
 #         return None, None
+import os
+from models.content_generator import ContentGenerator
 
 
 def get_env_vars(*keys, exit_on_missing=True):
