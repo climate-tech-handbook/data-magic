@@ -68,20 +68,9 @@ def generate_completion(
 ):
     openai.api_key = api_key
 
-    # Create a chat message with the prompt
-    # messages = [
-    #     {
-    #         "role": "system",
-    #         "content": "You will be answering multiple prompts set by the stop paramater.",
-    #     },
-    #     {"role": "user", "content": prompt},
-    # ]
-    # openai.ChatCompletion == gpt3+
-
     try:
         response = openai.Completion.create(
             engine=engine,
-            # messages=messages,
             prompt=prompt,
             max_tokens=max_tokens,
             n=n,
@@ -127,48 +116,6 @@ def generate_content(generator, prompt):
         return completion
     else:
         return "Max requests reached. No more content will be generated."
-
-
-# async def generate_output(generator, page):
-#     # separator = "\n---\n" - How to make stops and multiple questions in one request?
-#     prompt_keys = [
-#         "Overview",
-#         "Progress Made",
-#         "Lessons Learned",
-#         "Challenges Ahead",
-#         "Best Path Forward",
-#     ]
-#     # Want to abstract the prompt keys into a passable parameter
-#     completions = []
-
-#     for key in prompt_keys:
-#         prompt = generator.prompts[key]["prompt"].replace("{Topic}", page["Topic"])
-#         completion = generate_content(generator, prompt)
-#         completions.append(completion)
-
-#     (
-#         overview,
-#         progress_made,
-#         lessons_learned,
-#         challenges_ahead,
-#         best_path_forward,
-#     ) = completions
-#     # The passed in prompt keys will be grabbed here for completions
-#     # We can set a default
-
-#     template_name = page.get(
-#         "Template", "template"
-#     )  # Use default template if not specified
-#     output = generator.templates[template_name].format(
-#         topic=page["Topic"],
-#         overview=overview.strip(),
-#         progress_made=progress_made.strip(),
-#         lessons_learned=lessons_learned.strip(),
-#         challenges_ahead=challenges_ahead.strip(),
-#         best_path_forward=best_path_forward.strip(),
-#     )
-
-#     return output
 
 
 async def generate_output(generator, page, template_name="template"):
