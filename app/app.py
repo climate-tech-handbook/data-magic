@@ -25,7 +25,9 @@ Climate_Tech_Handbook = create_generator(yml_files, csv_files, template_mds, out
 @app.before_first_request
 async def create_file():
     # for page in Climate_Tech_Handbook.file_info:
-    page = Climate_Tech_Handbook.file_info[9]
+
+    page = Climate_Tech_Handbook.file_info[0]
+
     print(f"Page: {page}")
     output = await Climate_Tech_Handbook.create_output(page)
     print(f"Output: {output}")

@@ -21,7 +21,7 @@ class ContentGenerator:
         template_mds=["template.md"],
         output_dir="output",
         completion_params=None,
-        max_requests=5,
+        max_requests=1000,
     ):
         self.api_key = api_key
         self.mode = mode

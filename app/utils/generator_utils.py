@@ -127,6 +127,7 @@ async def generate_output(generator, page, template_name="template"):
     }
 
     print(f"{prompt_keys}")
+
     completions = []
 
     for key in prompt_keys:

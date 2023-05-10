@@ -1,6 +1,10 @@
 Overview:
   prompt: |
+<<<<<<< HEAD
     Give a general overview of {Topic}'s role in climate tech.
+=======
+    Give an overview of {Topic}'s role in reducing the negative impacts of climate change.
+>>>>>>> upstream/main
 
 Progress Made:
   prompt: |
