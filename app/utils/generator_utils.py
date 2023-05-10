@@ -4,6 +4,8 @@ import requests
 import yaml
 import openai
 import pdb
+# from PIL import Image, ImageDraw, ImageFont
+
 
 
 def save_progress(progress):
@@ -163,4 +165,61 @@ async def generate_output(generator, page):
         best_path_forward=best_path_forward.strip(),
     )
 
+   
+
     return output
+
+# adding new markdown content to a file at a specified line or range of lines
+def edit_file(file_path, markdown, start_line=None, end_line=None):
+    with open(file_path, 'r+') as file:
+        lines = file.readlines()
+        if start_line and end_line:
+            lines[start_line-1:end_line] = [f"{markdown}\n"]
+        else:
+            lines.append(f"{markdown}\n")
+        file.seek(0)
+        file.writelines(lines)
+
+# takes a list of tags as input and inserts them at the top of the markdown file. 
+def add_tags(file_path, tags):
+    with open(file_path, 'r+') as file:
+        content = file.read()
+        new_content = f"Tags: {', '.join(tags)}\n\n{content}"
+        file.seek(0)
+        file.write(new_content)
+
+# takes the path to the image file, its caption, and its position in the markdown file as input, and inserts an image tag at that position.
+def insert_image(file_path, image_path, caption, position):
+    with open(file_path, 'r+') as file:
+        lines = file.readlines()
+        lines.insert(position, f"![{caption}]({image_path})\n")
+        file.seek(0)
+        file.writelines(lines)
+
+# takes the header text and its position in the markdown file as input, and inserts a new section with a header and an empty body at that position
+def add_section(file_path, header_text, position):
+    with open(file_path, 'r+') as file:
+        lines = file.readlines()
+        lines.insert(position, f"## {header_text}\n\n")
+        lines.insert(position+1, "TODO\n\n")
+        file.seek(0)
+        file.writelines(lines)
+
+
+
+
+
+# def create_image(width, height):
+#     """
+#     Create a new image with the specified width and height
+#     """
+#     return Image.new('RGB', (width, height), color='white')
+
+# def add_callout_box(image, x, y, width, height, color):
+#     """
+#     Add a callout box to the image at the specified location with the specified size and color
+#     """
+#     draw = ImageDraw.Draw(image)
+#     draw.rectangle((x, y, x+width, y+height), outline=color, width=2)
+
+
