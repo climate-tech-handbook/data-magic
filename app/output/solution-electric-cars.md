@@ -1,3 +1,8 @@
+notes_we_will_be_covering:
+A -
+B -
+C -
+
 # Electric Cars
 
 ## Progress Made

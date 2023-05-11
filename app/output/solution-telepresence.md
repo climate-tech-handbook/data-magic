@@ -1,3 +1,8 @@
+notes_we_will_be_covering:
+A -
+B -
+C -
+
 # Telepresence
 
 ## Progress Made

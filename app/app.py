@@ -46,25 +46,32 @@ async def edit_file_endpoint():
     # return a response indicating success
     return jsonify({'message': 'File edited successfully'})
 
+
+import os
+import glob
+
 @app.route('/add_tags', methods=['POST'])
 def add_tags_endpoint():
-    # get the file path and tags from the request data
+    # get the directory path and tags from the request data
     data = request.get_json()
-    # file_path = data['file_path']
-    tags = data['tags']
+    directory_path = data['file_path']
+    tags = data['notes_we_will_be_covering']
 
-     # print the file path for debugging purposes
-    # print("file path:", file_path)
-    # import os
-    file_path = os.path.join(os.getcwd(), 'app', 'output', 'solution-abandoned-farmland-restoration.md')
-    print("file path:", file_path)
+    formatted_tags = '\n'.join([f"{tag} -" for tag in tags])
 
-    # call the add_tags method
+    # discover all Markdown files in the directory
+    file_paths = glob.glob(os.path.join(directory_path, '*.md'))
+
+    # call the add_tags method for each file
     generator = create_generator(yml_files, csv_files, template_mds, output_dir)
-    generator.add_tags(file_path, tags)
+    for file_path in file_paths:
+        generator.add_tags(file_path, formatted_tags)
 
     # return a response indicating success
-    return jsonify({'message': 'Tags added successfully'})
+    return jsonify({'message': 'Tags added successfully to all files'})
+
+
+
 
 @app.route('/insert_image', methods=['POST'])
 def insert_image_endpoint():
@@ -97,6 +104,23 @@ def add_section_endpoint():
     # return a response indicating success
     return jsonify({'message': 'Section added successfully'})
 
+@app.route('/remove_tags', methods=['POST'])
+def remove_tags_endpoint():
+    # get the directory path and tag_name from the request data
+    data = request.get_json()
+    directory_path = data['file_path']
+    tag_name = data['tag_name']
+
+    # discover all Markdown files in the directory
+    file_paths = glob.glob(os.path.join(directory_path, '*.md'))
+
+    # call the remove_tags method for each file
+    generator = create_generator(yml_files, csv_files, template_mds, output_dir)
+    for file_path in file_paths:
+        generator.remove_tags(file_path, tag_name)
+
+    # return a response indicating success
+    return jsonify({'message': 'Tags removed successfully from all files'})
 
 
 

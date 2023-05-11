@@ -165,13 +165,15 @@ def edit_file(file_path, markdown, start_line=None, end_line=None):
         file.seek(0)
         file.writelines(lines)
 
-# takes a list of tags as input and inserts them at the top of the markdown file. 
-def add_tags(file_path, tags):
+
+# takes a list of tags as input and inserts them at the top of the markdown file.
+def add_tags(file_path, formatted_tags):
     with open(file_path, 'r+') as file:
         content = file.read()
-        new_content = f"Tags: {', '.join(tags)}\n\n{content}"
+        new_content = f"notes_we_will_be_covering:\n{formatted_tags}\n\n{content}"
         file.seek(0)
         file.write(new_content)
+
 
 # takes the path to the image file, its caption, and its position in the markdown file as input, and inserts an image tag at that position.
 def insert_image(file_path, image_path, caption, position):
@@ -190,6 +192,19 @@ def add_section(file_path, header_text, position):
         file.seek(0)
         file.writelines(lines)
 
+def remove_tags(file_path, tag_name):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    with open(file_path, 'w') as file:
+        tag_section_found = False
+        for line in content:
+            if line.startswith(tag_name + ":"):
+                tag_section_found = True
+            elif tag_section_found and line.strip() == "":
+                tag_section_found = False
+            elif not tag_section_found:
+                file.write(line)
 
 
 
