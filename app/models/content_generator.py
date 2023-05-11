@@ -7,6 +7,10 @@ from utils.generator_utils import (
     validate_and_assign,
     generate_output,
     list_models,
+    edit_file,
+    add_tags,
+    insert_image,
+    add_section,
     extract_keys_from_template,
 )
 
@@ -94,3 +98,12 @@ class ContentGenerator:
             print("Fine then I won't list the models....")
         else:
             print("Invalid input. Please enter 'y' or 'n'.")
+    
+    def edit_file(self, file_path, markdown, start_line=None, end_line=None):
+        edit_file(file_path, markdown, start_line, end_line)
+    def add_tags(self, file_path, tags):
+        add_tags(file_path, tags)
+    def insert_image(self, file_path, image_path, caption, position):
+        insert_image(file_path, image_path, caption, position)
+    def add_section(self, file_path, header_text, position):
+        add_section(file_path, header_text, position)
