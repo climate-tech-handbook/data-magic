@@ -10,7 +10,8 @@ from utils.generator_utils import (
     edit_file,
     add_tags,
     insert_image,
-    add_section
+    add_section,
+    extract_keys_from_template,
 )
 
 
@@ -81,6 +82,10 @@ class ContentGenerator:
         file_name = f"{self.output_dir}/{page['File Name']}"
         with open(file_name, "w") as f:
             f.write(output)
+
+    def extract_prompt_keys(self, template_name="template"):
+        template_path = f"data/templates/{template_name}.md"
+        return extract_keys_from_template(template_path)
 
     def prompt_user_for_model_list(self):
         choice = input(

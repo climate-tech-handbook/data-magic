@@ -83,6 +83,7 @@ for idx, page in enumerate(file_info):
 
     
     # Generate output for current page
+    overview = generate_content(prompts['Progress Made']['prompt'].replace('{Topic}', page['Topic']))
     progress_made = generate_content(prompts['Progress Made']['prompt'].replace('{Topic}', page['Topic']))
     lessons_learned = generate_content(prompts['Lessons Learned']['prompt'].replace('{Topic}', page['Topic']))
     challenges_ahead = generate_content(prompts['Challenges Ahead']['prompt'].replace('{Topic}', page['Topic']))
@@ -98,6 +99,7 @@ for idx, page in enumerate(file_info):
     # Populate the template with the generated content and image URL
     output = template.format(
         topic=page['Topic'],
+        overview=overview,
         progress_made=progress_made,
         lessons_learned=lessons_learned,
         challenges_ahead=challenges_ahead,

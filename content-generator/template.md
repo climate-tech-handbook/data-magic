@@ -3,6 +3,13 @@
 ![Cover Image]({image_url})
 Image Credit: [Unsplash]({credit_url})
 
+!!! info "[Help us](../../contribute) track this Solution"
+    This a sample ChatGPT page
+
+## Overview
+
+{overview}
+
 ## Progress Made
 
 {progress_made}

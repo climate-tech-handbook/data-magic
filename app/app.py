@@ -16,7 +16,7 @@ app.register_blueprint(api_bp)
 yml_files = ["data/prompts/prompts.yml"]
 csv_files = ["data/csv/file_info.csv"]
 template_mds = ["data/templates/template.md"]
-output_dir = "output_test"
+output_dir = "output_two"
 
 Climate_Tech_Handbook = None  # initialize as None
 
