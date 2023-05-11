@@ -6,6 +6,7 @@ from app.api.routes import api_bp
 from dotenv import load_dotenv
 from utils.utils import get_env_vars, create_generator
 from utils.generator_utils import edit_file
+from utils.get_file_path import get_file_path
 
 load_dotenv()
 
@@ -23,6 +24,8 @@ Climate_Tech_Handbook = None  # initialize as None
 async def create_file():
     global Climate_Tech_Handbook  # access the global variable
     Climate_Tech_Handbook = create_generator(yml_files, csv_files, template_mds, output_dir)
+
+
 
 @app.route('/edit_file', methods=['POST'])
 async def edit_file_endpoint():
@@ -47,8 +50,14 @@ async def edit_file_endpoint():
 def add_tags_endpoint():
     # get the file path and tags from the request data
     data = request.get_json()
-    file_path = data['file_path']
+    # file_path = data['file_path']
     tags = data['tags']
+
+     # print the file path for debugging purposes
+    # print("file path:", file_path)
+    # import os
+    file_path = os.path.join(os.getcwd(), 'app', 'output', 'solution-abandoned-farmland-restoration.md')
+    print("file path:", file_path)
 
     # call the add_tags method
     generator = create_generator(yml_files, csv_files, template_mds, output_dir)
@@ -87,6 +96,10 @@ def add_section_endpoint():
 
     # return a response indicating success
     return jsonify({'message': 'Section added successfully'})
+
+
+
+
 
 
 if __name__ == "__main__":
