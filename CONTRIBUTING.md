@@ -3,7 +3,7 @@
 ### Getting Started
 
 1. Familiarize yourself with the Climate Tech Handbook project, its goals, and its codebase.
-2. Set up the development environment by following the installation instructions in the README.
+2. Set up the development environment by following the installation instructions in the [README](https://github.com/climate-tech-handbook/data-magic/blob/main/README.md).
 3. Identify an issue or feature you would like to work on. Check the Issues tab for existing issues, or propose a new one.
 
 ### Coding Standards
