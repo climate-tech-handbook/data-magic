@@ -192,20 +192,6 @@ def add_section(file_path, header_text, position):
         file.writelines(lines)
 
 
-# def create_image(width, height):
-#     """
-#     Create a new image with the specified width and height
-#     """
-#     return Image.new('RGB', (width, height), color='white')
-
-# def add_callout_box(image, x, y, width, height, color):
-#     """
-#     Add a callout box to the image at the specified location with the specified size and color
-#     """
-#     draw = ImageDraw.Draw(image)
-#     draw.rectangle((x, y, x+width, y+height), outline=color, width=2)
-
-
 def extract_keys_from_template(template_path):
     with open(template_path, "r") as f:
         content = f.read()
@@ -214,5 +200,3 @@ def extract_keys_from_template(template_path):
     for key in re.findall(r"\{(.*?)\}", content):
         if key.lower() != "topic":
             keys.append(key)
-
-    return keys
