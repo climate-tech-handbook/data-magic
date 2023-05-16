@@ -3,8 +3,8 @@
 # sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
 from flask import Flask, request, jsonify
-from app.api.routes import api_bp
-from app.api.routes_fileapi import fileapi_bp
+from api.routes import api_bp
+from api.routes_fileapi import fileapi_bp
 from dotenv import load_dotenv
 from utils.utils import get_env_vars, create_generator
 from utils.generator_utils import edit_file
@@ -109,7 +109,7 @@ async def create_file():
 
 if __name__ == "__main__":
     create_file()
-    app.run(debug=True)
+    app.run(debug=False)
 
 
 # import pdb

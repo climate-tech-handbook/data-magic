@@ -1,5 +1,5 @@
 from flask import jsonify
-from app.api import api_bp
+from api import api_bp
 
 
 @api_bp.route("/hello")
