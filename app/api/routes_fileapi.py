@@ -1,6 +1,13 @@
 from flask import Flask, request, jsonify
 from app.api import fileapi_bp
+import sys, os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+from utils.utils import get_env_vars, create_generator
 
+yml_files = ["data/prompts/prompts.yml"]
+csv_files = ["data/csv/file_info.csv"]
+template_mds = ["data/templates/template.md"]
+output_dir = "leif_test"
 
 
 @fileapi_bp.route('/edit_file', methods=['POST'])
@@ -32,7 +39,7 @@ def add_tags_endpoint():
      # print the file path for debugging purposes
     # print("file path:", file_path)
     # import os
-    file_path = os.path.join(os.getcwd(), 'app', 'output', 'solution-abandoned-farmland-restoration.md')
+    file_path = os.path.join(os.getcwd(), 'output', 'solution-abandoned-farmland-restoration.md')
     print("file path:", file_path)
 
     # call the add_tags method
