@@ -22,7 +22,6 @@ output_dir = "output_two"
 
 Climate_Tech_Handbook = None  # initialize as None
 
-@app.before_first_request
 def create_file():
     global Climate_Tech_Handbook  # access the global variable
     Climate_Tech_Handbook = create_generator(yml_files, csv_files, template_mds, output_dir)
@@ -30,6 +29,7 @@ def create_file():
 
 
 if __name__ == "__main__":
+    create_file()
     app.run(debug=True)
 
 
