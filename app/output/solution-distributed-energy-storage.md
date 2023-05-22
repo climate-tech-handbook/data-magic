@@ -1,8 +1,3 @@
-notes_we_will_be_covering:
-A -
-B -
-C -
-
 # Distributed Energy Storage
 
 ## Progress Made

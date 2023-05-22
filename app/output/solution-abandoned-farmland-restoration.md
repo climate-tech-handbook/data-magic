@@ -1,9 +1,5 @@
-notes_we_will_be_covering:
-A -
-B -
-C -
-
 # Abandoned Farmland Restoration
+
 
 ## Progress Made
 

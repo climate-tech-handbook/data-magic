@@ -188,7 +188,6 @@ def add_section(file_path, header_text, position):
     with open(file_path, 'r+') as file:
         lines = file.readlines()
         lines.insert(position, f"## {header_text}\n\n")
-        lines.insert(position+1, "TODO\n\n")
         file.seek(0)
         file.writelines(lines)
 
@@ -206,6 +205,21 @@ def remove_tags(file_path, tag_name):
             elif not tag_section_found:
                 file.write(line)
 
+
+def delete_image(file_path, image_path, caption):
+    with open(file_path, 'r+') as file:
+        lines = file.readlines()
+        image_tag = f"![{caption}]({image_path})"
+        
+        # Edit each line
+        for i, line in enumerate(lines):
+            if image_tag in line:
+                lines[i] = line.replace(image_tag, "")
+                
+        # Write back to file
+        file.seek(0)
+        file.writelines(lines)
+        file.truncate()
 
 
 

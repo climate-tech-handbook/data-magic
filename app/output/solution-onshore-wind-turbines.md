@@ -1,8 +1,3 @@
-notes_we_will_be_covering:
-A -
-B -
-C -
-
 # Peatland Protection and Rewetting
 
 ## Progress Made

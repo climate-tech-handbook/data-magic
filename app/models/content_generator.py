@@ -13,6 +13,7 @@ from utils.generator_utils import (
     add_section,
     extract_keys_from_template,
     remove_tags,
+    delete_image,
 )
 
 
@@ -110,3 +111,6 @@ class ContentGenerator:
         add_section(file_path, header_text, position)
     def remove_tags(self, file_path, tag_name):
         remove_tags(file_path, tag_name)
+    def delete_image(self, file_path, image_path, caption):
+        delete_image(file_path, image_path, caption)
+    
