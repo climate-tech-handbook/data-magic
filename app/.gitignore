@@ -14,10 +14,8 @@ venv/
 instance/
 *.log
 *.swp
-../env/
 # Miscellaneous
 .DS_Store
 .idea/
 
-wes_notes.md
 

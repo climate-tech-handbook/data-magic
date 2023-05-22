@@ -4,8 +4,6 @@ import requests
 import yaml
 import openai
 import pdb
-# from PIL import Image, ImageDraw, ImageFont
-
 
 
 def to_snake_case(string):
@@ -31,6 +29,20 @@ def list_models():
 
 
 def stage_content(yml_files, csv_files, template_files, output_dir):
+    """
+    Stages the content required for content generation.
+
+    Args:
+        yml_files (list/str): List of YAML files or a single YAML file containing prompts.
+        csv_files (list/str): List of CSV files or a single CSV file containing file information.
+        template_files (list/str): List of template files or a single template file containing the content structure.
+        output_dir (str): Directory path to store the generated content.
+
+    Returns:
+        tuple: A tuple containing prompts, file_info, and templates.
+    """
+
+    # Convert single input files to lists for uniform processing
     if not isinstance(yml_files, list):
         yml_files = [yml_files]
     if not isinstance(csv_files, list):
@@ -38,25 +50,30 @@ def stage_content(yml_files, csv_files, template_files, output_dir):
     if not isinstance(template_files, list):
         template_files = [template_files]
 
+    # Create output directory if it doesn't exist
     try:
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
     except FileExistsError:
         return 0
 
+    # Initialize data structures
     prompts = {}
     file_info = []
     templates = {}
 
+    # Load prompts from YAML files
     for yml_file in yml_files:
         with open(yml_file) as f:
             prompts.update(yaml.safe_load(f))
 
+    # Load file information from CSV files
     for csv_file in csv_files:
         with open(csv_file, newline="") as f:
             reader = csv.DictReader(f)
             file_info.extend([row for row in reader])
 
+    # Load templates from template files
     for template_file in template_files:
         template_name = os.path.splitext(os.path.basename(template_file))[0]
         with open(template_file) as f:
@@ -68,6 +85,23 @@ def stage_content(yml_files, csv_files, template_files, output_dir):
 def generate_completion(
     api_key, prompt, engine, temp, max_tokens, n, stop, freq_pen, pres_pen
 ):
+    """
+    Generates content completion using the OpenAI API.
+
+    Args:
+        api_key (str): Your OpenAI API key.
+        prompt (str): The text prompt for content generation.
+        engine (str): The OpenAI engine to use for content generation.
+        temp (float): The temperature for controlling randomness in the output.
+        max_tokens (int): The maximum number of tokens in the generated output.
+        n (int): The number of completions to generate.
+        stop (str): A string that, if encountered, stops content generation.
+        freq_pen (float): The penalty for using less frequent tokens.
+        pres_pen (float): The penalty for using tokens that are less contextually relevant.
+
+    Returns:
+        str: Generated content completion, or None if an error occurs.
+    """
     openai.api_key = api_key
 
     try:
@@ -119,7 +153,19 @@ def generate_content(generator, prompt):
     else:
         return "Max requests reached. No more content will be generated."
 
+
 async def generate_output(generator, page, template_name="template"):
+    """
+    Asynchronously generates the output content using a given generator and page.
+
+    Args:
+        generator (ContentGenerator): The content generator object.
+        page (dict): A dictionary containing the page information.
+        template_name (str, optional): The name of the template to use. Defaults to "template".
+
+    Returns:
+        str: The generated output content.
+    """
     prompt_keys = generator.extract_prompt_keys(template_name)
     generator.prompts = {
         to_snake_case(k): v
@@ -128,9 +174,9 @@ async def generate_output(generator, page, template_name="template"):
     }
 
     print(f"{prompt_keys}")
-
     completions = []
 
+    # Generate content completions for each prompt key
     for key in prompt_keys:
         key = key.lower()
         if key == "topic":  # Skip if the key is 'topic'
@@ -140,7 +186,6 @@ async def generate_output(generator, page, template_name="template"):
         completions.append(completion)
 
     # Create a dictionary with keys and their corresponding completions
-    pdb.set_trace()
     keys_and_completions = {
         key: completion.strip() for key, completion in zip(prompt_keys, completions)
     }
@@ -156,10 +201,10 @@ async def generate_output(generator, page, template_name="template"):
 
 # adding new markdown content to a file at a specified line or range of lines
 def edit_file(file_path, markdown, start_line=None, end_line=None):
-    with open(file_path, 'r+') as file:
+    with open(file_path, "r+") as file:
         lines = file.readlines()
         if start_line and end_line:
-            lines[start_line-1:end_line] = [f"{markdown}\n"]
+            lines[start_line - 1 : end_line] = [f"{markdown}\n"]
         else:
             lines.append(f"{markdown}\n")
         file.seek(0)
@@ -175,17 +220,19 @@ def add_tags(file_path, formatted_tags):
         file.write(new_content)
 
 
+
 # takes the path to the image file, its caption, and its position in the markdown file as input, and inserts an image tag at that position.
 def insert_image(file_path, image_path, caption, position):
-    with open(file_path, 'r+') as file:
+    with open(file_path, "r+") as file:
         lines = file.readlines()
         lines.insert(position, f"![{caption}]({image_path})\n")
         file.seek(0)
         file.writelines(lines)
 
+
 # takes the header text and its position in the markdown file as input, and inserts a new section with a header and an empty body at that position
 def add_section(file_path, header_text, position):
-    with open(file_path, 'r+') as file:
+    with open(file_path, "r+") as file:
         lines = file.readlines()
         lines.insert(position, f"## {header_text}\n\n")
         file.seek(0)
@@ -247,5 +294,3 @@ def extract_keys_from_template(template_path):
     for key in re.findall(r"\{(.*?)\}", content):
         if key.lower() != "topic":
             keys.append(key)
-
-    return keys
