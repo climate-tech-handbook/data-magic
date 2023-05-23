@@ -4,6 +4,7 @@ import requests
 import yaml
 import openai
 import pdb
+import json
 
 
 def to_snake_case(string):
@@ -242,8 +243,8 @@ def add_section(file_path, header_text, position):
 def extract_keys_from_template(template_path):
     with open(template_path, "r") as f:
         content = f.read()
-
     keys = []
     for key in re.findall(r"\{(.*?)\}", content):
         if key.lower() != "topic":
             keys.append(key)
+

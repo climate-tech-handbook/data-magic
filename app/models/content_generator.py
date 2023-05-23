@@ -75,7 +75,7 @@ class ContentGenerator:
         return completion
 
     async def create_output(self, page):
-        output = await generate_output(self, page)
+        output = await generate_output(self, page,self.template_mds[0])
         return output
 
     async def write_output(self, page, output):
@@ -84,7 +84,7 @@ class ContentGenerator:
             f.write(output)
 
     def extract_prompt_keys(self, template_name="template"):
-        template_path = f"data/templates/{template_name}.md"
+        template_path = f"{template_name}"
         return extract_keys_from_template(template_path)
 
     def prompt_user_for_model_list(self):
