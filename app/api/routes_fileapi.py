@@ -1,33 +1,52 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,abort,g
 from api import fileapi_bp
 import sys, os
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
-from utils.utils import get_env_vars, create_generator
+from utils.utils import get_env_vars, create_generator, get_generator
+import pdb
 
 yml_files = ["data/prompts/prompts.yml"]
 csv_files = ["data/csv/file_info.csv"]
 template_mds = ["data/templates/template.md"]
 output_dir = "leif_test"
 
+@fileapi_bp.before_request
+def check_generator():
+    try:
+        
+        g.reqgenerator=get_generator(request.get_json())
+        #first element of tuple is generator 
+        if g.reqgenerator[0]:
+            global Climate_Tech_Handbook
+            Climate_Tech_Handbook=g.reqgenerator[0]
+        else:
+            abort(400,"Requested generator could not be loaded!")
+    except Exception as e:
+        abort(400,str(e))
 
 @fileapi_bp.route('/edit_file', methods=['POST'])
 async def edit_file_endpoint():
     # get the file path and markdown content from the request data
     data = request.get_json()
-    file_path = data['file_path']
-    markdown = data['markdown']
-    start_line = data.get('start_line')
-    end_line = data.get('end_line')
+    try:
+        file_path = data['file_path']
+        markdown = data['markdown']
+        start_line = data['start_line']
+        end_line = data['end_line']
 
-    # call the edit_file function
-    edit_file(file_path, markdown, start_line, end_line)
+        # generator=create_generator(yml_files, csv_files, template_mds, output_dir)
+        # if g.reqgenerator:
+        #     generator=g.reqgenerator
+        # call the edit_file function
+        Climate_Tech_Handbook.edit_file(file_path, markdown, start_line, end_line)
 
-    # generate and write output
-    output = await Climate_Tech_Handbook.create_output(file_path)
-    await Climate_Tech_Handbook.write_output(file_path, output)
-
-    # return a response indicating success
-    return jsonify({'message': 'File edited successfully'})
+        # generate and write output
+        output = await Climate_Tech_Handbook.create_output(file_path)
+        await Climate_Tech_Handbook.write_output(file_path, output)
+        # return a response indicating success
+        return jsonify({'message': 'File edited successfully'})
+    except Exception as e:
+        abort(400,str(e))
 
 @fileapi_bp.route('/add_tags', methods=['POST'])
 def add_tags_endpoint():
@@ -43,8 +62,10 @@ def add_tags_endpoint():
     print("file path:", file_path)
 
     # call the add_tags method
-    generator = create_generator(yml_files, csv_files, template_mds, output_dir)
-    generator.add_tags(file_path, tags)
+    # generator = create_generator(yml_files, csv_files, template_mds, output_dir)
+    # if g.reqgenerator:
+    #     generator=g.reqgenerator
+    Climate_Tech_Handbook.add_tags(file_path, tags)
 
     # return a response indicating success
     return jsonify({'message': 'Tags added successfully'})
@@ -58,8 +79,11 @@ def insert_image_endpoint():
     caption = data['caption']
     position = data['position']
 
+    # generator = create_generator(yml_files, csv_files, template_mds, output_dir)
+    # if g.reqgenerator:
+    #     generator=g.reqgenerator
     # call the insert_image function
-    global Climate_Tech_Handbook  # access the global variable
+    #global Climate_Tech_Handbook  # access the global variable
     Climate_Tech_Handbook.insert_image(file_path, image_path, caption, position)
 
     # return a response indicating success
