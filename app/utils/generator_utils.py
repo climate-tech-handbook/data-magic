@@ -176,7 +176,7 @@ async def generate_output(generator, page, template_name="template"):
 
     print(f"{prompt_keys}")
     completions = []
-
+    
     # Generate content completions for each prompt key
     for key in prompt_keys:
         key = key.lower()
@@ -198,6 +198,7 @@ async def generate_output(generator, page, template_name="template"):
     output = generator.templates[template_name].format(**keys_and_completions)
 
     return output
+
 
 
 # adding new markdown content to a file at a specified line or range of lines
@@ -247,4 +248,5 @@ def extract_keys_from_template(template_path):
     for key in re.findall(r"\{(.*?)\}", content):
         if key.lower() != "topic":
             keys.append(key)
+    return keys
 

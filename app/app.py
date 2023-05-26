@@ -2,13 +2,14 @@
 
 # sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, current_app,g
 from api.routes import api_bp
 from api.routes_fileapi import fileapi_bp
 from dotenv import load_dotenv
 from utils.utils import get_env_vars, create_generator
 from utils.generator_utils import edit_file
 from utils.get_file_path import get_file_path
+import pdb,logging
 
 load_dotenv()
 
@@ -23,12 +24,8 @@ output_dir = "leif_test"
 
 Climate_Tech_Handbook = None  # initialize as None
 
-
-async def create_file():
-    global Climate_Tech_Handbook  # access the global variable
-    Climate_Tech_Handbook = create_generator(
-        yml_files, csv_files, template_mds, output_dir
-    )
+with app.app_context():
+    current_app.Climate_Tech_Handbook= create_generator(yml_files, csv_files, template_mds, output_dir)
 
 
 # @app.route("/edit_file", methods=["POST"])
@@ -67,7 +64,6 @@ async def create_file():
 #     print("file path:", file_path)
 
 #     # call the add_tags method
-#     generator = create_generator(yml_files, csv_files, template_mds, output_dir)
 #     generator.add_tags(file_path, tags)
 
 #     # return a response indicating success
@@ -108,7 +104,6 @@ async def create_file():
 
 
 if __name__ == "__main__":
-    create_file()
     app.run(debug=False)
 
 
@@ -132,7 +127,6 @@ if __name__ == "__main__":
 # template_mds = ["data/templates/template.md"]
 # output_dir = "output_test"
 
-# Climate_Tech_Handbook = create_generator(yml_files, csv_files, template_mds, output_dir)
 
 
 # @app.before_first_request

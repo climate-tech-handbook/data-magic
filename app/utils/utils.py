@@ -16,7 +16,7 @@
 import os
 from models.content_generator import ContentGenerator
 from utils.get_file_path import get_file_path
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,g,current_app
 import pdb,json
 
 
@@ -64,10 +64,11 @@ def get_generator(data):
     full_path = get_file_path('generator.json')
     f = open(full_path, "r+")
     jsondata = json.loads(f.read())
-    
+
     # Get the generator_data and generator_id from the provided data
     generator_data = data.get("generator_data")
     generator_id = data.get("generator_id")
+    defaultgenerator=current_app.Climate_Tech_Handbook
     # If generator_id is provided, attempt to retrieve the generator from the GENERATORS dictionary
     if generator_id:
         existinggenerator=[gen for gen in jsondata if gen['generator_id']==generator_id]
@@ -76,7 +77,8 @@ def get_generator(data):
             return None, jsonify({"error": "Requested generator not found"}), 404
         else:
             generator_data=existinggenerator[0]["generator_data"]
-            generator= create_generator(generator_data["yml_files"], generator_data["csv_files"], generator_data["template_mds"], generator_data["output_dir"])
+            generator= create_generator(generator_data["yml_files"], generator_data["csv_files"], 
+            generator_data["template_mds"], generator_data["output_dir"])
 
     # If generator_data is provided, create a new generator with the given configuration
     elif generator_data:
@@ -84,7 +86,7 @@ def get_generator(data):
         csv_files = generator_data.get("csv_files", [])
         template_mds = generator_data.get("template_mds", [])
         output_dir = generator_data.get("output_dir", "output")
-        generator = create_generator(yml_files, csv_files, template_mds, output_dir)
+        generator= create_generator(yml_files, csv_files,template_mds, output_dir)
         newgenerator={"generator_id":len(jsondata)+1,"generator_data":{
             "yml_files":yml_files,
             "csv_files":csv_files,
@@ -102,8 +104,7 @@ def get_generator(data):
     # If neither generator_id nor generator_data are provided, use the Climate_Tech_Handbook instance by default
     else:
         try:
-            global Climate_Tech_Handbook
-            generator = Climate_Tech_Handbook
+            generator = defaultgenerator
         except:
             print(f"Climate Tech Handbook default generator not initialized.")
 
