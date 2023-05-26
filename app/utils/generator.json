@@ -8,9 +8,7 @@
             "csv_files": [
                 "data/csv/file_info.csv"
             ],
-            "template_mds": [
-                "data/templates/template.md"
-            ],
+            "template_mds": "data/templates/template.md",
             "output_dir": "output"
         }
     },
@@ -23,10 +21,8 @@
             "csv_files": [
                 "data/csv/file_info2.csv"
             ],
-            "template_mds": [
-                "data/templates/template.md"
-            ],
-            "output_dir": "output"
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
         }
     },
     {
@@ -38,10 +34,47 @@
             "csv_files": [
                 "data/csv/file_info2.csv"
             ],
-            "template_mds": [
-                "data/templates/template2.md"
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 4,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
             ],
-            "output_dir": "leif_test"
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 5,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 6,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
         }
     }
 ]

@@ -1,24 +1,19 @@
-from flask import Flask, request, jsonify,abort,g
+from flask import Flask, request, jsonify,abort,g,current_app
 from api import fileapi_bp
 import sys, os
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 from utils.utils import get_env_vars, create_generator, get_generator
 import pdb
 
-yml_files = ["data/prompts/prompts.yml"]
-csv_files = ["data/csv/file_info.csv"]
-template_mds = ["data/templates/template.md"]
-output_dir = "leif_test"
 
 @fileapi_bp.before_request
 def check_generator():
     try:
-        
+        g.generator=current_app.Climate_Tech_Handbook
         g.reqgenerator=get_generator(request.get_json())
         #first element of tuple is generator 
         if g.reqgenerator[0]:
-            global Climate_Tech_Handbook
-            Climate_Tech_Handbook=g.reqgenerator[0]
+            g.generator=g.reqgenerator[0]
         else:
             abort(400,"Requested generator could not be loaded!")
     except Exception as e:
@@ -34,15 +29,11 @@ async def edit_file_endpoint():
         start_line = data['start_line']
         end_line = data['end_line']
 
-        # generator=create_generator(yml_files, csv_files, template_mds, output_dir)
-        # if g.reqgenerator:
-        #     generator=g.reqgenerator
         # call the edit_file function
-        Climate_Tech_Handbook.edit_file(file_path, markdown, start_line, end_line)
-
+        g.generator.edit_file(file_path, markdown, start_line, end_line)
         # generate and write output
-        output = await Climate_Tech_Handbook.create_output(file_path)
-        await Climate_Tech_Handbook.write_output(file_path, output)
+        # output = await Climate_Tech_Handbook.create_output(file_path)
+        # await Climate_Tech_Handbook.write_output(file_path, output)
         # return a response indicating success
         return jsonify({'message': 'File edited successfully'})
     except Exception as e:
@@ -61,12 +52,9 @@ def add_tags_endpoint():
     file_path = os.path.join(os.getcwd(),'output', 'solution-abandoned-farmland-restoration.md')
     print("file path:", file_path)
 
-    # call the add_tags method
-    # generator = create_generator(yml_files, csv_files, template_mds, output_dir)
-    # if g.reqgenerator:
-    #     generator=g.reqgenerator
-    Climate_Tech_Handbook.add_tags(file_path, tags)
-
+   
+    #Climate_Tech_Handbook.add_tags(file_path, tags)
+    g.generator.add_tags(file_path, tags)
     # return a response indicating success
     return jsonify({'message': 'Tags added successfully'})
 
@@ -84,8 +72,8 @@ def insert_image_endpoint():
     #     generator=g.reqgenerator
     # call the insert_image function
     #global Climate_Tech_Handbook  # access the global variable
-    Climate_Tech_Handbook.insert_image(file_path, image_path, caption, position)
-
+    #Climate_Tech_Handbook.insert_image(file_path, image_path, caption, position)
+    g.generator.insert_image(file_path, image_path, caption, position)
     # return a response indicating success
     return jsonify({'message': 'Image inserted successfully'})
 
@@ -98,9 +86,9 @@ def add_section_endpoint():
     position = data['position']
 
     # call the add_section function
-    global Climate_Tech_Handbook  # access the global variable
-    Climate_Tech_Handbook.add_section(file_path, header_text, position)
-
+    # global Climate_Tech_Handbook  # access the global variable
+    # Climate_Tech_Handbook.add_section(file_path, header_text, position)
+    g.generator.add_section(file_path, header_text, position)
     # return a response indicating success
     return jsonify({'message': 'Section added successfully'})
 
