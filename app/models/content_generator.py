@@ -1,4 +1,4 @@
-import pdb
+import pdb,json
 from utils.generator_utils import (
     stage_content,
     save_progress,
@@ -13,7 +13,7 @@ from utils.generator_utils import (
     add_section,
     extract_keys_from_template,
 )
-
+from utils.get_file_path import get_file_path
 
 class ContentGenerator:
     def __init__(
@@ -49,7 +49,28 @@ class ContentGenerator:
             self.template_mds,
             self.output_dir,
         )
-
+        #take default generator from file (generator.json)
+        # full_path = get_file_path('generator.json')
+        # f = open(full_path, "r+")
+        # jsondata = json.loads(f.read())
+        # defaultgenerator=[gen for gen in jsondata if gen['generator_id']==1]
+        # pdb.set_trace()
+        # ## PREFERENCE GIVEN to generator defined in json file if it doesnt exists in json file fallback to hardcoded val
+        # if defaultgenerator[0]["generator_data"]:
+        #     prompts, file_info, templates = stage_content(
+        #         defaultgenerator[0]["generator_data"]["yml_files"],
+        #         defaultgenerator[0]["generator_data"]["csv_files"],
+        #         defaultgenerator[0]["generator_data"]["template_mds"],
+        #         defaultgenerator[0]["generator_data"]["output_dir"],
+        #     )
+        # else:
+        #     prompts, file_info, templates = stage_content(
+        #         self.yml_files,
+        #         self.csv_files,
+        #         self.template_mds,
+        #         self.output_dir,
+        #     )
+        # pdb.set_trace()
         validate_and_assign(self, prompts, file_info, templates)
 
     def handle_progress(self, save_or_load, progress=None):
@@ -75,7 +96,7 @@ class ContentGenerator:
         return completion
 
     async def create_output(self, page):
-        output = await generate_output(self, page)
+        output = await generate_output(self, page,self.template_mds[0])
         return output
 
     async def write_output(self, page, output):
@@ -84,7 +105,7 @@ class ContentGenerator:
             f.write(output)
 
     def extract_prompt_keys(self, template_name="template"):
-        template_path = f"data/templates/{template_name}.md"
+        template_path = f"{template_name}"
         return extract_keys_from_template(template_path)
 
     def prompt_user_for_model_list(self):
@@ -98,12 +119,15 @@ class ContentGenerator:
             print("Fine then I won't list the models....")
         else:
             print("Invalid input. Please enter 'y' or 'n'.")
-    
+
     def edit_file(self, file_path, markdown, start_line=None, end_line=None):
         edit_file(file_path, markdown, start_line, end_line)
+
     def add_tags(self, file_path, tags):
         add_tags(file_path, tags)
+
     def insert_image(self, file_path, image_path, caption, position):
         insert_image(file_path, image_path, caption, position)
+
     def add_section(self, file_path, header_text, position):
         add_section(file_path, header_text, position)
