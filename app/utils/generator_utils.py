@@ -4,6 +4,7 @@ import requests
 import yaml
 import openai
 import pdb
+import json
 
 
 def to_snake_case(string):
@@ -175,7 +176,7 @@ async def generate_output(generator, page, template_name="template"):
 
     print(f"{prompt_keys}")
     completions = []
-
+    
     # Generate content completions for each prompt key
     for key in prompt_keys:
         key = key.lower()
@@ -197,6 +198,7 @@ async def generate_output(generator, page, template_name="template"):
     output = generator.templates[template_name].format(**keys_and_completions)
 
     return output
+
 
 
 # adding new markdown content to a file at a specified line or range of lines
@@ -279,27 +281,12 @@ def delete_image(file_path, image_path, caption):
 
 
 
-# def create_image(width, height):
-#     """
-#     Create a new image with the specified width and height
-#     """
-#     return Image.new('RGB', (width, height), color='white')
-
-# def add_callout_box(image, x, y, width, height, color):
-#     """
-#     Add a callout box to the image at the specified location with the specified size and color
-#     """
-#     draw = ImageDraw.Draw(image)
-#     draw.rectangle((x, y, x+width, y+height), outline=color, width=2)
-
-
-
-
 def extract_keys_from_template(template_path):
     with open(template_path, "r") as f:
         content = f.read()
-
     keys = []
     for key in re.findall(r"\{(.*?)\}", content):
         if key.lower() != "topic":
             keys.append(key)
+    return keys
+
