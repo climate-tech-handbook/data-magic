@@ -1,5 +1,5 @@
 ---
-title: My Title
+title: Abandoned Farmland Restoration
 description: Description of the content
 authors: Author
 date: '2023-05-30'
@@ -11,7 +11,6 @@ caption: Caption for the image
 
 ---
 
-# Abandoned Farmland Restoration
 
 ## Progress Made
 

@@ -14,7 +14,9 @@ from utils.generator_utils import (
     extract_keys_from_template,
     remove_tags,
     delete_image,
-    add_contents
+    add_contents,
+    remove_all_contents,
+    update_title_position
 )
 from utils.get_file_path import get_file_path
 
@@ -141,4 +143,7 @@ class ContentGenerator:
         remove_tags(file_path, tag_name)
     def delete_image(self, file_path, image_path, caption):
         delete_image(file_path, image_path, caption)
-    
+    def remove_all_contents(self, file_path):
+        remove_all_contents(file_path)
+    def update_title_position(self, file_path):
+        update_title_position(file_path)

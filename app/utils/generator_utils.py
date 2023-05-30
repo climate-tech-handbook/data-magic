@@ -279,6 +279,46 @@ def delete_image(file_path, image_path, caption):
         file.writelines(lines)
         file.truncate()
 
+def remove_all_contents(file_path):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    with open(file_path, 'w') as file:
+        yaml_section_found = False
+        for line in content:
+            if line.strip() == "---":
+                if not yaml_section_found:
+                    yaml_section_found = True
+                else:
+                    # Skip writing the existing YAML section
+                    yaml_section_found = False
+            elif not yaml_section_found:
+                file.write(line)
+
+def update_title_position(file_path):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    # Find the line with the title
+    title_line = next((line for line in content if line.startswith('#')), None)
+
+    if title_line:
+        # Remove the title line from the content
+        content.remove(title_line)
+
+        # Get the new title from the content
+        new_title = title_line.strip().lstrip('#').strip()
+
+        # Replace the original title with the new title
+        for i, line in enumerate(content):
+            if line.startswith('title:'):
+                content[i] = f'title: {new_title}\n'
+                break
+
+    with open(file_path, 'w') as file:
+        file.writelines(content)
+
+
 
 
 def extract_keys_from_template(template_path):
