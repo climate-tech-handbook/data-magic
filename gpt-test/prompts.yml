@@ -1,0 +1,27 @@
+Overview:
+  prompt: |
+    Give a single paragraph overview of the climate tech sector called {Topic}. Explain {Topic}'s role in reversing the negative impacts of climate change. Borrow information from Project Drawdown https://projectdrawdown.org. Explain why {Topic} is so important for the challenges we face before 2030 in order to meet the agreement of the Paris Accords. Be very specific using scientific facts and numerical statistics. Be as specific as possible using facts to support your claims. List any companies and organizations that have been at the forefront of this solution. Reference progress made in this area to help understand these lessons. News articles that address these lessons will be very helpful. Cite your sources if possible.
+
+Progress Made:
+  embed: |
+    Describe the progress that has been made in developing {Topic} to reverse climate change. Include examples of breakthrough technologies that have been developed and explain how these technologies have contributed to the reduction of greenhouse gas emissions. 
+  prompt: |
+    Describe the progress that has been made in developing {Topic} to reverse climate change. Include examples of breakthrough technologies that have been developed and explain how these technologies have contributed to the reduction of greenhouse gas emissions. List any companies and organizations that have been at the forefront of this solution.
+
+Lessons Learned:
+  embed: |
+    What are some of the key lessons that have been learned in the development and implementation of {Topic} to reverse climate change? Discuss both successes and failures associated with the technology and its use. What are mistakes that we can learn from and success that we should continue to pursue. 
+  prompt: |
+    What are some of the key lessons that have been learned in the development and implementation of {Topic} to reverse climate change? Discuss both successes and failures associated with the technology and its use. What are mistakes that we can learn from and success that we should continue to pursue. Be as specific as possible using scientific facts and numerical statistics to support your claims. List any companies and organizations that have been at the forefront of this solution. Reference progress made in this area to help understand these lessons. News articles that address these lessons will be very helpful. Cite your sources if possible.
+
+Challenges Ahead:
+  embed: |
+    What are the major challenges that remain in the development and implementation of {Topic} to reverse climate change? What obstacles need to be overcome to scale up and widely adopt this technology? 
+  prompt: |
+    What are the major challenges that remain in the development and implementation of {Topic} to reverse climate change? What obstacles need to be overcome to scale up and widely adopt this technology? Be as specific as possible using scientific facts and numerical statistics to support your claims. List any companies and organizations that have been at the forefront of this solution. Reference progress made in this area to help understand these lessons. News articles that address these lessons will be very helpful. Cite your sources if possible.
+
+Best Path Forward:
+  embed: |
+    What is the best path forward for the continued development and implementation of {Topic} to effectively mitigate the effects of climate change? What steps need to be taken to ensure that this technology is adopted on a large scale and is effective? 
+  prompt: |
+    What is the best path forward for the continued development and implementation of {Topic} to effectively mitigate the effects of climate change? What steps need to be taken to ensure that this technology is adopted on a large scale and is effective? Be as specific as possible using scientific facts and numerical statistics to support your claims. List any companies and organizations that have been at the forefront of this solution. News articles that address these lessons will be very helpful. Cite your sources if possible.
