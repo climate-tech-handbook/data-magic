@@ -212,12 +212,21 @@ def edit_file(file_path, markdown, start_line=None, end_line=None):
 
 
 # takes a list of tags as input and inserts them at the top of the markdown file.
-def add_tags(file_path, formatted_tags):
-    with open(file_path, 'r+') as file:
+def add_tags(directory_path, formatted_tags):
+    with open(directory_path, 'r+') as file:
         content = file.read()
         new_content = f"notes_we_will_be_covering:\n{formatted_tags}\n\n{content}"
         file.seek(0)
         file.write(new_content)
+import os
+import glob
+def add_contents(file_path, yaml_front_matter):
+    with open(file_path, 'r+') as file:
+        file_content = file.read()
+        new_content = f"---\n{yaml_front_matter}\n---\n\n{file_content}"
+        file.seek(0)
+        file.write(new_content)
+
 
 
 

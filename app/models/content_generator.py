@@ -14,6 +14,7 @@ from utils.generator_utils import (
     extract_keys_from_template,
     remove_tags,
     delete_image,
+    add_contents
 )
 
 
@@ -104,8 +105,11 @@ class ContentGenerator:
     def edit_file(self, file_path, markdown, start_line=None, end_line=None):
         edit_file(file_path, markdown, start_line, end_line)
 
-    def add_tags(self, file_path, tags):
-        add_tags(file_path, tags)
+    def add_tags(self, directory_path, tags):
+        add_tags(directory_path, tags)
+
+    def add_contents(self, directory_path, yaml_front_matter):
+        add_contents(directory_path, yaml_front_matter)
 
     def insert_image(self, file_path, image_path, caption, position):
         insert_image(file_path, image_path, caption, position)

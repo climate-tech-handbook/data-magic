@@ -7,6 +7,9 @@ from dotenv import load_dotenv
 from utils.utils import get_env_vars, create_generator
 from utils.generator_utils import edit_file
 from utils.get_file_path import get_file_path
+import yaml 
+from ruamel.yaml import YAML
+from io import StringIO
 
 load_dotenv()
 
@@ -69,6 +72,30 @@ def add_tags_endpoint():
 
     # return a response indicating success
     return jsonify({'message': 'Tags added successfully to all files'})
+
+
+
+@app.route('/add_contents', methods=['POST'])
+def add_contents_endpoint():
+    # Get the file path, YAML front matter, and content from the request data
+    data = request.get_json()
+    file_path = data['file_path']
+    yaml_front_matter = data['yaml_front_matter']
+
+    # Convert the front matter data to a YAML string
+    yaml = YAML()
+    yaml.preserve_quotes = True
+    yaml.indent(sequence=4, offset=2)
+    yaml_string = StringIO()
+    yaml.dump(yaml_front_matter, yaml_string)
+    yaml_front_matter = yaml_string.getvalue()
+
+    # Call the add_content_to_files method for the specified directory
+    global Climate_Tech_Handbook  # access the global variable
+    Climate_Tech_Handbook.add_contents(file_path, yaml_front_matter)
+
+    # Return a response indicating success
+    return jsonify({'message': 'Content added successfully to the files'})
 
 
 
