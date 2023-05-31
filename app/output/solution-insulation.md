@@ -8,10 +8,7 @@ image: none
 image_url: none
 image_credit: Image Credit
 caption: Caption for the image
-
 ---
-
-
 
 ## Progress Made
 
@@ -32,10 +29,11 @@ However, there are also some failures associated with Landfill Methane Capture. 
 ## Challenges Ahead
 
 The major challenges that remain in the development and implementation of Landfill Methane Capture to reverse climate change are:
-* The high cost of installing and maintaining the technology
-* The need for a continuous and reliable supply of methane
-* The need for trained personnel to operate and maintain the technology
-* The need for a market for the captured methane
+
+- The high cost of installing and maintaining the technology
+- The need for a continuous and reliable supply of methane
+- The need for trained personnel to operate and maintain the technology
+- The need for a market for the captured methane
 
 ## Best Path Forward
 

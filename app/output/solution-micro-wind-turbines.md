@@ -8,10 +8,7 @@ image: none
 image_url: none
 image_credit: Image Credit
 caption: Caption for the image
-
 ---
-
-
 
 ## Progress Made
 
@@ -19,7 +16,7 @@ Microgrids are small-scale power generation and distribution systems that can op
 
 Microgrids can be used to reverse climate change by reducing greenhouse gas emissions from the power sector. In particular, microgrids can help to decrease emissions from coal-fired power plants, which are a major source of greenhouse gas emissions.
 
- Breakthrough technologies that have been developed for microgrids include advanced inverters, storage systems, and control systems. These technologies have contributed to the reduction of greenhouse gas emissions by enabling microgrids to operate more efficiently and to integrat
+Breakthrough technologies that have been developed for microgrids include advanced inverters, storage systems, and control systems. These technologies have contributed to the reduction of greenhouse gas emissions by enabling microgrids to operate more efficiently and to integrat
 
 ## Lessons Learned
 

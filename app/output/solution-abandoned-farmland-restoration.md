@@ -8,9 +8,7 @@ image: none
 image_url: none
 image_credit: Image Credit
 caption: Caption for the image
-
 ---
-
 
 ## Progress Made
 
