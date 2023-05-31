@@ -22,9 +22,6 @@ csv_files = ["data/csv/file_info.csv"]
 template_mds = ["data/templates/template.md"]
 output_dir = "output_two"
 
-# Climate_Tech_Handbook = None  # initialize as None
-
-
 
 @app.before_first_request
 def create_file():
@@ -45,9 +42,6 @@ async def edit_file_endpoint():
     # call the edit_file function
     edit_file(file_path, markdown, start_line, end_line)
 
-    # generate and write output
-    # output = await Climate_Tech_Handbook.create_output(file_path)
-    # await Climate_Tech_Handbook.write_output(file_path, output)
     with app.app_context():
         output = current_app.Climate_Tech_Handbook.create_output(file_path)
         current_app.Climate_Tech_Handbook.write_output(file_path, output)
@@ -70,10 +64,6 @@ def add_tags_endpoint():
     # discover all Markdown files in the directory
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-    # # call the add_tags method for each file
-    # generator = create_generator(yml_files, csv_files, template_mds, output_dir)
-    # for file_path in file_paths:
-    #     generator.add_tags(file_path, formatted_tags)
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
         for file_path in file_paths:
@@ -100,11 +90,6 @@ def add_contents_endpoint():
     yaml_front_matter = yaml_string.getvalue()
 
 
-    # # Call the add_content_to_files method for the specified directory
-    # global Climate_Tech_Handbook  # access the global variable
-    # # Loop through the file paths and add contents to each file
-    # Climate_Tech_Handbook.add_contents(directory_path, yaml_front_matter)
-
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
         generator.add_contents(directory_path, yaml_front_matter)
@@ -130,11 +115,6 @@ def add_all_contents_endpoint():
 
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-    # Call the add_content_to_files method for the specified directory
-    # global Climate_Tech_Handbook  # access the global variable
-    # # Loop through the file paths and add contents to each file
-    # for file_path in file_paths:
-    #      Climate_Tech_Handbook.add_contents(file_path, yaml_front_matter)
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
@@ -155,11 +135,6 @@ def remove_all_contents_endpoint():
     # Discover all Markdown files in the directory
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-    # global Climate_Tech_Handbook  # access the global variable
-
-    # # Call the remove_all_contents method for each file
-    # for file_path in file_paths:
-    #      Climate_Tech_Handbook.remove_all_contents(file_path)
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
@@ -179,9 +154,6 @@ def insert_image_endpoint():
     caption = data['caption']
     position = data['position']
 
-    # call the insert_image function
-    # global Climate_Tech_Handbook  # access the global variable
-    # Climate_Tech_Handbook.insert_image(file_path, image_path, caption, position)
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
@@ -198,10 +170,6 @@ def delete_image_endpoint():
     file_path = data['file_path']
     image_path = data['image_path']
     caption = data['caption']
-
-    # call the delete_image method
-    # global Climate_Tech_Handbook  # access the global variable
-    # Climate_Tech_Handbook.delete_image(file_path, image_path, caption)
 
 
     with app.app_context():
@@ -223,9 +191,6 @@ def add_section_endpoint():
     header_text = data['header_text']
     position = data['position']
 
-    # call the add_section function
-    # global Climate_Tech_Handbook  # access the global variable
-    # Climate_Tech_Handbook.add_section(file_path, header_text, position)
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
@@ -245,10 +210,6 @@ def remove_tags_endpoint():
     # discover all Markdown files in the directory
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-    # call the remove_tags method for each file
-    # generator = create_generator(yml_files, csv_files, template_mds, output_dir)
-    # for file_path in file_paths:
-    #     generator.remove_tags(file_path, tag_name)
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
@@ -268,9 +229,7 @@ def update_titl_endpoint():
     # Call the update_title_position method for each file
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-    # global Climate_Tech_Handbook  # access the global variable
-    # for file_path in file_paths:
-    #     Climate_Tech_Handbook.update_title_position(file_path)
+
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
