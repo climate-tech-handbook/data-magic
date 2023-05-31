@@ -16,7 +16,9 @@ from utils.generator_utils import (
     delete_image,
     add_contents,
     remove_all_contents,
-    update_title_position
+    update_title_position,
+    update_yaml_front_matter,
+    remove_yaml_front_matter
 )
 from utils.get_file_path import get_file_path
 
@@ -147,3 +149,7 @@ class ContentGenerator:
         remove_all_contents(file_path)
     def update_title_position(self, file_path):
         update_title_position(file_path)
+    def update_yaml_front_matter(self, directory_path):
+        update_yaml_front_matter(directory_path)
+    def remove_yaml_front_matter(self, directory_path):
+        remove_yaml_front_matter(directory_path)

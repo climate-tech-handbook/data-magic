@@ -229,8 +229,6 @@ def update_titl_endpoint():
     # Call the update_title_position method for each file
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
-
-
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
         for file_path in file_paths:
@@ -240,6 +238,43 @@ def update_titl_endpoint():
     return jsonify({'message': 'Content added successfully to the files'})
 
 
+@app.route('/update_yaml_front_matter', methods=['POST'])
+def update_yaml_front_matter_endpoint(): # update author and tags to correct format
+    # Get the directory path from the request data
+    data = request.get_json()
+    directory_path = data['directory_path']
+
+    # Discover all Markdown files in the directory
+    file_paths = glob.glob(os.path.join(directory_path, '*.md'))
+
+    # Loop through the file paths and update the YAML front matter
+    with app.app_context():
+        generator = current_app.Climate_Tech_Handbook
+        for file_path in file_paths:
+            generator.update_yaml_front_matter(file_path)
+  
+    # Return a response indicating success
+    return jsonify({'message': 'YAML front matter updated successfully for all files.'})
+
+
+@app.route('/remove_yaml_front_matter', methods=['POST'])
+def remove_yaml_front_matter_endpoint():
+    # Get the file path from the request data
+    data = request.get_json()
+    directory_path = data['directory_path']
+
+    # Remove the YAML front matter block from the file
+    
+    file_paths = glob.glob(os.path.join(directory_path, '*.md'))
+
+    with app.app_context():
+        generator = current_app.Climate_Tech_Handbook
+        for file_path in file_paths:
+            generator.remove_yaml_front_matter(file_path)
+
+
+    # Return a response indicating success
+    return jsonify({'message': 'YAML front matter removed successfully'})
 
 
 if __name__ == "__main__":
