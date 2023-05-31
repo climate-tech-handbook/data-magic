@@ -18,7 +18,8 @@ from utils.generator_utils import (
     remove_all_contents,
     update_title_position,
     update_yaml_front_matter,
-    remove_yaml_front_matter
+    remove_yaml_front_matter,
+    delete_fields_except_title
 )
 from utils.get_file_path import get_file_path
 
@@ -153,3 +154,5 @@ class ContentGenerator:
         update_yaml_front_matter(directory_path)
     def remove_yaml_front_matter(self, directory_path):
         remove_yaml_front_matter(directory_path)
+    def delete_fields_except_title(self,file_path):
+        delete_fields_except_title(file_path)
