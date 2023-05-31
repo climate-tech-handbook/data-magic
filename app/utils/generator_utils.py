@@ -295,28 +295,49 @@ def remove_all_contents(file_path):
             elif not yaml_section_found:
                 file.write(line)
 
+# def update_title_position(file_path):
+#     with open(file_path, 'r') as file:
+#         content = file.readlines()
+
+#     # Find the line with the title
+#     title_line = next((line for line in content if line.startswith('#')), None)
+
+#     if title_line:
+#         # Remove the title line from the content
+#         content.remove(title_line)
+
+#         # Get the new title from the content
+#         new_title = title_line.strip().lstrip('#').strip()
+
+#         # Replace the original title with the new title
+#         for i, line in enumerate(content):
+#             if line.startswith('title:'):
+#                 content[i] = f'title: {new_title}\n'
+#                 break
+
+#     with open(file_path, 'w') as file:
+#         file.writelines(content)
+
 def update_title_position(file_path):
     with open(file_path, 'r') as file:
         content = file.readlines()
 
-    # Find the line with the title
-    title_line = next((line for line in content if line.startswith('#')), None)
+    if content:
+        # Get the original title from the first line
+        original_title = content[0].strip().lstrip('#').strip()
 
-    if title_line:
-        # Remove the title line from the content
-        content.remove(title_line)
+        # Adding front matter format
+        front_matter = '---\n'
+        front_matter += f'title: {original_title}\n'
+        front_matter += '---\n'
 
-        # Get the new title from the content
-        new_title = title_line.strip().lstrip('#').strip()
-
-        # Replace the original title with the new title
-        for i, line in enumerate(content):
-            if line.startswith('title:'):
-                content[i] = f'title: {new_title}\n'
-                break
+        # Replace the first line (title) with front matter
+        content[0] = front_matter
 
     with open(file_path, 'w') as file:
         file.writelines(content)
+
+
 
 # update author and tags to correct format
 def update_yaml_front_matter(file_path):
@@ -375,7 +396,46 @@ def remove_yaml_front_matter(file_path):
 
 
 
+def delete_fields_except_title(file_path):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
 
+        # Find the start and end positions of the YAML front matter
+        start_index = -1
+        end_index = -1
+        for i, line in enumerate(content):
+            if line.strip() == '---':
+                if start_index == -1:
+                    start_index = i
+                else:
+                    end_index = i
+                    break
+
+        if start_index == -1 or end_index == -1:
+            print("YAML front matter not found in the file.")
+            return
+
+        yaml_front_matter = content[start_index+1:end_index]
+
+        # Parse the YAML front matter
+        data = yaml.safe_load('\n'.join(yaml_front_matter))
+
+        # Remove all fields except for 'title'
+        data = {'title': data.get('title', '')}
+
+        # Construct the updated YAML front matter
+        updated_yaml_front_matter = ['---']
+        updated_yaml_front_matter.extend(yaml.safe_dump(data).splitlines())
+        updated_yaml_front_matter.append('---')
+
+        # Replace the original YAML front matter with the updated one
+        updated_content = content[:start_index]
+        updated_content.extend(updated_yaml_front_matter)
+        updated_content.extend(content[end_index:])
+
+    # Write the updated content back to the file
+    with open(file_path, 'w') as file:
+        file.write(''.join(updated_content))
 
 
     
