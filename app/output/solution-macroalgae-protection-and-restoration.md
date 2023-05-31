@@ -1,4 +1,16 @@
-# Managed Grazing
+---
+title: Managed Grazing
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -30,13 +42,13 @@ Some key lessons that have been learned in the development and implementation of
 
 The major challenges that remain in the development and implementation of Managed Grazing to reverse climate change are:
 
-1) Ensuring that grazing animals are managed in a way that maximizes carbon sequestration in soils while also maintaining or improving soil health;
+1. Ensuring that grazing animals are managed in a way that maximizes carbon sequestration in soils while also maintaining or improving soil health;
 
-2) Incorporating managed grazing into existing land management practices in a way that is economically viable for farmers and ranchers;
+2. Incorporating managed grazing into existing land management practices in a way that is economically viable for farmers and ranchers;
 
-3) Overcoming public perception issues associated with grazing animals, such as concerns about animal welfare and environmental impacts;
+3. Overcoming public perception issues associated with grazing animals, such as concerns about animal welfare and environmental impacts;
 
-4) Educating policymakers and the general public about the potential of managed grazing to help reverse climate change.
+4. Educating policymakers and the general public about the potential of managed grazing to help reverse climate change.
 
 ## Best Path Forward
 

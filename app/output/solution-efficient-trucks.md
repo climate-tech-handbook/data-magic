@@ -1,4 +1,16 @@
-# Efficient Trucks
+---
+title: Efficient Trucks
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -24,12 +36,12 @@ The major challenge that remains in the development and implementation of Effici
 
 The best path forward for the continued development and implementation of efficient trucks to effectively mitigate the effects of climate change is to ensure that the technology is adopted on a large scale and is effective. Steps that need to be taken to ensure this include:
 
-1) Increasing investment in research and development of efficient truck technology.
+1. Increasing investment in research and development of efficient truck technology.
 
-2) Providing incentives for truck fleet operators to switch to efficient trucks.
+2. Providing incentives for truck fleet operators to switch to efficient trucks.
 
-3) Establishing standards for efficient trucks.
+3. Establishing standards for efficient trucks.
 
-4) Enforcing fuel efficiency standards for trucks.
+4. Enforcing fuel efficiency standards for trucks.
 
-5) Monitoring the progress of efficient truck adoption and implementation.
+5. Monitoring the progress of efficient truck adoption and implementation.

@@ -1,4 +1,16 @@
-# Coastal Wetland Protection
+---
+title: Coastal Wetland Protection
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -23,9 +35,10 @@ Despite these lessons, there have been a number of failures associated with the 
 ## Challenges Ahead
 
 There are several challenges that remain in the development and implementation of Coastal Wetland Protection to reverse climate change:
-* Funding: There is a lack of funding for research and development of this technology, as well as for its implementation on a larger scale.
-* Technical feasibility: There are still some technical challenges that need to be overcome, such as the development of effective methods for wetland restoration and the design of coastal protection structures that can withstand the effects of climate change.
-* Social acceptance: There is a need to increase public awareness of the benefits of this technology and to overcome any potential resistance to its implementation.
+
+- Funding: There is a lack of funding for research and development of this technology, as well as for its implementation on a larger scale.
+- Technical feasibility: There are still some technical challenges that need to be overcome, such as the development of effective methods for wetland restoration and the design of coastal protection structures that can withstand the effects of climate change.
+- Social acceptance: There is a need to increase public awareness of the benefits of this technology and to overcome any potential resistance to its implementation.
 
 ## Best Path Forward
 

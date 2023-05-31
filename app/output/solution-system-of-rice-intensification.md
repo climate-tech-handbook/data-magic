@@ -1,4 +1,16 @@
-# System of Rice Intensification
+---
+title: System of Rice Intensification
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -34,15 +46,15 @@ The key lessons that have been learned from the development and implementation o
 
 The major challenge that remains in the development and implementation of System of Rice Intensification is to reverse climate change. The obstacles that need to be overcome to scale up and widely adopt this technology are:
 
-1) Lack of awareness: Most farmers are not aware of the potential of SRI to improve their productivity and incomes.
+1. Lack of awareness: Most farmers are not aware of the potential of SRI to improve their productivity and incomes.
 
-2) Lack of technical knowledge: Many farmers lack the technical knowledge and skills necessary to implement SRI methods.
+2. Lack of technical knowledge: Many farmers lack the technical knowledge and skills necessary to implement SRI methods.
 
-3) Lack of financing: SRI requires more upfront investment than traditional rice production methods, making it difficult for smallholder farmers to finance the adoption of SRI.
+3. Lack of financing: SRI requires more upfront investment than traditional rice production methods, making it difficult for smallholder farmers to finance the adoption of SRI.
 
-4) Lack of infrastructure: In many parts of the world, SRI cannot be implemented without the development of infrastructure such as irrigation systems and storage facilities.
+4. Lack of infrastructure: In many parts of the world, SRI cannot be implemented without the development of infrastructure such as irrigation systems and storage facilities.
 
-5) Political obstacles: In some countries, political factors such as corruption and government policies that favor traditional rice production methods make it difficult to scale up and implement SRI.
+5. Political obstacles: In some countries, political factors such as corruption and government policies that favor traditional rice production methods make it difficult to scale up and implement SRI.
 
 ## Best Path Forward
 

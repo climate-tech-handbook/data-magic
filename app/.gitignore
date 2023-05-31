@@ -17,5 +17,5 @@ instance/
 # Miscellaneous
 .DS_Store
 .idea/
-
-
+app/venv
+venv

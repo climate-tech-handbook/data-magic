@@ -12,6 +12,13 @@ from utils.generator_utils import (
     insert_image,
     add_section,
     extract_keys_from_template,
+    remove_tags,
+    delete_image,
+    add_contents,
+    remove_all_contents,
+    update_title_position,
+    update_yaml_front_matter,
+    remove_yaml_front_matter
 )
 from utils.get_file_path import get_file_path
 
@@ -123,11 +130,26 @@ class ContentGenerator:
     def edit_file(self, file_path, markdown, start_line=None, end_line=None):
         edit_file(file_path, markdown, start_line, end_line)
 
-    def add_tags(self, file_path, tags):
-        add_tags(file_path, tags)
+    def add_tags(self, directory_path, tags):
+        add_tags(directory_path, tags)
+
+    def add_contents(self, directory_path, yaml_front_matter):
+        add_contents(directory_path, yaml_front_matter)
 
     def insert_image(self, file_path, image_path, caption, position):
         insert_image(file_path, image_path, caption, position)
 
     def add_section(self, file_path, header_text, position):
         add_section(file_path, header_text, position)
+    def remove_tags(self, file_path, tag_name):
+        remove_tags(file_path, tag_name)
+    def delete_image(self, file_path, image_path, caption):
+        delete_image(file_path, image_path, caption)
+    def remove_all_contents(self, file_path):
+        remove_all_contents(file_path)
+    def update_title_position(self, file_path):
+        update_title_position(file_path)
+    def update_yaml_front_matter(self, directory_path):
+        update_yaml_front_matter(directory_path)
+    def remove_yaml_front_matter(self, directory_path):
+        remove_yaml_front_matter(directory_path)

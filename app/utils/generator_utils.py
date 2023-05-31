@@ -214,12 +214,22 @@ def edit_file(file_path, markdown, start_line=None, end_line=None):
 
 
 # takes a list of tags as input and inserts them at the top of the markdown file.
-def add_tags(file_path, tags):
-    with open(file_path, "r+") as file:
+def add_tags(directory_path, formatted_tags):
+    with open(directory_path, 'r+') as file:
         content = file.read()
-        new_content = f"Tags: {', '.join(tags)}\n\n{content}"
+        new_content = f"notes_we_will_be_covering:\n{formatted_tags}\n\n{content}"
         file.seek(0)
         file.write(new_content)
+import os
+import glob
+def add_contents(file_path, yaml_front_matter):
+    with open(file_path, 'r+') as file:
+        file_content = file.read()
+        new_content = f"---\n{yaml_front_matter}\n---\n\n{file_content}"
+        file.seek(0)
+        file.write(new_content)
+
+
 
 
 # takes the path to the image file, its caption, and its position in the markdown file as input, and inserts an image tag at that position.
@@ -236,9 +246,139 @@ def add_section(file_path, header_text, position):
     with open(file_path, "r+") as file:
         lines = file.readlines()
         lines.insert(position, f"## {header_text}\n\n")
-        lines.insert(position + 1, "TODO\n\n")
         file.seek(0)
         file.writelines(lines)
+
+def remove_tags(file_path, tag_name):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    with open(file_path, 'w') as file:
+        tag_section_found = False
+        for line in content:
+            if line.startswith(tag_name + ":"):
+                tag_section_found = True
+            elif tag_section_found and line.strip() == "":
+                tag_section_found = False
+            elif not tag_section_found:
+                file.write(line)
+
+
+def delete_image(file_path, image_path, caption):
+    with open(file_path, 'r+') as file:
+        lines = file.readlines()
+        image_tag = f"![{caption}]({image_path})"
+        
+        # Edit each line
+        for i, line in enumerate(lines):
+            if image_tag in line:
+                lines[i] = line.replace(image_tag, "")
+                
+        # Write back to file
+        file.seek(0)
+        file.writelines(lines)
+        file.truncate()
+
+def remove_all_contents(file_path):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    with open(file_path, 'w') as file:
+        yaml_section_found = False
+        for line in content:
+            if line.strip() == "---":
+                if not yaml_section_found:
+                    yaml_section_found = True
+                else:
+                    # Skip writing the existing YAML section
+                    yaml_section_found = False
+            elif not yaml_section_found:
+                file.write(line)
+
+def update_title_position(file_path):
+    with open(file_path, 'r') as file:
+        content = file.readlines()
+
+    # Find the line with the title
+    title_line = next((line for line in content if line.startswith('#')), None)
+
+    if title_line:
+        # Remove the title line from the content
+        content.remove(title_line)
+
+        # Get the new title from the content
+        new_title = title_line.strip().lstrip('#').strip()
+
+        # Replace the original title with the new title
+        for i, line in enumerate(content):
+            if line.startswith('title:'):
+                content[i] = f'title: {new_title}\n'
+                break
+
+    with open(file_path, 'w') as file:
+        file.writelines(content)
+
+# update author and tags to correct format
+def update_yaml_front_matter(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+        # Find the start and end positions of the YAML front matter
+        start_index = content.find('---\n') + 4
+        end_index = content.find('\n---', start_index)
+        yaml_front_matter = content[start_index:end_index]
+
+        # Parse the YAML front matter
+        data = yaml.safe_load(yaml_front_matter)
+
+        # Update the author and tags
+        authors = ['  - {}'.format(author) for author in data.get('authors', [])]
+        tags = ['  - {}'.format(tag) for tag in data.get('tags', [])]
+
+        # Construct the updated YAML front matter
+        updated_yaml_front_matter = yaml.dump(data, sort_keys=False).strip()
+        if 'authors' in updated_yaml_front_matter:
+            updated_yaml_front_matter = updated_yaml_front_matter.replace(
+                'authors:', 'authors:\n{}'.format('\n'.join(authors)), 1
+            )
+        if 'tags' in updated_yaml_front_matter:
+            updated_yaml_front_matter = updated_yaml_front_matter.replace(
+                'tags:', 'tags:\n{}'.format('\n'.join(tags)), 1
+            )
+
+        # Replace the original YAML front matter with the updated one
+        updated_content = content[:start_index] + updated_yaml_front_matter + content[end_index:]
+
+    # Write the updated content back to the file
+    with open(file_path, 'w') as file:
+        file.write(updated_content)
+
+
+def remove_yaml_front_matter(file_path):
+    # Read the content of the file
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    # Find the start and end positions of the YAML front matter
+    start_index = content.find('---\n')
+    end_index = content.find('\n---', start_index)
+
+    if start_index != -1 and end_index != -1:
+        # Remove the YAML front matter block
+        updated_content = content[:start_index] + content[end_index+4:]
+        
+        # Write the updated content back to the file
+        with open(file_path, 'w') as file:
+            file.write(updated_content)
+    else:
+        # No YAML front matter block found, do nothing
+        return
+
+
+
+
+
+
+    
 
 
 def extract_keys_from_template(template_path):

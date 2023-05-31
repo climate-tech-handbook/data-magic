@@ -1,4 +1,16 @@
-# Improved Aquaculture
+---
+title: Improved Aquaculture
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -36,10 +48,10 @@ There are a number of challenges that remain in the development and implementati
 
 The best path forward for the continued development and implementation of Improved Aquaculture to effectively mitigate the effects of climate change is to continue to research and develop the technology so that it can be adopted on a large scale. Steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
 
-1) Increasing awareness of the technology and its potential benefits among the aquaculture industry and the general public.
+1. Increasing awareness of the technology and its potential benefits among the aquaculture industry and the general public.
 
-2) Conducting more research to improve the technology and to assess its effectiveness in mitigating the effects of climate change.
+2. Conducting more research to improve the technology and to assess its effectiveness in mitigating the effects of climate change.
 
-3) Working with governments and other stakeholders to promote and facilitate the adoption of Improved Aquaculture on a large scale.
+3. Working with governments and other stakeholders to promote and facilitate the adoption of Improved Aquaculture on a large scale.
 
-4) Ensuring that the technology is affordable and accessible to all who can benefit from it.
+4. Ensuring that the technology is affordable and accessible to all who can benefit from it.

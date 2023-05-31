@@ -1,4 +1,16 @@
-# Family Planning and Education
+---
+title: Family Planning and Education
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 

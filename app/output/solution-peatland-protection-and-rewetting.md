@@ -1,4 +1,16 @@
-# Perennial Biomass Production
+---
+title: Perennial Biomass Production
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -30,13 +42,13 @@ However, there are also some failures associated with the technology. These incl
 
 The major challenges that remain in the development and implementation of Perennial Biomass Production to reverse climate change are:
 
-1) Finding the right mix of crops and management practices to maximize biomass production while minimizing inputs and environmental impacts;
+1. Finding the right mix of crops and management practices to maximize biomass production while minimizing inputs and environmental impacts;
 
-2) Scaling up production to meet the demand for bioenergy;
+2. Scaling up production to meet the demand for bioenergy;
 
-3) Ensuring the sustainability of bioenergy production; and
+3. Ensuring the sustainability of bioenergy production; and
 
-4) Addressing the challenges associated with the conversion of biomass to energy.
+4. Addressing the challenges associated with the conversion of biomass to energy.
 
 ## Best Path Forward
 

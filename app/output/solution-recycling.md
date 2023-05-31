@@ -1,4 +1,16 @@
-# Reduced Food Waste
+---
+title: Reduced Food Waste
+description: Description of the content
+authors:
+  - Author
+date: '2023-05-30'
+tags:
+  - tags
+image: none
+image_url: none
+image_credit: Image Credit
+caption: Caption for the image
+---
 
 ## Progress Made
 
@@ -20,15 +32,15 @@ Some of the key lessons that have been learned in the development and implementa
 
 ## Challenges Ahead
 
-1) The development of infrastructure to enable the widespread adoption of food waste reduction strategies. This infrastructure includes everything from public awareness campaigns and educational materials, to collection and composting facilities, to laws and regulations supporting food waste reduction.
+1. The development of infrastructure to enable the widespread adoption of food waste reduction strategies. This infrastructure includes everything from public awareness campaigns and educational materials, to collection and composting facilities, to laws and regulations supporting food waste reduction.
 
-2) The need for more research to identify the most effective food waste reduction strategies and to determine the best ways to implement them at different scales.
+2. The need for more research to identify the most effective food waste reduction strategies and to determine the best ways to implement them at different scales.
 
-3) The challenge of changing people's behavior to reduce food waste. This includes both individual consumers and businesses, who often have different motivations for wasting food.
+3. The challenge of changing people's behavior to reduce food waste. This includes both individual consumers and businesses, who often have different motivations for wasting food.
 
-4) The financial costs associated with food waste reduction, which can be a barrier for both businesses and individuals.
+4. The financial costs associated with food waste reduction, which can be a barrier for both businesses and individuals.
 
-5) The environmental impacts of food waste, which include greenhouse gas emissions from decomposing food. Reducing food waste can help to reduce these emissions and slow down climate change.
+5. The environmental impacts of food waste, which include greenhouse gas emissions from decomposing food. Reducing food waste can help to reduce these emissions and slow down climate change.
 
 ## Best Path Forward
 
