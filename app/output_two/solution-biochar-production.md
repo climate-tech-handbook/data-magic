@@ -1,4 +1,6 @@
-# Biochar Production
+---
+title: Biochar Production
+---
 
 ## Overview
 

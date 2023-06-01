@@ -1,4 +1,6 @@
-# Climate Adaptation
+---
+title: Climate Adaptation
+---
 
 ## Overview
 

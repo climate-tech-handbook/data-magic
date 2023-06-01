@@ -1,4 +1,6 @@
-# Engineered Sinks
+---
+title: Engineered Sinks
+---
 
 ## Overview
 

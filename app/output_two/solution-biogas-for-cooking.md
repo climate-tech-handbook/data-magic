@@ -1,4 +1,6 @@
-# Biogas for Cooking
+---
+title: Biogas for Cooking
+---
 
 ## Overview
 

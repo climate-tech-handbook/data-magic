@@ -1,4 +1,6 @@
-# Land Sinks
+---
+title: Land Sinks
+---
 
 ## Overview
 

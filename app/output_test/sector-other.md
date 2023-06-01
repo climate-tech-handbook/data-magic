@@ -1,4 +1,6 @@
-# Other
+---
+title: Other
+---
 
 ## Overview
 

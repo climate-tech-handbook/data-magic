@@ -1,4 +1,6 @@
-# Industry
+---
+title: Industry
+---
 
 ## Overview
 

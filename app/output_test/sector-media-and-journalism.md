@@ -1,4 +1,6 @@
-# Media and Journalism
+---
+title: Media and Journalism
+---
 
 ## Overview
 

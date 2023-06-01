@@ -1,4 +1,6 @@
-# Coastal and Ocean Sinks
+---
+title: Coastal and Ocean Sinks
+---
 
 ## Overview
 
