@@ -1,4 +1,6 @@
-# Buildings
+---
+title: Buildings
+---
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Health and Education
+---
+title: Health and Education
+---
 
 ## Overview
 

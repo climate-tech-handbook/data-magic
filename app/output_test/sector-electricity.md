@@ -1,4 +1,6 @@
-# Electricity
+---
+title: Electricity
+---
 
 ## Overview
 

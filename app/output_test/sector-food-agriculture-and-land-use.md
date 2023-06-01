@@ -1,4 +1,6 @@
-# Food Agriculture and Land Use
+---
+title: Food Agriculture and Land Use
+---
 
 ## Overview
 

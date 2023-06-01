@@ -1,4 +1,6 @@
-# Building Automation Systems
+---
+title: Building Automation Systems
+---
 
 ## Overview
 
