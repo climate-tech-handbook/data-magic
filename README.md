@@ -1,6 +1,6 @@
 # Data Magic (OpenAI Utility API)
 
-This project provides an API for generating content using OpenAI's completion models. It includes a `ContentGenerator` class, utility functions, and a simple Flask app to generate content based on prompts, templates, and other configurations.
+This project provides an API for generating content using OpenAI's completion models. It includes a `ContentGenerator` class, utility functions, and a simple Flask app to generate content based on prompts, templates, and other configurations. Overall, a dumping ground of experiments and code for the Climate Tech Handbook Website.
 
 ## Current Goals
 
@@ -47,13 +47,16 @@ This project provides an API for generating content using OpenAI's completion mo
 
 - Use the resource database and RSS bridge, along with fine-tuning, to create the "Climate Tech Chatbot," a tool designed to provide users with valuable insights and information on climate technologies and trends.
 
-## Installation
+## Using Flask App
+
+### Installation
 
 1. Clone this repository to your local machine.
-2. Create a virtual environment and activate it.
-3. Install the required packages using `pip install -r requirements.txt`.
+2. Cd into /app
+3. [Create](https://python.land/virtual-environments/virtualenv#How_to_create_a_Python_venv) a virtual environment and [activate it](https://python.land/virtual-environments/virtualenv#Python_venv_activation).
+4. Install the required packages using `pip install -r requirements.txt`.
 
-## Setting and Using the OpenAI API Key
+### Setting and Using the OpenAI API Key
 
 To use the generator, you will need an OpenAI API key. Follow these steps to set and use the `OPENAI_SECRET_KEY`:
 
@@ -89,34 +92,11 @@ api_key = os.getenv("OPENAI_SECRET_KEY")
    - At this moment in the app it's being forced with a `@before_request` decorator, this will be improved upon in the future.
 3. The generated file will be saved in the `output_test` folder.
 
-### Using the ContentGenerator Class
-
-1. Import the `ContentGenerator` class from the `models.content_generator` module.
-2. Create an instance of the `ContentGenerator` class with the necessary parameters, such as `api_key`, `yml_files`, `csv_files`, and `template_mds`.
-3. Use the `create_completion()` method to generate content based on a specific prompt.
-4. Use the `create_output()` method to generate content for a specific topic using the prompts, templates, and configurations provided.
-5. Use the `write_output()` method to save the generated content to a file.
-
-## Example
-
-```python
-from models.content_generator import ContentGenerator
-
-yml_files = ["data/prompts/prompts.yml"]
-csv_files = ["data/csv/file_info.csv"]
-template_mds = ["data/templates/template.md"]
-output_dir = "output_test"
-
-generator = ContentGenerator(api_key="your_api_key", yml_files=yml_files, csv_files=csv_files, template_mds=template_mds, output_dir=output_dir)
-
-page = generator.file_info[1]
-output = generator.create_output(page)
-generator.write_output(page, output)
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
+
+If you are lost on how to start contributing or don't understand how a certain class or file works, try checking the wiki first!
 
 ## License
 
