@@ -1,6 +1,6 @@
 # Data Magic (OpenAI Utility API)
 
-This project provides an API for generating content using OpenAI's completion models. It includes a `ContentGenerator` class, utility functions, and a simple Flask app to generate content based on prompts, templates, and other configurations.
+This project provides an API for generating content using OpenAI's completion models. It includes a `ContentGenerator` class, utility functions, and a simple Flask app to generate content based on prompts, templates, and other configurations. Overall, a dumping ground of experiments and code for the Climate Tech Handbook Website.
 
 ## Current Goals
 
@@ -47,13 +47,16 @@ This project provides an API for generating content using OpenAI's completion mo
 
 - Use the resource database and RSS bridge, along with fine-tuning, to create the "Climate Tech Chatbot," a tool designed to provide users with valuable insights and information on climate technologies and trends.
 
-## Installation
+## Using Flask App
+
+### Installation
 
 1. Clone this repository to your local machine.
-2. Create a virtual environment and activate it.
-3. Install the required packages using `pip install -r requirements.txt`.
+2. Cd into /app
+3. [Create](https://python.land/virtual-environments/virtualenv#How_to_create_a_Python_venv) a virtual environment and [activate it](https://python.land/virtual-environments/virtualenv#Python_venv_activation).
+4. Install the required packages using `pip install -r requirements.txt`.
 
-## Setting and Using the OpenAI API Key
+### Setting and Using the OpenAI API Key
 
 To use the generator, you will need an OpenAI API key. Follow these steps to set and use the `OPENAI_SECRET_KEY`:
 
