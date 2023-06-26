@@ -1,11 +1,8 @@
 import csv
 import os, re
-import requests
 import yaml
 import openai
-import pdb
-import json
-
+import logging
 
 def to_snake_case(string):
     return string.lower().replace(" ", "_")
@@ -167,6 +164,7 @@ async def generate_output(generator, page, template_name="template"):
     Returns:
         str: The generated output content.
     """
+    import pdb; pdb.set_trace()
     prompt_keys = generator.extract_prompt_keys(template_name)
     generator.prompts = {
         to_snake_case(k): v
@@ -217,19 +215,17 @@ def edit_file(file_path, markdown, start_line=None, end_line=None):
 def add_tags(directory_path, formatted_tags):
     with open(directory_path, 'r+') as file:
         content = file.read()
-        new_content = f"notes_we_will_be_covering:\n{formatted_tags}\n\n{content}"
+        new_content = f":\n{formatted_tags}\n\n{content}"
         file.seek(0)
         file.write(new_content)
-import os
-import glob
+
+
 def add_contents(file_path, yaml_front_matter):
     with open(file_path, 'r+') as file:
         file_content = file.read()
         new_content = f"---\n{yaml_front_matter}\n---\n\n{file_content}"
         file.seek(0)
         file.write(new_content)
-
-
 
 
 # takes the path to the image file, its caption, and its position in the markdown file as input, and inserts an image tag at that position.
@@ -249,19 +245,36 @@ def add_section(file_path, header_text, position):
         file.seek(0)
         file.writelines(lines)
 
+
 def remove_tags(file_path, tag_name):
     with open(file_path, 'r') as file:
         content = file.readlines()
 
     with open(file_path, 'w') as file:
-        tag_section_found = False
         for line in content:
-            if line.startswith(tag_name + ":"):
-                tag_section_found = True
-            elif tag_section_found and line.strip() == "":
-                tag_section_found = False
-            elif not tag_section_found:
+            if not line.startswith(" - " + tag_name):
                 file.write(line)
+                
+
+def remove_selected_frontmatter(file_path, removable):
+    '''
+        Removes specified frontmatter
+        
+        Parses the file's frontmatter for content in the string removable 
+        and writes out the file without the specified frontmatter 
+    '''
+    # Read the content of the file
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    safe = False # used to indicate if within frontmatter
+    with open(file_path, 'w') as file:
+        for line in content:
+            if line.strip('\n') == "---":
+                safe = not safe
+            if not line.startswith(removable) or not safe:
+                file.write(line)
+
 
 
 def delete_image(file_path, image_path, caption):
@@ -375,7 +388,7 @@ def update_yaml_front_matter(file_path):
 
 
 def remove_yaml_front_matter(file_path):
-    # Read the content of the file
+    # Read the content of the file 
     with open(file_path, 'r') as file:
         content = file.read()
 
@@ -397,48 +410,34 @@ def remove_yaml_front_matter(file_path):
 
 
 def delete_fields_except_title(file_path):
+    '''
+        Removes frontmatter
+    '''
+    # Read the content of the file
+    
     with open(file_path, 'r') as file:
         content = file.readlines()
-
-        # Find the start and end positions of the YAML front matter
-        start_index = -1
-        end_index = -1
-        for i, line in enumerate(content):
-            if line.strip() == '---':
-                if start_index == -1:
-                    start_index = i
-                else:
-                    end_index = i
-                    break
-
-        if start_index == -1 or end_index == -1:
-            print("YAML front matter not found in the file.")
-            return
-
-        yaml_front_matter = content[start_index+1:end_index]
-
-        # Parse the YAML front matter
-        data = yaml.safe_load('\n'.join(yaml_front_matter))
-
-        # Remove all fields except for 'title'
-        data = {'title': data.get('title', '')}
-
-        # Construct the updated YAML front matter
-        updated_yaml_front_matter = ['---']
-        updated_yaml_front_matter.extend(yaml.safe_dump(data).splitlines())
-        updated_yaml_front_matter.append('---')
-
-        # Replace the original YAML front matter with the updated one
-        updated_content = content[:start_index]
-        updated_content.extend(updated_yaml_front_matter)
-        updated_content.extend(content[end_index:])
-
-    # Write the updated content back to the file
-    with open(file_path, 'w') as file:
-        file.write(''.join(updated_content))
-
-
     
+    exclude = False # used to indicate if within frontmatter
+    title_line = ""
+    
+    with open(file_path, 'w') as file:
+        for line in content:
+            if not exclude:
+                if line.strip('\n') == "---":
+                    exclude = not exclude
+                else:
+                    file.write(line)
+            else:
+                if line.strip('\n') == "---":
+                    file.write(line)
+                    file.write(title_line)
+                    file.write("---\n")
+                    exclude = not exclude
+                elif line.strip('\n').startswith("title"):
+                    title_line = line
+                # Else do nothing
+
 
 
 def extract_keys_from_template(template_path):

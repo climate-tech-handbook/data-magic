@@ -12,7 +12,9 @@ import pdb,logging
 from ruamel.yaml import YAML
 from io import StringIO
 import glob
+import logging
 load_dotenv()
+import json
 
 app = Flask(__name__)
 app.register_blueprint(api_bp)
@@ -33,15 +35,16 @@ def create_file():
 @app.route('/edit_file', methods=['POST'])
 async def edit_file_endpoint():
     # get the file path and markdown content from the request data
+    app.logger.info('/edit_file endpoint called')
     data = request.get_json()
     file_path = data['file_path']
     markdown = data['markdown']
     start_line = data.get('start_line')
     end_line = data.get('end_line')
-
+   
     # call the edit_file function
     edit_file(file_path, markdown, start_line, end_line)
-
+    import pdb; pdb.set_trace()
     with app.app_context():
         output = current_app.Climate_Tech_Handbook.create_output(file_path)
         current_app.Climate_Tech_Handbook.write_output(file_path, output)
@@ -55,9 +58,10 @@ async def edit_file_endpoint():
 @app.route('/add_tags', methods=['POST'])
 def add_tags_endpoint():
     # get the directory path and tags from the request data
+    app.logger.info('/add_tags endpoint called')
     data = request.get_json()
     directory_path = data['file_path']
-    tags = data['notes_we_will_be_covering']
+    tags = data['tags']
 
     formatted_tags = '\n'.join([f"{tag} -" for tag in tags])
 
@@ -77,6 +81,7 @@ def add_tags_endpoint():
 @app.route('/add_contents', methods=['POST'])
 def add_contents_endpoint():
     # Get the file path, YAML front matter, and content from the request data
+    app.logger.info('/add_contents endpoint called')
     data = request.get_json()
     directory_path = data['file_path']
     yaml_front_matter = data['yaml_front_matter']
@@ -101,6 +106,7 @@ def add_contents_endpoint():
 @app.route('/add_all_contents', methods=['POST'])
 def add_all_contents_endpoint():
     # Get the file path, YAML front matter, and content from the request data
+    app.logger.info('/add_all_contents endpoint called')
     data = request.get_json()
     directory_path = data['file_path']
     yaml_front_matter = data['yaml_front_matter']
@@ -129,6 +135,7 @@ def add_all_contents_endpoint():
 @app.route('/remove_all_contents', methods=['POST'])
 def remove_all_contents_endpoint():
     # Get the directory path from the request data
+    app.logger.info('/remove_all_contents endpoint called')
     data = request.get_json()
     directory_path = data['directory_path']
 
@@ -148,6 +155,7 @@ def remove_all_contents_endpoint():
 @app.route('/insert_image', methods=['POST'])
 def insert_image_endpoint():
     # get the file path, image path, caption, and position from the request data
+    app.logger.info('/insert_image endpoint called')
     data = request.get_json()
     file_path = data['file_path']
     image_path = data['image_path']
@@ -166,6 +174,7 @@ def insert_image_endpoint():
 @app.route('/delete_image', methods=['POST'])
 def delete_image_endpoint():
     # get the file path, image path, caption, and position from the request data
+    app.logger.info('/delete_image endpoint called')
     data = request.get_json()
     file_path = data['file_path']
     image_path = data['image_path']
@@ -186,6 +195,7 @@ def delete_image_endpoint():
 @app.route('/add_section', methods=['POST'])
 def add_section_endpoint():
     # get the file path, header text, and position from the request data
+    app.logger.info('/add_section endpoint called')
     data = request.get_json()
     file_path = data['file_path']
     header_text = data['header_text']
@@ -203,6 +213,7 @@ def add_section_endpoint():
 @app.route('/remove_tags', methods=['POST'])
 def remove_tags_endpoint():
     # get the directory path and tag_name from the request data
+    app.logger.info('/remove_tags endpoint called')
     data = request.get_json()
     directory_path = data['file_path']
     tag_name = data['tag_name']
@@ -222,6 +233,7 @@ def remove_tags_endpoint():
 @app.route('/update_title', methods=['POST'])
 def update_titl_endpoint():
     # Get the file path, YAML front matter, and content from the request data
+    app.logger.info('/update_title endpoint called')
     data = request.get_json()
     directory_path = data['directory_path']
 
@@ -241,6 +253,7 @@ def update_titl_endpoint():
 @app.route('/update_yaml_front_matter', methods=['POST'])
 def update_yaml_front_matter_endpoint(): # update author and tags to correct format
     # Get the directory path from the request data
+    app.logger.info('/update_yaml_front_matter endpoint called')
     data = request.get_json()
     directory_path = data['directory_path']
 
@@ -257,40 +270,46 @@ def update_yaml_front_matter_endpoint(): # update author and tags to correct for
     return jsonify({'message': 'YAML front matter updated successfully for all files.'})
 
 
-@app.route('/remove_yaml_front_matter', methods=['POST'])
-def remove_yaml_front_matter_endpoint():
+@app.route('/delete_front_matter', methods=['POST'])
+def delete_front_matter_endpoint():
+    '''
+        Clears yaml frontmatter from files in specified directory
+        
+        Takes in a JSON body the followin paramteres
+        {
+            directory_path: string,
+            delete_title: boolean (Optional - True by default)
+        }
+        When delete_title is set to false, all front matter but the title is deleted
+    '''
     # Get the file path from the request data
+    app.logger.info('/delete_front_matter endpoint called')
     data = request.get_json()
     directory_path = data['directory_path']
+    delete_title = True
+    if 'delete_title' in data:
+        if isinstance(data['delete_title'] , bool):
+            delete_title = data['delete_title']
+        elif isinstance(data['delete_title'] , str):
+            delete_title = json.loads(data['delete_title'].lower())
+        else:
+            return jsonify({'error': 'delete_title field must be of type bool or string'})
+            
+        
 
     # Remove the YAML front matter block from the file
+    app.logger.info('delete title set to: ' + str(delete_title))
     
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
 
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
         for file_path in file_paths:
-            generator.remove_yaml_front_matter(file_path)
-
-
-    # Return a response indicating success
-    return jsonify({'message': 'YAML front matter removed successfully'})
-
-
-@app.route('/delete_frontmatter', methods=['POST'])
-def remove_front_matter_endpoint():
-    # Get the file path from the request data
-    data = request.get_json()
-    directory_path = data['directory_path']
-
-    # Remove the YAML front matter block from the file
-    
-    file_paths = glob.glob(os.path.join(directory_path, '*.md'))
-
-    with app.app_context():
-        generator = current_app.Climate_Tech_Handbook
-        for file_path in file_paths:
-            generator.delete_fields_except_title(file_path)
+            if delete_title:
+                generator.remove_yaml_front_matter(file_path)
+            else:
+                generator.delete_fields_except_title(file_path)
+                
 
 
     # Return a response indicating success
