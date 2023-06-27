@@ -18,8 +18,8 @@ def get_contributors(repo_owner, repo_name):
 
 
 # Provide the repository owner and name
-repository_owner = "Repository Owner Name"
-repository_name = "Repository Name"
+repository_owner = "climate-tech-handbook"
+repository_name = "data-magic"
 
 contributor_names = get_contributors(repository_owner, repository_name)
 print("Contributors:")
@@ -28,13 +28,13 @@ for name in contributor_names:
 
 
 def write_contributors_to_readme(contributor_names):
-    with open("readme.md", "r+") as readme_file:
+    with open("README.md", "r+") as readme_file:
         lines = readme_file.readlines()
 
         # Find the index of the "## Contribute" section
         contribute_index = -1
         for i, line in enumerate(lines):
-            if line.startswith("## Contribute"):
+            if line.startswith("## Contributing"):
                 contribute_index = i
                 break
 
@@ -43,7 +43,8 @@ def write_contributors_to_readme(contributor_names):
             lines.insert(contribute_index + 1, "\n### Contributors\n\n")
             for name in contributor_names:
                 lines.insert(contribute_index + 2, f"- {name}\n")
-
+        else:
+            print("README.md does not contain \" ## Contributing\"")
         # Move the file pointer to the beginning and overwrite the file with updated contents
         readme_file.seek(0)
         readme_file.writelines(lines)
