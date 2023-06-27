@@ -165,15 +165,6 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 If you are lost on how to start contributing or don't understand how a certain class or file works, try checking out our [Contributing Guide](CONTRIBUTING.md)
 
-
-### Contributors
-
-<br>
-
-## Acknowledgments
-
-This project is in active development and is currently in an MVP stage, stay tuned to see how it grows!
-
 <br>
 
 ## License
@@ -184,4 +175,8 @@ This README provides an overview of the project, installation instructions, usag
 
 <br>
 
+## Acknowledgments
 
+This project is in active development and is currently in an MVP stage, stay tuned to see how it grows!
+
+<!-- Insert additional acks -->
