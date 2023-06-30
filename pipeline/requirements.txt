@@ -64,6 +64,7 @@ pycparser==2.21
 Pygments==2.15.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
+python-dotenv==1.0.0
 python-json-logger==2.0.7
 PyYAML==6.0
 pyzmq==25.1.0
