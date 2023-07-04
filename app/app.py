@@ -57,13 +57,25 @@ async def edit_file_endpoint():
 
 @app.route('/add_tags', methods=['POST'])
 def add_tags_endpoint():
+    '''
+        Adds tags to files in specified directory
+        
+        Takes in a JSON body the followin paramteres
+        {
+            file_path: string,
+            tags: array of strings
+        }
+        
+        - requires frontmatter already exists
+        - does not care if there is a tag property yet
+    '''
     # get the directory path and tags from the request data
     app.logger.info('/add_tags endpoint called')
     data = request.get_json()
     directory_path = data['file_path']
     tags = data['tags']
 
-    formatted_tags = '\n'.join([f"{tag} -" for tag in tags])
+    #formatted_tags = '\n'.join([f"{tag} -" for tag in tags])
 
     # discover all Markdown files in the directory
     file_paths = glob.glob(os.path.join(directory_path, '*.md'))
@@ -71,7 +83,7 @@ def add_tags_endpoint():
     with app.app_context():
         generator = current_app.Climate_Tech_Handbook
         for file_path in file_paths:
-            generator.add_tags(file_path, formatted_tags)
+            generator.add_tags(file_path, tags)
 
     # return a response indicating success
     return jsonify({'message': 'Tags added successfully to all files'})
@@ -277,7 +289,7 @@ def delete_front_matter_endpoint():
         
         Takes in a JSON body the followin paramteres
         {
-            directory_path: string,
+            file_path: string,
             delete_title: boolean (Optional - True by default)
         }
         When delete_title is set to false, all front matter but the title is deleted
@@ -285,7 +297,7 @@ def delete_front_matter_endpoint():
     # Get the file path from the request data
     app.logger.info('/delete_front_matter endpoint called')
     data = request.get_json()
-    directory_path = data['directory_path']
+    directory_path = data['file_path']
     delete_title = True
     if 'delete_title' in data:
         if isinstance(data['delete_title'] , bool):

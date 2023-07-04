@@ -211,13 +211,33 @@ def edit_file(file_path, markdown, start_line=None, end_line=None):
         file.writelines(lines)
 
 
-# takes a list of tags as input and inserts them at the top of the markdown file.
-def add_tags(directory_path, formatted_tags):
-    with open(directory_path, 'r+') as file:
-        content = file.read()
-        new_content = f":\n{formatted_tags}\n\n{content}"
-        file.seek(0)
-        file.write(new_content)
+def add_tags(directory_path, tags):
+    '''
+        Inserts tags specified by tags list
+        
+        Inserts into the frontmatter tags included in tags list.
+        If tags section does not exist, it creates a new tag section. 
+        This function does not check for tag duplicates.
+    '''
+    with open(directory_path, 'r') as file:
+        content = file.readlines()
+
+    safe = False
+    found = False
+    with open(directory_path, 'w') as file:
+        for line in content:
+            if line.strip('\n') == "---":
+                if safe and not found: # If "tag" section doesn't exist create a section
+                    file.write("tags:" + "\n")
+                    for tag in tags:
+                        file.write("  - " + tag + "\n")
+                safe = not safe        
+            file.write(line) # We always print the line  
+            if line.strip('\n').startswith("tags") and safe:
+                # if within the frontmatter and we find tags we just append new tags
+                found = True
+                for tag in tags:
+                    file.write("  - " + tag + "\n")
 
 
 def add_contents(file_path, yaml_front_matter):
