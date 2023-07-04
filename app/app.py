@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 from utils.utils import get_env_vars, create_generator
 from utils.generator_utils import edit_file
 from utils.get_file_path import get_file_path
-import pdb,logging
 from ruamel.yaml import YAML
 from io import StringIO
 import glob

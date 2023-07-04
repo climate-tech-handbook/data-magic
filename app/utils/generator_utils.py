@@ -2,7 +2,6 @@ import csv
 import os, re
 import yaml
 import openai
-import logging
 
 def to_snake_case(string):
     return string.lower().replace(" ", "_")
@@ -164,7 +163,6 @@ async def generate_output(generator, page, template_name="template"):
     Returns:
         str: The generated output content.
     """
-    import pdb; pdb.set_trace()
     prompt_keys = generator.extract_prompt_keys(template_name)
     generator.prompts = {
         to_snake_case(k): v
