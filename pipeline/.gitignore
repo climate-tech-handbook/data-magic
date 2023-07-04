@@ -1,9 +1,15 @@
-.ipynb_checkpoints/
+# sensitive environment variables
+.env
+
+# virtual environment
 venv/
 __pycache__/
 *.py[cod]
-*.pkl
-*.model
-v*/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# data
+feeds/
 *.csv
-.env
+
