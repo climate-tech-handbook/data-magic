@@ -1,0 +1,276 @@
+*This episode is part of our Skilled Labor Series hosted by MCJ partner, Yin Lu. This series is focused on amplifying the voices of folks from the skilled labor workforce, including electricians, farmers, ranchers, HVAC installers, and others who are on the front lines of rewiring our infrastructure.
+Aubrey Streit Krug is the Director of the Perennial Cultures Lab at the Land Institute in Salina, Kansas. The Land Institute is a nonprofit and one of the global leaders in sustainable agriculture research and education. Aubrey grew up in a small town in Kansas where her parents farm wheat and raise cattle. She is a writer, teacher, and researcher who studies stories of relationships between humans and plants. 
+Aubrey gives us a crash course in understanding the perennial grain ecosystem, its history, the research behind how to develop new crops, and the labor needs to sustain production. We also cover the education required to introduce new crops for human consumption, equity considerations on access to crops, and why the ability to grow grains year-round is key to sustaining global food stability. 
+Get connected: Aubrey Twitter /The Land Institute TwitterYin Twitter / LinkedInMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on May 4, 2023 (Published on Jul 20, 2023)
+In this episode, we cover:
+[03:03]: Aubrey's background and connection to farming
+[05:27]: Her interest in community and diverse perspectives in agriculture
+[07:19]: The semi-arid grassland ecosystem of the Great Plains
+[08:28]: The Land Institute's focus on developing sustainable alternatives, including perennial grain crops
+[12:26]: Paradigm shifts in food and agriculture throughout human history 
+[15:00]: The need to undergo another paradigm shift, from annual grain crops to diverse perennials 
+[17:45]: Two pathways to creating perennial crops: hybridization and domestication 
+[22:21]: Domestication as a process of human co-evolution and interdependence with plants 
+[23:41]: Perennial rice and Kernza perennial grain success stories
+[27:07]: The diverse skilled labor roles needed to sustain perennial grain agriculture
+[29:55]: Ensuring just and equitable distribution of perennial crops with inclusive research processes 
+[32:11]: The Land Institute's civic science program and community participation
+[35:17]: Challenges posed by climate change and the need for resilient agricultural systems
+[37:27]: What gives Aubrey hope and joy 
+Resources mentioned:
+The next era of crop domestication starts now
+Yin Lu (00:00):
+Hey, everyone, Yin here. My guest today is Aubrey Streit Krug. Aubrey is the director of the Perennial Cultures Lab at the Land Institute in Salina, Kansas. The Land Institute, if you haven't heard of them, is a nonprofit and one of the global leaders in sustainable agriculture research and education. Aubrey grew up in a small town in Kansas where her parents farm wheat and raised cattle.
+(00:21):
+And she's a writer, teacher, researcher who studies stories of relationships between humans and plants. Aubrey gives us a crash course in understanding the perennial grain ecosystem, its history, the research behind how to develop new crops, labor needs to sustain production, the education required to introduce new crops for human consumption and equity considerations on access to crops, and why the ability to grow grains year-round is key to sustaining global food stability. But before we dive in.
+Cody Simms (00:52):
+I'm Cody Simms.
+Yin Lu (00:54):
+I'm Yin Lu.
+Jason Jacobs (00:55):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+Yin Lu (01:01):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:06):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help.
+Yin Lu (01:20):
+And with that, Aubrey, welcome to the show.
+Aubrey Streit Krug (01:22):
+Thanks. I'm really happy to be here with you.
+Yin Lu (01:25):
+Alfred Henry Lewis has this really powerful quote and it says, "There are only nine meals between mankind and anarchy." Which is a really powerful and sobering quote if you think about just how critical food is to the stability of our global economy and just a global state of being. And the key here is that unlike all other commodities, food is so essential and can't be postponed and needs to be readily and scalably available to feed the growing global population.
+(01:52):
+And agriculture in the broadest sense is being met with a lot of really great innovations. But also a lot of challenges that is being presented in the face of climate change. So, we're thinking drought, floods, soil health depletion, and food systems are starting to grow in the face of climate change.
+(02:11):
+Perennial grains in talking about innovations in agriculture is a grain crop that lives and remains productive for two years or more, rather than growing only for one season before harvest. So, this includes cereals, legumes, oil seeds, and other types of grains that represent a paradigm shift in modern agriculture and holds really great potential for truly stabilizing our food production systems. And so, today we have an expert in the house.
+(02:37):
+And Aubrey is going to deep dive into talking about what is entailed in thinking about perennial grains as a whole ecosystem. So, before we dive into the science and the technology behind and the research behind all of that, let's get to know Aubrey a bit more. So, Aubrey, would love to know more about you, how you grew up and how you developed an interest in this area that has led you to a career in agriculture.
+Aubrey Streit Krug (03:03):
+I grew up in a really small town in rural Kansas, in the north central part of Kansas where we aren't over an aquifer. So, it's dryland agriculture, mostly non-irrigated. And this is a farming community that mostly produces those staple grains that feed people, especially wheat. So, growing up in this place, wheat fields around pastures remain where people have cattle.
+(03:32):
+The main industry has to do with manufacturing agricultural implements. It's a really small German Catholic immigrant community, really valued education. Local schools trying to keep the community grocery store open. So, thinking about food was very much a part of how I understood my town to stay alive.
+(03:52):
+And I really grew up seeing how much work went into that. The work of maintaining agricultural systems, but also the work of maintaining community. So, think about the work that goes on in the field, the tractors, and the combines that I would write in. Or going out to drive out to the pasture to check cattle, but fixing all those machines.
+(04:14):
+But then also all the work in homes and communities. So, the work of caring for kids, caring for elders. The work of educating kids. The work of preparing all those meals and doing all those dishes afterwards. So, all of the community labor that are also part of an agricultural community were a big part of my childhood.
+(04:35):
+I mentioned riding in the combine or going out during weed harvest or going out in the pickup truck to go check cattle. Those were things that I did and they were not major areas of skill for me. Yes, I helped out on the farm, but that was not really my gift. I didn't grow up thinking that, that was really my vocation or calling and my parents agreed.
+(04:56):
+I think realizing that I have always felt that connection to land and I care a lot about this place and really saw these landscape's beautifulinism is important and realized our dependence on them. But knowing that my gift wasn't to be the next generation of farming. And realizing also just how precarious farming enterprises are. Thinking about the vulnerability to whether to commodity prices, to economic issues and land prices and access.
+(05:27):
+So, realizing all of that and learning about that has been really instructive for me. But when I was growing up, I was spending a lot of my time reading and writing, doing a lot of work like babysitting or working in the grocery store or things like that too. But my dream job as a kid was to be a meteorologist. I cared so much about the weather.
+(05:46):
+We watched the weather constantly. I was just obsessed with that. And so, when I think about what led me to study, I was really interested in figuring out how I could find a way to contribute to a really positive future for this place and land region that I'm so committed to and what that looks like. And that's what led me to realize my interest in the human community aspects.
+(06:09):
+The stories that people tell, the language that we use to communicate and build that sense of identity and maintain those relationships. And how those cultural aspects feed back into the larger agricultural relationships with land. And wanting to learn more also about the diverse range of experiences and perspectives.
+(06:30):
+I grew up seeing the landscape around me as this is the way it has to be. But it hasn't always been this way and it doesn't always have to be this way. And so, growing that sense of imagination and possibility and thinking about how many people contribute to that is what led me to go on to study literature, language, and culture, and the relationship of those things to places and physical environments.
+(06:54):
+Became in graduate school, really interested in ethnobotany, human plant relationships, plant ecology, and how that relates to our understanding of places. And in particular, focusing on the Great Plains, the layers of place. And deep time and in the near term, how much has changed in the Great Plains. And bringing lots of different disciplines together to be able to investigate those questions became really important to me.
+Yin Lu (07:19):
+For those who are listening who don't know what the Great Plains are, can you briefly talk about why the Great Plains is its own ecosystem and why it's so important to study?
+Aubrey Streit Krug (07:27):
+The Great Plains is the middle swath of the North American continent. Thinking about what is in the rain shadow of the Rockies. And so, it's arid, semi-arid grassland ecosystems all the way up through from the Canadian prairies all the way down to Texas. You can think of the high plains and then more of the mixed grass or tall grass prairies.
+(07:49):
+But we're really thinking about grassland ecosystems that have evolved in that semi-arid climate. And that have grown and evolved with disturbance in the form of fire and grazing. So, that's what we're thinking about with the Great Plains.
+Yin Lu (08:04):
+So, I'm trying to piece all the different puzzle pieces together of your interests. And so, growing up in the Great Plains and having an interest in community, having an interest in the economy, having an interest in communications and how to tell the story of this area that is so near and dear to your heart, how did that combine into working at the Land Institute?
+Aubrey Streit Krug (08:28):
+The Land Institute has for a long time been interested in those relationships between people and land and community. The Land Institute is a research organization that was founded back in the 1970s and 1976 here in central Kansas. And originally was really looking at how we create sustainable alternatives to the mainstream way of life.
+(08:52):
+And looking in lots of different places for that. And then became focused on in particular agriculture. In part for the exact reasons that you reflected on earlier. Because of the importance of being able to feed ourselves sustainably, maybe is what allows sustainability in all other aspects of our lives.
+(09:10):
+But if we aren't able to feed ourselves, then it's very difficult to pursue all other forms of sustainability in the ways that we live. So, when I was an undergraduate at Bethany College here in Kansas, I was introduced to the Land Institute by one of my mentors who was saying, "Oh, you're really interested in agricultural literature and relationship between people and land."
+(09:32):
+"And there's this place right around the corner in your backyard that has been exploring this work." So, I did an internship at the Land Institute and got acquainted with it. And then later on, as I was in graduate school and really thinking about what it means to take these ideas and questions about relationship between cultural change and agricultural change.
+(09:53):
+And really wanting to be part of a diverse community of people that's working to make something to make ways of feeding ourselves that can persist. That's what led me back to the Land Institute. To really think about applied work or we sometimes talk about this as translational research. How do you translate these concepts and ideas and knowledge into really practical solutions that might take a really long time to realize, but that are really important and that we can maybe speed up their realization?
+Yin Lu (10:24):
+How is the Land Institute's research paths structured? I know your focus is on perennial crops and we'll get into that. But are there other people focused on completely different areas within the organization's overall mission?
+Aubrey Streit Krug (10:37):
+So, the Land Institute's big picture vision is really thinking about our whole human species and our relationship to the whole planet, which we are embedded. And thinking about how we can re-contextualize our human species within that planetary context to live within this planet, our home planet, our ecosphere. And we've focused in particular on being able to address that with food.
+(11:02):
+Because our current food systems are driving so many of the ways in which we're exceeding these planetary boundaries and degrading the ecosystem processes that we depend upon. So, the Land Institute has identified that in particular within agriculture, our dependence as humans on feeding ourselves mostly through a few staple crops that are annual grain crops that just grow for that one year and produce one time and then die back. And the ways that we have to manage and create those systems has negative consequences.
+(11:36):
+And so, we have been focused on exploring and creating perennial grain crops, perennial versions of grain crops. Thinking about how to grow them in diverse agroecosystems. And how those agroecosystems nourish and then are stewarded by more just human communities. So, that means the organization includes plant breeders and ecologists who are thinking about those crops and those cropping systems.
+(12:03):
+The organization includes crop stewardship team, thinking about how to develop more sustainable supply chains. And includes the perennial cultures lab, thinking about the cultural components. And increasingly, we're really focused on partnerships and global collaboration, also growing international work as well as domestic partnerships to do this realization of perennial future together.
+Yin Lu (12:26):
+Let's start the deep dive process. We're looking back on humanity. When we think about paradigm shifts in agriculture, we went from hunters and gatherers to actually plopping down one place as groups of people and planting and growing crops year after year. At what point, Aubrey, did that system start showing cracks for us to lead to a place now where we're thinking about, well, we can't have stable crops just growing annually, we need to have crops that are growing year round?
+Aubrey Streit Krug (12:59):
+This is a great deep story to tell. If we deep dive back into the ecosystems that have evolved on this planet in deep time, think about the lands on this planet. The ecosystems being mostly characterized by perennial plants that are growing in diverse mixtures. So, thinking about those grasslands of the North American great plains.
+(13:26):
+Thinking about forest systems. Thinking about Tundras. These are what has evolved on our planet that is able to persist and that makes sense. And humans were able to feed themselves and have fed themselves through those ecosystems, through managing and stewarding them.
+(13:43):
+So, if we think about for a very long time, people herding animals, gathering wild plants. Thinking about the ways of life that have been possible in prairie ecosystems, for instance. And then thinking about the emergence of grain agriculture in multiple places around the world in these different contexts.
+(14:04):
+And this is such a fascinating area of research where we're still trying to understand exactly how the pace of the transition and why. But clearly it's made sense for people to do that to some degree. Or we've been moved into that system mostly, so that now people mostly feed themselves through these annual grain crops that are grown mostly in monocultures that leave soil vulnerable to erosion, all kinds of forms that aren't sustainable.
+(14:33):
+When we think about the way that they're drawing from ecosystems and the ecological consequences of them that are really vulnerable to climate change. That rely increasingly on a lot of external inputs. So, think about fertilizers, think about all the fossil fuels that power agriculture. And that increasingly aren't equitable, that where the benefits are not evenly distributed, where people do not have fair access to foods they need.
+(15:00):
+So, for all those reasons, there is a need for the next evolution of agriculture and that paradigm shift. And it makes sense I think in the community of research here at the Land Institute and beyond to look to what has evolved to fit in our planet. And to look at perenniality and diversity as things, characteristics that we might need to bring into those grain agro ecosystems.
+(15:25):
+And just naming, maybe it can define that grains are those really hard, dry, edible storable seeds, sub herbaceous plants that can be easily harvested, can be stored. So, thinking about cereal grains from grasses. Thinking about legumes, beans. Thinking about oil seeds, sunflower.
+(15:45):
+So, these are the staple foods. And the systems that produce these staple foods are not sustainable. And looking to make them more perennial and more diverse are really pathways forward.
+Yin Lu (16:00):
+Hey everyone, I'm Yin a partner at MCJ Collective. Here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally.
+(16:16):
+Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community.
+(16:29):
+A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made, as well as ongoing events and programming. Like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more.
+(16:46):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+(17:00):
+How do we do that? Let's say picking soybeans for example, they are a stable crop that is grown annually. Is there a way that through science and generations of tweaking agricultural practices that a staple crop can then turn into a perennial crop? How does that work?
+Aubrey Streit Krug (17:17):
+Basically, when we think about how do we get crops in the first place, basically you think about, well, wild plants and people identifying characteristics that are desirable in those plants. And then making selections, choosing the plants that have those characteristics or finding the plants that do or could. And then having these cycles of selection and breeding to move something into that crop format that has those target characteristics.
+(17:45):
+So, when we think about creating perennial grain crops, there are two pathways. One of them is hybridization. So, in this case, think of major grain crops we've been mentioning, wheat, rice, these really important annual grains that grow for one year. Well, we can go back and look in those ecosystems.
+(18:05):
+Think about what are the wild relatives related to those annual crops who are perennial. And how can we cross them together to try to bring perenniality into this annual grain crop that has those characteristics? Really high big seed size, lot of seeds that we want. So, how can we create perenniality in that way?
+(18:24):
+The Land Institute has a perennial wheat breeding program, for instance. And the Land Institute collaborates with a research group in China that has made incredible progress on perennial rice. So, point your listeners to a recent publication and nature sustainability that really analyzes the success so far of this perennial rice crop.
+(18:44):
+The number of years that it's been able to be grown, the really comparable yields and the decreased reliance on inputs, decrease in labor costs, things like that have made it attractive. So, the other pathway is called domestication. And in this case, we are identifying a wild plant that is perennial. And I'll name that one aspect of perenniality, the life strategy of living for multiple years.
+(19:09):
+What do you need as a plant to do that? You need deep roots that can live for multiple years and stay living below ground. Hold on the soil, interact with that soil ecosphere in really dynamic ways. And so, when the above ground part of the plant dies back, grays back, harvested, has burned off, something like that, those living roots then allow the plant to regrow.
+(19:33):
+So, thinking about identifying a wild perennial plant. And saying, "What are the characteristics that would take this plant closer to something that humans could eat?" We might choose a plant that maybe the seeds look like they're going to be tasty. This plant might be comparable to something else that we're interested in.
+(19:51):
+And then gathering a lot of diversity from within that plant species and being able to make selections for those types of characteristics that you might want. Which I've been talking a lot about yield, seed size. It might have to do with the seed staying on the plant, not just falling off everywhere so they can be harvested, all ripening at the same time and a lot of other things.
+(20:11):
+Resistance too or tolerance for different diseases or being well adapted to more extreme conditions or growing well in degraded soils. Those could all be things that we might want to look for. So, with domestication, some of the work that we're doing here includes working with a native perennial prairie plant named Silphium integrifolium, which is part of a broader sunflower family.
+(20:32):
+And so, this beautiful yellow blue bean plant. And we're really interested in creating a perennial oil seed crop. Another example is working with sainfoin, which is a legume that's grown in the United States as a forage crop for animals to graze. And thinking about that as a perennial pulse crop, something that can be eaten like a lentil or a pea.
+(20:53):
+And then intermediate wheatgrass, which produces Kernza perennial grain is a domestication project that's resulting in perennial grain that's being grown in the US and moved into supply chains and projects.
+Yin Lu (21:04):
+Just to repeat back what I'm hearing. Two paths to creating perennial crops. Path one is taking a current stable crop and splicing and dicing with a wild crop to create some outcome of a new hybrid crop that then is able to grow longer roots and stay in that soil for longer.
+(21:26):
+The other path is domestication. Taking a completely wild crop that naturally has those deep roots and has existed for thousands of years. And trying to genetically enhance it so that it becomes something that could be more consumable for humans.
+Aubrey Streit Krug (21:43):
+Yeah, and the main thing that I will emphasize is that in the plant breeders who are doing this work are making choices out of the genetic diversity that exists within that already. So, not adding something to it. But instead to choosing the types of characteristics represented within that diversity. And I think this is important to understand with domestication.
+(22:05):
+Thinking about how we get to perennial grain crops. Because in the descriptions I've just named, I'm really focusing on the genetic aspect, what changes in the plants that makes them into crops. But domestication, I think can and should be understood more broadly than that.
+(22:21):
+Because domestication is really about how we build and sustain this co-evolution between humans and plants, this interdependence. And that requires plants are changing genetically, but humans are also changing. And growing agronomic knowledge. How do we cultivate these plans? What are the best conditions to grow them in to be able to create crops?
+(22:41):
+What are the cropping systems? And then humans are also changing culturally because we have to value these plants. If people don't see something as a food, don't want to eat it, don't have it as part of their culture, don't have a cuisine around it, don't have stories about it, they don't value it economically or culturally, then that's not a crop.
+(23:01):
+So, thinking about domestication and new crops and that bigger framework I think is really important when we think about all the types of things that are involved in creating this next era of agriculture. Thinking about the ways in which crops and ecosystems and people are all part of that.
+Yin Lu (23:20):
+That's such a good thing to be reminded of that to make a perennial crop successful it takes more than just people in a lab breeding for multiple seasons to come up with a new crop. But will it be accepted? And how do we integrate it into how we think about food as a net new crop that is being introduced to the market akin to a net new product being introduced to a market?
+(23:41):
+Is there a success story or a poster child of a perennial crop from the past couple of decades that you would say, "Yep, this was a crop that wasn't in the zeitgeist. And has now become part of the zeitgeist because of all the things that had to be done in order to really integrate it into how we think about the food."
+Aubrey Streit Krug (23:59):
+I just want to name that our work focuses on perennial grain crops. And there are certainly many other perennial crops that aren't grains. Tree crops, for instance. So, not my main area of expertise, but just naming that there's a broader understanding of perenniality that's important.
+(24:14):
+But when I think specifically about perennial grains, I think I would point people to perennial rice and to Kernza perennial grain as two examples of both of those different pathways that have made incredible progress with very limited amounts of funding and resources. What could be possible if more resources were invested and more understanding was gained of what's been possible through creating these crops which are still in process and progress and in the R&D work?
+(24:43):
+And are also being now consumed by people and enjoyed by people. So, I think that's one aspect of that bigger understanding of new crops that I just want to emphasize is that it's not just a one-time thing. All the plants that we continue to eat, we continue to invest a lot of resources into continuing to breed and domesticate and incorporate into our cultures.
+(25:06):
+That's an ongoing thing. And so, if we think about not only creating new crops, but really sustaining that ongoing relationship, that I think speaks to both the opportunity we have now to make progress and then also the investment in the long term that's needed.
+Yin Lu (25:22):
+As someone growing up eating rice pretty much every day, I wasn't aware of the fact that rice just wasn't available certain times of the year. And now is given the perenniality that has been introduced to it. I have no idea what Kernza is. Can you explain?
+Aubrey Streit Krug (25:37):
+Kernza perennial grain is produced from a plant named intermediate wheatgrass, Thinopyrum intermedium, which is native across Europe and Asia. Was brought to the United States originally as a forage crop for animals to graze, been really successful in that way. And has been brought over the course of the 20th century for that.
+(25:55):
+And then late in the 20th century, the Rodale Institute and the Land Institute were really interested in these ideas of perennial grain crops. And identified intermediate wheatgrass as a good candidate for that because of large tasty seeds. And so, then work has been made into those cycles of selection to be able to start learning how to eat this plant as a grain. And making it more into the form of a crop.
+Yin Lu (26:20):
+What is Kernza used for in human food consumption that we would know?
+Aubrey Streit Krug (26:24):
+So, Kernza is intermediate wheatgrass, so it's not unrelated to wheat. It's not the same as annual wheat or something that we would eat. But it can be used in all kinds of different products, crackers and baked goods, used in brewing, had some really good noodles. Kernza pancakes are a favorite of mine.
+(26:42):
+So, some different Kernza whiskeys have come out recently, just in the last few months. Lots of different things. And people are, I think really interested in continuing to experiment with bake and brew with this. Get to know the unique nutritional qualities, get to know the unique taste flavor profile.
+(26:59):
+It's more nutty. It pair really nicely with cinnamon. So, I think there's a lot more to be learned about these grain crops too.
+Yin Lu (27:07):
+Let's talk a bit about the ecosystem that has to exist around a perennial crop to give it that long-term sustainability. I'm interested always as part of this series on the workforce that is needed, people actually in the fields to people in the lab to people involved in the supply chain around perennial crops. So, can you talk more about that?
+Aubrey Streit Krug (27:29):
+I think because of my background and the community that I grew up in and seeing the work that goes into maintaining a community, that's made me really interested in a thread of research around care work. Which is really just the work of caring for other people. But also plants and land that's really necessary for daily life to continue.
+(27:51):
+And most often when we think of care work in terms of healthcare or housework or caring for kids or elders. And I think we can think of care work in relationship to agriculture and this ongoing research and domestication as well. And care work isn't often made visible. It's not often valued well.
+(28:10):
+It's not often distributed fairly. But it takes a lot of skill. So, if we think about the work of tending gardens, or laboring in fields, or freezing children, or restoring landscapes, or domesticating crops, I think we can think about those as care work that are physical and are also emotional. And that are relational and ethical.
+(28:33):
+When I think about skilled labor, I think about all those really practical technical skills that are needed in research and communities. And I also think about those relational skills, those social and emotional ways of tending and making relationships that are really important too. And supporting people's learning. So, skilled labor needed in creating a perennial future.
+(28:57):
+Clearly researchers, plant breeders, ecologists, really skilled technical labor. People doing the daily work of taking data, making observations, stewarding that data. Some of those are professional and some of those are volunteers. We work a lot with civic scientists, people who are coming from a lot of different areas and contributing to research projects by growing these plants on small scales.
+(29:20):
+And making observations and sharing their stories. Farmers, community organizers and all the people involved in food production. So, chefs and bakers and cooks and dishwashers and processors and people involved across the whole food supply chain. And then I also think about teachers.
+(29:41):
+People doing the work of care, communicators, writers, artists, journalists, historians. People doing that work of maintaining community, I think are all part of the perennial cultural aspects of perennial grain agriculture.
+Yin Lu (29:55):
+I'm curious, if we imagine a world where we have a bunch of new perennial crops that are introduced to society and they get integrated into society and become part of just how we think about food in the mainstream. What are the gaps that might exist in ensuring that those perennial crops get distributed in a just and equitable way?
+Aubrey Streit Krug (30:22):
+I think that it speaks to the opportunity of a much more inclusive process of actually developing those future perennial grain crops in the first place. One model would be to say, okay, these people over there, they're going to just develop this. And then we're going to introduce it to other people later on after it's ready.
+(30:43):
+But I think that to be able to have people who want to participate in creating these perennial grain agro ecosystems and people in societies that are willing to invest in and support that. I think that you can put those pieces together and say, "We actually need and would benefit from are much more inclusive and transdisciplinary research processes."
+(31:04):
+In which more people have the opportunity to learn about and participate in that research and development. Rather than only waiting until something is ready to start to form a relationship with it. So, I think that by creating more opportunities and access that's going to be able to create perennial grain crops that are more integrated into our cultures and agricultures.
+(31:27):
+And I think also it has the possibility to accelerate the work by just thinking about what the pace of change in which we need agricultural change. How we can involve more people and leverage more of the knowledge and skills and gifts that people have towards this work. And in more places, in people's context where they have local knowledge and expertise.
+(31:50):
+I think that's how we can build a much more inclusive and decentralized and resilient network of learning, of research, of development. So, that process of the how has been really interesting to me to think about what does it mean. And how do we involve more people in the pathways towards the perennial future?
+Yin Lu (32:09):
+Conceptually, I totally get that. Can you bring more people along earlier in the process to give people access, to give people knowledge as crops are developing? Is there a concrete or tactical example that you can think of where that's happened and that's happened in a successful way?
+Aubrey Streit Krug (32:26):
+Well, one way that we've been experimenting with this is through the creation of the civic science program at the Land Institute. So, from the human learning side, we know that people best learn and form relationships when they're doing that in a social group. And they're doing that through repeated hands-on experiences.
+(32:45):
+And then we also have had a scientific need to understand how these early stage, not quite yet, but crops in process, how they survive. And what experiences of what pests and pathogens are emerging in a variety of different environments way more than we have just at our main headquarters here in Kansas.
+(33:03):
+And so, bringing those two together to create a civic science effort where people at this point around the country can grow small garden scale plots of some of the different plants that we're working with. They make observations, collect data, send samples, harvest seed, send those back to us.
+(33:21):
+They also are talking to their community members, their neighbors or their families, what the heck is that? They're creating art based upon their experiencing. They're forming these new stories. And specific science program, we've done some different pilot projects. We now have a couple of projects.
+(33:37):
+And we're starting in the design phase for a bigger one. So, we're talking this year around maybe 100 people around the US. But I think that's significant when you think about the power that people have to be able to start to raise that cultural awareness and get to know these plants in their own places. So, that's an example of a participatory method.
+(33:56):
+And I'm really interested in thinking about, and part of my job involves exploring other types of methods to support learning, both in formal settings and things like schools and training programs. But also in these informal learning environments and studying the types of cultural relationships and knowledge that are developed in those ways.
+Yin Lu (34:16):
+If you can wave a magic wand and have the future of perennial crops be as robust and as vibrant as possible, what are some things that you would hope and wish for?
+Aubrey Streit Krug (34:25):
+When I think about what needs to happen, I think we need science. And I think we need community, and I think we need story, lots of stories, plural stories. So, I think about the investments that researchers can make, that funders can make, that policymakers can make, that are really bold investments into transformational science and community methods and multiple types of stories and relationships that we need.
+(34:55):
+So, I think waving magic wand is thinking about how to grow this work. Not only scaling up, but also scaling down. If we think about those roots growing down. And thinking about understanding the ways in which we need many people and we need many people working together rooted in a variety of different places and connected across those places.
+(35:17):
+I also will say that we're doing this long-term agricultural work in the context of a really intense, an ongoing crisis in the climate and so many other planetary systems. So, thinking about that, I have to include a magic wish around humans also stopping burning fossil fuels. And unlearning the types of mainstream petro cultures that we're part of, so that we can in instead learn and together create perennial Ag and cultures.
+Yin Lu (35:45):
+We've gone this whole episode without talking about climate. I'm curious, with or without climate change, humans need perennial crops to be developed to just ensure that we have a more stable food system. But I imagine that being harder in the face of climate change. And so, what are some concrete trends, things that you're seeing that's making perennial crop growth and research just a bit harder?
+Aubrey Streit Krug (36:06):
+Well, I think that the global emergency socially ecologically brings a lot more uncertainty and unexpected things into, whether that's supply chains or whether that's access or whether that's disruption in different parts of the world. So, those conditions of uncertainty are always hard to work in.
+(36:27):
+But I think also it's important to name the ways in which agriculture and our agricultural systems are not only impacted by climate, but also drive negative changes in terms of those planetary systems, including carbon cycles. But also thinking about nitrogen cycles and land use and biodiversity loss. All these things that are really woven together when we think about the health and fatality of this planet.
+(36:51):
+And so, thinking about the ways in which we can recognize this moment of emergency, respond to it and connect the work that we're doing now and for the long term with these climate systems that we hope to be able to continue creating ways to feed ourselves. That are resilient in the face of the climate change that is unfolding.
+Yin Lu (37:13):
+And on the flip side of that question, what gives you hope? What brings you joy? Are there interesting technologies that are now in the mix that didn't used to exist that is going to make this work easier in the future?
+Aubrey Streit Krug (37:27):
+What gives me hope are the community of people that I work with. The growing local and global community of caring, committed, really intensely curious researchers and practitioners who are imagining how things can be different and are really pursuing ways to make that change possible and who are doing it together. And seeing how even over the last five or six years that I've been at the Land Institute, seeing the growth of that global community has been so exciting.
+(38:01):
+And also what gives me hope and joy are the prairie ecosystems that I remain a part of. Just visiting the prairie remnant that is nearby here on the Land Institute. It's spring here. The plants are reemerging above ground. These plants that have evolved in this place. These diverse and perennial ecosystems that have so much power and have so much to teach us that we can continue to find inspiration in.
+(38:24):
+And that idea that people can change and learn through our work together and through the knowledge that we are gaining and learning and remembering about these different places and ecosystems. That really drives my work. One point about technologies, I did put a link in the doc to a recent article that I was part of that's about the next era of crop domestication that speaks to climate.
+(38:48):
+But it also has a really nice review and overview about different technologies and choices available when we think about breeding and domestication work. For people who are interested in going deeper, maybe that would be a good resource.
+Yin Lu (39:01):
+Wonderful. My gosh, did we learn a lot from you and your work and just the reemphasis of it's not just the crops, but it's the ecosystem of people around the crops that is going to really help cement new ways of growing in new ways of consuming food that I did not really think about when I thought about food, but is so important. And thank you for the work that you do to really inspire people to come at agriculture with a communal mindset. I think it's so key.
+Aubrey Streit Krug (39:32):
+Thank you so much for having me. It's been a joy.
+Jason Jacobs (39:35):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (39:39):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+Jason Jacobs (39:48):
+If you'd like to learn more about MCJ Collective, visit us atmcjcollective.com. And if you have a guest suggestion, let us know that via Twitter at MCJ pod.
+Yin Lu (40:01):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ Venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (40:11):
+Thanks and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

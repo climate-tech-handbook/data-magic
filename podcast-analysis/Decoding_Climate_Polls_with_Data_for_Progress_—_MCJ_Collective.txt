@@ -1,0 +1,292 @@
+Danielle Deiseroth is the Executive Director of Data for Progress. Data for Progress produces polling, database messaging, and policy generation for progressive causes, campaigns and candidates. Danielle joined in 2020 and built the climate and environmental polling practice. She became interim executive director in December 2022 and was named executive director in June 2023.
+We have a robust conversation on what polling is and how it works, and then we dive into what polls are revealing about climate change from a messaging perspective and from a policy perspective. Cody and Danielle touch on trigger words in climate messaging and talk about popular policies related to climate change and policies that still concern folks. Spoiler alert: range anxiety with EVs is still very real. Lastly, we talk about some focus group work that Data for Progress recently conducted to get local insights from community members in a handful of geographies that are being considered for the Department of Energy's direct air capture (DAC) hubs program. Political polling can feel like a dark art, but we're grateful to Danielle for taking the time to help demystify it.
+Get connected: Danielle Deiseroth Twitter / LinkedInCody Simms Twitter / LinkedInMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on August 3, 2023 (Published on August 14, 2023)
+In this episode, we cover:
+[2:40] An overview of Data for Progress and Danielle's background 
+[7:38] The organization's earned media success
+[9:02] How Data for Progress is structured and the skill sets that contribute to its rapid response
+[13:02] Polling results regarding climate messaging and trigger words 
+[21:00] Polarization around electric vehicles
+[23:36] The Inflation Reduction Act (IRA) and popular electrification rebates 
+[26:10] Polling results from states that are receiving financial benefits from the IRA 
+[27:32] The role of resiliency messaging 
+[30:46] Direct air capture (DAC) hubs and regional differences in sentiment
+[35:42] The importance of environmental justice and workforce development in the clean energy transition
+[37:29] What's next for Data for Progress leading up to the 2024 election 
+[40:53] How people can help
+Resources mentioned:
+New Bluegreen Alliance Data Visualization Identifies Hard-Hit Areas of the Country That Stand to Benefit from Federal Investments Share
+Yale Program on Climate Change Communications
+Cody Simms (00:00):
+Today's guest on My Climate Journey is Danielle Deiseroth, executive Director of Data for Progress. Data for Progress produces polling, database messaging, and policy generation for progressive causes, campaigns and candidates. Danielle joined in 2020 and built the climate and environmental polling practice. She became interim executive director in December 2022 and was named executive director in June 2023.
+(00:29):
+Prior to Data for Progress, Danielle worked on Senator Bernie Sanders' 2020 presidential campaign. We have a robust conversation on what polling is and how it works, and then we dive into what polls are revealing about climate change from a messaging perspective and from a policy perspective. We touch on trigger words in climate messaging and we talk about popular policies related to climate change, as well as policies that still give folks concern. Spoiler alert, range anxiety with EVs is still very real.
+(01:02):
+Lastly, we talk about some focus group work that Data for Progress recently conducted to get local insights from community members in a handful of geographies that are being considered for the Department of Energy's direct air capture hubs program. Political polling feels like a dark art to me, and I'm grateful to Danielle for taking the time to help demystify it. I hope you feel similarly after listening. Before we start, I'm Cody Sims.
+Yin Lu (01:30):
+I'm Yin Liu.
+Jason Jacobs (01:30):
+I'm Jason Jacobs and welcome to My Climate Journey.
+Yin Lu (01:36):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:42):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Danielle, welcome to the show.
+Danielle Deiseroth (01:57):
+Thanks so much for having me. I'm really happy to be here.
+Cody Simms (01:59):
+Well, Danielle, I am so excited to learn from you. I know nothing about political polling and how any of that works and gosh, like it or not, probably I should say, we are soon headed into another election cycle. I think it's time for all of us to understand how this world works, especially because climate was such a big part of the story in the 2020 elections and a ton of climate policy has since passed. There's going to be referendum on that, I'm guessing, in upcoming election cycle. With that, maybe introduce yourself, talk about the role you have today and let's talk about how you got to the place where you are.
+Danielle Deiseroth (02:40):
+Absolutely. I know, it's August 2023, but my mind has been firmly on November 2024, basically for the whole year. It's so great to be here. My name is Danielle Deiseroth. I'm the executive director of Data for Progress. Data for Progress is a polling firm, a think tank, and a collective of data scientists, communicators, policy wonks, aiming to drive change on the issues that we care about. Climate change has been one of the core pillars of what we've worked on since our founding in 2018.
+(03:16):
+Thinking all the way back to 2018, our original policy folks were instrumental in championing the Green New Deal and showcasing something like the Green New Deal. The most ambitious climate policy proposal in history at the time was actually supported by a majority of Americans, and this seemingly, far-flung, ambitious climate policy really had widespread support. I joined the organization a little bit later. I worked for Bernie Sanders in 2020 on his presidential campaign, not doing data and polling. I was an advanced person, which meant I put on Bernie rallies for a year. It was super fun.
+(03:54):
+I joined Data for Progress in June of 2020, just over three years ago, as the inaugural climate data analyst. My job was to build up our climate polling practice, if you'll say, building on those early foundations of the Green New Deal and expanding that to understand how Americans, how voters perceived a wide array of climate issues.
+(04:22):
+I started in June of 2020, right around when Joe Biden became the nominee for president and had just introduced his climate platform. One of my first projects that I worked on was showing how popular many of those proposals, which now our law were and why running on an ambitious climate agenda was the right thing for President then candidate Biden to be doing.
+(04:46):
+Over the past three years, it's been a lot of time was spent trying to continue building the public case for passing ambitious climate legislation. I've pulled nationally in dozens of states to understand how Americans were perceiving what we now know as the Inflation Reduction Act, a landmark investment to ramp up American clean energy production.
+(05:11):
+I did that for basically until the bill was passed and soon after that, I took over as our director of the organization. A lot of my time is still spent in our climate strategy, but now more time is spent leading the organization and also continuing to improve on our polling methods. That's a very short version of how I got here and my journey at Data for Progress so far.
+Cody Simms (05:34):
+Thank you so much for sharing the background. First of all, congrats on recently being named executive director. Obviously, I mean, I'm sure it speaks to your own output and leadership style, but it probably also speaks a little bit to the importance of climate communications in the organization's overall focus. Is that a correct assumption to make?
+Danielle Deiseroth (05:54):
+Yes. Thank you so much. I really appreciate it. Yes, climate continues to this day, even though we passed the IRA and we were so happy to be a very small part of making the public case for that investment, there's still so much work to be done at the national level, at the state level. Part of the fun of the first half of this year especially, was conducting still lots of national polls about how folks were feeling about the IRA after it passed, but also polling folks in places like Michigan, Minnesota, New York, states that were considering incredibly ambitious climate legislation as well.
+(06:33):
+Shocker, climate change action is popular even in purple states like Michigan and Minnesota. We saw some really awesome victories there, like Minnesota passing their clean electricity standard and New York where I live now, passing some really awesome policies around all electric buildings and public ownership of power, just really thinking how states can be leading on climate action and how there's actually not that much data out there publicly about policy issues, especially at the state level in years that aren't presidential election years.
+(07:11):
+Part of Data for Progress's mission is being able to work with groups on the ground who are advocating for these policies and conducting polling that is widely available that we send out on our website, publish in the news to democratize access to data. That's a huge core tenant of what we believe in and what we do is making polling and data accessible, transparent to as many folks as we can.
+Cody Simms (07:38):
+Well, and let's lean into that a little bit. One of the things I noticed when I was reading through the materials on your website was that you talk about how Data for Progress, in particular, earns a lot more direct media than most other polling and think tank organizations. It was like by a pretty significant factor in terms of your ability to generate dialogue and awareness of the work that you put out. What's the secret sauce there? Is the current sort of trajectory of change at Twitter going to impact that at all?
+Danielle Deiseroth (08:09):
+Oh my gosh, yeah. I think about that all the time. I mean, I remember way before I joined Data for Progress, seeing policy proposals about housing and climate on Twitter and sending them to my colleagues at a different organization, be like, "You guys should listen to these folks." Twitter is still a great way that we get out our information. We are on Threads and Instagram as well.
+(08:30):
+I really think the secret sauce is that, again, just democratizing data, getting it out there and recognizing that it is scientifically proven that folks underestimate the percentage of their fellow Americans that support climate action or support other progressive policies. Part of the big push for us is injecting our polling into the media because that's how we can create a social license for folks to realize, "Actually, this thing that I think is a pretty good idea is supported by a lot of other people too."
+Cody Simms (09:02):
+It sounds like to do that effectively, you all have to be good at a few different things all at once. You have to be good at the actual act of polling. You have to be good at the underlying data science of analyzing and understanding the polling data you're getting in order to be able to draw conclusions from it. You need to be good at communications and PR and you need to have a good understanding of the broad policy environment that is currently being contemplated.
+(09:28):
+How do you all structure the organization and how does that all work, because again, like I said, I don't know anything about polling and I'm super interested to understand how it functions.
+Danielle Deiseroth (09:37):
+That's a great question. We have a couple of distinct teams at our organization. Of course, the biggest team is the polling team. We have awesome polling analysts from all across the country who write out our survey questions, analyze the data, do the sort of, I guess, what you would call secret sauce of weighting surveys, analyzing surveys.
+(09:57):
+I think another huge component to why we're able to be so quick to respond, especially in rapid response moments, is because we have a tech team. We have some incredible software engineers who have built tools for us to quickly field and analyze surveys. What could take theoretically days or a week plus can take us a matter of hours. When the media cycle is so quick and it moves at the speed of lightning, we have to be able to respond at that same pace. Our tech team builds the tools for our polling team to really succeed.
+(10:32):
+We also have an awesome communications shop. Our communications folks are not just comms people, they're also pollsters too. We have a saying of data for progress that everybody's a pollster. Some of our most popular and clicked on polling projects have come from folks on the tech team, folks on the ops team. Even if you're not directly on the polling team, I think, every single person has run their own polling questions at some point over the past year or two.
+(10:59):
+A lot of time is spent collectively just talking together, huddling, thinking about the immediate moment that we need to respond to, and then how does that factor into the bigger picture and spending a lot of time clued into the news cycle to understand how we can best inject our data into it.
+Cody Simms (11:15):
+You mentioned the tech team being secret sauce, what's some of the software or tech that they have built that helps your polling team move faster?
+Danielle Deiseroth (11:22):
+We basically have a one-stop shop where our polling analysts can upload the surveys, weight their surveys. We still have to deal with SQL a lot, but not as much as we would fear we do.
+(11:36):
+It's really innovative in that there's a lot of low code, no code that enables, like I said, folks who are coming with a data background but aren't maybe the most experienced programmers to still have a lot of autonomy over the work and focus on what's most important, which is analyzing the data, making sure that we're reflecting the correct demographics and being able to change those things when necessary, when things like redistricting happen or when we get new voter file data based on the last election.
+(12:06):
+That internal software also enables us to create really cool graphics. If you've seen our, if you go to our Twitter, you'll see we have a pretty iconic to us, at least, style of charts and graphics. When I first started out my career as a consultant, I can't tell you how many hours I spent in PowerPoint making sure little bars were perfect next to each other, but our software and our tech team enables us to create beautiful charts in 10 minutes instead of 30 minutes.
+Cody Simms (12:33):
+Well, infographics are eye candy and most people like me honestly can't get enough of them for the most part. Good job being able to rip them out quickly.
+Danielle Deiseroth (12:42):
+I always joke to my staff that I have kind of a bird brain. My brain is broken because of the bird app and my eyes are drawn to bullet points and pretty charts. That's what people pay attention to.
+Cody Simms (12:55):
+Don't forget the emojis. It does the same there, right?
+Danielle Deiseroth (12:58):
+Yes. I'm like boomer level with my emojis.
+Cody Simms (13:02):
+Well, let's jump into some of what you all have actually learned about climate and what resonates, what doesn't. I think you mentioned climate policy is surprisingly, maybe, overwhelmingly popular. When it comes to jobs, who's going to say jobs are bad, if there are green jobs. Most people are generally supportive of more jobs regardless of your politics. I'm curious what polling currently says, I don't know, to what extent you all are focused on analyzing individual policy versus analyzing messaging. I'm curious if you know what polling says works and doesn't work in climate-related messaging.
+Danielle Deiseroth (13:41):
+That's a great question. That's really the bread and butter of what we do message testing, as well as, issue polling on specific policies. In terms of messaging, I mean, I think messaging climate as an economic issue has been really persuasive to folks especially who might be scared of the words climate change. There is still a lot of polarization around the words "climate change" and that is sometimes disheartening to see, but that's the reality of how it has happened.
+Cody Simms (14:15):
+I mean, just to double click on that, I feel like a decade ago the phrase was global warming and that got politicized. Then, it shifted to climate change and it feels that is also starting to be a signaling word maybe, for lack of a better term, that sort of helps people signal political allegiance, which is crazy, but you could tell me if I'm wrong there.
+(14:35):
+It feels like the phrase that I'm starting to hear more and more from broad swaths of people is energy transition as like a code word for the same stuff, but focused more on the economic side of things. Am I crazy in hearing that or is that what you're hearing too?
+Danielle Deiseroth (14:51):
+No, that's very message tested. I mean, I've even done polling myself, but I've seen plenty of other pollsters do it too where you just, the slight tweak of saying transition away, move away from fossil fuels and toward more clean energy is more gentle, I would say, than ending fossil fuels, banning certain technologies.
+(15:13):
+Climate change is scary. It's a huge societal transition that we're going through right now where we're moving away from the past century, precedent into a new world where folks have electric cars and there's windmills on farmland where maybe for centuries beforehand it was just completely empty land.
+(15:33):
+There's a really human element to the energy transition to use the words you used and a lot of what we look at in our polling and message testing is how can we make this relatable to folks? How do we actually show what the clean energy transition is about rather than just tell them it's happening?
+(15:51):
+That sort of show don't tell is the adage that I use all the time because for so many voters, for so many Americans, climate change is not something that they're maybe explicitly thinking about all the time, but they're certainly thinking about their bottom lines. They're thinking about the food they're putting on their table.
+(16:08):
+They're thinking about the gas that they're putting in their car and spending a lot of money on every month, and the sort of backyard and driveway issues is, A, a great way to get our foot in the door to help explain why we need to take action on climate change, but also make topics more relatable, more accessible to Americans, so climate change isn't so polarizing. It isn't so scary.
+Cody Simms (16:29):
+It feels to me energy transition is a way to name the cause of climate change, right? It's the maybe more broadly friendly way to say move off of fossil fuels. Then, climate change though, to me, is the effect, right? It's the what are we all feeling because of this cause? It seems like the language that is maybe being used again, if the phrase climate change sadly is becoming more and more politicized, I hear extreme weather being used more often as a way to describe the effect. Is that also something that you're discovering in your polls or am I making this up?
+Danielle Deiseroth (17:04):
+No, that's completely accurate. We can ask a poll and be like, "How concerned are you about extreme weather? How concerned are you about climate change?" There is totally different looking at how Democrats respond versus Republicans respond, for example, or even just asking.
+(17:19):
+We just did a poll earlier this summer around the wildfires and the wildfire smoke that was, at the time, only permeating the East Coast, but now it's reached all the way to Chicago at this point, at some point this summer and asked folks what they think are main contributors to extreme weather.
+(17:35):
+There was definitely a lot of polarization around connecting the dots between is climate change responsible for making extreme weather worse? I think we're not going to achieve the decarbonization that we need as a world if we are glued to one term or not. I don't really care whether we use extreme weather, energy transition, climate change.
+(17:58):
+Part of my job is understanding what terms people respond to the most, but the most important thing is that we're all on the same page that we're able to drive progress and there are certainly trade-offs to the energy transition. Those are real. There's definitely folks innate fears about the energy transition are not unfounded.
+(18:17):
+There's jobs that will be lost and not all of them will be returning in the same way. That's the reality of what we're facing and being able to communicate honestly, earnestly and transparently about those trade-offs is I think the next big challenge that I see in trying to message about climate change and clean energy.
+Cody Simms (18:34):
+I guess, to some extent it probably also depends on who is driving the message and to whom they're trying to reach. Are you trying to activate people who are already extremely concerned about these things or are you trying to convince other people why these policies should be good for them, even if it's not something they're necessarily thinking about or are you helping them realize it's relevant to them and they should care about it, I guess, I don't know?
+Danielle Deiseroth (18:59):
+Messenger matters a ton. One of the most memorable surveys I've ever done and I tenure at Data for Progress was a survey of Wyoming, which is a difficult state to poll because it's a very sparsely populated, as a side note, but we asked about messengers on the clean energy transition or just, I don't think we even used the word clean energy.
+(19:17):
+I think we used traditional energy versus non-traditional energy because just knowing the environment we were going into and folks in Wyoming said that they want to hear about energy from fossil fuel companies and just such an entrenched, not even trusting certain messengers territory that you have to look at regionally in certain states and certain cities. Messengers certainly matters.
+(19:40):
+Other interesting finding that stuck with me is how much folks trust their friends and family and community groups to tell them information about climate change. That always sticks out to me too about how word of mouth and talking to your friends and your family really does matter so much in helping to socialize ideas about climate action.
+Yin Lu (19:59):
+Hey, everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view.
+(20:19):
+What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community, a number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more.
+(20:45):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+Cody Simms (21:00):
+Are there certain words that are trigger words and certain words that generally maybe, you said wildfires or floods, if you're really specific, maybe people generally tend to be less triggered by it, I don't know.
+Danielle Deiseroth (21:13):
+It's really just the words climate change, even clean energy is way less polarizing. Renewable energy even less so. I just think back to, what was it that congressman who brought in a snowball to Congress? I feel like that image is what I see when I see crazy polarization if I'm asking you about the words climate change is like that, but there's a lot of ways to get around it, I will say.
+(21:34):
+Folks generally know what you're talking about when you mean clean energy. When you mean clean energy, folks think that's solar and wind energy, which is something like 80% of Americans have a favorable view of. That's one thing I've observed.
+Cody Simms (21:47):
+Moving from sort of communication best practices to actual policy, there's been a ton of policy that's been passed in the last few years. What has proven to be popular and what has proven to maybe not be as popular thus far?
+Danielle Deiseroth (22:00):
+Let's see. I'll start with unpopular first. I see a lot of polarization around electric vehicles, the words electric vehicles kind of similar to the words climate change. I like the automakers putting their really slick commercials on the Super Bowl about EVs, but it's definitely scary, I think, to people because this is literally one of the most tangible and closest things to you about the energy transition is like, are you going to be able to drive the same car that you like in 20 years? Probably not. There's going to definitely be some changes there.
+Cody Simms (22:33):
+Is the car you just bought going to tank in value faster than you thought it was going to, right? I would presume is also a concern, I don't know.
+Danielle Deiseroth (22:41):
+Yeah, I think the biggest concern that folks have about EVs right now, cost is decreasing as a concern, but it's still something we have to worry about. We actually put new polling out on this week. The biggest concern that folks have now about electric vehicles is range anxiety and not knowing if they're going to be able to make it to where they need to go with their electric vehicle.
+(23:00):
+Again, people's concerns are valid. They didn't put charging stations in the route between Washington DC and my family's home in Pittsburgh until maybe a couple months ago, and I was like, I can't even think about getting an EV until they do that. I was scared to drive an EV when I went to San Francisco and they tried giving me one at the airport because I didn't know where the chargers were. I'm someone who's probably the low hanging fruit to buy one.
+Cody Simms (23:23):
+Fear of the unknown is a totally reasonable concern for people, right? If you've never driven one before and you don't know how it works and you don't know if there are enough chargers until you go drive one or your friend has one, it's going to be hard to get over that.
+Danielle Deiseroth (23:36):
+I think there was a study that came out, there's a social effect. People in certain neighborhoods, there's clusters of folks in proximity to each other having that EV ownership expanding. You see your neighbor driving it, it must be okay. I guess on the flip side of really popular policies, the rebates for electrifying your home from the Inflation Reduction Act that passed last year, crazy popular, 70 plus percent of Americans of course support the government helping you buy appliances that will make your home lower your energy bills. The challenge there is finding an electrician to help you put in a heat pump to your home now. That's the next step there.
+Cody Simms (24:15):
+People are getting over the terminology challenge of whether a heat pump is also an air conditioner. People are learning that.
+Danielle Deiseroth (24:21):
+I don't know if we're there yet, but if you ask people, would you rather have something that heats and cools your home versus separate things for both? People are like, "Yeah, I want the thing that does both." Again, I think it comes back to accessibility. We've had energy efficient washing machines and refrigerators in Home Depot for decades. Thinking about the government helping you buy those for your home, yeah, that's really popular.
+(24:42):
+Like I said earlier, solar and wind energy are just generally very well-liked like. They're the popular kids of energy, I would say. Another component that folks really like from the Inflation Reduction Act is just when we ask them, "Do you want to build more solar and wind energy in the US? Do you think that the US should be prioritizing clean energy in the future over fossil fuels?" Majorities of Americans say, "Yes." Majorities of Americans support the government investing resources to build solar and wind energy. Those have always jumped out to me.
+(25:11):
+I've been pulling these policies for years now, and it's really, I think, unique how durable support has been. The closest analog would be thinking about Obamacare and how polarized that policy became over time. Then, it also, its popularity grew over time too as it became entrenched in part of our society and the Inflation Reduction Act.
+(25:36):
+It's a year since the bill passed and it's still just as popular as the day it was passed, and we're seeing that efforts to overturn the bill or repeal, a lot of those tax plans both at the state and the federal level are falling pretty flat because the benefits are already being felt and it's becoming part of our world already.
+Cody Simms (25:54):
+I've seen some reports, and I'm not going to know the stats or the details, but that show that actually significant amount of on the ground benefits of the Inflation Reduction Act, thus far, have been in states that were red in the 2020 election.
+(26:10):
+That's where manufacturing plants are being built for batteries, et cetera. I'm curious what polling is showing about places that have received financial benefit from Inflation Reduction Act in terms of opinions about the legislation, if you have any of that data yet.
+Danielle Deiseroth (26:26):
+There was actually a great poll put out this week by the BlueGreen Alliance, which is one of my favorite partner organizations. They're an alliance of environmental and labor groups because labor is a huge element of the clean energy transition. They put out polls this week. They did a survey in a bunch of states that are receiving, like you said, a huge amount of IRA funding. They specifically looked at non-college educated workers, non-college educated American, sorry. That population specifically really supported the IRA, the investments in making things in America, making the future of clean energy in America.
+(27:00):
+I really liked that poll because it also confirmed what I've seen in our own data too, at Data for Progress, that you have to show what the benefits are and how it's not only helping make the world better for your kids and your grandkids, but also boosting your community, helping to create new jobs for the long term. I think that there's huge potential to hopefully, fingers crossed, depoliticize and depolarize climate action in the long term because of this bill.
+Cody Simms (27:32):
+What are you seeing in terms of resiliency messaging that works? A decade ago, all the message about climate change was how screwed we all are. It feels like in the last few years, the messaging has completely shifted toward here are the solutions, here are the policies that are going to move us forward while creating jobs, while boosting the economy, and yet, people are still dealing with wildfires, they're dealing with floods, they're dealing with drought, they're dealing with heat waves. The whole country is going through a massive heat wave this summer. How has that type of messaging worked or not worked?
+Danielle Deiseroth (28:05):
+It's kind of like an all of the above, I would say. Now, it's like climate change is here now and we have to adapt and mitigate in the future. That's why so many people, even in my own life, my dad has really come around on climate as an issue that's partially because I'm talking his ear off whenever I see him about it, but also because he's a civil engineer in Western Pennsylvania and he's seen how flooding from extreme rainfall has really impacted the sewer systems and wastewater pipes.
+(28:36):
+As an engineer, he's literally on the front lines of adapting to climate change and we have to address what we're doing now and also fix this in the long term because our infrastructure literally cannot handle climate change as we've seen all across the country, is really potent and it's really impacting folks who before maybe thought of climate change as a far away thing, but it's here now.
+Cody Simms (29:03):
+That's a good point. Maybe a decade ago, it was gloom and doom messaging. We were only just starting to feel some of the effects. Now, it's pretty undeniable that everybody has dealt with a world in the last few years in one wave form or another that was different than they were used to.
+Danielle Deiseroth (29:18):
+We did some polling last year when San Francisco was, those really apocalyptic images were coming out of an orange sky in San Francisco. Of course, we saw similar images coming out of New York this year with the wildfire smoke, but there was really grave concern and a measurable uptick in concern when these crazy, extreme weather events happen. Folks see that blasted on TVs or literally see it or experience it with their own eyes.
+(29:45):
+I don't want to say I feel like optimistic because poor people now know climate change is happening already here, but again, at least it's like I don't care if you call it climate change, extreme weather, whatever. If you recognize it and you want to do something about it, we'll welcome you into this fold.
+Cody Simms (30:01):
+Let's get a little specific on some policy analysis you recently did that is future thinking analysis around the DAC hubs that got funded as part of the bipartisan infrastructure law, but yet, most of the details about them I think are still being figured out. You all did a bunch of work to help try to help those who are figuring these things out to have some data in their hands. Share a little bit more about that.
+Danielle Deiseroth (30:25):
+Yes, I am so excited about this. The DAC hub announcement is somewhat hopefully imminent. We'll see, hopefully this summer or fall, that announcement will come out.
+Cody Simms (30:36):
+Maybe unpack what that is for folks and try to avoid acronyms, DAC as direct air capture. If you haven't been following along with the pod, this is your first episode, direct air capture hubs.
+Danielle Deiseroth (30:46):
+Direct air capture hubs are, the federal government is pouring a bunch of money into regional direct air capture hubs where there'll be a suite of different technologies to suck carbon dioxide out of the air. This is really exciting to me. A little bit more about my background, I was a chemical engineering major in college, I am obsessed with carbon removal. It literally is my favorite thing to talk about.
+(31:12):
+Many of my friends are like, "Oh my God, you're talking about this again," but at Data for Progress, we love talking about it because we see a really unique opportunity for new climate technologies like direct air capture to rewrite the rules of what energy ownership looks like in this country.
+(31:32):
+We don't have to have the same sort of structure that the fossil fuel companies imposed on us for decades. We can really create a better future with these new energy technologies that are also helping us address climate change. We don't just do polling at Data for Progress. We also do qualitative research like workshops and focus groups.
+(31:54):
+The impetus of this project was going to a few places around the country that met the criteria for what the federal government was looking for for these regional air capture hubs, looking at places that had previous legacies of fossil fuel or petrochemical companies, places that we could have space to build these direct air capture hubs, and also opportunities to invest in communities that have been facing the impacts of fossil fuel pollution and climate change. We found some really interesting things in these workshops, and we also did a national survey to kind of compliment those findings.
+Cody Simms (32:30):
+Before you go into the findings, I'm going to pause you because we're going to leave that hanging for a second. The reason that the federal government had those criteria in funding these DAC hubs is why?
+Danielle Deiseroth (32:42):
+It's because the Biden administration cares about environmental justice. Environmental justice is, like I said a little bit earlier, it is looking at the past, looking at how pollution has disproportionately impacted certain communities more than others and working to address those inequities and be it through financial investment or job creation. That is a really important criteria, and it's new.
+(33:12):
+Thinking back to 2020, this is something that we pushed for, was for paying attention to environmental justice, setting federal standards around how much money was going to these communities, not just going to the same communities that always get the dollars, but to communities that have been left behind. That's a really important thing that you pointed out there is like why were these rules created in the first place?
+Cody Simms (33:32):
+I suppose for your first criteria, which is that they have a legacy of having fossil fuel industry there, there's the environmental justice angle of if they have a legacy of fossil fuel there, they probably also have a legacy of pollution there, but there's also the skilled workforce component to it to some extent, and the labor transition component to it, I'm guessing as well. Is that right?
+Danielle Deiseroth (33:50):
+Yeah, exactly. I mean, having folks who know the land, know how to build the tool sets, whether it's to operate machinery or to tangible work actually on the infrastructure itself, but also I think we forget too about the back office jobs that are really important to making energy infrastructure, thinking about all of the finance, operations, accounting, all that goes into what folks are maybe doing literally out in the field is important to not forget about too.
+(34:23):
+Some of the places that meet that criteria, actually not too far from where I'm sitting right now in Beaver County, Pennsylvania, was one place we went, Rock Springs, Wyoming, Bakersfield, California, and Houston, Texas. Places that have had a lot of intermeshed history with the fossil fuel industry, and we had some variation in results from place to place of what people were saying on the ground.
+(34:46):
+Here in Beaver County, folks were really skeptical about direct air capture because they had been burned by the petrochemical plant that was built in their community where there were so many jobs promised and they didn't all materialized. There was really recent hurt there, but then places like Bakersfield were super open, very receptive to a direct air capture hub there because of, like I said, Bakersfield has a really skilled workforce with oil and gas. They were, I think, much more excited about how they could use those skills in a new energy technology. That was really cool to see how those regional differences were there.
+Cody Simms (35:30):
+Anything that you know as the DOE or whomever else is trying to make decisions on where these DAC hubs should go, that has been specifically insightful information for them to make those choices?
+Danielle Deiseroth (35:42):
+Oh man, I wish I knew more, but that's definitely more of a black box. I know that our report, and with our survey that we did alongside this report too, that jobs component and the durability of good jobs is really sticky. In our national survey that we did, I think a majority of respondents said that either no promises will be met about jobs or there'd be the number, but they wouldn't be very good, or they'd be good or there wouldn't be enough of them. There's just a lot of skepticism that new energy technologies will create this type of workforce maybe that the fossil fuel industry did create. That sort of workforce development and training, I think, is especially important.
+Cody Simms (36:26):
+I mean, you have to. I think people have seen what happened in the last 20 years with tech with the promise that tech was going to transform all of our lives. Really, a lot of what's happened is that it's created a lot more outsourcing and it's created a lot of automation, and that makes people skeptical about how is, when I say tech, I mean software tech, how are people's lives going to change as we move to new energy technologies? I understand the skepticism from people.
+Danielle Deiseroth (36:55):
+Especially when we're talking about things like sucking carbon out of the area. When you hear that, you're like, "Wait, what? How?" Some of our open-ended responses too, like when we were doing our survey in Wyoming, this has really stuck with me too, is that folks were some of the responses when we asked people to type in, "Do you have any other thoughts?" They'd say, "Is this going to disrupt the natural environment because when we hear carbon in schools, we think about trees, we don't necessarily think about what we can't see." There's a whole new learning curve too, to even just talking about how we're working to address what's in the air all around us.
+Cody Simms (37:29):
+With this being sort of a future facing thing that we're hopefully we'll likely hear more about from the federal government shortly, and then, a wave of new details as implementation rolls out, that gets my mind thinking toward the next few years. As we started the conversation with 2024 looming on the horizon, what for you and at Data for Progress, does the next 18 months look like with elections coming up?
+Danielle Deiseroth (37:53):
+It looks a little different than we did in 2020. In 2020, we were really focused on pushing Biden to the left, and now we're looking to continue to be helpful in shaping the national narrative. If we're going to see the same, I think, policy topics rehashed, especially if it's a rematch between President Biden and Donald Trump than we did in 2020, we're hoping to still be making the public case that climate action is something that voters care about and that is not the boogeyman that some folks may want to make it out to be when they're on the campaign trail.
+(38:28):
+Also, leaning more into the messaging and how do we talk about this bill? How do we sell this bill? How do we make this a core component of what the folks who work to pass that bill in Washington DC are able to talk about to voters back home? I think keep an eye out from us for that sort of messaging and narrative building over the next 18 months.
+Cody Simms (38:49):
+Interesting. To some extent, you think a lot of the conversation will be essentially a referendum on what has happened and whether it's been successful or not relative to what would the next four years look like beyond now, or I guess, maybe too early to know in terms of what people want to hear about.
+Danielle Deiseroth (39:07):
+I think it'll be a lot of what progress has President Biden made on the issues that you care about. How is the economy doing? What do you want the next four years to look like? Do you want it to be more of the progress that we've made on things like climate or are there other priorities that you care about, that you feel like haven't gotten addressed?
+(39:25):
+It's certainly nerve wracking to think about because personnel is policy, and like I said earlier, the DOE having this criteria to think about environmental justice wasn't the case with previous administrations. That really matters to think about durable. That's the whole reason why I got into climate in the first place was because I was sitting in my engineering classes in college when Trump was elected and saw that the office that was then called the Office of Fossil Fuel Management is now carbon management.
+(39:54):
+That's a textbook example of how things can just shift in such a short amount of time and how much progress we can make in such a short amount of time too. As a climate voter myself, that's certainly one thing that's not going to escape me.
+Cody Simms (40:08):
+Where do you see things playing out at the local and state level?
+Danielle Deiseroth (40:12):
+I think at the local and state level, folks trust those elected officials more than they do trust the folks in Washington. I think there are a lot of issues that will be driving people to vote next year that aren't climate related, but thinking about the dollars even that are flowing from Washington DC to states and local municipalities as part of the bipartisan infrastructure plan and as part of the IRAs is certainly something for local officials to talk about too, how those dollars are boosting the economy, creating jobs and also addressing climate change. I think it's going to be very focused on the economy, very focused on jobs and even energy prices I think will play a big role too.
+Cody Simms (40:53):
+For people who are listening, who are intrigued, interested in what you do, how can people help you? Where does Data for Progress need help in helping to drive this understanding of how we're all navigating this world around us?
+Danielle Deiseroth (41:08):
+You can find us. We have our website dataforprogress.org. We publish a ton of polling every week on our site and briefs and reports. You can also follow us on socials, Twitter, if you're still there. We'll be the last people there at the very end playing our little violin as the ship sinks, but you can find us there, amplify our results on social media, send them to folks, subscribe to our newsletter. We have a very entertaining newsletter that we send out every Friday with recapping our polling from the week, and we're always welcome to have folks support our work too.
+(41:40):
+Climate action is collective. It is something that all of us can do together. Talking about climate with your friends, your family, creating that social license, talking about how things are popular is a way to really move the ball forward.
+Cody Simms (41:55):
+Is Data for Progress a 501(c)(3)? How are you funded and what does that look like?
+Danielle Deiseroth (42:00):
+We have a 501(c)(3) and a 501(c)(4). Our 501(c)(3) is where you'll find a lot of those, like our DAC report and our policy polling and general climate issue awareness polling as well.
+Cody Simms (42:14):
+Then, the (c)(4), it does work with specific candidates, is that the way to think about it?
+Danielle Deiseroth (42:18):
+Yup, exactly.
+Cody Simms (42:19):
+Got it. Great. Well, what should I have asked that I didn't ask? We covered a lot.
+Danielle Deiseroth (42:24):
+Let's see, what are some middle of the road popular policy [inaudible 00:42:27]?
+Cody Simms (42:27):
+Do it. Let's go. Bring it.
+Danielle Deiseroth (42:29):
+We talked about the most popular and the least popular, I'd say solidly middle of the road is electric school buses. They're a little less popular than they think they'd be because I think they get some of the backlash of electric vehicles overall, but people are like, "I love school buses." They're solidly popular, but not 90%.
+Cody Simms (42:50):
+Anything else that you want people to know about Data for Progress, about your work, about climate change, anything before we wrap?
+Danielle Deiseroth (42:56):
+I think the last thing is just I maintain a huge sense of optimism because of the data that I look at and how I've seen data change over time. Data for Progress hasn't been around for 10 years, but if you're looking for really great historical data, the Yale program on Climate Change Communications has been measuring how-
+Cody Simms (43:13):
+So good.
+Danielle Deiseroth (43:14):
+It's so good. They're amazing, and it's been measuring how folks' opinions have changed over time. I see it in our little couple years worth of data, but to really look at that big data set and just see how much public opinion has shifted, how much the climate movement has moved the Overton window to socialize, the ideas of climate changes is really encouraging.
+(43:34):
+For folks who are steeped in this work, especially, that it can be very disheartening at times, whether you're running up against roadblocks and political progress or just even your own technology, to really be able to take a step back and think about how far we've come and the progress we've made, and to celebrate that. There's certainly challenges ahead, but being grounded in optimism, I think, is really essential to being in this work.
+Cody Simms (43:55):
+That is a good note to end on. Danielle, I'm so appreciative for you for joining us because I can only imagine how busy the next year plus of your life is going to be. We appreciate the work that you do to help these stories get out there and to help all of us understand where there is room to continue to make big progress.
+Danielle Deiseroth (44:14):
+Thank you so much for having me and giving me the space to talk about my absolute favorite thing for this period of time. I can't imagine a better way to spend the afternoon.
+Jason Jacobs (44:22):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (44:27):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+Jason Jacobs (44:36):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. If you have a guest suggestion, let us know that via Twitter at mcjpod.
+Yin Lu (44:49):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (44:58):
+Thanks and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

@@ -1,0 +1,321 @@
+This episode is part of our new Capital Series hosted by MCJ partner, Jason Jacobs. This series will explore a diverse range of capital sources and the individuals who drive them. From family offices and institutional LPs to private equity, government funding, and more, we'll take a deep dive into the world of capital and its critical role in driving innovation and progress. 
+Today’s guest is Jacqueline van den Ende, founder and CEO of Carbon Equity. 
+Carbon Equity pools capital to provide individuals with access to world-class private equity funds, while their team of experts handle the research, management, and investment work. Their approach allows investors to build a diversified portfolio of climate startups and scaleups. 
+In this episode, Jacqueline and Jason delve into Carbon Equity's origin story, their unique approach, and what sets them apart in the industry. They discuss the firm's journey so far, the challenges they've encountered, and the exciting trends that they believe will drive progress in the field. They also examine how Carbon Equity fits into the broader climate capital stack, as more funds and limited partners enter the space.
+Get connected: Jason JacobsJacqueline van den EndeMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on March 23, 2023. 
+In this episode, we cover:
+[2:20] An overview of Carbon Equity 
+[4:41] How Jacqueline's original idea for climate investing came about 
+[9:19] Carbon Equity's focus on the mass affluent market today 
+[13:55] How they raised early funds and who they targeted 
+[17:50] Differences between US vs Europe investor limitations 
+[21:27] Carbon Equity's diligence process 
+[28:12] The firm as a diversification provider 
+[30:57] Jacqueline's thoughts on sector expertise and mission alignment 
+[35:25] Carbon Equity's milestones since January 2021 
+[39:59] The firm's plans for thematic funds 
+[46:02] Some of Jacqueline's key learnings from her journey and the difficult questions she's asking
+[50:31] An overview of MCJ's journey and funding progress to date
+[53:22] Who Jacqueline wants to work with and her parting words, including job opportunities with Carbon Equity
+Recommended Resources: The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
+Jason Jacobs (00:00:00):
+Today on My Climate Journey Capital Series, our guest is Jacqueline Van Den Ende, founder and CEO of Carbon Equity. Carbon Equity pools your capital to give you access to world-class private equity funds. Their experts research, manage, and do the investing work while you build a diversified portfolio of climate startups and scale-ups. We have a great discussion in this episode about the origin story of the firm, their approach, how they're different, how they started, their traction so far, some of the barriers that they've come up against, some of the exciting trends that they could think could unlock progress. And of course, where Carbon Equity fits into the broader climate capital stack as more funds and more limited partners come into the space. But before we start...
+Cody Simms (00:00:57):
+I'm Cody Simms.
+Yin Lu (00:00:59):
+I'm Yin Lu.
+Jason Jacobs (00:01:00):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+Yin Lu (00:01:06):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (00:01:12):
+In this podcast we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help.
+Jason Jacobs (00:01:25):
+Okay. Jacqueline Van Den Ende, welcome to the show.
+Jacqueline Van Den Ende (00:01:29):
+Thank you. Perfect introduction.
+Jason Jacobs (00:01:30):
+I had to practice that few to make sure I pronounced it correctly.
+Jacqueline Van Den Ende (00:01:34):
+It was perfect.
+Jason Jacobs (00:01:36):
+Well, thanks so much for coming. This is an early episode of our new capital series. And the purpose of the series, of course, is to shine a light on what's happening up and down the climate capital stack and learn from people in the trenches that are doing the important work. And hopefully, in addition to educating the ecosystem on what's happening in the climate tech capital stack. Just enable more intelligent matchmaking for everybody, which is our own little way to speed up impact with the content that we do.
+Jacqueline Van Den Ende (00:02:07):
+Makes sense.
+Jason Jacobs (00:02:08):
+Yeah. And you're right in the trenches doing the work. So-
+Jacqueline Van Den Ende (00:02:11):
+Yep.
+Jason Jacobs (00:02:12):
+Super excited to learn more about Carbon Equity and also your journey to start Carbon Equity in the first place.
+Jacqueline Van Den Ende (00:02:19):
+Sure.
+Jason Jacobs (00:02:20):
+So maybe that's a good place to start. What's Carbon Equity?
+Jacqueline Van Den Ende (00:02:22):
+What the hell is Carbon Equity? Carbon Equity is a climate venture capital and private equity fund investing platform. And we make it possible for retail investors to invest in breakthrough climate solutions alongside top professional investors by enabling low minimum access to the world's best climate venture capital and private equity funds.
+Jason Jacobs (00:02:49):
+And how did this all come about? What's the origin story for the firm?
+Jacqueline Van Den Ende (00:02:52):
+The origin story? Whoo. Okay. I spent half my life as an investor, respectively as a private equity investor and later as a partner in a VC fund and other half building companies. In 2019 I really woke up to the climate crisis. I'd always been aware of the climate problem, but it really came to the fore in 2019 when I read the book, The Sixth Extinction. Have you read that?
+Jason Jacobs (00:03:20):
+I have not.
+Jacqueline Van Den Ende (00:03:21):
+Okay. Elizabeth Kolbert's Sixth Extinction, highly recommend it. And that for me was a little bit of the mic drop moments of realizing, "Holy shit, if we don't solve climate change, nothing else matters." So at that point I decided I wanted spend the next 30 years of my life helping fight climate change. And my weapon of choice is capital because I strongly believe that ultimately money decides what happens in the world. So I'm on a 30-year journey for myself to see how I can truly move the needle on climate change through capital. And Carbon Equity is version 1.0 of that, trying to shift the trillions of capital moving into ESG stocks, which are not moving the needle, into private markets, venture capital growth equity, and buyout where you can have a much more serious impact in helping climate solutions scale up or innovate and scale up to maturity.
+Jason Jacobs (00:04:24):
+And so when you first had this, as you called it, mic drop moment, how did you go from that to landing on this one idea and strategy and approach? Were there different twists and turns? Did you look at a number of different things or did you jump right to this one?
+Jacqueline Van Den Ende (00:04:41):
+I was living in the Philippines. I was an entrepreneur. So I'm Dutch, but I lived in the Philippines for six years, I built several companies there. And at the time around 2018/2019 I quite regularly flew between Amsterdam and Manila. And at some point after reading this book by Elizabeth Kolbert I thought, "Okay, my carbon footprint from flying is huge." So I calculated what my carbon footprint was. It was, I think, three tons of carbon or something and it cost me 28 euros to offset that. And so I wondered, "Where is that money going?" And apparently it went to solar panels in India.
+(00:05:27):
+And a naive question at that point popped up in my mind and I was thinking like, "Why is this a donation? Why don't I get a piece of solar panel in return?" And the idea that popped into my head, the vision that popped into my head at that point was, what if instead of offsetting in the form of, for example, planting trees, which is not a structural solution to climate change, we could invest with millions of people in technological solutions that can be a structural solution to climate change? And in the process create millions of micro shareholders of the net-zero economy. So that was the original idea at point of sale, micro investments in climate technology solutions to fuel money into breakthrough climate solutions and create massive joint ownership of the net-zero economy.
+Jason Jacobs (00:06:23):
+So wait, so if we can stop right there. So when you're in line at, let's say, the supermarket, the same way they put little mini chocolates and tabloid magazines and things like that, it would be the equivalent of a micro purchase that would actually make you an owner that you could just tack on where you buy other stuff. That was the initial idea?
+Jacqueline Van Den Ende (00:06:43):
+Exactly. Paying 1% of whatever you're paying and investing that into climate solutions. And the idea there would be... If you compare that to offsetting, offsetting is typically buying off your guilt and it's a one-time transaction. And when you're protecting trees, for example, it's a good solution, better than nothing, but it's not a structural solution to climate change. So the thought was by investing you fund structural solutions to climate change, but you also create people... And people will be invested. And to invest is to be invested in for the next 10/20 years of the lifetime of the companies that you're funding. So the idea is also to also build this positive sentiment around climate change. Typically, when we talk about climate change, we talk about the problem and rightfully so, but it's also a pretty exciting opportunity to create companies that are way more sustainable. And so when people actually have actual ownership in that transition, it can also create long-term engagement, excitement about building this net-zero future. And that's what we're trying to do with Carbon Equity.
+Jason Jacobs (00:07:56):
+So it isn't necessarily just attracting more capital, it is making the broader populace or some meaningful subset of it, an owner which then opens their eyes to... So it's a weird example, but I'm not much of a college basketball fan, but... Oh, I think it's really cool, I just don't follow that closely. But if I did the March Madness pool, right? I'm going to tune in because I want to win, right? Yeah. So maybe it's a little like that? Yeah. Or stock options in a company, right? It's like "Give people ownership so they act like an owner."
+Jacqueline Van Den Ende (00:08:39):
+This is exactly it. Exactly. And you really create excitement because you have that ownership. And that's exactly the type of momentum we want to build. So two goals, one, unleash capital at scale to fund breakthrough climate solutions. On the other hand, build more equitable ownership and this feeling of ownership. And the best case effect is the Tesla effect, where people who own an electric car also get solar panels on their house, for example, because it becomes part of their, yeah, identity.
+Jason Jacobs (00:09:11):
+Now are we talking about the initial entry point where this became alive? Or are we talking about where you are today in terms of the vision?
+Jacqueline Van Den Ende (00:09:19):
+This was initial entry points. So we started talking with the likes of the Royal Dutch Airlines, KLM, for example. We spoke to the Amazon equivalent and we realized that point of sale integrations were really difficult at that point. And what we're doing, retail ownership of equity, is a highly regulated space, so super difficult. So we decided at that the point that are starting point would be to go from top to bottom instead of from bottom to top. So our observation then was if we want to be investing in private markets, there's a huge amount of capital sitting in the world that has no access to private markets. So we focus currently on what we call the mass affluent market. So not yet on the retail-retail market, mass affluent. And we define that as people with a net worth between 100,000 euros and 10 million.
+(00:10:23):
+Globally in that strata of wealth, there's approximately 177 trillion in net worth, which is three times the size of the institutional asset management market. And on average, that market has less than 1% exposure to private markets. And the reason why is because it's super difficult to invest in top funds. Typically, top funds have very high capital minimum investment requirements. Typically, you need two to 5 million euros to even get a seat at the table in a fund. You need network with the fund partners to get into the top funds. And third, you need quite a lot of expertise to select the right fund managers.
+(00:11:05):
+So for all those reasons, people have virtually no allocation to private markets, whereas it makes total sense for anybody who has in excess of 100 K in their bank account to diversify and put 10/20% of their liquid net worth into long-term diversified private equity. So our starting point in this whole mission is open up access, low minimum access, to top climate venture capital and private equity funds for mass affluent investors. And then gradually go down towards smaller and smaller retail investors. And maybe ultimately we'll end up with the original vision of being able to invest a dollar in climate tech solutions when you buy your flight, for example. But this is a more practical starting point.
+Jason Jacobs (00:11:56):
+Uh-huh. And it strikes me that building what you just described, there's a bit of a chicken and egg problem because if you want to get the attention of the top firms you need the capital, but in order to get the capital you need to have the access to the top firms. So how does one start with that two-sided marketplace? And how did you start when you first started trying to make progress towards the vision that you just articulated?
+Jacqueline Van Den Ende (00:12:27):
+Super good question, because you definitely have a chicken and an egg problem when starting out having zero capital and wanting to get into the very best funds. We're a European firm. We started off raising some venture funding ourselves, primarily from a big group of angels that were super well-connected. So we have some founding partners of the likes of Carlyle. We have a lot of people from the Impact Space in Europe. We have some famous founders from Germany who are angel investors and they really helped us open doors initially, getting us in contact with partners at top firms.
+(00:13:08):
+So one of the first funds that we invested in was 2150 VC. They are an urban tech sustainability fund, we're big fans of what they do. They were in the process of raising their first fund and we got the opportunity via these warm introductions to be part of their initial fundraise. And so we started off with a really small amount. We raised three and a half million or something, but we got a seat at that table and that's how we started. And from there on started doing more funds. We launched a fund of funds type vehicle. And yeah. Things started rolling.
+Jason Jacobs (00:13:47):
+And so tell me about that process of raising that first three and a half million. How did you do it? Who did you target? And what did you learn?
+Jacqueline Van Den Ende (00:13:55):
+Yeah. This was really testing the waters at that point. I think we started off really simple and practical. We started off, "Okay. We got the allocation, let's see if we can fill it." So obviously we put it on our platform, but our platform had pretty limited traffic at that point. So we really leveraged our network. So we leveraged the network of our personal network, we leveraged the network of all of our angel investors. We used LinkedIn to get the word out. And I think it's sold out in less than three weeks. It was really crazy because there were so many people who had actually been waiting for this moment like, "Okay. I want to be participating in climate tech. I want to do that not through angel investments, but through a fund type of setup."
+(00:14:43):
+And this was the only way people could participate with relatively low amounts. Initially that low amount was like 100,000 euros, so not that low. Now we're in the process of lowering that to 50 K and then 10 K. But a lot of people have been waiting for this, so it filled up much faster than we expected.
+Jason Jacobs (00:15:02):
+And you mentioned that the retail investment market is quite regulated. How do those regulations affect what you're trying to do and how do you get around, for example, the cap on non-qualified purchaser, accredited investors put in place by the SEC?
+Jacqueline Van Den Ende (00:15:23):
+So different things for US and Europe. In Europe and then specifically in the Netherlands where we're headquartered, there is a full license. We are 95% done obtaining that license, so we'll probably have it by May. And before you have the full license, there are two exemptions. Either you have to invest at least 100,000 euros or you can only market towards 150 investors. We used both exemptions in our initial pilot last year. So the first exemption that we used, you just need to invest 100 K at least. And that also helped us raise quite a lot of volume. So now we're at close to a hundred million in assets under management, primarily with these 100 K plus tickets. The other exemption we also trialed and that was the Climate Investment Club. So we acquired up to 150 members of the Climate Investment Club.
+(00:16:22):
+So people had applied for the club and if they were seriously interested in investing and fit the profile, they would become a club member and have the possibility to invest from 10 K. So we trialed both of these. Next year and next month or in the coming two months when we have the full license, we're actually allowed in the Netherlands to market towards non-qualified investors and we'll have a European passport to market towards qualified investors. So in the US, only qualified investors at this point can invest through Carbon Equity, right? So that's a constraint.
+Jason Jacobs (00:17:00):
+Qualified meaning not just accredited, but actually qualified purchases over 5 million in assets?
+Jacqueline Van Den Ende (00:17:05):
+No, so accredited investors.
+Jason Jacobs (00:17:08):
+Accredited. Got it.
+Jacqueline Van Den Ende (00:17:08):
+So accredited investor. Sorry. Yes, correct. So in the US you still need to be an accredited investor. In Europe, we will be launching what we call ELTIF products and that's the European Long-term Investment Fund. And that opens up the possibility to passports, retail investment type products. So the 10 K investment product, which will be launching in the Netherlands from May onwards, will also be accessible in other European countries. Not yet in the US. So in the US we'll still have to figure out what the way is to truly get toward the retail investor. And so in the short term, it will only be accredited investors.
+Jason Jacobs (00:17:50):
+Yeah. And selfishly, one of the reasons I ask that question is that... Yeah. We're a weird venture firm in that we're raising this venture fund, but we have this vibrant member community. Well, one, there's a cap on the non-qualified purchasers. So if you're accredited with over a million in assets, but you don't have five million in assets, we're only allowed 99 of them. But then also if you're not accredited, there's a lot of people in our community that don't have a million in assets, but want to put in one K because like what you were saying, they want to identify with... They want to get closer to the action. It's part of their identity, they want to be part of the tribe. And we just can't work with them. And it kills us because we're inclusive by nature. It's very frustrating.
+Jacqueline Van Den Ende (00:18:39):
+Exactly. So that nut we have cracked in Europe, not yet in the US. And you're right, actually most of the funds, because you asked me previously, "How did you get into those funds?" Most funds actually want these people on their cap table. So people actually really like the idea of democratizing ownership and being able to include the broader community of people who don't necessarily have millions of euros on their bank accounts. So a lot of funds that we work with share that mission of wanting to include the broader community.
+Jason Jacobs (00:19:13):
+And I guess, everything we need to distinguish, are we talking about Europe or are we talking about the US, right? Because they're so different. But when these retail investors invest, does each take... Well, I guess this is a US question. So another thing is, we looked at passing a hat around or a vehicle to pool the smaller cheques, right? But even if you do that, the number of slots flows through to the people that fill that vehicle. That's at least what our council told us. Yeah. Did you find that as well?
+Jacqueline Van Den Ende (00:19:47):
+So you're saying that you would have a...
+Jason Jacobs (00:19:50):
+If there's a vehicle, one slot on the cap table, right? Actually if there's 20 people to fill it, it's 20 slots on the cap table, which then goes towards that 99 cap, right?
+Jacqueline Van Den Ende (00:20:00):
+Exactly. So [inaudible 00:20:02]-
+Jason Jacobs (00:20:02):
+Not for me and my vehicle, but for the actual fund that takes the money from that vehicle. Yeah.
+Jacqueline Van Den Ende (00:20:06):
+Correct. So we experience exactly that in the US. So the way around for us in Europe is we set up... So we have single funds and we have fund of funds. And the fund of funds that we raised last year was like 45 million, this year we'll probably do like 75 million. And if the vehicle that's investing in the US fund is in excess of 25 million, you don't have that problem. So we're only able to invest in US funds through our fund of funds type vehicle to avoid the fact that all of the investors, which are hundreds of investors investing in Carbon Equity, are counted towards that 100 person cap. So that's how we avoid it through the European side at the moment.
+Jason Jacobs (00:20:54):
+So you're saying we could potentially open up to broader members, non-accredited, as long as we can pool 25 million in capital, then we could potentially be our own LP through the community?
+Jacqueline Van Den Ende (00:21:06):
+I think so. For example, Carbon Equity hopefully will be investing in My Climate Journey and then people could invest in My Climate Journey through that pooled vehicle, which then will not just be a single fund into My Climate Journey, but a fund of funds. So you'll be investing in seven to 10 different VC growth equity and climate buyout funds.
+Jason Jacobs (00:21:27):
+Huh. Very cool. We talked about and I pulled you on this tangent, my apologies, but I wanted to understand that first three and a half million because it's like, yes, you're a capital allocator, but you're also a founder. And so those early founder stories are fascinating and also helpful for people to hear. But okay. So where from there? Actually back up. So the three and a half million, what about the diligence? What kind of work did you do on 2150 and how did you equip yourselves to be able to do that work in a way where you felt like a responsible fiduciary and you could convey that to your potential investors?
+Jacqueline Van Den Ende (00:22:10):
+Super good question. So what makes Carbon Equity unique is our climate diligence. And we spend a lot of time thinking on how do we evaluate what is a good climate fund? And what makes one climate fund better from a climate impact perspective, not just a financial perspective? And so our climate framework, first and foremost, really tests intentionality. How intentional is the fund, the partner team to actually have climate impact? And how then does the team, the process, the incentives, the governance, and the execution line up with that intentionality? So what is the intention and how is the fund executing upon this intention? So we developed a 40 to 50 question type scorecard where we score funds on every element of their impacts structure.
+(00:23:08):
+So let's say we'll have a look at what targets they're setting for impact, what are the impact thresholds a portfolio company needs to meet to be invested in? Who is responsible for impact? What decisions are taken on impact at the level of the investment committee? Is a fund tying their incentives to actually and to realizing impact or not as they carry dependent on realizing your impact objectives? And we'll also look at the whole portfolio of companies that you've already invested in or what your pipeline is and to understand what the impact rationale was and whether that's good enough or whether that's opportunistic.
+(00:23:52):
+So we need to be fully convinced and we'll score every element. And ultimately you'll get a score on a scale of one to five. Five means it's a global best practice. And three means it's good enough for us, it's a good enough standard. So funds need to score at least a three on a five point scale for us to continue in the process. Only after we're convinced on climate diligence side, we'll move to the financial diligence and say, "Well, is this also a sensible investment? Is this a fund that is likely to make a decent return? Are there no red flags there?" But the first step is really that climate diligence. So that's what we trialed with 2150. And yeah. Are continuing to refine that impact diligence process.
+Yin Lu (00:24:41):
+Hey everyone, I'm Yin, a partner at MCJ Collective here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(00:25:08):
+Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly Women in Climate meetups, idea jam sessions for early stage founders, climate book club, art workshops, and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the Members tab at the top. Thanks and enjoy the rest of the show.
+Jason Jacobs (00:25:44):
+So as it relates to a typical venture fund, although I'm raising one now, I'm still learning how to be a VC because, of course, I've been an entrepreneur and an operator my whole career. Not a capital allocator, other than as an angel, which is very different. But one of the things I learned is that if we want to benchmark ourselves against top tier returns, then at minimum we should be looking at three X net of fees and hopefully much better if we perform. And I should know this, but on the fund to fund side, what is that benchmark from a strictly financial standpoint? And then how do you set expectations with your investors? And how do you think about internally your own financial return profile relative to that benchmark?
+Jacqueline Van Den Ende (00:26:32):
+So if a fund is making three X and above, a fund of funds, depending a little bit on the cost structure, would be making two to 2.5 X, right? So the key rationale to be investing in a fund of fund structure is risk mitigation. So if you look statistically at this, the risk of a single fund making less than one X your money back, meaning you make a capital loss, is 24%. But if you invest in seven funds, that statistical risk is 1.5%. So much lower risk of capital loss.
+(00:27:14):
+The flip side is that you're going to also have less outperformance because probably in your portfolio of seven funds, you might have one fund that does a four/five X return, but you will have plenty of funds that are doing two/three X return. So that means that that evens out and you're going to have less underperformance, you're going to have less overperformance.
+(00:27:35):
+We communicate a target return of 10 to 15% per annum over a period of 12 years. That would be a two to 2.5 X times your money back, which is very market standard for a fund of fund structure. And that's net of all fees, of course. And again, that's going to be a relatively narrow margin. So worst case would be maybe seven/eight percent. Best case probably be 18/20%. And so the margin for error, the spread of performance, is going to be much less than with a single fund.
+Jason Jacobs (00:28:12):
+And when you choose funds to back, how do you think about portfolio construction as it relates to... Are you the diversification provider or do you look for funds that have more diversified approaches or both?
+Jacqueline Van Den Ende (00:28:31):
+We see ourselves really as a diversification provider. So if you look at the design of our most recent portfolio fund, it is 50% US, 50% Europe. Well, with the SVB stumble a few weeks back, you saw how incredibly important that geographic diversification is because all of our US funds had exposure. All of the European funds had very limited, if any, exposure. So geographic diversification is super important. Then we also do stage diversification. So in your portfolio fund we'd probably do 10% super early stage, 40%, series A/series B and then another 30% growth and a 20% buyout, for example. So really diversifying between early stage type risks, which are technology risks, which may be market risk. And late stage where you have a different type of risk, which is more operational risk, for example.
+(00:29:31):
+And then the third dimension of diversification is thematic. So we cover the six big themes, agro-food, mobility, built environments, industry, energy and carbon capture and storage. Some funds are fully thematic, so let's take Astanor or 2150. Astanor is really cool agro-food fund. 2150 is a urban tech sustainability fund. And then we also invest in more generalist funds who are investing across all of those different themes.
+Jason Jacobs (00:30:03):
+When you look at the composition of the investment teams at the firms or the funds that you're backing, climate change touches every sector and you can be in a sector but not necessarily climate motivated. And a good example is food and ag or industrials or energy or transportation. Pick a sector, right? You can be a trucking expert and not give a crap about decarbonization, right? But at the same time, you can be super climate motivated and not know the first thing about how to build a successful logistics company, right? Yeah. So how do you think about sector expertise versus mission alignment? And I say, "Versus," as if they're in conflict, but yeah. Maybe versus isn't the right word, I'll have to think about that.
+Jacqueline Van Den Ende (00:30:57):
+I'm going to say for us, climate alignment is an important starting point. So because if funds are not intentional about climates, they might be great sector experts and they're probably going to do a couple of super impactful type investments, but might also do investments that have no bearing on climate goals at all. And our promise is Carbon Equity is truly the best way to align your capital with your climate goals. So we're not concessionary in that sense. We make no compromises. I do strongly believe in sector focus and more so in climate because versus SaaS investing or marketplace investing, typically climate and especially deep dive type funds just require a lot more sector expertise. So I see a couple of advantages of sector funds. One, they know their shit, they have experts who really come, for example, from the agro-food sector or from the built environment or mobility sector. So I really like that deep technical expertise.
+(00:32:05):
+Secondly, they often have a very relevant network within the industry, for example, with corporates who might also be investors in their funds. So they have a relevant commercial network. And the third is they build a reputation as being a specialist in agro-food as a result of which they also have a level of gravity of companies knowing that fund and wanting to work with them exactly because they have that expertise. So there are definitely pros and cons to generalists and thematic funds, but generally in the climate realm, I'm personally quite a fan of thematic funds.
+Jason Jacobs (00:32:42):
+Going back to the first three and a half million in investment that you made, you mentioned that it was a minimum, I think it was 100 K euros. Were there themes as it related to the profile of who those initial LPs were and also the reasons why they chose to make these investments?
+Jacqueline Van Den Ende (00:33:07):
+Definitely. A big part of our customer base are successful entrepreneurs who made a lot of money and now really want to, yeah, align probably what they do in daily life, but also their money with climate goals. So for us, our most passionate customers are really quite climate impact motivated. We also have quite a lot of customers who are more opportunistic about it and they're like, "Okay. I want to do a good investment, climate is one of the biggest macroeconomic themes there's ever going to be. So I think this is going to be a high return type investment."
+(00:33:44):
+But our most passionate customers are really people who want to solve climate problems with their money. So on the one hand, it's young entrepreneurs who cashed out. We have one of the early employees of Airbnb, for example, who participated in a really early stage. We've got quite some next-gens from family offices. We've got parents with children and children with parents, which is a really cool intergenerational dynamic. And then there's also just a lot of people who are in corporate or professional services careers, let's say banking or who work at law firms, for example, and who maybe don't get to interact with the climate theme, but they care deeply about it. And also those people are some of our early adopters on the Carbon Equity platform.
+Jason Jacobs (00:34:34):
+Have you looked at donor-advised funds as a source of capital for your LPs?
+Jacqueline Van Den Ende (00:34:41):
+Yes, we have. Yeah. So we're starting to work with foundations as well, for example, who are looking to invest in line with their climate impact mission. So increasing we're starting to see more professional investors investing through Carbon Equity as well. So also family offices, for example, who basically themselves don't really have expertise in the climate realm and so they're looking for a specialist who has that type of expertise. So definitely.
+Jason Jacobs (00:35:12):
+Great. And so you did that first three and a half million investment. And then how did things evolve from there? And what were some of the key milestones between then and now? And when was then, by the way, just to frame how much time we're talking about.
+Jacqueline Van Den Ende (00:35:25):
+We started Jan 2021. I think the team wasn't even full-time, it took us half a year instead of if everybody full-time on board. So we officially started July 2021. And launched our first fund in August, it was over the summer. Yeah. So milestones have been getting within an inch reach of 100 million. So we acquired approximately 100 million in asset [inaudible 00:35:52] management in the last 15 months or so. So that was pretty fast.
+(00:35:58):
+Another big milestone for us was launching the Climate Investment Club, which opened up access from $10,000 more or less. Because we're very excited about family offices and high net worth individuals investing through Carbon Equity and I think we have a super relevant proposition for them. But the democratization mission is really close to our hearts. So actually having the possibility to work with a lot of smaller investors who were super, super passionate about it. We could make only 150 offers, so we could only send our deck to 150 people. That was the legal requirement. And 140 out of those 150 accepted the offer to invest. So that was a huge conversation rate and really showing how much passion and enthusiasm there is in that segment for what we do.
+(00:36:50):
+Internationalization was a big milestone. So our first baby steps, we're now hiring a team in Sweden and we're hiring a team in Berlin. So for any German or Swedish people looking to get into climate investing, give me a call. So that's a big milestone. And the biggest milestone will be next month when we hopefully get the full AFM license with a European passport because that's going to allow us to expand internationally really fast.
+Jason Jacobs (00:37:23):
+The 2150 investment, was that from a dedicated vehicle? And how many dedicated vehicles do you have today? And maybe talk a bit about what each one's role is.
+Jacqueline Van Den Ende (00:37:40):
+So you should see Carbon Equity as a curated marketplace. And you can invest in single funds or in portfolio funds or fund of funds. And so the rationale for investing in a portfolio fund is diversification, having much broader exposure. And the rationale for a single fund is, "Hey, I love this fund manager." Or, "I want to have very specific exposure to, let's say, agro-food or growth equity or the built environment." So we did four single funds, special purpose vehicles, if you will. We did a growth fund, which is Light Rock, which comes from LGT Capital, one of the best growth funds we've seen. We did Astanor. We did ArcTern. And we did 2150. And we'll be doing a couple more in the coming year. And then the fund of funds invested in seven to 10 funds, I think, of which seven we have selected right now, which includes Energy Impact Partners Frontier Fund. I love that fund, managed by Shayle Kann, it's such a... They're doing such cool-
+Jason Jacobs (00:38:45):
+Shayle's great. Yeah. No Shayle is one of the first people I met on My Climate Journey, actually.
+Jacqueline Van Den Ende (00:38:51):
+So cool. The guy is so knowledgeable and so passionate and they're doing such awesome deep tech type investments in Form Energy, which says grid scale batteries, etc. I'm super excited about them. Azolla Ventures is also really cool one, it's the sister vehicle of Prime Coalition, and they really invest-
+Jason Jacobs (00:39:09):
+Oh, yeah. We're huge fans of them too.
+Jacqueline Van Den Ende (00:39:11):
+Right?
+Jason Jacobs (00:39:12):
+Yeah.
+Jacqueline Van Den Ende (00:39:13):
+That's so groundbreaking what they're doing and they really invest in stuff that otherwise wouldn't get investments. So this is really on the other end of, yeah, almost catalytic capital, but really high impact type investments. The agro-food funds that I spoke about. Ara Partners, which is a really cool industrial buyout fund. And what they do is they take first planned risk, so also super relevant solution in the whole ecosystem. So there's so many cool funds that we've been investing in and so many more fund managers that we're hoping to invest in. So yeah. It's exciting.
+Jason Jacobs (00:39:52):
+Great. And so you started with the SPVs. Will you continue to do these SPVs going forwards?
+Jacqueline Van Den Ende (00:39:59):
+Yes, so we have sort of three strategies. One is the single SPVs. Then we've got the overarching fund of funds, which invests in all the funds that we look at. And then probably we'll be launching more thematic fund of funds, so let's say a growth equity fund of funds or an agro-food fund of funds or a water fund of funds. So we'll have more of these thematic funds. And the idea is long term that you can just go to Carbon Equity and say, "Hey, I'm interested in investing in biodiversity or in circularity or in deep tech." And based on that you can invest either in single funds or these small thematic fund of funds.
+Jason Jacobs (00:40:45):
+Great. And when you think about your capital, I know you talked about democratization. Do you envision that this entire capital base will be these smaller in the grand scheme of things, but still very big [inaudible 00:41:03] I don't want to take away from the fact that it's still a lot of money, right? But relative to say a traditional endowment or pension fund or foundation, these are much smaller dollars. Where do they, the more traditional LPs, fit into all of this with your strategy, if at all?
+Jacqueline Van Den Ende (00:41:22):
+Yeah. So we realized that we actually have a super relevant solution also for professional LPs because we're one of the world's most specialized players in climate fund selection. And also for a lot of these family offices or professional LPs, even pension funds that are looking to invest in climate, it's a new domain. It's much less mature than traditional private equity investing. So diversification makes a lot of sense. So we set up a professional solutions unit since early this year. And the professional solutions works with endowments, works with family offices, works with professional, even pension funds, to enable diversified exposure to climate venture capital and private equity. So what we help them with is selection of the funds and we set up specific vehicles for them to invest in the funds that were already investing in. So that makes a lot of sense. So we have retail solutions focused on private investors. And we've got professional solutions focused on, yeah, professional investors investing a million euros or above.
+Jason Jacobs (00:42:29):
+How do you think about your own team makeup? And also how do you think about the balance of oversimplifying say insider versus outsiders? So the entrepreneur, upstart coming in with beginner mind, looking at the category without all the bad habits and preconceived ways of doing things versus just the understanding of how to do things by the book in the traditional sense.
+Jacqueline Van Den Ende (00:42:56):
+When we started building our team... So Carbon Equity does in effect, I would say we have three core competences. One is asset management, we actually select the funds. The second is we're building our own tech platform, which is an end-to-end digital investment platform. So we also have our own app where you can actually log in, tune in, you can see what companies you're invested in, you have a newsfeed on what's happening in your company. So the ability to bring to life what you're investing in through Carbon Equity is super important and that's a core competence on our end. And the third one is distribution. So being able to attract customers to our platform, but also plugging into private banks, plugging into pension funds, for example, as a result of which people can invest in Carbon Equity funds through third party platforms. So those are our capabilities.
+(00:43:49):
+The basis of all of this is really good fund selection, because if you don't have a really good products, the rest doesn't really matter. So we started off with bringing into our team some real experience in fund the funds investing. So we hired a really senior person from AlpInvest, which is a indirect arm of the Carlyle group. Interestingly, he's more of a traditional and also economical... Sort of more really a traditional finance guy. But he's an absolute expert and he really brought along the entire playbook of how AlpInvest looks at funds and how you diligence a fund all the way through and make sure that you know every aspect of risk in investing in such a fund. So I think such a discipline is super important.
+(00:44:42):
+And then we combine that with our head of impact who has a whole career in energy transition. She came from McKinsey and she's really an expert in climate diligence. So that combination of people with, yeah, experience from more traditional industries, but also really bringing the rigor and the professionalism of how things work elsewhere are the basis for a super professional team that does this climate diligence and general diligence.
+(00:45:09):
+When I'm looking about then expanding the team and growing the team, the thing I value most above experience is really hustle and hunger. And really one of the MVP players in my team is my associate and he had no experience whatsoever, but he is so hungry to learn. He reads every book there is on climate, but also on how to build a business and so in general, I strongly believe in hiring for attitude over CV. But when you're setting up your company, you really want to start at a super high level by hiring the best people in the industry to bring in that base level experience. And then you grow that with people are just, yeah, awesome company builders.
+Jason Jacobs (00:46:02):
+Great. And we're about 45 minutes in and I feel like we've been talking about this amazing ride and how much you've accomplished in such a short period of time. What hasn't gone right? What have been some disappointments along the way? What's been harder than you thought it would be? What are some barriers that you've been banging your head against the wall with as you've gone?
+Jacqueline Van Den Ende (00:46:26):
+We haven't hit a wall yet and I'm still expecting to hit one. I think a few things. One, I would say, currently we're in the crossing the chasm phase. So investing is a high trust type product, right? So especially investing 100 K or above is a really high trust product. And also even if you're investing 10 K and you have 50 K in total or 30 K total, then this is a high stakes decision. So you better trust... And it's capital, right? Your money's going to be locked up for a while. So you really want to know that you're trusting people. So initially a lot of the growth and traction came from within our network or extended network and people talking about us. And at some point you've exhausted your network and you need to cross the chasm.
+(00:47:15):
+And so now we get a lot more people who have learned about us on LinkedIn, on media, etc. and so they're excited, but then how do they trust you, right? So how do we scale trust? I think that's one of the big questions I'm facing now. How do we cross that chasm and also reach the, yeah, more mainstream investor? And the question I'm struggling with... Or not necessarily struggling with, but asking myself is like, "How do you reach people outside of the bubble?"
+(00:47:46):
+So it's super cool that a lot of people are already interested in climate end up find us. And people all the way from Brazil to Singapore actually found Carbon Equity one way or another because they absolutely wanted our product. But how do we get to people who don't necessarily care so much about climate? And how do we get them excited about climate through Carbon Equity? That's one of the things I really want to know. So that's the main thing I'm thinking about and struggling...
+(00:48:17):
+Because ultimately my ambition with Carbon Equity is to get to a billion in the next five years and 10 billion in the next 10 years. And that's not just because I want to build a successful company, but because it needs to move for the needle. If we're doing this on too small a scale, it's not moving the needle. And for that you're going to have to tap outside of the climate bubble.
+Jason Jacobs (00:48:36):
+It's amazing how parallel our journeys are. Of course, we'd love to end up working with you formally if it ends up making sense to do so. But that aside, we should just definitely keep in touch because, for us, as we've had all these individual backers for the last few years. And that was really just the subset of our community that could afford it, which stinks because we would like it to be everyone that wants to, right? Versus just people that are of a certain asset threshold. And we just did a first big close on... And I guess this will be dated by the time it ships, but on our first larger, more traditional fund. And it was a big number, it was over 50 million US, but almost all from the people that know us the best, right? Because our community is our network. They're synonymous, right?
+(00:49:32):
+Because we've been doing this five years. So that's a long run time to get to know somebody and build that trust. And so on the one hand it's like, "Okay, the people that know us the best have this ringing endorsement of support. That's awesome," but now we've got to leave the nest and it's like, "What do you mean fly wheel? How powerful is it?" It's a fucking podcast, right? Yeah. So it's like, "No, really we're..." But anyways. And then it's the debate of do you just extend one level out or do you try to go top down to the big institutional, more traditional allocators and really anchor? And anyways. We don't have answers yet, we're still pretty early in the process. But it's fascinating just to hear about your journey because as I said, there's a lot of similarities.
+Jacqueline Van Den Ende (00:50:21):
+Jason, can I ask you, what have been the key challenges on your journey in raising capital to fund climate solutions?
+Jason Jacobs (00:50:31):
+Yeah. Well, everything's been really organic to date where we started just by learning. And then it became a public journey. And then as it was a public journey, there started being a following. And then that following was longing for a peer group. And so we set up the community. And then I started writing little angel checks as another way to learn. And then more and more people from the community were like, "I want a play behind your hand. Those are awesome companies." And then we needed a dedicated pool of capital. And then angels made it easy to get going. And we've been investing from that for nine quarters. And then it's like, "All right. That was a great MVP, but can we stop getting out of the..." With angels it's a three-month appointment period. So you're constantly thinking about the next fund. It's like, "All right. It's been nine quarters, we have a fucking strategy now. We're ready to actually settle in and just implement it for a while," versus constantly...
+Jacqueline Van Den Ende (00:51:27):
+Treading the treadmill?
+Jason Jacobs (00:51:29):
+Yeah. Look, we want to say, "We're ready," right?
+Jacqueline Van Den Ende (00:51:32):
+Yeah. Yeah. Yeah.
+Jason Jacobs (00:51:33):
+So that's the logic of the traditional fund is we don't want to lose the inclusivity of all those strategic, well-placed, mission-aligned individuals that put us in business, but we need some deeper pockets that think in terms of many funds instead of one fund at a time so that as a firm, we can really plant some roots and grow. And then from a timing standpoint, we set out to do that. A year ago would've been much better from a macro standpoint. Although you could argue climate has... But from a traditional tech and venture, right? Climate has tailwinds and so do those balance out or where does that net out? That's a more nuanced discussion, I should say. It would've been easier a year ago, but at the same time, we weren't ready a year ago.
+(00:52:28):
+And so we're setting out when we're ready, right? Because we can't control market timing. And then it's like, "All right. Well, we want to be measured by returns, but do we really want truly unemotional, just purely mercenary LPs?" That doesn't feel great with who we are, right? But yet we need the deeper pockets. And then if they're too deep, then they probably have... Even if they're emotional, they probably have someone who's making those decisions on their behalf, who's unemotional, right? And so what's the right profile?
+(00:53:00):
+So those are all the twists and turns we're trying to figure out. Similar to hiring, what do you screen for? And at the same time, beggars can't be choosers because this is a fun one, right? So yeah.
+Jacqueline Van Den Ende (00:53:10):
+I'm hoping we can solve many of these problems for you. Be a long-term stable, totally mission-aligned LP ultimately My Climate Journey. That would be really cool.
+Jason Jacobs (00:53:21):
+That'd be amazing. Yeah.
+Jacqueline Van Den Ende (00:53:22):
+Yeah.
+Jason Jacobs (00:53:22):
+But regardless of whether that works out, it's just so cool what you're doing. And you've done a lot in a short period of time. And you have a big vision. And from everything you've said, you're coming at it from the right place and being really intentional with the decisions that you're making, both from in terms of building a healthy financial business, but also having the impact that you set out. I guess my two final questions, one is just, who do you want to hear from in the community? And how can we either as MCJ, the team, or MCJ, the broader ecosystem, be helpful for you?
+Jacqueline Van Den Ende (00:53:56):
+Whoo. Okay. Well, if I can ask you anything, I would love to get into Breakthrough Energy Ventures. We looked at a couple of funds that we really deem absolutely best in class when it comes to climate impacts. Just Climates, which is the vehicle of El Gore. Prime Impact Coalition, where we're in, as well as sister vehicle. And then Breakthrough Energy Ventures, they're a league of their own when it comes to really doing the big, bold bets that I'm a big fan of. So if you have an intro at Bill Gates, that would be good.
+Jason Jacobs (00:54:44):
+This might be the first time someone's shooting their shot on the My Climate Journey podcast.
+Jacqueline Van Den Ende (00:54:50):
+Yeah. We're Dutch. Yeah. Doesn't get more direct than the Dutch. So yeah. I'll be waiting for that intro.
+Jason Jacobs (00:54:58):
+And what about the broader community? So for anyone listening and we're a humble little show, but in the little climate world a lot of people listen. So what message do you want to leave them with?
+Jacqueline Van Den Ende (00:55:10):
+Oh, wow. So this is such a cool opportunity to tap your network. So first of all, we're looking for people to join our team, especially in London, in Berlin, and in Stockholm where we're setting up international operations. Super interested to meet you. So soon, from May, we'll have 50 K access from the Netherlands and Belgium and we'll be launching European access. So that would be a big thing. People who want to take Carbon Equity to their respective geography. We've got people from Singapore, we've got people from Mexico who are like, "Oh, how do I get Carbon Equity to my respective geography?" And we are very open to having these types of conversations with entrepreneurs who are looking to, yeah, bring the concept elsewhere.
+(00:55:59):
+So anybody who is excited about building greater access to climate solutions through our climate fund investing platform, love to talk to you. And also happy to return the favor. So if I can help you build your business, offer advice on how to raise funding, feel free to reach out. Link with me on LinkedIn. I get a ton of messages, so I'm really sorry if they don't respond fast enough, but ask me again. So be a little bit persevering. And yeah. I love to help the community as well.
+Jason Jacobs (00:56:36):
+And Jacqueline, do I get to put a bug in your ear about how you can be helpful to us?
+Jacqueline Van Den Ende (00:56:39):
+Yes. Yes. Yes. Jason, tell me how?
+Jason Jacobs (00:56:41):
+I've never asked that before, but it's my show dammit.
+Jacqueline Van Den Ende (00:56:44):
+Yes, what can I do for you?
+Jason Jacobs (00:56:49):
+So one is just mission-aligned family office and multifamily office is a real sweet spot in terms of LPs for our fund. We expect to be measured by financial returns and strictly financial returns at the same time, both because we like working with these people better, and because we think our story resonates better. Emotional capital. So people that want to make money, but if they were only looking at making money there's easier ways to make short-term dollars. In the long term, we think this is a huge wealth creation opportunity, right? But in the short term, we want people that give a shit, right? So that's one.
+(00:57:23):
+And the second is just, this is a new series, as I mentioned at the beginning of the show, Climate Capital. And we're trying to unpack what's happening up and down the climate capital stack. So that means GPs of early stage funds. GPS of growth stage funds. It means project finance. It means government agencies deploying capital. It means fund of funds, endowments, and pension, family office. Maybe even individual investors. But just we're trying to just shine a light on what's happening out there, how people think, what their journey is, what they're wrestling with, what criteria they're using to deploy, etc., so that we can foster more connectivity. So to the extent either there's funds that you've backed or other LPs in your network that you think we'll be excited about. More transparency in their approach on the platform that we had to tell their story, then let me know.
+Jacqueline Van Den Ende (00:58:09):
+I can help you with both. So happy to make introductions on both ends. Definitely.
+Jason Jacobs (00:58:15):
+Great. Jacqueline, anything I didn't ask that I should have? Or any parting words for listeners beyond what you already said, which was a mic drop in itself. So maybe that's it.
+Jacqueline Van Den Ende (00:58:26):
+Yikes. Well, for me, reading the IPCC report this week, we are in a hurry. So parting last words, let's do everything we can both with capital and our talent and our voice. Let's mobilize as much resources to stopping climate change in its tracks because it's the most important thing we can do right now. And thanks for this opportunity, Jason.
+Jason Jacobs (00:59:00):
+Oh, great point to end on. LFG, let's get out there and fight the good fight.
+Jacqueline Van Den Ende (00:59:05):
+Yes.
+Jason Jacobs (00:59:05):
+And we hadn't spoken before. I've spoken with some of your team, but we hadn't had the chance to speak before this show. And now look, we're ending with a better understanding of each other's firms and also as friends.
+Jacqueline Van Den Ende (00:59:16):
+I'm super excited.
+Jason Jacobs (00:59:17):
+So looking forward to much collaboration. Yeah.
+Jacqueline Van Den Ende (00:59:19):
+Absolutely. Same goal, joint mission. Let's work together much more on this. Would love to.
+Jason Jacobs (00:59:24):
+Okay. Thank you for coming-
+Jacqueline Van Den Ende (00:59:25):
+Cool.
+Jason Jacobs (00:59:25):
+For on the show, Jacqueline. Best of luck to you and the whole Carbon Equity team.
+Jacqueline Van Den Ende (00:59:28):
+Yes, thank you.
+Jason Jacobs (00:59:31):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (00:59:35):
+At MCJ Collective, we're all about powering collective innovations for climate solutions by breaking down silos and unleashing problem solving capacity.
+Jason Jacobs (00:59:45):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter at mcjpod.
+Yin Lu (00:59:58):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (01:00:07):
+Thanks. And see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

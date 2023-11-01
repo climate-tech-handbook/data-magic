@@ -1,0 +1,385 @@
+We kicked off New York Climate Week with a live podcast recording with Kim Zou and Sophie Purdom, co-founders of CTVC. CTVC’s data-driven insights have been featured in channels including NYTimes, Bloomberg, Reuters, Financial Times, and TechCrunch.
+Kim serves as the CEO of CTVC. She was previously a climate tech investor at Energy Impact Partners. Prior to joining EIP, Kim was part of JPMorgan's Tech M&A investment banking team and graduated from Johns Hopkins University.
+In addition to her work with CTVC, Sophie Purdom invests in and supports early-stage climate tech founders and their companies via her venture capital fund Planeteer Capital. Prior, Sophie launched an ESG fund at a major endowment, learned to make pretty slides at Bain & Co., published a book on sustainable investing, and helped found an agricultural technology company that makes carbon-negative ammonia fertilizer.
+Special shout-out to everyone who came out to the live recording, and to our hosts at P&T Knitwear for lending their beautiful space in the Lower East Side. Enjoy the show! 
+Get connected: Kim Zou X / LinkedIn Sophie Purdom X / LinkedInCody Simms X / LinkedInMCJ Podcast / Collective / Instagram
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on September 18, 2023 (Published on September 25, 2023)
+In this episode, we cover:
+[2:33] How Kim and Sophie met and the early days of CTVC
+[6:37] Kim's background 
+[10:14] The pair's early venture experience
+[13:22] Sophie's background
+[17:05] The origins of Planeteer Capital 
+[20:18] CTVC's evolution into a market intelligence company 
+[25:42] CTVC's Climate Tech Capital Stack
+[28:51] Early stage dry powder
+[31:36] Project finance and infrastructure financing 
+[36:56] Public funding and philanthropy 
+[40:06] Trends in philanthropic catalytic capital 
+[43:45] Corporate strategics
+[46:34] The role of banks
+[50:08] Insurance 
+[51:18] Sophie and Kim's predictions for the market in the near term
+Cody Simms (00:00):
+On today's episode of My Climate Journey, we're coming to you live from New York. Yeah. We're here as part of Climate Week NYC. I'm Cody Simms, partner at MCJ Collective, and co-host of the My Climate Journey podcast. We're recording at the beautiful P and T Knitwear Bookstore in New York's Lower East Side, with a packed audience here of a few hundred people as part of an event co-hosted by the Future Climate Venture Studio, a climate tech startup studio created by RGA Ventures, the University of Connecticut, and CT Next.
+(00:36):
+And our guest today are none other than Kim Zou and Sophie Purdom, creators and co-founders of CTVC, or Climate Tech VC Newsletter, as those of us maybe a little bit old schoolers from way back in 2020, used to call it. Kim recently took on the role of CEO at CTVC. Congratulations, Kim. She announced their broader plans as a market intelligence platform, which we're going to talk a bit about. And Sophie continues to actively contribute to the newsletter and to CTVC generally, and also recently announced the launch and first close of her own early stage climate tech venture fund, Planeteer Capital. So we have a ton to talk about. But before we start, I'm Cody Simms.
+Yin Lu (01:30):
+I'm Yin Lu.
+Jason Jacobs (01:32):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+Yin Lu (01:38):
+This show is a growing body of knowledge, focused on climate change and potential solutions.
+Cody Simms (01:43):
+In this podcast, we traverse disciplines, industries, and opinions, to better understand and make sense of the formidable problem of climate change, and all the ways people like you and I can help. And with that, Sophie, Kim, welcome to the show.
+Kim Zou (01:59):
+Thanks, Cody, for having us.
+Sophie Purdom (02:01):
+It's been some time coming, huh?
+Cody Simms (02:03):
+I feel like this episode is maybe a couple years in the making. You two are both always like, "Hey, let's do it." And then, "Oh wait, actually, maybe let's wait a little bit." And you had some big announcements you were working on, so those things are now known to the world, and here we are.
+Kim Zou (02:18):
+Exactly. And one thing I do want to say before we get started is, if you go way back in CTVC history, I think Jason Jacobs was actually the first Q&A we ever did in CTVC. So this is a-
+Sophie Purdom (02:30):
+Wow, thanks Jason.
+Kim Zou (02:31):
+Full circle.
+Cody Simms (02:33):
+That's awesome. Jason is back in the back there somewhere hiding, but he's here. You guys can say hi to him afterward as well. So let's start with just the basics. How did the two of you meet?
+Kim Zou (02:43):
+Ooh, the cute meet. It's a long story, but we'll give the TLDR version. So I'm Kim, great to see you all, those in the audience and those listening on the pod. Let's see. Tracing this back to the start of 2020, right before the pandemic, I personally was always really interested in the clean tech, climate tech space before the word climate tech really started as a phrase. And so just on the side, I was tracking all these deals and investments that were happening in climate tech. Back then, it was an EV charging deal over here, a battery deal over there, and started putting them into a Substack newsletter. Called it Climate Tech VC, because I was like, Climate Tech VC isn't really a thing, I want to get that good SEO. And now, if you search up climate tech, I think we're the first or second thing that pops up.
+(03:27):
+And I think I was a few weeks into publishing this Substack newsletter, the pandemic happened, everyone was kind of shut down at home. I also got more free time to write this newsletter, which was a tiny, tiny silver lining. And a few weeks into it, I knew this professor, Carrie Krasinski. For those who don't know him, he is one of those super connectors behind the scenes. And I was talking to him about the newsletter and my ambitions with it, really wanting to build something that could be evergreen in the climate tech space. And he said, "You know who you should talk to? There's this incredible woman, Sophie Purdom, who just, I think at that point, left Kula Bio, and would be a great person to partner with, to think about doing this with." And so Sophie and I never met in person. I remember the first phone call we had, I was like, "Hey, I got this Substack newsletter, we have a few hundred subscribers. Would you be interested in doing this together with me?"
+Sophie Purdom (04:20):
+It was an arranged marriage.
+Cody Simms (04:24):
+So then you started engaging together on this newsletter. What do those early days look like? How are you deciding what to cover? How are you deciding what stories to write, and when did you realize that this actually might be a thing?
+Sophie Purdom (04:37):
+Good point. I mean, part of this is lucky, point in time of... When folks come to us and they say, "Oh, how did you get started," looking for maybe advice for starting something up themselves, I feel so lucky that we started this thing at that point in time where folks were at home and they were thinking about the food that they put in their body and the air that they and their kids were breathing, and they were thinking about climate in a slightly different way. And so that meant more folks were doing that SEO lookup, "Climate Tech VC", maybe. And they were also more willing on the expert side to pick up the phone or hop on Zoom and have a conversation with two complete noobs, who had started this brand new blog, let's be real, with what it kind of started as, and willing to kind of share their opinion.
+(05:20):
+Now, that got rigorous and serious pretty quickly. If you know Kim, she puts the nose to the grindstone over here, and I think we both kind of like building things together. And so quickly developed a lot of systems and approaches. And also, I don't know about you, but I always feel a little uncomfortable up here on stage talking about how Kim and I built CTVC, because it's really a massive bottoms up group effort. I think there have been 50 plus folks that have-
+Kim Zou (05:43):
+Yeah. Many of whom are in the audience too, yeah.
+Sophie Purdom (05:44):
+Many of whom are in the audience. Who here has been a part of CTVC? Oh, Shreya. Hey, Shreya. And we got Grace right there. Everyone needs to give Grace a huge shout-out. That's our executive editor in the audience right there. Wow. Yeah, there's tons of folks. So group effort brought together a crew, and these are folks who are relatively early in their career, who maybe weren't a part of clean tech 1.0, were bringing fresh ideas and also effort. We'd run a whole lot of other folks off of the treadmill when it came to, there's a lot of content out there. It's free and easy to start something. It's hard to grow and build and develop trust.
+Cody Simms (06:20):
+Each of you had worked in the space, though, right, Kim? You at the time were at EIP, one of the big gun funds in climate tech. Maybe talk a little bit about your background and the work you did leading up to deciding to start this newsletter on a rainy Saturday or whatever, as the pandemic was starting to happen?
+Kim Zou (06:37):
+So actually funnily enough, I hadn't even joined EIP by the time I started the newsletter. Back then I was doing the fun job of being an investment banker with, apparently, more time to work on this newsletter. I personally was really interested in climate tech. That's always a space I was really looking to work on. You talk about NCJ, my climate journey work on climate was very early on in thinking about that as well. And so part of my climate journey was starting this newsletter as a way to understand and break down. We love frameworks. How do we really build a framework for climate tech? How do you think about climate tech? How do you look at technologies from hydrogen all the way to alternative protein? And so this newsletter was a way of me figuring out how to understand the space.
+(07:19):
+Then one of the first interviews we did was actually with Cassie, who's now a partner at Energy Impact Partners, and that ended up becoming a conversation on joining EIP, when they were pretty early on too. I think they were about 30 or 40 people, and now they're definitely a hundred plus. And so it was really exciting. I got to get in as they were building out their investment platform. And I think what was particularly unique is being able to be an investor in this space, but also, EIP has a strong coalition of corporates and utilities. So kind of getting that perspective as well on how do corporates think about this climate transition.
+Cody Simms (07:52):
+And when did you decide, "Hey, I've got this pretty cool gig at EIP, I'm going to go all in on CTVC"?
+Kim Zou (07:59):
+It's a long story. Some people in the crowd know the full story, but I think there was a few trigger points. One was this was January of 2022, and I think CTVC at that point was 35, 40,000 subscribers. And it was me and Sophie doing this part-time, obviously with a huge cohort of volunteers as well that were doing this. But this had been two to three years of doing this newsletter, putting out this content twice a week for the last two to three years, while also having a full-time job. So it was getting to the point of, it seems like we're providing a lot of value to the community. We're covering a lot of these topics. We started publishing a lot of reports on data. How is funding trending towards climate tech? What companies, what sectors are getting funded? What do the investors look like in this space, and how is that changing? And we actually got investment bankers, we got investors, we got corporates emailing us asking for data, and this was a part-time newsletter. So I was like, wait a second, are we building something here that's more than just a newsletter?
+Cody Simms (08:58):
+You know there are probably billions of dollars of things that have gotten funded based on data that you all put out in your little newsletter, right?
+Kim Zou (09:04):
+The amount of times we get sent pictures of our charts and pitch decks and LP decks. And so I think that was one trigger point where I realized, there's an opportunity here to go beyond the newsletter. The newsletter is a great platform to share this publicly with the world, but I think if we wanted the ability to go deeper, to go deeper into these topics to publish research and productize that, I thought there was an opportunity to take that to the next level. And then was really fortunate, he's not here today, but ended up meeting my co-founder, Mark Taylor, who was the head of product at Bloomberg New Energy Finance, and he's seen the clean energy transition since '06, '07, back in the startup days of New energy finance as well. And was really fortunate, I think, to meet him at that time. And we got to talking about what would it look like to kind of take CTVC to the next level.
+Cody Simms (09:53):
+One little fun fact about both of you that I didn't even know until I was looking at your bios in depth yesterday is that both of you did venture at your universities. Can you share just a little bit about that? I hear from so many people who want to crack into the space, "What should I do?" And both of you were doing it from the start of even thinking about your professional careers.
+Kim Zou (10:14):
+What was really funny was Sophie and I met through this professor, Carrie Krasinski. And so I went to Johns Hopkins, was part of a student-run venture fund there called A-Level Capital, also started a sustainability hackathon called Green Hack. So you can see early on I was really interested in this space. Towards the end of my time at university, was thinking about starting a sustainable investing fund, and that was how I met Carrie Krasinski. And one of the leading student funds in this space was the one at Brown, which Sophie was part of.
+Sophie Purdom (10:42):
+That's right. We've been doing this for a while. Before those, I suppose now we call it climate tech, but way, way back in the day, early origins were sustainable investing is the umbrella underneath the majority of the camp kind of sat in ESG. And this is back when folks didn't really even know what those three letters meant. I'd argue now we're kind of on the flip side of that and we're questioning what those letters mean again, but that's a conversation for another time. And that's right. We set up one of the first ESG funds at a university endowment, or at really any kind of relatively significant endowment of its size. And massive responsibility and also appreciation to the team over there for giving a student a relatively large leash with a lot of oversight. Let me be very clear.
+Cody Simms (11:23):
+This is at Brown, yes?
+Sophie Purdom (11:24):
+Yeah. This is at Brown Investment Office, to create this auxiliary vehicle with net new funds. So we had to go and fundraise them, so early lesson in kind of sales and fundraising for going and raising from donors that wanted to give to the university under ESG principles, to this net new vehicle. And that was important because we didn't want this to be seen as potentially competitive with the operating budget or the traditional endowment. And we set this whole thing up and we found an external fund manager and did a bunch of diligence on that. And this thing runs to this day, it's a couple million bucks.
+(11:56):
+And then, I think just to bubble this up one to lesson learned, ESG, climate, whatever space you want to call this, energy transition, it is incredibly meritocratic for folks who put in the work and contribute forward and often just give, in effective ways. Not just giving to be seen, but to contribute to the conversation. And you can kind of be coming from anywhere. We're coming from our bedrooms writing a blog, and it's give, give, give to the ecosystem for years. And from that, you kind of earn the right to build something bigger and better on top of that. We started that with the fund. Carrie and I actually wrote a book together, so I got to know him really well. He's a big part of my life, and I personally really enjoy that aspect of bringing capital and bringing people together, kind of mobilizing it towards these climate goals.
+Cody Simms (12:43):
+The advice to just give and contribute and lean into the space and let meritocracy happen. I mean, just looking around the room of all the people I know who have been doing that for the last four or five years and building from the grounds up is just spot on. Whether it's people running nonprofits, whether it's people running work to help startups access government funding, like whatever it may be, you know who you are sitting in the room. There are a lot of you, and it really has been a movement that's been created over the last few years, and thanks for hammering that point home, Sophie. We heard your background, Kim, from sort of today backward. We just started with you at university, Sophie. Let's work you up to where you are now.
+Sophie Purdom (13:22):
+Let's do it. So you don't want to start with the part that born in a thatch cottage in England? We're not going that far back? Okay, cool. Let's see. So had this amazing experience at Brown. Love Brown. There's no rules at Brown, right? Which is amazing for someone that kind of wants to just walk their way through life, with intention, of course. And I grew up running a family business, and that business was a big part of my life and putting myself through college. And right around the time where I was graduating, lots of those kind of foundational pillars changed. The business mostly went under. And I had gone so deep, so fast in this ESG space that was frankly quite small at that time. I needed some stability. Sp I trotted my way over to Bain, the management consulting shop. Kim was i-banking refugee as well.
+(14:05):
+We say that we're kind of recovering management consultants and i-bankers, hence all the frameworks and marimekko charts in CTVC. Did that for a couple of years, and then jumped my way out instead of hopping on over to business school, to get back into the good stuff, which was hands-on building. And this time building a fertilizer company with some amazing scientists out of some labs at Harvard. And you guys did an amazing profile. Where's Jason? You did a great profile with Bill Brady, the CEO of Kula bio, which everyone should go back into the archives and pull that one up, because Bill tells the story way better than I ever could, but got to be a part of helping spin that IP out of the lab, the ability to extend the life of microbes so they can produce more of this beneficial byproduct.
+Cody Simms (14:47):
+You don't just fall into starting a fertilizer company. How did you actually make this happen?
+Sophie Purdom (14:53):
+I have mostly done private equity work, and I loved that way of thinking. You jump into a room with people that you barely know and you get tossed an idea over the phone from someone that you definitely don't know about.
+(15:02):
+... an idea over the phone from someone that you definitely don't know about a crazy problem. And you have to go learn everything you can about that market in a short time period as possible because those hours are expensive and you've got to deliver a reason to basically not do that investment. And I like that diligent style way of thinking. What I didn't like was that there was no follow through. I know what I was there for. And also that there was no way to place a shot on goal or see the evolution of those decisions.
+(15:26):
+You never knew if you were right or wrong. And I certainly didn't grow up in a place where knew a lot about leverage buyouts or all sorts of different parts of the capital stack. I didn't know what venture capital was and had access through a VC in the Boston ecosystem who was mentoring me at the time, who said, "Maybe you want to come join our shop or maybe you want to go chat with this founder across the river at Cambridge." And that guy turned out to be a co-founder, Kelsey Sakimoto. And Kelsey is kind of the brainchild behind all of the initial research at Kula Bio and we back of the enveloped out something like a very, very rough business plan for that. Of course, there's many more people involved in this story and those roles evolve over time, certainly. But that was my first bite at then going and capitalizing a science project which then turned into a business.
+PART 1 OF 4 ENDS [00:15:04]
+Cody Simms (16:15):
+And then we heard the early origins of CTVC. Were you still active in Kula Bio at that time or had you already sort of said, "Hey, I'm ready to think about what's next?"
+Sophie Purdom (16:23):
+Mostly the latter, but those things are not black or white and was doing all sorts of other things, including advising I suppose kind of banks and helping set up some initial programs with foundations around how to access climate capital, all sorts of bits and pieces. To that point of I had probably shot through my life with quite a straight path and at that point was realizing that that wasn't going to be the trajectory of outcomes that I wanted and was pretty intentional about giving up certain stuff, stability, cash structure, things that most people like but weren't that important to me at that point in life. And I wanted agency and autonomy and the ability to build something big and frankly work on the problem that I know I wanted to work on for the rest of my life.
+Cody Simms (17:05):
+And then when did Planeteer Capital become a thing for you?
+Sophie Purdom (17:08):
+There's a lot of in between there. I don't think anybody wakes up and decides they want to start a venture capital fund one morning, at least it certainly was not that way for me. A little bit of a push-pull to be honest. So we had developed this insight together over time at CTVC and through all of the input from the readership of there's something more here and that more is ironically not just about the VC part, not about the CTVC aspect, but about this capital stack evolution. And I'm excited to get more into this part.
+Cody Simms (17:39):
+We're going to dive all into that for sure.
+Sophie Purdom (17:40):
+Okay, we're going to unpack the stack. Amazing. It became pretty evident that the old way of kind of capitalizing Cleantech, climate tech, whatever you want to call them businesses, was not going to drive the best financial returns for this next generation of hardware enabled software businesses that needed something different and I think better from a returns outcome perspective. And we're highly quantitative, right? So if you go back and you really dig into the analysis and you think hard about how those businesses are capitalized, there's an opportunity here for a high ownership, early equity position partnering with founders on their climate capital stack journey. And that again didn't wake up thinking of that thesis statement one day, it was more supporting a lot of founders as they were navigating through all the resources that we were putting out through when we put up that running list of climate tech VCs that part of our website's got all those logos on it. Folks wanted to click around in there and get to know those funds and who should I work with and such a privilege to be in a position like that.
+(18:36):
+And then some of those founders gave me the biggest privilege of all, which is, "Hey, will you come join my cap table?" And I was like, I literally don't even know what that means. Turns out you need money to be an angel investor. I didn't have that. So I'd hustle and do these consulting projects, earn a couple thousand bucks and then go give it to founders. And then I realized you could go call up people that had money and ask them to give you money so you can create an SPV to go give it to founders. And then those started getting bigger and bigger and then those SPV LPs started coming back and asking for something that looked like a blind pool, which takes quite a lot of trust. There were some true anchors, some of whom I've already talked about in this conversation who leaned in hard and said, "We'll consider backing you to pull together a proper blind pool vehicle," AKA a venture fund.
+Cody Simms (19:22):
+The big takeaways I have from both the CTVC and the Planeteer story is grit, hustle, hard work, network. These things aren't easy and take time to get there and you kind of organically find your way to where something might be.
+Kim Zou (19:38):
+One of the recurring things with both Sophie's and I story is there's been a lot of happy accidents throughout both of our journeys. The fact that the two of us met each other in of itself is a super happy accident. I started this newsletter and who would've known I would've met Sophia and we would've built this really incredible thing. And now this is turning into a company, but I think the underlying theme with these happy accidents is I think raising your hand when these opportunities do come up. I don't know if Sophie ever had the intention of starting a venture fund. I know I never had the intention of starting a market research company focused on climate, but when it feels like there's a white space and opportunity there, especially when it's in a space you're really passionate about, I think we've both been fortunate to be able to raise our hands.
+Cody Simms (20:18):
+So you've found your way from newsletter to now what is a broader market intelligence company. What is that looking like? What will it look like? What does it look like today?
+Kim Zou (20:28):
+We put out an announcement in May for those who read the newsletter, which we're really excited to talk about publicly and we'll have a few exciting announcements coming out soon as well. We raised a pre-seed round ourselves at the end of last year from-
+Cody Simms (20:40):
+Congrats.
+Kim Zou (20:40):
+Thank you, thank you. From a host of fantastic climate investors, including John Doer, Tom Steyer over at Galvanize, this great fund called Accelerate with-
+Sophie Purdom (20:49):
+Dawn Lippert.
+Kim Zou (20:51):
+... Dawn Lippert from Elemental, truly, truly a host of just wonderful people across the climate ecosystem. And over this last seven, eight months, we've been busy building out a team, including some folks in the audience here across editorial, but also on the engineering and product side, on the research and data side, even on the sales and business development side. And what our core realization is when I spoke with Mark is we actually went out and we spoke with a hundred plus CTVC readers, many of whom sat in seats at corporates, at investors, at investment banks.
+(21:26):
+And we asked them, why are you reading CTVC? What are you getting from it? What is the value? What are some of the challenges that you are facing in your day-to-day job? And I think two questions came back that really resonated. One is, we know the climate transition is going to be a massive opportunity. We know the chart is going up and to the right for hydrogen, for batteries for EVs, but what race should I be playing if I'm a large energy company? Should I be looking at EV charging? Should I be looking at hydrogen? What race should I be playing in? And then the second question, which investors know well is not only what race should I be playing in, but when should I be in the race is the market timing question of this. And I think there's a lot of great resources out there, both public and both paid.
+(22:11):
+And our core realization was there is a huge white space opportunity for understanding what race is going to play out in the climate transition, what's going to be the next solar and wind, when is innovation and venture going to start transitioning into deployment and when is that going to happen? And so that was the core realization. I think many readers will ask us, "Where are you getting this data from? It's amazing." We've actually been over the last four years tracking every single deal, every single company, every single investor that's come into the newsletter, whether it's PR firms or companies or investors, all of these data points that have been in the newsletter, we've been building a database of that over the last four years and that's helped us create reports, that's helped us create this wonderful list of investors that's now spanning outside of VCs. But all of that data we realized was really valuable and can actually start to answer that question of where is funding going?
+(23:06):
+And we've built out a bottoms up taxonomy on here is how we think about climate tech. Here are the seven verticals in which climate seems to touch, from energy all the way to carbon, all the way to built environment. And then that segments down to 65 plus sectors. So down to the level of hydrogen, but even further than that to what does the overall hydrogen value chain look like and who are the companies and technologies building within that? And that was really the starting point in how we thought about how to answer that first question.
+Cody Simms (23:35):
+So you had a lot of these resources, you'd been capturing them and you realized there was demand from I'm guessing mostly corporations that were looking for information on where's their industry going? Beyond what they see coming in their front door, what else is happening around them? And so it becomes a business to business, is it a subscription product? What does the business actually look like for these customers?
+Kim Zou (23:57):
+It's a B2B subscription product. We've been in stealth with it, but we're actually working with 15 customers ranging from a major US investment bank, large government energy entity investors, mostly later stage investors, corporates ranging from utilities to large natural resources mining companies. And they're all using this platform to better understand where they should be playing in the climate transition and also when these technologies are going to start going from innovation and venture to commercialization and deployment.
+Cody Simms (24:29):
+I don't know if you can answer this question, but I'm going to try to ask it anyway. How much offense are you seeing these customers playing relative to how much defense are they playing?
+Kim Zou (24:37):
+One moment stood out to me in particular where a large energy company we were talking to said, "To us, it's not about what race we should be playing in, it's about what race we should not be playing in." And so I think in particular, a lot of these corporates have made massive net-zero commitments and they want to stick to it and they know that they're being held in the public eye to it. And to some extent they're playing defense. They don't want to be stuck in a race that isn't going to win, but they also want to play offense. They want to be looking for the next moonshots, the next earth shots. They don't want to be stuck doing oil and gas when the future of energy is not doing oil and gas.
+Cody Simms (25:11):
+The next question I want to start to dive in is I think last week you alluded to this, you published a new piece on the climate tech capital stack and this to me felt a little bit like a statement from CTVC of, "Hey, yes, VC is in our name, CTVC, but this whole space is a lot more than VC and there is a lot more to funding the climate transition, the energy transition, whatever you want to call it than venture capital alone. Over to you. Unpack that a little bit for us.
+Kim Zou (25:42):
+McKinsey has a stat that says we need $9 trillion of capital funding the climate transition. In 2022, which is market peak, we tracked 40 billion of venture capital going into climate. So venture is a really important part of the capital stack, but also a small part of the capital stack. We CTVC, Sophie and I, we've been tracking this space since 2020, which doesn't seem like that long ago, but in this world of climate tech feels like a long time ago.
+(26:08):
+And back then it was climate tech VC, it started with venture. I think our initial running list of VCs was like 50 logos. Now it's 350 logos. But it really started with VC because venture investors are the ones who identify early stage technologies, early stage companies. But now over the course of the last three years, we're really starting to see a fundamental shift that early cohort of companies in climate are now shifting from seed series A, but really starting to enter that commercialization and deployment phase. And so we talk a lot about VC, but really it's these other parts of the capital stack which we can go deeper into that are going to be core to bringing these technologies to the land of deployment.
+Cody Simms (26:52):
+To me, it feels like the maturation of this part of the stack is the required development for this to not be Cleantech 1.0, 2.0, meaning where you end up funding infrastructure heavy stuff with equity dollars. Am I correct there?
+Sophie Purdom (27:09):
+Yeah, I think that's building on the right piece. There's certainly some other core pillars I suppose to that as well. Literally technology cost downs, hat tip to Cleantech 1.0 supposedly failed investments in solar. And well, now we know that those are some of the cheapest electrons coming onto the grid, so we kind of have to appreciate that. There's different things this time, like policy. Policy is no longer so much a lagging indicator. It's much more leading, thanks Ira. We've got all sorts of things like corporate procurement, government procurement, that's actually pulling those purchasing habits out and being willing to fund with real dollars and cents early pilots. There's a big talent influx, so it's not kind of the weirdos that have to hide in a corner and talk to themselves about working on climate. We're all here.
+Cody Simms (27:55):
+We could be in a big bookstore and talk about climate bookstore.
+Sophie Purdom (27:56):
+[inaudible 00:27:57]. We don't have to hide. So anyway, just to say that there are kind of fundamental other things as well. And also this sophistication of the climate capital stack, which to us means that it is both broader, hence yay, infra, PE, growth and also deeper. And so we do things like track the dry powder that's available in the space, which is quite hard to put an exact kind of weight on, but we're tracking billions and billions of that, 33 billion in dry powder estimated. So nondeployable capital that's hypothetically sitting in the coffers for just venture for example.
+Cody Simms (28:30):
+The categories that you list, you've got obviously venture and early stage dry powder is up right now, I think was the TLDR of that section?
+Sophie Purdom (28:39):
+Yeah. Look at all these new funds. You know what we were missing in that? Lower carbons announcement this morning. We were missing Galvanize. This is in the past 24 hours. We published this thing on Friday, right? It's hard to keep on top of all of this stuff.
+Cody Simms (28:51):
+Okay, so early stage dry powder is up. Growth stage primarily PE in mega rounds has kind of come down a little bit. Yeah?
+Sophie Purdom (29:00):
+I'd angle that much more steeply.
+Cody Simms (29:01):
+More than a little bit.
+Sophie Purdom (29:02):
+So that's the big missing piece. Again, we're just earmarking venture and growth at this point, but the reason that that overall funding year over year has plateaued/slightly declined can be attributed to those mega rounds. Those $500 million plus rounds, there's fewer of them and when they get done, they're smaller on average.
+Kim Zou (29:21):
+I would just make a delineation between dry powder versus funding in the market. So funding in the market has gone down about 40% compared to the prior year, again against a broader macro venture drop. So it's not climate venture as a whole dropped 55%. Climate tech venture only dropped 40%. So silver lining, it's not as bad. But actually we're seeing over the last two to three years since we've been tracking new climate specific funds announcing, we're actually seeing a huge influx of growth, PE, and infra funds specifically allocated towards climate. And that's TPG Rise 7 billion. Their numbers were blowing our charts literally out of the waters. Just Climate 1.5 billion, Galvanize 1 billion-
+(30:03):
+... the waters, Just Climate, 1.5 billion, Galvanize, 1 billion. These are all billion dollar funds specifically looking to invest in growth and large climate tech companies over the next few years.
+PART 2 OF 4 ENDS [00:30:04]
+Yin Lu (30:14):
+Hey everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which is borne out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast.
+(30:26):
+We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(30:41):
+Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the Members tab at the top.
+(31:12):
+Thanks and enjoy the rest of the show.
+Cody Simms (31:15):
+So dry powder generally up across both categories, even though actual dollars funding is declining on the growth side.
+Kim Zou (31:22):
+Those go side by side, right. So it's like more on the coffers, less out the door. So it's actually not necessarily a great number to have a huge dry powder number. And besides, what is dry powder? Is it really sitting there? We'll never really know until it goes out the door. So let's put a big asterisk around that.
+Cody Simms (31:36):
+And then you talk about project finance and infrastructure financing really moving into a world where it's broadening beyond funding renewables. This is primarily debt capital. It's not capital that's looking to make a return because something goes IPO. It's something that is earning a regular yield on interest as funding infrastructure, yes?
+Kim Zou (31:56):
+This was one we were really excited about. Grace, our executive editor, did a wonderful job really digging into this topic because it's one I think oftentimes climate founders don't necessarily think about ahead of time, especially looking to build capital intensive technologies and projects. But project finance and infrastructure, it's a really core part of the capital stack. It's how you fund hundreds of millions, billions of dollars of infrastructure. It's who's out there funding solar and wind projects, getting it down the cost curve right now.
+(32:24):
+I think the challenge we particularly faced is traditional project finance and infra investors like the Copenhagen Infrastructure Partners of the world, they don't want to fund early stage climate tech. TRL isn't even in their language. We've been calling it PRL, which I don't know if it sounds as cool, but it's like project readiness level. That's what infra investors are thinking about. They're thinking about project readiness level. You have to be already off the spectrum of TRL for them to be even thinking about you.
+Cody Simms (32:51):
+Show me your last five, 10 years of amortized returns on a prior investment in order to get my current investment, right? These technologies are just coming sometimes out of the lab ready for their first facility.
+Kim Zou (33:02):
+And so, I think this bridge to bankability we talk a lot about, how do you get climate technologies? How did solar and wind do this? How do you get climate technologies down the cost curve and across that valley of death to the world of bankability and commercial debt and banks and lending? And I think that missing middle part is what we were trying to dig into.
+(33:22):
+We categorized this into three, we kind of made up these names so you can give us feedback on it, but we categorized project finance and infra into three categories. The first one we called emerging infra. And so the idea behind emerging infra, these are the project financing for investors like Spring Lane for example, that are willing to maybe do a hybrid approach. Maybe they'll take a little bit of corporate equity, so they'll get that higher return, and they'll also invest into the project. So we're calling it kind of a hybrid ability to take on a little bit more tech risk because they can also invest in the corporate equity.
+(33:54):
+Then we have the growth infrastructure, which is where we've categorized folks like Generate Capital, and they're a bit earlier on the PRL scale. Maybe they won't take any TRL, but they'll take some project risks. They'll fund small-scale projects like anaerobic digesters that the big guys aren't funding.
+(34:11):
+And then there's the mature infra that's the big mega funds like Carlisle and BlackRock that are now rushing to renewables at scale. But we've been talking to those folks and they want to be funding climate transition as a whole. They're looking at hydrogen, they're looking at CCS, they're looking at battery recycling.
+Cody Simms (34:27):
+Let's take a couple of these, what I would call down the swim lane climate tech technologies, hydrogen or carbon capture, and generally you're seeing them grab buckets of funding from each of these areas as they build their businesses. Is that an accurate statement?
+Sophie Purdom (34:45):
+Those are still on the TRL scale. So those would be kind of on the earlier side of the capital of the climate capital stack, making their way up and through.
+(34:53):
+I think it's interesting to compare the slightly more mature sectors where there's customers that can make big purchases and there's frankly teams that can go put that steel in the ground and get that through to make that attractive for those big, what do we call them again, mature-
+Kim Zou (35:08):
+Mature infra.
+Sophie Purdom (35:09):
+Mature infra. Yes, exactly.
+Cody Simms (35:10):
+Long duration energy storage also on the early side too in many cases, or that's starting to move its way up the stack, you think?
+Sophie Purdom (35:17):
+Well, this is why folks like the subscription platform in large part because they're trying to figure that out. They're trying to do things like figure out who are the emerging leaders, who are the legacy players? Have they had the type of returns that we could potentially underwrite in certain categories and shift over to our traditional models?
+(35:34):
+Not to shout out the platform or the use cases too much, but this is the exact question that folks were writing to us in Gmail, and these are multi-billion dollar answers.
+Kim Zou (35:45):
+It's funny you bring up long duration energy storage because one of the things we've been looking at is not just, okay, how does financing look for these things, but how does project development actually look? Are there long duration energy storage projects getting built out?
+(35:56):
+Obviously there's pumped hydro, which is way past the TRL curve, but for these up and coming long duration energy storage technologies or direct air capture or hydrogen as we talked about, is anyone actually tracking how these technologies are starting to commercialize? What projects are out there?
+(36:11):
+So not only are we starting to track beyond venture on the capital stack, we're also starting to track beyond funding and looking at how funding is translating into commercialization for hopefully what will be a ton of next solar and wind technologies.
+Cody Simms (36:25):
+It makes me wonder on that point exactly how the current growth curves on both capital and on readiness are compared to the growth curves we saw with wind and solar. I don't know if you know the answer yet, but it seems like that would be an interesting analysis if I'm a big capital allocator trying to figure out where to play, being able to look back at, okay, here's what happened 10 years ago in this space.
+Kim Zou (36:45):
+You already see that playing out with batteries, lithium ion battery storage, so not long duration energy storage, but battery storage is already a place where infra investors are starting to feel really comfortable about investing.
+Cody Simms (36:56):
+Next category of stuff that you call out in your capital stack is public funding and philanthropy as a core element of the climate tech capital stack.
+Kim Zou (37:06):
+Yeah, this is huge. And we've done a ton of stuff with the Department of Energy. We have this, not to plug our own stuff, but Founder's Guide to the DOE for any founders out there, it's a really good overview on how to navigate the behemoth that is the DOE. And we've actually had DOE people market this guide at conferences and they didn't even know I was in the audience. I was like, yes.
+Sophie Purdom (37:26):
+They want you to read it. They want to hear from you, but you just have to find the right channel.
+Cody Simms (37:31):
+We have an old episode in the archive from earlier this year with Jigar Shah and Ajay Kochhar who received a couple hundred million dollars loan guarantee from the LPO, and they talked about what the application process is like for that to access this government money at scale.
+Sophie Purdom (37:44):
+Jigar is amazing, right? And there's so much more than just LPO, which is an amazing statement to even be able to make. The fact that we're like, "Oh, there's more than just that massive pool of capital that's being well stewarded." But working with those different offices that kind of align maybe with different parts of that TRL schema.
+Kim Zou (38:00):
+What I think I'll say about DOE, but also it's not just DOE. The UK has a version of this called the UK Infrastructure Bank. EU has a version of this called the EIB. So there's many, many versions of this across different governments, but I think what's unique about DOE is that they've taken a multifaceted approach to thinking about commercialization.
+(38:19):
+So there's Office of Clean Energy demonstrations that's looking to fund earlier demo projects. And then there's LPO that's looking to fund your first commercial project. And what that does is it unlocks and catalyzes private capital in this space, and that's really what they're trying to do.
+Cody Simms (38:35):
+And Department of Energy is one department. You've got Ag, you've got Defense, you've got some pretty heavily funded groups in our federal government, and that's just federal government. The ability for founders to navigate that is incredibly daunting, but incredibly powerful if you can find something that aligns with what you're building.
+Sophie Purdom (38:51):
+Then in that we mentioned earlier that dearth of those series B to mega deals, the ones that we've studied that do make it through often have some participation from two types of groups, one government or semi catalytic procurement like pull and/or a corporate strategic. And that might be a really tiny line item on the cap table, but just that level of participation seems to unlock and catalyze, if we can use that word, a lot more equity capital.
+Kim Zou (39:22):
+Actually, there's one really good case study of this that just played out recently. I don't know if folks picked up on it, but Ascend Elements, they're a battery recycling company. I think a year ago they raised $480 million casual from government grants from the bipartisan infrastructure law.
+(39:37):
+So they had $480 million to help build this big battery recycling facility in Kentucky. That battery recycling facility, I think they said is going to cost $1 billion. So they have half of it, and they were able to use that public funding and they recently just announced 542 million private funding from some of the actual growth funds we just talked about in our new funds analysis, and now that's getting to the 1 billion. They can now build a battery recycling facility in the US because of that initial government funding.
+Cody Simms (40:06):
+So we've talked about big growth equity, we've talked about large dollar project finance and infrastructure financing. We've talked about public financing. You've seen sort of a growth of philanthropic capital coming in from a catalytic perspective into this space as well. What trends are you seeing there?
+Sophie Purdom (40:22):
+Honestly, I think there was a lot more of this even a couple years ago when we were talking about some of the original valleys of death, which were those ones like just getting started, getting out of the lab, making it through maybe your first of a kind facility like demonstration. And those programs are going very strong.
+(40:40):
+They're names that we all kind of know and love, from fellowship programs that will help scientists become entrepreneurs through to even some of the more incubator accelerator types, including physical space like the Greentown Labs or whatnot of the world, through to the Elemental Excelerators, on and on and on. They've done a great job.
+(40:57):
+And now, of course, that continues to be a valley and we need folks that are specifically underwriting and maybe sometimes bringing in different returns or impact orientation outcomes preferences, but we have the privilege of there being a whole wave, or we call it a cohort of these companies that have made it through and they've kind of survived that first valley, and now they get to go onto their next bigger challenges.
+Cody Simms (41:21):
+So if you were mapping out the capital stack, you would maybe even put that at the very beginning, almost like an angel friends and family stage, you got this catalytic capital stage helping you get through.
+Sophie Purdom (41:30):
+That's like the classic catalytic.
+Kim Zou (41:32):
+That's the classic catalytic, although Prime Coalition is a great example of this. They've been around for before 2020, let's call it that, and they started off kind of at that stage, but now they have this new program called Early Climate Infrastructure.
+(41:44):
+A lot of people say folk, which stands for first of a kind. No one actually really wants to fund first of a kind because it's really high-tech risk like we talked about and unclear return there because you're funding a project which typically have lower returns. And I think that's where philanthropic and catalytic capital can have a really big impact is in that stage.
+(42:04):
+And to that point, we're seeing not just pure play philanthropy, but also kind of a blended philanthropic and financial approach. So Breakthrough Catalyst is a great example of this where they wouldn't call themselves philanthropy, but they have a high impact metric that they're valuing themselves on and they're looking to fund higher tech risk projects.
+Sophie Purdom (42:25):
+If I were an impact person that had millions and millions of dollars that I wanted to invest for catalytic potential, I would be first loss capital, which needs to be rebranded. If anybody has better ideas, please shout them out. But I would be that first loss capital into these early infra style projects that otherwise the other folks just won't even come to the party.
+Cody Simms (42:47):
+So these are companies, they've raised their angel funding, they've received some kind of maybe catalytic funding to get the initial tech and business proven. They've maybe raised even a venture round or two, and now they need to go build a facility somewhere and they can't find a lender. Is that a good encapsulation of what that might look like?
+Kim Zou (43:03):
+Everything is simplified when you put it in a framework, but I think the way we think about it is, call it four or five stages. You have your lab stage, you're in the lab, maybe this was like cool bio back in the day-
+Sophie Purdom (43:12):
+Yeah, that's right. Science project.
+Kim Zou (43:13):
+Yeah, science project. You're trying to prove out that it works at the lab stage. Then you have your pilot stage, which is your first real world, small-scale still, but first real world demonstration of the technology. Then you have what we call demonstration, and that's a scaled up version of the pilot, but not your full sized thing. And then you have first commercial, which is your first commercial, fully scaled, fully sized project or facility. And then we call it nth commercial, and that's your two, three, four or five and that's when project finance and lending start to play.
+Cody Simms (43:45):
+All right, so that's a really good overview of the curve there. And then on the big growth side of the curve, what we're also starting to see, it seems like, and you identified this too, is the big corporate strategics or the asset owners or the groups that ultimately might be looking to do business development with these companies or acquire them.
+(44:03):
+In many cases they're investing in a growth round and doing some kind of co-development that requires funding part of the facility build out as well. That seems like a space, at least from where I sit at MCJ, it seems like we're seeing a lot of increased activity there right now.
+Kim Zou (44:20):
+Historically, we've talked a lot about corporates from the perspective of corporate VCs. And corporate VCs are great. We love corporate VCs. And they're willing to come in at the early stage and act very similar to a traditional venture firm, but with that strong strategic focus.
+(44:33):
+So the corporates and the strategics we called out specifically in the capital stack are not just the corporate VCs but the actual corporates themselves funding these things off their balance sheet and looking to participate in these projects because they're actually strategic to them.
+(44:48):
+They could be the offtaker or they can be the partial developer. They have a lot of skill sets, capital to lend towards building out these projects. And we're starting to see, especially in these larger energy and industrial spaces, players like that coming to play.
+Sophie Purdom (45:02):
+Who often end up being the acquirer.
+Kim Zou (45:03):
+Players like that coming to play, who often end up being the acquirers. So I'm not sure if that's where you're starting to go there, but we see that the top two largest categories of acquirers, so for exits for climate, backed venture businesses are into the energy sector and into the financial services sector.
+PART 3 OF 4 ENDS [00:45:04]
+Cody Simms (45:20):
+I mean, one of the challenges that feels like in analyzing this broad of a capital stack is, in early stage, you can kind of model expected outcomes based on what you're seeing in IPO markets based on what you're able to see in terms of public M&A announcements, et cetera. But when it comes to project infrastructure, financing debt, there aren't necessarily outcomes to be had. And unless you're able to go look at a public corporate's annual reports and understand what they're saying in terms of their earning on these infrastructure projects that they're financing, it's really hard to understand if this stuff's even working. Do you have a sense of how you're planning to tackle that or if you will try to tackle that, in terms of how are these projects actually performing?
+Kim Zou (46:01):
+I think it's hard to get that data for climate technologies that are coming up the curve, because there's just not that many projects out there, but for solar and wind, oh yeah. This stuff is out there. It's public. Everyone has a sense of what the IRR returns are. This is something Mark, my co-founder, likes to say, our co-founder, likes to say, which is we want the stuff to get boring. We want climate tech to get boring. Right now, it's exciting and it's awesome. Not boring in a bad way, but boring in a way that solar and wind has gone. No one looks at solar and wind, and they're like, "Oh my gosh. High-tech risk. Does it work? Does it not work?" We want this stuff to get boring. Boring is good.
+Cody Simms (46:34):
+Speaking of boring, the next one in your list is banks.
+Sophie Purdom (46:38):
+All right. We're going to have some people walking in our audience now. Who's sponsoring this one?
+Cody Simms (46:45):
+And so talking about what role you're seeing banks start to play. I mean, Silicon Valley Bank is everywhere. They've been funding wind and solar for a long time, because it is repeatable, and they can model it and they can understand it. Where do you see big formal bank type of lenders starting to get involved?
+Kim Zou (47:03):
+All these big banks, they're really out there, and they've now, over the last few years, been putting climate and sustainability at the forefront of what they're doing. That's not just marketing speak, that was a joke, but truly, there's a lot of these different teams now that are either directly investing in climate themselves, HSBC, Morgan Stanley, JP Morgan, Goldman Sachs. They all have direct investment funds to fund climate growth, and those are all announced.
+(47:29):
+There's also a bunch of teams internally that are thinking about how do we capitalize these companies early on, how do we use our balance sheet as a bank, our financing vehicles, and actually start to play in this space? Because we see this as a big opportunity and directly help these companies early on, so there's a bunch of different groups within these banks that are actually talking to climate founders at the pre-seed, seed, series A stage, trying to figure out how do we actually help finance them and bring them over that bridge to bankability, so I actually think they're doing a lot of work in this space.
+Cody Simms (47:59):
+So starting with maybe venture debt lending and just basic equity balance sheet type of lending, and then eventually knowing that team, trusting their ability to be good stewards of capital, and then even potentially taking a look at a riskier, more infrastructure type of investment with them once they have track record?
+Kim Zou (48:14):
+This is going to sound nerd, but they want to be that lifelong partner holding these companies hands throughout this financing journey, and so we've seen great examples of that. I mean, JP Morgan, speaking about my old employer, they're one of the largest tax equity teams that are financing solar and wind projects. And so a lot of these banks do have the know-how of, "How does this stuff translate from the VC world to the infra world?"
+Cody Simms (48:37):
+By the way, I recorded an episode last week with a company called Reunion, and the whole episode is about how, as part of the Inflation Reduction Act, people may not know this, but tax credits became transferable. So all of a sudden, now it's not just a big bank who might need to partner with you to get something funded. You can get your project funded, and then sell your tax credit to some other lender.
+Kim Zou (48:59):
+Oh, yeah.
+Sophie Purdom (48:59):
+Anyone else who has tax liability.
+Kim Zou (49:01):
+We published something on this as well.
+Cody Simms (49:03):
+Oh, awesome. Last item in your capital stack is one that I think, frankly, doesn't get talked enough about as a potential participant, and that's insurance. Insurance, very critical in solar and wind project financing. How are you seeing that evolve into other aspects of the climate tech stack?
+Kim Zou (49:23):
+Before we jump to insurance, I actually want to shout out another member of the capital stack that we grouped in with the corporates, but they're actually completely different, which are the asset owners, so large sovereign wealth funds, pension funds, Temasek. I was talking to Jeff Johnson from Temasek on a panel earlier today. They're doing a ton in climate here, both from directly investing in this space, but actually behind the scenes, a lot of LP allocations to different earlier stage climate funds in this space. So they're having a huge, billion, I mean, these are trillions of dollars of AUM, looking at climate right now. So there's a huge, I think, pool of dry powder out there, that we can't even track, that are coming from these sovereign wealth funds and pension funds that are starting to participate directly in growth stage climate deals.
+Cody Simms (50:08):
+Yeah, great. Okay, insurance.
+Kim Zou (50:10):
+All right, insurance. So I think we called out this last tier we're calling the supporting ecosystem, enabling ecosystem, because when you look at a lot of these project finance infrastructure deals, there's a lot of financing and structuring that goes into it. The whole point is reducing risk, reducing risk, and insurance is one of the best vehicles for reducing risk. And so I think there've been a lot of companies, like Energetic Insurance for example, that's figured out how to do this for solar and wind, and so the next question, which is actually what Prime is doing, is thinking about how do we build and enabling infrastructure, such as insurance, that can help minimize risk as much as possible for projects in earlier climate tech.
+Sophie Purdom (50:49):
+Make it boring.
+Cody Simms (50:50):
+Make it boring.
+Sophie Purdom (50:51):
+Sounds like that's-
+Kim Zou (50:52):
+Insurance is not boring.
+Cody Simms (50:54):
+No. Let's see. I think the last set of stuff that I want to hear from you, and then I think we'll probably wrap this episode is, we just talked about the stack and how it's evolved. We talked about what's happening in terms of dry powder investment, volume up, investment volume down. What do you think is going to happen over the next end of 2023, into 2024, near term time horizon? What does the world look like?
+Sophie Purdom (51:18):
+I think the market's starting to thaw a bit. This is not yet quantified in the deals that are announced. This is more Sophie [inaudible 00:51:28], sentiment feeling, and also how we're being active in the market as well. I'd be curious for other folks in the audience as well, but deals are getting done, and they're picking back up. They're much more reasonable from a quantum and size of round, relative to use of proceeds, and they're much more reasonable from a valuation that's healthy for giving up certain levels of equity and making sure that folks are incented for the long-term, as you need to scale up and build the team.
+(51:52):
+So that's the first time I've said anything favorable and positive, orientation wise, in a long time here. Part of what makes me long-term excited about this space, again, not to be a total broken record here, but is that there are these highly educated folks that know what they want to buy and consume at the other stages of the capital stack, that are also kind of ready to lend a hand. It just all feels like everyone's gone back, done a little bit more of their homework, and they've figured out where they want to play, who they want to play with, what outcomes they deeply understand, and they're starting to slot the pieces back together again in ways that just kind of feels healthier and more outcomes driven.
+Cody Simms (52:36):
+It feels like, to me, over the last year as, especially the growth mega rounds, as you said, have really dropped off that sort of series B ish stage where you've achieved equity funding, and now it's time to go for the hardware sort of moving atoms companies in the climate tech space. Software, totally different story, but in the hard tech stuff, having access to that infrastructure financing in a notable way feels like almost a gate to get growth funding right now. That, to me, has felt like the big gap, those two pieces coming together.
+Sophie Purdom (53:08):
+Exactly.
+Kim Zou (53:09):
+And that's why we expanded the capital stack. I think, to that point, what I'm really excited about, and what I hope and think will happen, is that things are going to get built, and that's why we're talking about climate tech venture. That's why we're talking about venture funding and innovation, is because we want these projects. We want these things to get built, and that's the marathon we're all running, is we want hydrogen, we want battery cycling, we want long duration energy storage, direct air capture, all this venture investing.
+(53:35):
+Not all, but a large part of it is so that we can start sucking C02 out of the air, so we can have clean baseload power, so we can have long duration storage. I'm excited for a lot of that early stage venture investing. We've been tracking to start translating into projects with public capital, like DOE, unlocking private investment and getting project finance, infra, and eventually banks comfortable enough to start dipping their toes and, eventually, their feet in the water.
+Sophie Purdom (54:02):
+But if I may just say the hard thing out loud, it's easy to start companies, and it's easy to start funds. It's hard for both of them to shutter. I was avoiding using the word die. I didn't do a good job there, did I? I, candidly, don't yet think that we've seen a majority of the companies shut down. Folks go find net new homes, hopefully in even stronger places, like in the climate ecosystem with business models that are more set up for the longterm. Likewise, I think there's probably a good amount of funds out there as well that have participated in some of those opportunities that will just take a long time to kind of cycle out.
+(54:38):
+Maybe they don't raise the next one, et cetera, et cetera, and it's not a game. That's part of this ecosystem, that's part of the recycling of capital, talent, and opportunities, that it doesn't doesn't all work out. I think we also just need to say that hard part out loud and CTVC is here for the long term, and everybody likes reading our stuff when there's a ton of deals that are good news, people getting hired, and amazing opportunities in the opportunities and events section, but it's cyclical. Sometimes it's hard, and just awareness of what we're playing in and how this stuff, we're going to feel it on the downside, just like we kind of felt it [inaudible 00:55:12] on the upside over the past couple of years too.
+Cody Simms (55:14):
+What more should I have asked that we didn't cover?
+Kim Zou (55:16):
+That we're matching today.
+Sophie Purdom (55:18):
+That's right.
+Kim Zou (55:19):
+This is actually completely an accident, that we're matching, by the way. This is not planned.
+Sophie Purdom (55:23):
+I didn't text you, Cody. Sorry.
+Cody Simms (55:25):
+It's perfect. It's perfect. Kim, Sophie, so appreciate you joining us. Everyone, thank you so much for coming out. This has been a blast. A quick reminder for MCJ community members, part of the MCJ member community, Kim and Sophie are joining us in the MCJ Member Slack on October 4th for an AMA. So if you're listening to this episode before October 4th, 2023, jump in there and you can ask them whatever questions you may have of them, and with that, we will wrap the recording, and appreciate you all for coming today.
+Sophie Purdom (56:02):
+Thank you, Cody.
+Jason Jacobs (56:06):
+Thanks, again, for joining us on My Climate Journey podcast. At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity. If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com, and if you have a guest suggestion, let us know that via Twitter at MCJpod.
+Yin Lu (56:33):
+For weekly climate op-eds jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (56:42):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

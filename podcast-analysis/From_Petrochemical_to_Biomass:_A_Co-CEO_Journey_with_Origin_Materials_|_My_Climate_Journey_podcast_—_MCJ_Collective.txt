@@ -1,0 +1,426 @@
+John Bissell
+Today's guests are John Bissell and Rich Riley, co-CEOs at Origin Materials, a carbon-negative materials company that turns carbon found in biomass into chemical outputs.
+Rich Riley
+John co-founded Origin Materials as an undergraduate at UC Davis in 2008. Rich became an investor in Origin in 2010, and joined as co-CEO in 2020 after a successful tech career, including most recently as the CEO of the music startup Shazam, which he sold to Apple in 2018. So what kind of opportunity brought a wunderkind chemical engineer and a seasoned software technology executive together? The way they tell it, it's the once-in-a-century opportunity to rebuild the world's material stack from one built on petrochemical inputs to one built on biomass.
+Recently, Origin Materials went public through a SPAC merger and is now finishing its first commercial plant, Origin One, in Canada. In this podcast episode, Cody delves into John and Rich's backgrounds, how they met, Origin's theory of change, its technical processes, the market it operates in, and the chemical outputs its customers purchase. They also discuss their vision for scaling the business. 
+Almost everything we use in our lives is reliant on fossil fuel-based chemicals. However, Origin Materials is striving to change this by transforming the industry, as the world moves away from fossil fuels. Tune in to discover how they plan to achieve this goal.
+Get connected: Cody SimmsJohn Bissell / Rich RileyOrigin Materials  MCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests. 
+Episode recorded on March 17, 2023.
+In this episode, we cover:
+[2:44] John's time at UC Davis and what prompted his idea for Origin Materials 
+[6:23] Rich's story and how he got involved with the company 
+[10:52] The decision process behind John and Rich's co-CEO structure
+[12:49] Original insight behind the company's focus
+[19:13] How Origin Materials fits into the value chain 
+[20:26] Challenges of working with biomass and Origin Materials' process 
+[23:52] The company's different product streams
+[27:22] Use cases and how Origin Materials works with partners and customers
+[35:09] The infrastructure side of the business
+[38:39] How the company raised funds for its first plant and the evolution of talent they're bringing into the company
+[42:43] Origin Materials' unit economics strategy and what's next
+Cody Simms (00:00):
+Today's guests on my climate journey are John Bissell and Rich Riley, co-CEOs at Origin Materials. Origin is a carbon negative materials company that turns carbon found in biomass into chemical outputs.
+(00:13):
+John co-founded Origin Materials as an undergraduate at UC Davis in 2008. Rich became an investor in Origin in 2010, and joined as co-CEO in 2020 after a successful tech career, including most recently as the CEO of the music startup Shazam, which he sold to Apple in 2018.
+(00:31):
+So what kind of opportunity brought a wonder [inaudible 00:00:34] chemical engineer and a seasoned software technology executive together? The way they tell it, it's the once in a century opportunity to rebuild the world's material stack from one built on petrochemical inputs to one built on biomass, like wood residue.
+(00:50):
+Origin Materials went public in 2021 via SPAC merger, and is in the process of completing its first commercial plant, Origin One, in Canada. We chat in depth about John and Rich's quite different backgrounds, how they met and came together as co-CEOs, Origin's theory of change and its technical processes, the market in which it operates, and the chemical outputs that its customers buy. And how the two see the business scaling.
+(01:17):
+Almost everything in our lives that is manufactured is dependent in some way on fossil fuel-based chemicals. I enjoyed learning from John and Rich about how they see Origin transforming this dynamic as the world transitions away from fossil fuels. But first, I'm Cody Simms.
+Yin Lu (01:35):
+I'm Yin Lu.
+Jason Jacobs (01:37):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+Yin Lu (01:43):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:48):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. And with that, John, Rich, welcome to the show.
+Rich Riley (02:05):
+Thanks for having us.
+John Bissell (02:06):
+Thanks for having us.
+Cody Simms (02:07):
+So guys, I am excited to meet you, and Rich, to get reacquainted with you. Rich, as we discussed before we were recording, you and I worked together for many years at Yahoo. And excited to hear your story of how you've gone from working in software and digital to working in extremely hard tech.
+(02:25):
+And then John, similar, excited to hear your story of how this idea came to be in the first place for you. So maybe let's start there with you, John, talking about your time back at UC Davis in 2008. And what prompted you to come up with this idea in the first place?
+John Bissell (02:44):
+Yeah, so in 2008 I was finishing up my chemical engineering degree, and I was doing it with my co-founder, Ryan Smith. And then the two of us were pretty gregarious, we were actually in undergrads as undergrads go. And we were bouncing around all the different labs and seeing what was going on at East Davis.
+(03:01):
+And I think we got a pretty good picture actually. Well, as much as you could expect in undergrad to have a pretty good picture of what was going on in the adjacent departments and in our department. And we got really excited about some of the technology that was being developed there.
+(03:16):
+And what we saw was that I think at some universities there's a somewhat obvious pathway, and there's the infrastructure for professors to really start companies and spin stuff out pretty regularly. For a variety of reasons that aren't just institutional policy reasons or something like that.
+(03:31):
+It doesn't happen quite as much at UC Davis. It's not that it doesn't happen, but it's not quite as quick. There's a little bit more activation energy. And so we found ourselves in a spot where there's an opportunity. We could be the motive force behind some of this stuff getting taken into the commercial world.
+(03:49):
+And that was what got us going in some ways. And then there was also a bit of a serendipitous pairing with some technology and a professor that we won an award for. So we did a little bit of work with this professor, we submitted that to the EPA, and we won a national award for that work at a big science fair.
+(04:05):
+And coming back from that was when we started to think, well, maybe we should really do something with this. And so we did. We ended up hooking up with a professor at the Graduate School of Business, and he showed us what is venture capital, what does starting a company look like.
+(04:19):
+And so in some ways it felt somewhat obvious that you should start a company with a new technology, like that was what one does with interesting technology. We were certainly products of our time and place in thinking that that was the right thing to do.
+Cody Simms (04:30):
+Well, and speaking of time and place, saying this as we're recording in March, 2023. You were starting this in 2008, which from a financial health perspective, we've obviously just lived through a couple of crazy weeks here recently with bank issues and whatnot, and who knows what the world will look like by the time this episode airs?
+(04:49):
+But 2008, we were living in 10x the amount of distressed meltdown situations. So I'm curious how that fed into your decisions to say, Hey, let's start a company right now.
+John Bissell (05:01):
+Well, we started the company and then immediately went and got real jobs, and we had real jobs for not quite a year, something like nine months. And this was going fine. And then for some reason I think the financial crisis meltdown actually catalyzed us to leave our jobs.
+(05:15):
+I'm not quite sure why that worked out that way, but I think what it did really is it got us thinking about structural stuff. Like wow, there really needs to be change. You can't just go on forever, because the environment doesn't always stay the same. I think that was what got us going on.
+(05:31):
+And at one point I actually remember the phone call to Ryan, and I said, "Hey, I think we can spend probably as many weekends and nights on this as we want for the foreseeable future. We could submit our nights and weekends to working on this, and probably have the lowest possible odds of success, real success. Or we could go all in, do this full-time, and have the maximum odds of success. And also if we fail, we get our nights and weekends back."
+(05:59):
+And Ryan was like, "Yeah, I think that makes sense." And so we quit the next week, which might have been right around when Lehman collapsed, I think, something like that, within a couple of weeks.
+Cody Simms (06:09):
+Amazing. Well, the adage always is that great companies are started in the worst of times. Because founders realize, hey, that they have time to spend on it. So I'm hearing a little bit the same here, which is I'm going to go put my time and effort into this thing right now.
+(06:23):
+And then Rich, you joined originally I think as an investor and an advisor in 2010. So you found this company pretty early, it sounds like in its lifecycle.
+(06:31):
+Two undergrads started this thing out, deciding, Hey, I'm tired of spending nights and weekends, I'm going to go all in on it. And at the time you were in the middle of your career in software, you were a senior executive at Yahoo. You then went on to be the CEO of Shazam, the mobile app music company that was ultimately acquired by Apple.
+(06:50):
+Talk to us about how you found John and his co-founder, and what attracted you in the first place.
+Rich Riley (06:57):
+So I was a pretty active investor at that time already, and one of my really good friends from college whose family happened to be in the packaging space. And so he had a unique knowledge of both investing and chemistry and packaging in those worlds.
+(07:15):
+And he was really the one who found John. And pitched the story to me, and sounded like an incredible mission to be cost competitive with oil, but starting from wood waste and things like that. And then at that stage of investment, you're betting on the entrepreneur. And then you meet John and then you write the check
+Cody Simms (07:34):
+And then talk to us then about your own journey. So you went on to lead Shazam to ultimately a great outcome. And then decided, hey, after a couple of decades in software, this John guy's onto something. What did that look like for you?
+Rich Riley (07:48):
+Yeah, well, my whole career has been somewhat asymmetrical. So I went to Wharton to go to Wall Street. I went to Wall Street and thought I'd be an investment banker. And had an idea one night on a plane, partnered with my friend in IT. And next thing you know we invented and patented the toolbar. Which I then figured out who should buy the toolbar, and it was Yahoo. And so I went and sold that to Jerry Yang when I was 25.
+Cody Simms (08:10):
+That was in 1999, I believe. Is that right, Rich?
+Rich Riley (08:13):
+Exactly. So I moved from New York to San Francisco, and Jerry said, "We like how you've handled this, come work for me."
+(08:21):
+And thought I'd move out to San Francisco, do that for a few years. Would spend 13 years at Yahoo, including doing BizDev, Corp Dev, running the small business division. And then running Europe region, and living in London and Geneva. And then coming back to running the Americas and serving on the executive management team.
+(08:38):
+And at Yahoo, every next job I got I probably wasn't qualified on paper. I'd never worked in Europe, I didn't know anything about small business services, but the company was growing so fast and so many opportunities. So developed this every few years, something totally new. And at the end of my Yahoo run, I really wanted to be a CEO, and found Shazam.
+(09:01):
+And the one thing I hadn't done at Yahoo probably was work with the LA team and the music business and things like that. And certainly wasn't seeking the music business. And then found Shazam and felt like this is a product that hundreds of millions of people use. It delivers magical customer experience.
+(09:19):
+Let's see what this brand and platform can be. Ran that for five years, sold that to Apple, which is a great home for Shazam. And then was thinking about what to do next, had some pretty interesting opportunities, but thought if I could find something that's mission driven for this stage in my career, that would mean a lot.
+(09:35):
+Something where I really trust the people, and I'm not just going in to a bunch of people I don't know and all the risks that comes with that. And somewhere where I think I can really add value.
+(09:44):
+And so I had some really interesting conversations with some pretty famous companies, and then I realized, wait a second, I already have this opportunity in my portfolio, so to speak. And the stars aligned where Origin had been, for most of its existence at that point, to an R and D, figuring out this technology.
+(10:03):
+And not a lot of value for me to add then or now. But at this moment in time, just over two years ago, the technology was really ready to scale, and the demand at this point had started to really hockey stick. And this was the time when net zero commitments are starting to happen, and you no longer had to convince people why less carbon was worth more money and that kind of stuff.
+(10:24):
+And we realized that we now need to scale this business beyond just its technology core competency, and we need to be able to go do commercial deals and add people and raise a lot of money. And so it was the first thing we did, was go raise $500 million. And so that's how I came on board.
+Cody Simms (10:42):
+Fantastic. And John, you had been the CEO. What was the decision process on your end to say, Hey, let's turn this into a co-CEO ship and have Rich come in and share the duties with me.
+John Bissell (10:52):
+You just heard Rich lay out his expertise, and it doesn't have a lot of overlap with mine, frankly. And so I think that emerged pretty quickly as a structure that made sense.
+(11:03):
+And if you go back and you look at the literature on successful co-CEO structures, what you find is that when you're really, really high growth is when they do best and they outperform in those situations. There've been, due to some of the higher profile co-CEO structures, there'd actually been quite a bit of literature work done on them.
+(11:21):
+And I think we've definitely found that to be true. When you're really high growth across a company that's actually pretty complex for its size, as long as we can keep aligned, then you really need that distributed focus. Doubling that up is really valuable. And so I think that's exactly what we've seen.
+(11:37):
+So it made sense on paper. And then the other side is I really had been working with Rich for a long time, so as he said, I think there's a lot of trust, and there was even from the get go. And I think that's been borne out really, really well.
+(11:49):
+We work together well, we synchronize our thoughts really effectively. And while we have enough style overlap that I think we understand each other, there's some real differences in a way that's useful. And as a consequence, I've seen Rich take the exact same team that we've had in some areas for a long time and get way more effectiveness out of them. Because he has a different style, different experience, just really makes a difference.
+Cody Simms (12:12):
+Well, fantastic. And we're going to come back to some of what you talked about Rich, about needing to come in and raise a bunch of money for the company and whatnot. But I want to get into what the company actually does. So you all are taking woody biomass and using that as a feed stock to generate plastics as I understand it. To really try to replace the petrochemical input, the oil and gas input that is driving the bulk of plastic creation today.
+(12:39):
+Maybe talk through, John, what was the original insight that led to you deciding this is what you wanted to make your life's work up to this moment in time?
+John Bissell (12:49):
+I joke sometimes that the chemical industry and let's say oil and gas all include, although maybe the chemical industry is probably the marketing arm of the oil and gas industry, more so than vice versa. But that was the reason why the chemical engineering discipline was created, was to essentially do a bunch of stuff for that industry that nobody else could do very effectively.
+(13:08):
+And so coming out as a chemical engineer at a school, it's a little bit like growing up to be a superhero or something like that. It's just what all the chemical engineers in some ways think about, is I'm going to go change the oil and gas industry, it's going to be great.
+(13:21):
+Or I'm going to go change chemicals and that's going to be great. And so I think we had a little bit of a naive or naively informed approach to that, we're just too stubborn to quit, and kept at it.
+(13:31):
+So that was I think how we ended up thinking about it as how do we change chemicals? But I think there's some unique insights in that too. So a lot of the approaches to change or produce renewable chemicals are very rifle shot approaches, where I have thing A and I'm going to use that to replace thing B that's existing in the chemical industry.
+(13:51):
+And I can give lots of examples of that. And that makes your life kind of simple in a lot of ways, but you're also totally subject to the vicissitudes of the market.
+(14:00):
+So once you're on that journey, you can do nothing to control your destiny. If the prices of A and B invert, you're [inaudible 00:14:08].
+(14:09):
+So our approach from the get-go was pretty different. We looked again, probably somewhat naively at oil and gas and petrochemicals, and we said, Well, the way that that works is you can make all kinds of things out of the intermediates that the petrochemical industry uses and produces. So that's probably the structure that makes sense. So what we should do is we should go look for a technology and develop a technology which was very adaptable and flexible in that sense.
+(14:37):
+So you had to have super low cost, which you got to start with biomass, something really cheap. You got to make an intermediate really efficiently. And then that intermediate has got to be really flexible, which is the opposite in many ways of a single rifle shot with minimal technological development, all that kind of stuff, to get from A to B for a single renewable thing.
+(14:56):
+It's also a lot harder story to tell. It's easier in retrospect, but on a foregoing basis, it was really not a straightforward story for people to understand. You really had to teach people into the story in a way that's not straightforward.
+Cody Simms (15:10):
+So what I'm hearing you say is the petrochemical industry has grown up to be incredibly verticalized or specialized into individual outputs. And I presume that's just because it's so large, and the base layer of exploration and refinement is the platform.
+(15:27):
+And so then the chemical side of that is taking the outputs of that and specializing it into specific chemicals. And so in order to replace that, you need to build the underlying refinement engine in a new way, and thus that allows multiple vertical layers to be built on top. Am I understanding correctly what you're saying?
+John Bissell (15:46):
+Yeah, I think that's mostly right. I would say if you're going to try to replace parts of the oil and gas, or petrochemical world, it's very difficult to just select one thing. Because you're a coin flip as to whether that thing is going to work out the way you want it to or not economically.
+(16:01):
+And so in some ways, the harder but correct thing is to try to go build an equivalently powerful and valuable platform. And if you do that, then you're good.
+Cody Simms (16:12):
+And I have to say with my own venture fund head on, I have a really hard time looking at individual bioplastic solutions that are sent our way. Because it's hard to tell how one tech is slightly better than the other and is going to gain market share.
+(16:29):
+And so I'm hearing you call that out a little bit in your initial thesis, which is, we don't want to be one tech, we want to enable multiple techs. Is that correct?
+John Bissell (16:37):
+That's exactly right.
+Cody Simms (16:38):
+And Rich, is part of that what has helped attract you to want to go all in here yourself?
+Rich Riley (16:43):
+Yeah, when you have a platform that addresses a trillion dollar plus market on what we call a once in a planet transition, it's wild. Since I joined, our demand has grown from 1 billion to 9.3 billion. We get orders for hundreds of millions of dollars on a regular basis, with companies saying, this is a small order for us. This is a let's get started.
+(17:08):
+And so these markets are so huge. And it's so fascinating, literally every month and quarter that goes by, we find new applications or more precise applications for our platform.
+(17:20):
+And many of the applications that we had on the list of, we'll get there someday we think, are coming together much faster than we had thought. And so there's just enormous... You have this huge industry that's really looking for better ways, lower carbon ways to address these markets. And it makes it really exciting, all the different things that we can do.
+Yin Lu (17:40):
+Hey everyone, I'm Yin, a partner at MCJ Collective. Here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast.
+(17:52):
+We started in 2019, and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(18:07):
+Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops, and more.
+(18:26):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to MCJCollective.com and click on the members tab at the top.
+(18:38):
+Thanks, and enjoy the rest of the show.
+Cody Simms (18:41):
+Let me understand what your place in that ecosystem looks like. So you all are sourcing this woody biomass I believe today primarily from sustainable timber operations, if I understood correctly from what I was able to glean online.
+(18:55):
+And then you are breaking it down through some kind of catalysis process into various chemical parts. And then are you creating an end product that these large corporations are buying, or are they buying raw chemical and acid outputs from you? Or a little bit of all of the above?
+John Bissell (19:13):
+Yeah, so you're right in terms of the first step of the value chain. So we can take any kind of biomass type material. So we look at sustainable wood residues initially because there's a pretty well established supply chain for that. So I can call up a sawmill and say, "Hey, I want your residuals," and they'll ship it to me.
+(19:28):
+And that works out fine. I don't have to figure out how to go collect that kind of residual somewhere. But we could use anything. We could use, they burn big piles of leftover orchard wood, for example, in California, in Central Valley. We could use that. I'm in California obviously, so my examples are top of mind there. But the stuff that they pull out, the wood things that they pull out of the mountains in California to prevent wildfires, we could use that.
+(19:54):
+All those kinds of things. And a lot of that's not usable for traditional structural lumber or dimensional lumber, or something like that, because it's the wrong shape basically.
+(20:02):
+If I want to have a two by four, I need something that's at least two inches by four inches in a rectangle as long as I want my two by four. And not every piece of wood, thin wood that I bring out of the mountains is like that.
+(20:12):
+We use that. We chemically convert it, just like you said. And if you think about that in terms of the value chain, that's the part that comes out of a refinery, or is maybe you could say in some ways it is the refinery part. We're substituting the petrochemical refinery.
+Cody Simms (20:26):
+Before you go into the next step, let's break each these down a little bit. So the woody biomass, one of the challenges is transportation. This stuff's heavy. So presumably you need to find sources that are somewhat local to your facilities, I'm guessing. Is that a correct assumption?
+John Bissell (20:39):
+Yeah. So biomass, yes, it's heavy. We would actually call it fluffy. So it's challenge is that it's fluffy, which means it actually requires more volume typically to ship than it does mass.
+(20:49):
+Now, for biomass broadly, the special thing about timber residuals is that they aren't as fluffy as most biomass. And so they are weight limited, which makes them much more inexpensive to ship typically. But most biomass actually has the fluffy problem, which drives these guys, what you said, which is you have a limited collection ready.
+(21:06):
+Because otherwise you're spending too much money moving that stuff around. The benefit with timber though is you can ship it a couple of hundred miles if you need to. 100 miles is your preferred shipment radius, and it has relatively high density. So if you think about how thick is the layer of biomass that's getting scraped off of any given acre of land, let's call it in it's really abstract sense, you have a lot of timber products of various sorts coming off each acre of land.
+(21:30):
+So you actually can collect quite a bit in each radius. And you can look at this from a pulp mill, a big pulp and paper mill is millions of tons of biomass, and they have all the same general logistics considerations that you would see for a plant like ours.
+Cody Simms (21:45):
+Okay, great. And so you get it to your factory, you process it. What does that processing step look like? I'm assuming this is not a bio fermentation operation, this is a chemical process of some sort, but explain a little bit about the inputs and the process that this wood goes through.
+John Bissell (22:00):
+So the first reactor is basically, you could think of it like a turbocharged stomach in some ways. So you use hydrochloric acid to break down the biomass, subsequently do some reactions, all in the same pot. So it's cooking, it dissolves the biomass, and then produces our intermediates. And then extracts the intermediates into a separate phase, that makes it a little easier to manage them.
+(22:22):
+And so that one reactor takes in, think of it as wood chips in terms of morphological scale, and then it breaks those down and produces our major intermediates, Chloromethylfurfural, CMF, hydrothermal carbon, and then what we call a [inaudible 00:22:36] called oils and [inaudible 00:22:37].
+(22:37):
+And so all of those are coming out, and our job is just to separate them after that.
+Cody Simms (22:40):
+And is there heat involved in the process or it's mostly acidic breakdown?
+John Bissell (22:44):
+On the scale of chemicals, it's mostly acidic breakdown. There is heat, but it's the temperatures that you can get to in your kitchen, which is pretty low relative to a lot of industrial processes. Industrial processes get pretty hot.
+Cody Simms (22:55):
+And that's how you're able to continue to claim carbon negativity is there is some use of obviously carbon both in the transport of the woody biomass and in the heat you're using to break it down. But at the end of the day you're using these materials, that if left open in the environment, would rot and would create methane and would release CO2, et cetera.
+John Bissell (23:14):
+Exactly right. And you're displacing, the oil and gas supply chain has a lot more emissions associated with it than people usually think, and so you're also not using that supply chain with all of the associated emissions there as well.
+Cody Simms (23:25):
+Okay. And then Rich, what are your customers looking to actually purchase from you? It goes through this process, you end up with these outputs that are essentially relative equivalents to what a petrochemical company would produce.
+(23:39):
+So what does that then look like in terms of working with potential customers? You guys have a who's who of signed relationships with PepsiCo and Nestle and Danone, and on and on. So may maybe explain a little bit about what the product here looks like.
+Rich Riley (23:52):
+Sure, so we create three principle intermediates. The CMF intermediate can go on to be Paraxylene, which is chemically identical to the Paraxylene that comes from oil and gas. And that's a primary ingredient in PET plastic.
+(24:08):
+And so what's nice going down that route is you end up chemically identical. And when you're chemically identical, you have regulatory approval. The customer knows you work in all their machine tools and they don't have to change their package. You don't have to change anything.
+Cody Simms (24:19):
+You're not creating the PET, you're creating the CMF. And then it's going into chemical companies own workflows.
+Rich Riley (24:26):
+We'll take it from CMF to Paraxylene, and that's what would leave our gate. And then that would flow into the PET infrastructure. And what you'll find with us is if we had our way, we would just make CMF.
+(24:38):
+Our secret sauce is the upstream part. And so over time, we certainly hope to have supply chain partners that will do all the downstream processing. But initially we may need to go all the way to the Paraxylene, and then work with the major PET manufacturers to flow our Paraxylene in just like they would flow Exxon's Paraxylene in and make the PET.
+(24:55):
+And so that's a hundred billion dollar plus market. Traditional PET has a very high carbon footprint, so companies that use it tend to use a lot of it. And when they look at their net zero game plan, it's blinking red. And so they're eager to find solutions.
+Cody Simms (25:11):
+And this would be in their scope three, I presume. Is that an accurate, from a carbon accounting perspective, how they're thinking about it?
+Rich Riley (25:17):
+Depends on which one it is, but yes.
+Cody Simms (25:19):
+Okay, the end product company, like a Danone creating a plastic package for the yogurt, the underlying source of chemicals flowing into the PET that they use to create that chemical package presumably would be in their scope three emissions, I would think.
+John Bissell (25:33):
+Yep, right.
+Cody Simms (25:35):
+Okay.
+Rich Riley (25:35):
+So we have a lot of demand there. We also have a lot of demand from other chemical companies who we view them all as partners. And this is something I don't know that we thought would materialize as quickly as it has, but if you think about it, those companies are under a lot of pressure from their customers to offer lower carbon solutions.
+(25:53):
+And they are used to taking an intermediate and further refining it into some higher value application. And so we have a lot of partnerships with other chemical companies to make automotive parts, all kinds of things that we would've never gotten to. And so they make just great partners for us, because they have a lot of technical expertise and are kind of used to that value-added thing. And for us, it's great to have our CMF get to higher value applications.
+(26:16):
+And so we keep, I would say on a monthly basis there's new ideas of company X,Y, Z thinks they can get to this with using our CMF.
+(26:26):
+And so that's really interesting. And then we have our HTC intermediate, which is our solid, hydrothermal carbon, which can go to everything from solid fuel pellets to replace coal to carbon black, which is used in tires. To some other interesting applications.
+(26:41):
+And then we have a third intermediate stream, our oils and extractives is what we call it, but it can go to biofuels. And so that's a relatively newer development for us.
+(26:50):
+And so we're getting up the fuels learning curve internally, and figuring out where does that best flow into the biofuels value chain. So those are our three products that then get to a very wide range of end applications.
+Cody Simms (27:03):
+And looking on your website, you have a cataloged of all the different potential use cases of your outputs. And I'm curious where you have seen, you said it's at least in the CMF, it's chemically identical to what would flow into a traditional chemical manufacturing process.
+(27:22):
+Are there use cases where you believe the petrochemical generated materials still do outperform or are better? Or are there no significant differences? Or is this still to be determined through scientific testing?
+John Bissell (27:34):
+Well, when you're making the Paraxylene from CMF, that specific product, then it's the same. It's literally no difference. Now, when you're making all sorts of the other products, so we think of these as the pure end derived product. So the key differentiated functional group in our intermediates that you really don't see economically outside of them is this [inaudible 00:27:53].
+(27:53):
+Not that we invented it, it's been around, but it's never been industrially available like this with this sort of structure. And so when we're doing that, we can often make products that look like a petro product, so like a Surfactin, but instead of having an [inaudible 00:28:08], it has a [inaudible 00:28:09]. And it's a hotpot. It's like a five-sided Lego piece for a six-sided Lego piece. Some cases it doesn't really make much of a difference one way or the other.
+(28:17):
+It just isn't that much of a change. And then you get both the other side, sometimes the [inaudible 00:28:22] ring enables a change in the way that that molecule behaves that is pretty beneficial for a given application. Sometimes it's worse. So as we go through, part of our challenge is, and that's also common in the industry. So as you look at chemicals, there's so many different applications.
+(28:38):
+At the highest level, the chemical industry is the industry that makes all physical goods. If you're sufficiently abstract about it. So literally every single thing that you touch is made by the chemical industry. I'm being a little bit extreme, but it's not that extreme.
+Cody Simms (28:55):
+Hey, I've seen the graduate. I know that there's one word to look at, which is plastics.
+John Bissell (29:01):
+Even food you could argue is significantly coming out of the chemical industry. So when you look at it that way, there's so many different applications, so many use cases for these different products that it would be really surprising if something were better at everything.
+(29:15):
+It's almost never better at everything. And so part of our job is, in fact, I'd say there's twofold. As we're looking at our platform development, we have the typical platform development challenge, which is what the hell do you do first?
+(29:30):
+And that's not always straightforward. And maybe there's a subcategory of that, which is when you decide what you're going to do first, how do you bridge it to the market? And that, Rich was talking about that a little bit. We'd like to just be platform operators, but you can't usually do that to begin with. You got to have your killer app that's going to take it.
+Cody Simms (29:45):
+You got to one bridge up, which is where you're taking the CMF into the Paraxylene, because that's what your customers need.
+John Bissell (29:51):
+Right, you have to. And so that's one. Two though is we're replacing a different platform. We're not just putting a platform in a spot where there never was one. We're going in and we're displacing that other platform.
+(30:04):
+Well, that platform has a whole bunch of flexibility, advantages and disadvantages to it as well. And so understanding where's the overlap and where do we beat it is a really interesting process, and not usually something that you can just do on paper.
+(30:17):
+So you can't just sit down and say, I'd love to say I can look at a molecule and tell you exactly how it's going to behave in the real world. I can't. Nobody can.
+(30:25):
+You can have ideas, you can say, "I think it's going to look a little bit like this," but then you got to go find out. And so that's a big part of our job, is finding the places where these unique molecules that you really can't make from petroleum, you can only make them off our platform. Where do those win and where do they not?
+(30:43):
+But it's not straightforward. It's not one or the other all the way across.
+Cody Simms (30:46):
+And what does the process look like in terms of working with a potential customer to try to find that out? And I assume win has lots of definitions, win on economics, win on performance, win on their ability to charge a premium if they want to on their product, because it's sustainable, et cetera.
+(31:01):
+Any use cases you all can share on the customer end that would help us all see that play out?
+John Bissell (31:06):
+Sure. Well, I'll give a hypothetical use case. It's a real use case in that we actually do it, but I won't attach it to our customer. A lot of our customers, because there's actually a lot of knowledge that goes into understanding how to figure that out. So they don't always want to disclose who they are right off the bat, because it may be part of a longer term roadmap for them.
+(31:25):
+So let's look at surfactins, for example. So surfactins sound really arcane, but they're actually like detergents as [inaudible 00:31:31].
+(31:31):
+And you use them for all kinds of emulsion stabilizers. So if you are using a personal care product, then it's the reason... Most personal care products are oils of some sort, suspended in water, formulated in some fashion. That's why you get that thickness from it. Usually that should separate out, like salad dressing. It doesn't, of course. It'll stay stable on the shelf for a long time. The reason it does that is because of surfactants in it.
+(31:53):
+So we use surfactins all over. Now, I don't know what makes a good personal care surfactic, and even subdividing that, like a conditioner versus a face moisturizer. We need to go to somebody who has deep scientific expertise in how you develop those. That's who we end up working with.
+(32:11):
+And I would say what makes it work well for us is some companies just use existing knowledge and they're good at marketing that, or they're good at getting their way into the supply chain. We don't have anything against a company like that. That's wonderful. But that's not where we shine. We shine with the companies that are actually excellent at doing the formulation development.
+(32:32):
+So there's another layer of companies that will really know how to take a new surfactant and figure out how to use its unique properties in a formulated blend to get just a better quality product. That's where we tend to live is with those kinds of companies, that's who we look for.
+(32:48):
+And so we're really leaning in on the partnership to help figure out, well, where are our products best? We can give basic properties that they can use. But yeah, I can't tell you which one. I can give you, our surfactants are much more degradable than a petrolium-based surfactin, for example. But aside from that, it's hard to tell.
+Cody Simms (33:07):
+And Rich, I'm guessing most companies, especially when they're looking at you in a fairly under the covers replacement, like a surfactant, they are looking for complete drop-in replacement on cost and performance quality, I'm guessing.
+(33:22):
+Whereas if you're building a consumer brand company, like an apparel company, and you want to be able to articulate something about your apparel being carbon negative, you can maybe charge a consumer premium, though I don't even know if that's true these days. How are you seeing the market evolve in that regard?
+Rich Riley (33:39):
+So what's interesting is on the PET side where we just bring carbon advantage, and I say just, it's a pretty massive advantage. But we bring serious carbon advantage, but we don't bring functional advantage. So it's drop-in, easy to adopt.
+(33:53):
+And these other markets, we still bring carbon advantage, but we bring more. And in fact, we have companies engaging us around things like surfactants, where their primary interest is actually the functional advantages and the carbon advantage is bonus, which is pretty incredible.
+(34:08):
+So we're not talking about green transition where we're going to make your straw worse but greener. We're talking about where we're going to make it better and greener. And what's also interesting is there's all kinds of functional advantages in this world, whether you make something stronger or you make a fabric that stretches differently.
+(34:26):
+It gets really complicated really fast, but there's all kinds of things in there because these are new molecules for the world to play with.
+(34:32):
+But you also get in some pretty interesting things like safety. So surfactants is, in many cases, thought to be an endocrine disruptor. Some of the things that dilate some things that are used in there. Well, we're optimistic that using our platform, we don't bring that.
+(34:46):
+And so that has not been an option necessarily to not have that, or tires that don't include carcinogens, things like that. So that's really motivating for us in terms of it's incredible to decarbonize all this stuff, but if you can make it better, more efficient and safer, that's really, really exciting.
+(35:03):
+And one of the keys of the platform is to go do that cost competitively with oil and gas.
+Cody Simms (35:09):
+That's super helpful context to shine the light on. Let's change directions a little bit and talk about where you all are.
+(35:14):
+You have been mostly building through a pilot facility. I've seen a recent update that looks like you have your first full factory in mid-construction at the moment.
+(35:26):
+Maybe shine a light on, and you've also secured funding, I think for your next factory, if I understood correctly. Maybe shine a light on how you see the infrastructure side of Origin building out over the next little bit.
+John Bissell (35:37):
+Yeah, so we have our first, what we call Origin One, which is for us, it's the smallest commercially viable plant that you could think of. So it's not our fully developed commercial scale, which is shocking. Because when you look at it, it's big.
+(35:52):
+But that's how the chemical industry rolls. And so that plant, just mechanically completed a couple of months ago, and now we're commissioning it. So we're going through and saying, basically let's check everything and make sure it works the way it's supposed to.
+(36:03):
+And then we'll be starting up imminently. And that's going to be really exciting. So that's the first time that we will have had rail car quantities, let's call it, of our materials. And when you're doing drop-in materials like Paraxylene into PET, customers, they'll argue whether they need 100 kilograms to qualify or a kilogram or grams, but you're in that zone.
+(36:27):
+This is truly pilot, garage pilot scale quantities of material. When you're looking at new materials, one of the unfortunate scale mismatches in the chemical industry is that the chemists are developing the process and the products on gram scale. So about as much table salt as you put on your dinner is how much the chemists like to operate at.
+(36:48):
+But the guys who use it, so if you're going to use a new polymer and you want to make stuff out of that polymer, they'll go through a 50 pound bag in a couple of minutes. And then they come back and they're like, "Hey, you just spent a year of chemists getting that 50 pound bag of stuff together. Can I have some more after 24 hours?"
+(37:03):
+And the chemist basically dies of a heart attack while they're listening and processing how hard it's going to be to do that. And so you really have to have something that can generate really sizable quantities of material for people to really do the kind of commercial development on these new materials that you want them to do.
+(37:18):
+And so for the first time, we're going to have real quantities of material that's not pilot. We're not going to have to be super parsimonious about the way that we're deploying these materials, and people can just run with it. And we're really excited about that.
+Cody Simms (37:30):
+John, you've used the word vicissitudes and parsimonious and I just want to give you some props. That's amazing. Thank you for that.
+Rich Riley (37:37):
+Oh no, don't tempt him. Don't tempt him.
+Cody Simms (37:38):
+So what you articulated just now I think is one of the key challenges that an emerging company in deep tech faces, which is you can fund off the balance sheet basically through an equity raise or whatever, the ability to get to pilot scale. Prove with a potential customer that your solution is going to work for them. And then they say, great, now give me a few tons of it. And you need to now go raise real capital to build a facility to generate those tons of it.
+(38:12):
+And that's going to be a multi-year lead time process oftentimes. And so Rich, I know recently, you said at the beginning of the conversation, one of the skills you bring is the ability to help the company raise significant amounts of money to be able to generate balance sheet, et cetera.
+(38:29):
+So I know you all did, you went through a SPAC merger in 2021. Was the impetus of that to be able to fund this Origin One plant?
+Rich Riley (38:39):
+Origin One and Origin Two, so that we can have line of sight to true commercial scale, which is critical for customers. Because there's a lot of science projects out there that are at bench scale, and then to have line of sight to commercial scale, super helpful with customers and really helpful if you want to attract the best and the brightest out of the existing petrochemical industry.
+(39:02):
+Most of them are skeptical of a science project, publicly traded, funded to commercial scale. The level of talent we've been able to attract has really surprised us.
+Cody Simms (39:12):
+And how much on that talent side then, it feels like you shift a gear when all of a sudden you're doing that. You're no longer just needing the talent of is this technically possible? You're needing the talent of how do we implement this at scale?
+(39:25):
+And so a lot of the talent you're bringing in is now process related talent, which is a very different skillset and a different challenge for the company. How have you seen that evolve in terms of the profile of people you're bringing into the business?
+John Bissell (39:38):
+So there's process of technology process, there's process in terms of company process, but there's also, we think of it as project. So a capital project is not to be underestimated. There's an enormous amount of capability that's required in order to successfully execute capital projects to the scale that we're talking about.
+(39:54):
+So that's another piece. And then there's another, which is chemical companies are very complicated operations, even beyond just the technical component.
+(40:04):
+There's significant logistics associated with it. There's significant regulatory stuff associated with being a chemical company. There's safety, and then you still have all of the normal stack of things like marketing and sales and finance and HR.
+(40:17):
+And so there's more, I would say, necessary organizational complexity in a chemical company than you see at a typical company, not chemicals or oil and gas. So that's been, I find it really interesting. It's also hard, integrating that many people across that [inaudible 00:40:37].
+(40:37):
+But it's been, I think, really rewarding from what Rich said to get these really high quality people across all these different industries.
+(40:44):
+And by the way, when you start doing that really well, you actually see other opportunities too. It's not just how do I do my capital project, but the chemical industry is also a little bit unique in that you're pulling really high capability people just in general.
+(40:58):
+Yes, they may be a chemical engineer, a process engineer. Or a chemist, physical chemist, et cetera, but they're just really bright. The tech industry has this too. And so seeing their perspective, it's often not just that one project execution component. They actually have a lot of knowledge outside of that too. And so the more of those you get in, the more interesting it gets too in a much more generative sense.
+Rich Riley (41:22):
+One difference to tech though is that there are very few, there's not really a startup world in chemical land. And so I think there's been pent up, I think a lot of talent that really has not had many choices for their career.
+(41:35):
+There's just a handful of companies. And many of them are fantastic companies, but if you want to go try to change the world and apply your skillset to a big idea, like them in the tech world is standard thinking. There just haven't been that many options. And so I think that's one reason that when a very rare situation like ours shows up, some really impressive people get excited about it.
+Cody Simms (41:54):
+Rich, in software tech, we talk about new platform paradigms, and there's one roughly once a decade. The shift from PC to the internet, the shift from web to mobile, the shift from [inaudible 00:42:04] to AI.
+(42:05):
+Whatever they are. It feels like in the physical world, we're undergoing a once in a lifetime platform shift right now, or even more than that, once in a century. From a fossil fuel-powered platform to whatever is next.
+(42:20):
+And there are multiple solutions vying for what is next, and there probably will be multiple solutions that win. But you guys are right there in that definition of what could be next. It's how I would think about it. And it's interesting you mentioned that, because you're right, for the talent that works in this industry, this is probably the first time in their lifetime that they're going through a significant potential platform shift.
+John Bissell (42:42):
+Yeah, I think that's right.
+Cody Simms (42:43):
+So one last question we haven't really touched on is on the unit economics, which is are you directly selling your outputs to these downstream providers? Is there some other way that the company is planning to make money through licensing, et cetera? Maybe shine a little bit of light on that for us.
+Rich Riley (42:59):
+So our primary strategy is to sell these materials and we are able to command a reasonable green premium, we like to say. So some biomaterials cost three, four plus times their fossil alternative. In our case, it's much, much smaller than that. And part of that's because we're not trying to be a one plant company or meet some niche application. We're trying to be a major part of these companies long-term supply chain, as evidenced by the nine plus billion dollar order book.
+(43:26):
+Some of our customers need multiple plants, multiple Origin Two, eg, billion dollar plants just for their own needs. And that's what quickly leads you to licensing conversations, because it would make no sense for us to have single customer on our plant or to build the next three plants for one customer.
+(43:43):
+And so part of what we're excited about is partnering customers who need multiple plants with companies that are really good at building plants like these. And we provide the technology. We think the world needs dozens and dozens of these plants way more than we're going to be able to build on our own balance sheet and own talent constraints and things like that.
+(44:01):
+And so we're very open-minded as to how we get this platform into the world and have as big of impact as we can.
+Cody Simms (44:07):
+Great. And one last question, which is just, what's next? What are the big assumptions? I assume there's a lot of assumptions you need to sort through as Origin One rolls out. But what are the next big both assumptions to prove and the next big goals for the company?
+John Bissell (44:22):
+First, get OM One running, that's step one. I think that the next two steps are get Origin Two built, which is the next bigger one. And then I think, and you heard us talking about this quite a bit today. We've been surprised at how much interest and demand there is for performance advantage products. Which sounds a little bit funny, why would we be surprised that there's demand for performance advantage products?
+(44:45):
+But there's work that customers have to do. Because if they're performance advantage, that means they're different. If they're different, that means you got to do some work to incorporate them into your product. But we've been totally blown away by the amount of interest and demand there.
+(44:56):
+And so I think figuring out how to integrate that logic into our platform development strategy is really important, and probably the next big thing on our docket after getting OM One running the way we want. Not that these things all happen sequential.
+Rich Riley (45:12):
+I seem to have a command of chemical industry, it's rare.
+Cody Simms (45:17):
+Not at all. But Rich, it's great to see you again after so many years, and congrats on the new journey. And John, thanks. It's great to meet you. I appreciate you both joining us today and sharing what you're building with Origin Materials.
+John Bissell (45:28):
+Thanks for having us.
+Rich Riley (45:28):
+Thanks for having us.
+Jason Jacobs (45:30):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (45:34):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+(45:43):
+If you'd like to learn more about MCJ Collective, visit us at MCJCollective.com. And if you have a guest suggestion, let us know that via Twitter at MCJPod.
+Yin Lu (45:56):
+For weeklyclimate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (46:06):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

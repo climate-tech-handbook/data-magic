@@ -1,0 +1,610 @@
+Today’s guest is Matt Rogers, the co-founder of Nest and now Incite.org. 
+Incite turns big ideas to improve the world into big deals. They offer early money & support for changemakers through Incite Labs, a 501(c)(3) nonprofit organization that makes grants and program-related investments to further charitable, educational, and scientific purposes, Incite Ventures, an investment fund that supports mission-driven enterprises through investments in businesses with the potential to scale, inspire others, and make a difference, and Incite Politics, the name of the work of Incite’s founders, Matt and Swati, to personally organize and support initiatives to pass legislation and elect candidates who approach our country’s issues from a fresh perspective.
+Matt is a builder at heart. He started at Apple, building the software team for 10 generations of the iPod. He was one of the first engineers on the original iPhone and involved in the development of 5 iPhone generations, and the first iPad.
+As co-founder of Nest, Matt built the team that built the first machine learning thermostat. And by doing so, has built the leading connected home brand — Nest. Matt is a true inspiration, not only for the success he had with Nest (and at Apple!), but for now doubling down on purpose with an incredibly innovative and ambitious model at Incite.org.
+We cover a number of things in this episode, and I guarantee you will learn a lot. Enjoy the show!
+You can find me on Twitter @jjacobs22 (me), @mcjpod (podcast) or @mcjcollective (company). You can reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+In today's episode, we cover:
+Matt’s time at Apple where he worked on the iPod, iPhone, and iPad
+The aha moment that led to Matt leaving Apple and founding Nest with Tony Fadell
+How Matt blended product and mission at Nest, which helped lead to it’s 3.2B acquisition by Google
+Matt’s time post Google acquisition and what led him and his wife Swati to found Incite.org
+The work Matt and his wife Swati are doing at Incite in startups, government, philanthropy, and politics
+Matt’s personal views on climate change and his expectations of those who have achieved success
+One correction: In this episode Matt Rogers said Cyclotron Road will soon be called Activation Energy. In fact, Cyclotron Road is a program managed in partnership between Lawrence Berkeley National Laboratory and Activate (formerly called Activation Energy), an independent nonprofit organization.
+Jason Jacobs:                Hello everyone. This is Jason Jacobs and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change, and try to figure out how people like you and I can help. ... Hey everyone, Jason here. Today's guest is Matt Rodgers, the founder at Incite. I was particularly excited for this one because like me, Matt's roots are on the technology side.
+
+Jason Jacobs:                We was an engineering leader at Apple at a very young age. He left to co-found Nest, which of course went on to have a huge acquisition by Google. And unlike so many other entrepreneur who have big outcomes and then just proceed to go right back in and do it again. Matt's doing something different with Incite. He and his wife, Swati, founded the organization. And they're focused across three areas. People having an impact on innovation, people having an impact in the non-profit sphere, and people having an impact in the political sphere.
+
+Jason Jacobs:                I find Matt to be incredibly inspirational. Because, not only is her incredibly smart, and accomplished, and ambitious, but he's also super nice and humble. So, I was excited for this episode and Matt did not disappoint. We covered a number of topics, including his time at Apple and his time at Nest, and the work that they're doing at Incite; including several of the companies and projects that they're involved with. We also took a step back and talked about climate change, the nature of the issue, and how people that are concerned might be able to help. I enjoyed this episode tremendously and I hope you do as well. Matt Rogers, welcome to the show.
+
+Matt Rogers:                 It's great to be here.
+
+Jason Jacobs:                It's great to have you. I was excited about this one. I think, well one, I've only gotten to know you recently. But, for someone as accomplished as you, you're such a nice guy.
+
+Matt Rogers:                 Thank you.
+
+Jason Jacobs:                Yeah. Although, maybe I'm just just getting to know you. So, maybe that's just a first impression kind of thing.
+
+Matt Rogers:                 No. It's a real thing.
+
+Jason Jacobs:                It's like, don't to get to know your heroes.
+
+Matt Rogers:                 No, it's a real thing.
+
+Jason Jacobs:                Yeah. And the other thing is that what I found so far in this climate journey is that, if you want to have an impact in any one area, it doesn't just touch one area. So, if you want to have an impact on some aspect of de-carbonization like, buildings, or transportation, or whatever. There's an innovation component, there's a policy component, and there's a philanthropic component. Right? Or a grant or that kind of thing. And you're into all three of those.
+
+Matt Rogers:                 It's something we learned very early on. If you want to push for an impact or to push for a change, you need to use all the levers available. And there are a lot. And being up in Silicon Valley here, people often get really deep on the innovation lever. And a company is the way to solve a problem. And it is the way to solve a lot of problems. But it's not the only way.
+
+Jason Jacobs:                Before we get too far into it, you seem like a guy that likes to toot your own horn. No, I'm just kidding. You seem very humble. But I'd love to just talk a little bit about your past, just so people know who we're talking. So, just take me through how you got here in two minutes or less.
+
+Matt Rogers:                 I grew up in Gainesville, Florida. So, a small college town in the middle of the state. Fortunately, had access to a lot of great resources at the university. So, got involved in robotics at a really young age.
+
+Jason Jacobs:                What's a really young age?
+
+Matt Rogers:                 15, 14?
+
+Jason Jacobs:                Yeah, that's pretty young.
+
+Matt Rogers:                 Especially then.
+
+Jason Jacobs:                That's pretty young. Although, I thought when I picked up lacrosse in junior high, that was a pretty young age. But my seven year old is practicing every night in the back yard. So, young is relative.
+
+Matt Rogers:                 Yeah. Robots were not so cool back in the 90s, outside of science fiction. I always got involved early on with technology, fell in love. Went to Carnegie Mellon to pursue my passion in robotics. And what I learned very quickly there is that, there's a much broader approach to building things than just building robots. And at the time, especially around 2000, very hard to build a career in robotics. And one of my advisors recommended I come out to Silicon Valley and intern at Apple to learn how to build products.
+
+Jason Jacobs:                That's while you're still in school.
+
+Matt Rogers:                 Exactly. While I was still I school. And this professor, [inaudible 00:04:10], convinced me to do it. Moved out to California for a summer, interned in the iPod group, and fell in love. Like, holy shit, this is amazing. We could build things that millions of people use.
+
+Jason Jacobs:                What year was that?
+
+Matt Rogers:                 That was 2004. So, it was a long time ago.
+
+Jason Jacobs:                So, how long had the iPod been out at that time?
+
+Matt Rogers:                 So, iPod came out a few years earlier. It was year three or four of the iPod. Actually, the summer I was there we build the first iPod Mini. And it's funny-
+
+Jason Jacobs:                Oh, I remember that.
+
+Matt Rogers:                 It was called the Mini, but in hindsight, it was a brick. A year later we did the Nano. That was a lot better, actually. But I fell in love. I loved it and they asked me to stay. They actually asked me to quit school and stay. But I actually told them, I have to finish. So, I went back to CMU for another year, then returned to Apple in 2005 full-time.
+
+Jason Jacobs:                And were you working for Tony or?
+
+Matt Rogers:                 Yeah. Tony was the exec who ran the iPod team and was a good friend and mentor. So, he was one of the one's who encouraged me really to do it full-time and to jump in.
+
+Jason Jacobs:                So, Tony was pushing you not to go back to school?
+
+Matt Rogers:                 Indeed.
+
+Jason Jacobs:                Very responsible.
+
+Matt Rogers:                 There have been a few cases of folks who came before me who did. And I just say, Jewish parents from Brooklyn, they'd want me to finish school. So, I returned to Apple.
+
+Jason Jacobs:                You got out, you went to law school, and the rest is history?
+
+Matt Rogers:                 Exactly, right? Exactly, exactly. So, I got to Apple in 2005 after graduating. This is the time when really Apple was hitting their growth and going from a company that had recovered to one of the fastest growing public companies out there. Selling tens of millions of iPods. Mac was recovering very well. The company was really on an upwards trajectory. Right place at right time for me. We had just shipped the iPods at Christmas in 2005 when a Skunkworks project started, which was the first iPhone. And I was 21 at the time. and the story actually is really funny.
+
+Matt Rogers:                 My boss came to me and said, "Hey, there's this new project, code name Purple. No one really wants to work on it because they all want to work on this new iPod. But we'll put you on it." You're the young guy that doesn't really know what he's doing anyway. And it was awesome. It was a really fun experience building something from the ground up, building a team from the ground up, and working with folks who had led building cell phones the last 15, 20 years.
+
+Jason Jacobs:                So, your first two products at Apple were the iPod and the iPhone? You personally?
+
+Matt Rogers:                 Yeah. Right place at right time. It's actually one of the reasons why I have built my career now on driving for impact. Because, I was actually very lucky. I feel like I lucked into the best places at the best times and kind of the pinnacle of my career was all based on luck. So, when you realize that you've built your career on luck and you're wealth on luck, then you're much more willing and able to help others. Because, you realize that it's just chance on how he got her.
+
+Jason Jacobs:                Well, the only thing I would say though is that, I think luck determines how quickly the current is moving. Luck doesn't determine how you paddle once you get into the current.
+
+Matt Rogers:                 That's fair, that's fair.
+
+Jason Jacobs:                So, you need it. Right?
+
+Matt Rogers:                 Yes, you need it. Absolutely.
+
+Jason Jacobs:                It's necessary but not sufficient.
+
+Matt Rogers:                 Correct. That's true. So, being lucky and being on this early team for the iPhone, I learned how to build products, learned how to build teams, and hired a ton of people into Apple to help on that journey. And really, I loved it. I spent the next several years building more iPods, more iPhones, and then the first iPad or Apple. But woke up one day realizing that I had to do more. And I was sitting in a review with Tony's successor at the time, discussing the checkpoint on a new iPhone we were working. He was asking about graphics performance and how it was doing with some video game. It was either Angry Birds or Fruit Ninja at the time. And I kind of looked around the room and there's all these brilliant engineers kind of at the peak of their careers. And they were obsessing over Angry Birds or Fruit Ninja. And I said, "Guys, this seems like-"
+
+Jason Jacobs:                Isn't that a metaphor for all of Silicon Valley?
+
+Matt Rogers:                 Exactly. Well, this is my wake up. I was like, this can't be what we work on and we've got to work on something that's much more impactful. You can not have the best engineers in the world tied up working on video games. That's when I kind of pivoted my brain and said, "Hey, what are things I can do that apply all these skills and talents that we developed at Apple on something that's much more impactful?" I spent some time walking around the house and talking to a friend who was walking around his house. And then we realized, hey, there's a massive opportunity in the home to make homes more energy efficient. And that's how we started Nest.
+
+Jason Jacobs:                So, how does walking around in a house lead you to energy efficiency? You hit your head in the shower?
+
+Matt Rogers:                 No. It was actually much more obvious than that. I was living in a condo in Los Gatos, down near Apple in Silicon Valley. And it was built in 1973. It was clear that it was built in 1973. We had renovated and put in new floors and new countertops. But there's still beige plastic things controlling heating and air conditioning, beige plastic on the ceilings, beige plastic everywhere. We had just built iPhone 4, which is the most sleek product ever. It's brilliant glass and aluminum. It's a beautiful product. But yet, we've got this beige crap on our walls at home controlling something that spends order of magnitude, like $1000 a year heating and cooling a home.
+
+Matt Rogers:                 It was obvious, actually. Once Tony and I got into it and actually were looking at how could we modernize homes and apply technology and design? It was really obvious that this was a big problem. Half of homes' energy went to heating and cooling, but yet, you're not going to have beige plastic design, the 1970s was still in charge. Didn't make any sense.
+
+Jason Jacobs:                But the initial [inaudible 00:10:04] that detected or opportunity was coming from the consumer experience?
+
+Matt Rogers:                 Correct.
+
+Jason Jacobs:                Which is different than coming from, I don't know, concern about the planet or our precious resources.
+
+Matt Rogers:                 No. It turns out they're the same. It turns out they're the same.
+
+Jason Jacobs:                Ladies a gentlemen, this is not a set up by the way.
+
+Matt Rogers:                 No, this is the key insight [crosstalk 00:10:25].
+
+Jason Jacobs:                This is not a scripted conversation.
+
+Matt Rogers:                 No it isn't. This is the key.
+
+Jason Jacobs:                This is as live as it comes.
+
+Matt Rogers:                 This is the insight. So, there had been technology since the 1980s to program a thermostat to change temperature at certain times to save energy. It's night time, turn the heat down to save. It's very obvious. That's been around a long time. It's been around literally since the 80s. But because the user interface was so bad, no one programmed the thermostat. And that was the fundamental tenant of why we started Nest. We could build a beautiful product, that's obvious. But we could build a product that's easy to use, where people don't need to worry about programming it, and therefore will save energy automatically. That was the key insight and it is a user interface issue. It's a consumer insights issue. And it's an energy efficiency issue. It's the beauty of how we built the company. It was a mission first company and a product first company at the same time.
+
+Jason Jacobs:                If this was [inaudible 00:11:20] I think what we would now do is, we would take a deep dive into how you built it, and the challenges you faced along the way, and things like that. I think that's actually really interesting stuff. Given that I'm coming at this from a little bit of a different angle.
+
+Matt Rogers:                 Indeed.
+
+Jason Jacobs:                Yeah. I don't want to blow the whole episode on that.
+
+Matt Rogers:                 No, I totally agree. Actually, in fact, I'll draw a quick line. So, we went from idea, how can we help people save energy in the home? To scale, where there's now tens of millions of thermostats in peoples homes, and we're saving tens of millions of megawatt hours every year.
+
+Jason Jacobs:                And it was easy, no stress?
+
+Matt Rogers:                 No. Yeah, super easy.
+
+Jason Jacobs:                Easy ride? Up and to the right the whole way.
+
+Matt Rogers:                 Yeah, exactly. I got all this gray hair. It was because it was really easy. It's all good. Incredible journey. But again, going back to the core, building mission first companies that have high impact at scale, was let's say, my big lesson building Nest. Post Nest is how can I empower others to do the same?
+
+Jason Jacobs:                Also, one question I have for you I guess. Sticking Nest for a moment is, Dan Yates from Opower was a guest that we had on a few episodes back. One of the questions I had for Dan was that I knew that he started Opower from very mission driven place. Concerned about the planet. He was on this trip with his girlfriend at the time, who's now his wife. And I asked, I said, "Look, we know this. It was a financial success. We know how that story ended. But, now, you've exited, you stuck around for the integration, you have had some time away, you have the benefit of hindsight. You can speak a little more freely. Did it matter for the mission?"
+
+Jason Jacobs:                One of the things he said was that, I'm going to try to paraphrase. But, it was essentially that it mattered some and it was better than not doing it. But, that he's got a higher bar this time around for mission in a more outsize way. I guess ... look at Nest with a similar filter. Because, you also are out and gone, and benefit of hindsight, etc. And actually, there's some similarities between the Opower business and the Nest business.
+
+Matt Rogers:                 Absolutely.
+
+Jason Jacobs:                Yeah. So, how do you feel about it?
+
+Matt Rogers:                 I agree with Dan in some respects. I think the growth of Nest and it's integration to Google has brought in another layer of auxiliary businesses and more general smart home things that may not tie to that core mission. That said, the mission is still at the core of the company. I got an email from a Nest employee yesterday, reaching out. Hey, would you be interested in meeting one of our partners who's an energy company in Colorado? Because, that's still how they live and breathe every day. And yes, the business has gone a lot of different directions. But they're still saving tens of millions of megawatt hours every year, order of the magnitude power plant sized impact with a thermostat. So, it's still there but, yes, they've gone in a lot of other directions too, like home security and those kinds of things.
+
+Jason Jacobs:                Yeah. It's a more existential question but, do you worry about our ability to reign in our carbon problem in a capitalist society?
+
+Matt Rogers:                 No, actually. I don't. But it's to require more than just business. Business is really savvy at chasing a target and generating shareholder returns or profits. Business needs some guide rails on kind of where to go. And I think things like a carbon price are one of those guide rails that would really push businesses in the right direction. And some businesses are already heading in the right direction. Because, they're assuming that the markets are going to change. But, things like carbon prices are one of the biggest levers out there. Because, once you realize that, hey, your cost of goods go up or your cost of doing business goes up. You would do business in different ways.
+
+Jason Jacobs:                Traditionally, economics, it looks at GDP growth and it's kind of growth without factoring in the natural resources that are utilized or harmed as part of that growth. And even if you look at our public markets, quarter to quarter and the analysts, and what are they looking at? They're certainly not look at ... I guess with ESG they're looking a little bit or they're trying to.
+
+Matt Rogers:                 But mostly not.
+
+Jason Jacobs:                Yeah.
+
+Matt Rogers:                 For the public markets, quarterly earnings are the most important thing. And I think that's a flawed system. There's gaps there. Yes, it's a very big statement to make. Our capitalist society is flawed. And that's why you need capitalism with guard rails or capitalism with regulation, or capitalism with other factors that are important.
+
+Jason Jacobs:                But not purely market based?
+
+Matt Rogers:                 Not purely market based. But that said- [crosstalk 00:15:44]
+
+Jason Jacobs:                Which is a very controversial stance. Or it's a lightening rod.
+
+Matt Rogers:                 I'm not an economist, but talking to a lot of economists who've studied this issue way more than I have, there are market signals you can send that then push companies to do the right thing along their own path. And things like a carbon price are one of those. If it costs $50 a ton, or $100 a ton, or one day, $1000 a ton to emit CO2, you're not going to emit CO2. And in fact, you're probably going to find ways to take CO2 out of the air as part of your day to day business. Because the stakes become high.
+
+Matt Rogers:                 Companies have gone out of their way to not pay taxes and they've developed all these crazy offshore options in Ireland and the Singapore options. Because, they really don't want to pay those taxes. If you create the guard rails around emissions and doing the right thing around climate, companies will find the path to get there. Because, they need to run their business. They know that. And they'll do it within the constraints of the system.
+
+Jason Jacobs:                Looking back at Nest, were there times along the way where business success and mission success were at odds?
+
+Matt Rogers:                 No, actually. There was a time where we have thought and kind of went down the path of, should we put some of our energy efficiency features, some of the more advanced ones in a subscription program? Like Nest Aware for our security products. And we didn't do it. At the core we said, "Hey, things like energy efficiency should be something that everyone has access to." And if we make these features free and available to everyone, in the end they will sell more thermostats. And it'll be a higher growth product, and it's good for business too. And we made the right decision. But I was one where we thought about it. But, we never really made the right call.
+
+Jason Jacobs:                So, the exit happened. You stuck around for ...
+
+Matt Rogers:                 Almost five years. So, we sold the company five years ago and I exited officially this spring. So, five years post exit. It's a long time. Much like the Dan Yates story, I stayed around to help with the integration and to kind of put t all within Google.
+
+Jason Jacobs:                How did being part of a publicly traded company impact that mission aspect of the business, if at all?
+
+Matt Rogers:                 It didn't to most respects. I think, but Google's not the average publicly traded company. They have a very high tolerance for entering new businesses and waiting for results. A lot of large scale businesses, and if you've had the chance yet, talk to David Crane who ran NRG.
+
+Jason Jacobs:                I would love to talk to David Crane.
+
+Matt Rogers:                 Yeah. A lot of public companies don't have the tolerance for quarter to quarter variation. Google fortunately does. And because, frankly, because the ad business is so strong, they could stand to take some investments in other areas. And Nest was one of those other areas. So, we got a lot of tolerance and a lot of time from Larry to grow and to run, and to make investments without the quarter to quarter analysis.
+
+Jason Jacobs:                And given that, when you did exit, of course it was life changing and you stuck around for the integration. It was also just a long run. So, when you finally did step away, how were you feeling and what did you do?
+
+Matt Rogers:                 It's still hard. When you've spent 10 years doing anything, you miss it. I miss the people. I hired well over 1000 people into Nest over the years. And those are friendships that I continue to have. And you miss the products and you miss the brand. But, the stuff that we're working on now with Incite is so important that it fills whatever vacuums or gaps exist. We are so busy and doing so many important things that, I tend almost not even to realize that I'm missing anything else.
+
+Jason Jacobs:                So, what was the first step when you left? Did you just take some time and clear your head? Did you go walk in the woods?
+
+Matt Rogers:                 Kind of the opposite actually. My wife got sick. So, she had a rare form of cancer. And I took a leave of absence from Google. There's great paid family leave policies so I could go do that. I took care of her and at the same time, the two of us, as we were realizing how short life could be, realized that we needed to spend a lot more time with things that are impactful.
+
+Jason Jacobs:                I don't know if I can ask this on the air. But, how is she doing?
+
+Matt Rogers:                 She's doing great. She's doing great. Actually, not only has she recovered and is cancer free but, she's bounced back and is working harder than I've ever seen anyone work before. I think part of realizing that, hey, you never know. Even if you're in your 30s, how long you've got. Make your time count. She actually recently joined a presidential campaign and is helping her friend Pete.
+
+Jason Jacobs:                I saw that.
+
+Matt Rogers:                 Her friend Pete run for president.
+
+Jason Jacobs:                Buttigieg.
+
+Matt Rogers:                 Buttigieg. Really good guy. Really, really great guy. And someone that I've had the privilege to get to meet over the years. Yeah. Him and Swati have been friends since college. So, not only is she doing great but she's in it deep these days.
+
+Jason Jacobs:                And so, tell me about Incite. What are you guys doing and also just how did it come about?
+
+Matt Rogers:                 So, we are doing everything we can to drive impact in the world. I'm going to use the word impact with kind of a lowercase I. We're not one of these types of family offices or investors that is kind of trying to over engineer and over measure everything. What we try to do is we try to find great entrepreneurs who are mission oriented, who are on a mission, and what to give them the tools. Whether it's financial, operational, strategic help to accomplish their mission. And we do that not just in terms of-
+
+Jason Jacobs:                I witnessed that as I walked in here. You were meeting with a team that you had backed.
+
+Matt Rogers:                 Yes.
+
+Jason Jacobs:                In the office living.
+
+Matt Rogers:                 It's what we do every day. It's what we do every day. Either we're meeting with teams-
+
+Jason Jacobs:                Are you sure they weren't task rabbits that you hired just to stand in and pretend to be founders?
+
+Matt Rogers:                 Yeah. ... It's funny you should say that. No, they're definitely real. So, we do this every day. And we don't just do it for people building companies. But we do it for entrepreneurs who have a non-profit they want to build or a movement they want to create, or an aspiring politician. It turns out, someone who wants to get involved in politics and policy looks a lot like an entrepreneur. They've got a strong point of view and a mission they want to run on. They need to go put together a team, and a platform, and finance, and hiring, and PR. It looks a lot like building a company.
+
+Matt Rogers:                 Then when Swati and I realized, hey, it's very similar in terms of the techniques and the skills to build a movement, to build a non-profit, to build a company. I think we could put these all together under one roof. And that's what Incite is.
+
+Jason Jacobs:                And so, is it one vehicle? Is it separate vehicles for each?
+
+Matt Rogers:                 Yeah. We've got lots of different vehicles, but we tend not to think about how many vehicles there are. It's not really the important thing for the entrepreneurs to think about either. Those are things that we have to do to work within kind of the laws and the regulations. We like to think of it as one organization and our vehicle for impact. And we've got all the tools necessary on the back end to make sure that we can do things.
+
+Jason Jacobs:                When I came in today, you were meeting with a fitness team. And when I think of you, I think of you as a climate guy. So, what's the north star for how to determine what types of projects Incite gets involved in?
+
+Matt Rogers:                 Yeah. So, we don't have a [inaudible 00:22:56] test on impact or on the mission. What we want to see is we want to see founders who are super driven behind a mission that has impact. And whether that's a health related impact, or a climate related impact, or a social justice related impact. We want to give them the tools necessary to do that. It would be too much [inaudible 00:23:16] on my part to say, "Hey, we'll only back entrepreneurs who want to take carbon out of the air." I could do that, but there are so many different things out there in terms of ways of accomplishing impact. I don't want to impose my value system on other people's missions.
+
+Jason Jacobs:                So, essentially, you're an impact generalist, is that what you're saying?
+
+Matt Rogers:                 An impact generalist. I am an impact generalist. That is a good way to think about it. That said, let's call it, 70% of things we do are climate related, based on my interest and my network.
+
+Jason Jacobs:                I felt like when I came in here today, I caught you cheating or something.
+
+Matt Rogers:                 No, no, no. Not at all, actually. Not at all. We have a whole spectrum. We've invested in medical related companies. We're invested in some oncology related things. We're in nutrition related items. We're in women's health related items. We're in a lot of different climate related areas. We are not just a climate office, but it is a bulk of what we do.
+
+Jason Jacobs:                I feel like the climate is, it's not that these other issues aren't important. But it's that, if we don't solve the climate issue then, it's like the water's rising towards the ceiling kind of thing.
+
+Matt Rogers:                 That's right.
+
+Jason Jacobs:                And if we drown then our lack of education or systemic racism, or poverty or ... you just go down the line. They're not going to matter because we're not going to be here. And so, for me, I also have multiple interests. I also care about multiple issues. But I can't find it in myself to ... I feel like climate is such a big one and we're so far behind the eight ball that I need to be laser focused. And I don't give myself the luxury to focus on anything else. So, how do you think about it?
+
+Matt Rogers:                 I agree with a lot of what you said, actually. I think for my time and my mental bandwidth, I spend most of my personal time and my mental bandwidth on climate. I agree with you. It's hard to focus on much else when you lose all of your coastal areas and your agriculture because of climate change and global unrest, and Syrian refugees because of climate. It escalates out of control very quickly. That said, I am fortunate enough to have enough resources that are disposable. We don't need to exclusively focus on climate. We don't back every pitch we get, but we back a lot of the pitches we get. We don't say no to things because of lack of resources. Because, it's just not the situation we're in fortunately.
+
+Jason Jacobs:                I think if any listener has a pitch, there's a high percentage chance that Matt will give you money if you just send it to Incite. Is that? No, I'm joking.
+
+Matt Rogers:                 We see, order of magnitude, 10 to 15 pitches a week. And we don't back all of those. We back all of the super strong entrepreneurs that are mission oriented. We back a lot. We probably do 25 or 30 deals a year.
+
+Jason Jacobs:                And when I've been making the rounds, and I have to admit, I was talking to Evan about this before this episode. It does feel like I've accidentally over waited to finance early in my climate journey. So, I'm going to have to mix it up a bit. But what I find is, when I talk to finance types, especially venture capitalists, that they're allergic to the word concessionary and they're allergic to the word impact. Because, no, it's a financial vehicle and it generates returns. It's market based and it does some good. Right? But when I heard you quoted in the New York Times, what you were talking about it that, your money's not going to do you much good if we're all underwater. Right?
+
+Matt Rogers:                 Right. Which is true.
+
+Jason Jacobs:                It's true. But when I hear that, that sounds pretty concessionary.
+
+Matt Rogers:                 I would disagree. I think I'm taking a bigger picture point of view though. If you think about climate change and the impact it has on communities on the economy, it is epic. And yes, you could look at maximizing your micro gains. Your micro gains, like the investment you make today. I'm going to invest in this social media company and make a lot of money. That's great. But at the macro point of view, if we do not invest in climate change, the insurance industry is going to get clobbered, and the real estate industry is going to get clobbered, and the agriculture industry is going to get clobbered. And the global economic impact is catastrophic. And you will lose more money in the long term because you did not invest in climate change. So, I think it's about being more big picture than being small picture.
+
+Jason Jacobs:                And so, you've got a philanthropic arm and obviously, philanthropy is philanthropy. You're next expecting return on that. But, what about the investing side? How do you think about those returns?
+
+Matt Rogers:                 Again, we have a spectrum of tools available to us. This is where we've learned from the best out there and apply it to the way we do things at Incite. We have a vehicle that makes traditional seed investments in companies, [inaudible 00:28:01]. But we also make investments from our foundation. A foundation has a balance sheet. And usually what foundations do with their balance sheet is they give it to an investment manager and they buy stocks and bonds. We do that too. But, we take a lot of our foundation balance sheet and we invest it in high impact, high risk investments in climate.
+
+Jason Jacobs:                So, Sarah Kearney and Matthew Nordan were both guests on here.
+
+Matt Rogers:                 Yes. [crosstalk 00:28:22]
+
+Jason Jacobs:                That sounds a lot like what they do.
+
+Matt Rogers:                 Indeed. Again, learning from the best. Sarah and Matthew were some of the influences in how we do this. So, we take things on our balance sheet. They do PRIs, which are investments made in lou of grants. We take our balance sheets, so the corpus of our foundation, and we invest that. It's called mission related investments. We still make our grants too. It's not like we're double counting. My thought is, the foundation money is there for impact. Whether it's a grant or the balance sheet, we should be using both for the same.
+
+Jason Jacobs:                How do you think about ... So, you talked about some of the direct investing that you're doing. What percentage of your philanthropic allocations are investing versus pure philanthropy?
+
+Matt Rogers:                 It ends up being about half and half. We do, order of magnitude, four to five million in grants a year and about four to five million in investments a year. So, it ends up being about the same.
+
+Jason Jacobs:                And how do you think about that grant side? There's a lot of places that could use the money. Climate is ... and I know you're not just focused on climate. But, if you just say climate as one example, it's dramatically underfunded. I heard a stat, I think it's 18 foundations are responsible for 80% of climate giving.
+
+Matt Rogers:                 Yes. The community is way too small.
+
+Jason Jacobs:                Yeah. And there's a reason. People knock the NGOs, for example, for not being more collaborative. But if everybody's fighting for scraps then it's just survival of the fittest.
+
+Matt Rogers:                 Yeah. It's a really sad place that there are so few climate funders. And we all work together. That's the good news, is actually, we all communicate and collaborate, and we work together-
+
+Jason Jacobs:                On the funders side. Not on the fundee's side.
+
+Matt Rogers:                 On the funder side.
+
+Jason Jacobs:                Yeah.
+
+Matt Rogers:                 Actually, we're working to get the fundees to do the same thing. The grantees, we're forcing them to work together at this point. Because we're like, you're raising money from all the same people. So, you might as well. You guys need to work together.
+
+Jason Jacobs:                I haven't done the tour yet. So, those 18 foundations actually would be great at some point. Just to talk about who the key people are so I can kind of get up to speed.
+
+Matt Rogers:                 Absolutely. [crosstalk 00:30:11] The list is not that long. Literally, put it on one page and then you could talk to everybody. And that's a problem. It shouldn't be possible to take a month or two and talk to all of the major funders in climate. That's a real big problem.
+
+Jason Jacobs:                I agree. So, when you talk about the grantees, is there a profile? Is it all over the map? Is it the upstart? Is it the big established ones? Are there certain causes that are either ones that you have a weakness for or ones that you're allergic to?
+
+Matt Rogers:                 So, we don't have a litmus test around what the impact they're trying to seek. We look for impact and we look for mission.
+
+Jason Jacobs:                It needs to be stuff that you believe in though, I assume.
+
+Matt Rogers:                 Not necessarily, actually. So, we look for early stage, either we're the first funders or the second. Very early, where our many enables them to go accomplish their dreams. And it's more stage specific than area specific. That's it, again, 75% of our grantees are climate related. But that's not exclusively what we do. It's more about the stage. Where a half million dollar check or quarter million dollar check could go a really long way for this organization. And the difference between existing and not existing is generally the way we see our money. We don't usually pile on to a large scale organization. Because, frankly, our impact is low. For EDF for example, if we wrote them a quarter million dollar check, it doesn't make a difference to them.
+
+Jason Jacobs:                Are you allowed to talk about any of the projects that you've participated in that your particularly excited about?
+
+Matt Rogers:                 Absolutely. So, one of my favorites is an organization called Carbon 180, formerly called The Center for Carbon Removal.
+
+Jason Jacobs:                I'm recording with Noah Thursday.
+
+Matt Rogers:                 Awesome. So, this is great. You'll get to meet Noah and understand why we backed Noah and Gianna to build the center. The two of them started out of Berkeley, and had a really bold idea to change the conversation around climate change and climate [inaudible 00:32:01]. And at the time, the area that they, carbon removal and utilization was one of the most overlooked, underfunded, and borderline toxic areas of the climate community. And their thesis was, there's no way to get to zero by 2050 without carbon removal. So, we have to change the conversation about it. And five years later, now they've done that. So, they are the perfect case study of what we look for with Incite.
+
+Matt Rogers:                 Another organization that we work with really closely on the climate side, and they're not exclusively climate. But I'd say, they very closely map to the inside philosophy. Is Cyclotron Road.
+
+Jason Jacobs:                Juan is coming on in a couple weeks.
+
+Matt Rogers:                 Soon to be called Activation Energy.
+
+Jason Jacobs:                I did not know that.
+
+Matt Rogers:                 Yeah. So, they're scaling.
+
+Jason Jacobs:                Breaking news.
+
+Matt Rogers:                 They're scaling. They're a great organization. They look for mission oriented scientists and technologists and enable those folks to go build companies. And again, let's call it 75% of the companies that come out the program are climate related. But they don't exclusively work on climate. They work on things that are really hard and hard to fund, and enable entrepreneurs to go pursue those missions.
+
+Jason Jacobs:                And so, in those organizations, I know in Carbon 180, you've got the chairman title. How does that manifest? What are you actually doing beyond capital with Carbon 180 as an example?
+
+Matt Rogers:                 So, it's actually a lot like a board share we do for a for-profit company. I help the executive team build the company, align the strategy. What are things we should be doing? How can we be marketing our mission? How can we be changing the conversation? Networking with other organizations. A lot like a chairman of the board would do. In the early days, let's call it four or five years ago when we were first starting the organization, it was like basic company building. It looked a lot like building a startup. Even though it's a 501c3, it looks a lot like a company.
+
+Jason Jacobs:                And Noah certainly feels like a founder when I talk to him.
+
+Matt Rogers:                 So, those are the kind of folks we look for. That's when I say, we look for mission.
+
+Jason Jacobs:                And Juan does too, obviously.
+
+Matt Rogers:                 Right. Again, part of what we realized with Incite is, there are mission oriented founders in all industries, in all areas. And there happens to be a lot of early stage capital on the for-profit venture side. But there is not a lot of early stage seed capital outside of that. And that is the niche that we filled in [inaudible 00:34:17] with Incite.
+
+Jason Jacobs:                And the last bucket we haven't talked too much about, just from an Incite standpoint, is just the political one. You talk about Pete Buttigieg. But what types of things are you guys doing in Washington and how does that manifest?
+
+Matt Rogers:                 A broad set of stuff. So, on the policy side, we've often looked for, what are the overlooked areas in climate or in other areas that are super high impact and need government assistance to get going? And carbon removal is one of those. It's not in anyone's inherent business interest to take CO2 our of the air. But if the government's going to give you $50 a ton credit for doing it, all of a sudden you're like, "Oh, there's an opportunity here." Now, investment has spurred. We passed with 45 Q credit-
+
+Jason Jacobs:                Isn't it in a hydrocarbon companies interest to take CO2 out of the air?
+
+Matt Rogers:                 It is now. And also, now they get paid to do it.
+
+Jason Jacobs:                And they can keep emitting.
+
+Matt Rogers:                 Well, if you tie the two things together, I haven't done this math specifically. But, what I've been told is that with direct air capture and enhanced oil recovery. This is where you take the CO2 out of the air and use the CO2 ti kind of go through deep wells to get your oil. You actually could sink more CO2 in the well than that oil will release when it's combusted. Now, I haven't done this math, but I was talking to experts and some scientists who do this full-time. Like, Julio Freedman, who you should also meet with.
+
+Jason Jacobs:                I've talked to Julio. I've not met him in person. But- [crosstalk 00:35:41]
+
+Matt Rogers:                 He's another one you probably should have on the show.
+
+Jason Jacobs:                Yeah. Julio, if you're listening, I'm going to find you.
+
+Matt Rogers:                 I talked to folks like Dr. Freedman. You end up getting to a place where you have carbon neutral fuel, which is a really big deal. And I get, there's probably a large segment of the environmental community, which would kind of crucify me for saying this. But, we need as many carbon neutral solutions or carbon negative solutions as possible as soon as possible. And if it means we get big oil on board, then I'm on board. We need everybody pulling on these auras super hard to get towards the goal of zero by 2050.
+
+Jason Jacobs:                So, bring that back around, though. You had started to talk about 45Q. Okay, so, we need that. But what are you actually doing with Incite in D.C. to bring that about?
+
+Matt Rogers:                 Wide variety of stuff. We helped sponsor organizations that help write 45Q.
+
+Jason Jacobs:                Do you work with Clear Path?
+
+Matt Rogers:                 We do work with Clear Path, yeah.
+
+Jason Jacobs:                [crosstalk 00:36:35] was a guest.
+
+Matt Rogers:                 Rich is a good friend.
+
+Jason Jacobs:                And it's not published yet. But, it will be.
+
+Matt Rogers:                 Yeah, Rich is a great guy.
+
+Jason Jacobs:                Assuming Rich approves it, which I know he's going to.
+
+Matt Rogers:                 Yeah. Rich is a really good guy and they do great work there. We work with organizations Clear Path, like Carbon 180, to then take this important work and kind of educate politicians on what could be done. And then we also provide direct capital, some people call it hard money, to new politicians who are entering into the arena themselves.
+
+Jason Jacobs:                And how do you determine which ones are worthy?
+
+Matt Rogers:                 I don't usually have a litmus test for anything. I'm looking for great talent, people who are mission oriented, and align with the values of their district. And what looks like, let's call it a progressive person in San Francisco, looks very different for what's going to be a great leader and representative in let's call it, rural Illinois.
+
+Jason Jacobs:                But what are the tenants that they have in common that resinate with you? Because, if it's just values to their district, what if their district has values that are like, 180 degrees from your values?
+
+Matt Rogers:                 It turns out, things like having clean air to breath and clean water to drink are universal values.
+
+Jason Jacobs:                So, you're talking about other issue beyond those, but people who care about that?
+
+Matt Rogers:                 Indeed. Yeah. I have my personal beliefs on a lot of things. But again, I don't want to impose my [inaudible 00:37:50] on other people. That's not for me to do. When we back someone in Illinois or Ohio, we want to have someone who's going to provide great service and representation for those folks there. And it turns out, things like clean water and clean air are universal values. No one wants to say, I want to wake up every day and drink dirty water and get sick from breathing the dirty air.
+
+Jason Jacobs:                So, I want to bring it back around. You talk about how you do a number of things with your capital, but that the most pressing issue in your mind is climate, and therefore that's what get a lot of share of your time. Did I hear that right?
+
+Matt Rogers:                 You did. Yes.
+
+Jason Jacobs:                Okay, can we talk about that? Well, there's two things I want to talk about there. One, is I want your take on the climate crisis. Where we are, what it's going to take to get out of it, what are prospects are, the highest impact things we can do. So, that conversation. Then I want to bring it back around and talk about your time and what you're actually doing. We talked a little bit about the policy. But, it'd be great to get a fuller picture.
+
+Matt Rogers:                 Yep. So, my quick overview of the, let's call it, the state of the world. It's funny, like state of the world literally. Is that we are at the 11th hour, maybe 11:30 at this point. And we have very little time to enact serious change. But we still have that opportunity. And again, I'm not a climate scientist.
+
+Jason Jacobs:                Do you know any great ones I should talk to on the pod?
+
+Matt Rogers:                 Oh, that is a good question. I do. But I'll have to get back to you on those.
+
+Jason Jacobs:                We're over weighted on investor types. We want to talk to some scientists in the lab that actually know their shit with the science.
+
+Matt Rogers:                 Yeah. There's a couple good folks at NRCD that I'd recommend talking to. I'll get you some names afterwards.
+
+Jason Jacobs:                But anyways, it's 11:30, we still have time.
+
+Matt Rogers:                 Yeah. We still have some time but not much time. And that's why I think, let's call it, this moment in time, this moment in history, is one where we'll look back as the pivotal moment. And fortunately, the will of the people is there. And for the first time in history, one of the most dominant things that gets voters to the polls is climate. People realize that we're at this kind of dire moment.
+
+Jason Jacobs:                Can I introduce you to Nathaniel at Environmental Voter Project?
+
+Matt Rogers:                 Indeed.
+
+Jason Jacobs:                He's identified 10.1 million who care about the environment that aren't at the polls yet.
+
+Matt Rogers:                 That's true. This is true. So, we're at this moment, and most people realize that we're at the moment. There's this time to act. And when I say time to act, this is not the time for small change. We need to make catastrophic, significant changes to how we do business, to how the economy works, to how we create energy, or it will be too late. But we have this time and my hope is that folks realize this and don't squander this opportunity. Because, you may not get another chance like this for thousands of years.
+
+Jason Jacobs:                So, just a rapid fire thing, just to get a sense of how you feel. What's the role and responsibility of consumers in that equation?
+
+Matt Rogers:                 The biggest thing consumers need to do is vote for people who are going to do the right thing on climate. There's individual decisions you can make. Like, do you buy an electric car or do you buy a Hummer?
+
+Jason Jacobs:                Do you get a Nest?
+
+Matt Rogers:                 Right. Do you get a Nest? Do you start to-
+
+Jason Jacobs:                Do those matter in the [inaudible 00:40:38]?
+
+Matt Rogers:                 They do, absolutely. If every home in America has an energy efficient thermostat, whether they're Nests or another energy efficient thermostat, we will save a lot of energy. The transportation sector is another enormous one. If every consumer and every business in America moves towards low emissions vehicles or zero emissions vehicles, it's going to make a huge difference.
+
+Jason Jacobs:                I'm talking to Sal Griffith later this week.
+
+Matt Rogers:                 Oh, cool. Excellent.
+
+Jason Jacobs:                And one of the things I'm going to dig into with him is he's a big electrify everything guy. I want someone just to talk me through what that actually is. [crosstalk 00:41:09] because, there's a full chapter.
+
+Matt Rogers:                 I will probably not agree with everything he says. Because, there's some things that still can not be electrified. I'm an investor actually in an electric airplane company.
+
+Jason Jacobs:                Wright Electric.
+
+Matt Rogers:                 Indeed. But it's still very early and it's still very hard. And I think it's going to be a very long time before we don't have liquid fuels in airplanes. But, that goes to the other point, the time is now. The time is dire. We need to take as many shots on goals as possible of our R&D fundings so that we could have electric airplanes in the future. But maybe we need to move to toward hybrid planes today, or hydrogen powered planes. There's other technologies we can apply to the problem.
+
+Jason Jacobs:                Is that government that would step up on the funding side or?
+
+Matt Rogers:                 I think a lot of it will need to be government. Because, the levels we're talking about are not things that private industry or philanthropy could do. We're talking about Apollo mission levels or more. Tens of billions of dollars a year need to move toward climate or it will be too late.
+
+Jason Jacobs:                And you talked about it before, but on the policy side it sounds like carbon tax is the outsize impact- [crosstalk 00:42:06]
+
+Matt Rogers:                 It is an enormous lever on the economy, on business, on consumer behavior.
+
+Jason Jacobs:                Does it matter how it's structured? Or just any price? The higher the better?
+
+Matt Rogers:                 It does matter how it's structured. Some ways are easier to understand. And the more you move up stream, the easier it is for business to run. But the big lever is that it changes behavior. It changes business behavior, it changes consumer behavior. Would you buy the Hummer that gets eight miles per gallon, if cost $20 a gallon for gas? You wouldn't. You were like, "Oh, I'm going to use this new alternative fuel that's $3.00 that's made using bio-products." Or, I'll have an electric car that costs $1.50 equivalent a goal. Right? Right now, it's still too easy to rely on high emissions fuels and high emissions energy. Because, for decades, for 100 plus years, we've effectively been subsidizing.
+
+Jason Jacobs:                So, what would you say then to the people, and it's a large amount of people that would say that ... Sure it would help and sure it could be a high leverage thing. But we will never have the political will to get that through.
+
+Matt Rogers:                 I think at this point, we're running out of time and we have to.
+
+Jason Jacobs:                That's true. But ... both of those statements can be true.
+
+Matt Rogers:                 That's true. Both of those statements can be true. So, the thing that I have seen that are, let's call it the best for consumer will and political will on this is yes, you have some sort of carbon price. That's high up stream. But you also have a rebate, or a dividend, or a credit that you give to every person.
+
+Jason Jacobs:                So, the citizen's climate lobby type of proposal where-
+
+Matt Rogers:                 I'm not familiar with this one.
+
+Jason Jacobs:                Yeah. It's revenue neutral and taking and divvying it out to consumers.
+
+Matt Rogers:                 Yeah, yeah. Yes, exactly. [crosstalk 00:43:40]
+
+Jason Jacobs:                But it's a bipartisan approach as well.
+
+Matt Rogers:                 Yeah. It has been the one that I have seen that has the most political will behind it. Because, let's say you're a middle class family in America. The increased cost of carbon may cost you $400 more or $500 more per year. But if you get $1000 credit, you actually end up being revenue positive as a family.
+
+Jason Jacobs:                So, does who you and I vote for matter for getting a carbon tax pushed through?
+
+Matt Rogers:                 It does. It does. There are folks on the right side of the political spectrum who will never vote for anything that has a tax attached to it. Right? Purely because they don't like the word, tax. And this is one where we could call it whatever we want, but there are other ways of naming and branding this. But at the end of the day, we do need to increase prices for things that are emitting CO2 and methane into the air.
+
+Jason Jacobs:                Okay. So, we talked about carbon tax. You talked about innovation in R&D. I guess one question in the innovation in R&D bucket is what's the role of breakthrough technology versus scaling what we've got?
+
+Matt Rogers:                 Again, we need every shot on goal that we can possible get our hands on. We've got really great technology in renewables today. We've got to scale the hell out of those. We need the renewables to be as large proportionate as they can on the grid.
+
+Jason Jacobs:                But there are things holding that back, right?
+
+Matt Rogers:                 Indeed. We need better storage technologies. And that's one where we don't have all the answers yet. So, that's why I said we need both. We need to scale the things that we have. But we also need to make a lot of very large bets on new technology. Some will pan out and some won't. That could have a significant impact on climate. Storage being one of those, zero emissions ... nuclear energy is another area. Things like CO2 capture and utilization is another area. There are lots of areas where not only are there opportunities for government scale involvement an innovation, but it's also an area where, thinking back to the new deal in the US where that innovation also spurs massive economic opportunity and job creation, much like we had coming out of World War II. Which is exciting for everybody. That's something that gets republicans, democrats, independents, all out of bed. Going to large scale mobilization of an entire economy in a nation project, like the Apollo missions in the 60s. That was a really exciting thing for everybody.
+
+Jason Jacobs:                So, we need more innovation, both deploying what we've got and breakthroughs. We also need carbon tax. Any other really big levers?
+
+Matt Rogers:                 Agriculture. It's one that folks don't often talk about. But, ag is like a quarter of emissions. There's a lot we can do to help farmers. Manage soil better, more to more perirenal crops, livestock. Cattle and other livestock like sheep and lamb, enormous emitters of greenhouse gases. And they're actually relatively simple things we can do to help farmers drop emissions really rapidly. Like changing the feedstock in livestock. There's a lot of research coming out of UC Davis in California. Where applying types of seaweed to cattle feed drops emissions by half.
+
+Jason Jacobs:                So, is that a business?
+
+Matt Rogers:                 Some of these could be businesses. Absolutely. Some of these will be business, creating new feed stocks for farmers. But similarly, political movements. Again, this is where government could get involved really well. By applying the right rebates, and subsidies, and incentives for farmers to do the right thing. They'll move the industry over very quickly to get those new incentives. And then to drive emissions down.
+
+Jason Jacobs:                For anyone out there listening who is really concerned about this problem and wants to help, but isn't necessarily in a position where they can just not have a livelihood. Or someone that maybe has a livelihood and doesn't want to give it up, but has some philanthropic. They want to do some supporting through philanthropy, but they don't know how to assess out what's going to be highest impact. I guess, maybe talk to each of those audiences. What do they do?
+
+Matt Rogers:                 So, one, let's call it on the career or job side. The clean economy jobs are some of the fastest growing jobs in America. Probably second behind healthcare and nursing. There's been a ton of job creation in economic development in the clean energy economy. If you want to get involved and want to make a difference with how you spend your time every day, seek opportunities in that kind of clean economy. There's a lot out there.
+
+Matt Rogers:                 On the other side, I think whether you're donating $10 or donating thousands or hundreds of thousands of dollars, finding organizations that you feel passionate about that have strong missions, and where you can spend not only investing your money but also some of your time and volunteer your time. Much like we do. Not only are we writing check, but we're volunteering our time to these organizations to help them scale. There's things that we call could do to help these organizations grow.
+
+Jason Jacobs:                In that same New York Times article I mentioned earlier ... I don't know if you were complaining. But, I'll use the word complaining. That there's not a lot of interest from Silicon Valley in investing in this area. To me, I feel like that's rational give the current structure of how those funds are organized, and long term profiles, and their [inaudible 00:48:41] responsibility to eliminate partners and things like that. Into the extent that there's overlap on the vin diagram, they are doing this investing. It's just few and far between. And in the areas that there is overlap, often times it's traditional investing with a greenish tint. But it's not really putting de-carbonization front and center. I guess first, do you agree with that assessment? And then as a follow up, what do we do? How do we get more resource and what is Silicon Valley's role in that? Or not?
+
+Matt Rogers:                 I agree with you on the whole end. I think part of that New York Times article you're mentioning is me trying to shine the mirror. So, Silicon Valley and Silicon Valley Venture used to be about making bold technology bets. And when Venture was coming up as an asset class in the 70s and 80s, and even into the 90s, they were taking really bold bets on technology that were really high risk. Somewhere between the dot com bust of 2000 and the internet kind of insurgence of where we are today, people have forgot about the roots of Venture. They see it more of like a super high return asset class, that doesn't necessarily take a lot of risk. And I think part of that is the maturing of an industry. But it also shows that, hey, there are more ways of skinning this cat. And I think for LPs, large pension funds, universities, the folks that usually back Venture capital, they have a [inaudible 00:50:13] duty, but they also have a duty to who they're representing.
+
+Matt Rogers:                 What good is a pension fund if we're not going to be around to spend that money? If we're not going to get around to retire? I'd like to see more and more LPs push their investments, their venture investments to make bigger bets. Because, those opportunities are out there. It just requires us to work a little bit harder. There's a lot of easier money in the internet. You got to work a little harder for some of these other opportunities. But, that doesn't mean we shouldn't do it.
+
+Jason Jacobs:                So, what do you think of the term, concessionary as it relates to capital and returns?
+
+Matt Rogers:                 I think it's less about concessionary and returns but more about stage. So, you could make very high risk investments and also have very high return. But, you may also hit some zero. And I think there needs to be different asset classes in different investment vehicles for the different stages of capital. And especially I think about, let's call it super high technology risk. This is an area where foundation capital could come in and make a big difference. Some of that will make returns. And if you think about it from a philanthropic perspective, and there's hundreds of billions of dollars of foundation capital out there. That money is there for granting an impact. So, why not take some bold bets. Let's say you get a 1X return on your MRIs. You're a brilliant philanthropist. There's not too many grants that get a 1X return on your grant. Usually you give the money away, it doesn't come back.
+
+Jason Jacobs:                So, it's essentially reframing your expectations and reminding people that if it's a philanthropic investment, philanthropic investments don't typically generate return.
+
+Matt Rogers:                 Right.
+
+Jason Jacobs:                And so, the return is gravy on a philanthropic investment that otherwise would've just been giving it away.
+
+Matt Rogers:                 That's right. There's different stages of money. Just like when you make a public investment, a small cap, or mid cap, or a large cap investment. There are different expectations of what those things will return. Venture has kind of become one big bucket. Or it's like venture and growth. There needs to be more granularity in terms of all those different buckets in the earlier stages.
+
+Jason Jacobs:                But in that article, it was a little bit of kind of complaining about the existing crew isn't more active. But that's not what I'm hearing from you now.
+
+Matt Rogers:                 No, no, no. The existing crew is not very active.
+
+Jason Jacobs:                No. But, you're not necessarily advocating that they should be.
+
+Matt Rogers:                 No, I think I am. I think what I have to say specifically is that, they have to work a little harder to make bold investments in climate. Whereas, it could be a little easier on the internet side.
+
+Jason Jacobs:                Do you also think then, when you say LPs pushing them. Is it essentially, LPs being okay with more science risk and longer time horizons?
+
+Matt Rogers:                 Sometimes, yeah. It could be.
+
+Jason Jacobs:                For the greater good?
+
+Matt Rogers:                 Oh, and also for the folks that they represent. Most LPs represent universities, or pension funds, or governments. These folks have a duty to their citizens and to their share holders. And I think if anything, our generation will be driving this change. Again, I'll speak very candidly. I think there's an enormous opportunity to make money in climate and things that make a huge difference on climate change. But you may have to work a little harder to find them.
+
+Jason Jacobs:                I assume that, given the world that you and I come from, there's a couple of different profiles of people from that world that come to me. And I imagine they're coming to you as well. Either VCs that I would describe as climate curious. Or the other one is people that maybe work in software, whether it's as an engineer, or a product manager, or some other [inaudible 00:53:43]. It could be sales. But who say, "Gosh, this is really hanging over my head. But I don't know where to start." And because there's not that many of us that have come from that Silicon Valley world over into climate work. I feel, I mean you more than me, but you're kind of like the token visible representative. It's like a bridge. Someone that they feel comfortable with that speaks their language, but that's now switched sides, essentially.
+
+Matt Rogers:                 It's one of the important roles that we play.
+
+Jason Jacobs:                Yeah. So, what do you tell each of those people? When an Apple engineer comes to you and says that, what do you tell them? When a Venture capital from Sand Hill Road comes to you and says that, what do you tell them?
+
+Matt Rogers:                 It's never too early to get started. What I hear from a lot folks is, once I'm retired, I'll get involved in impact or I'll start doing philanthropy. Whatever kind of size and scale they're able to do. One, we don't have time for that. We need the impact now. And two, building good habits and being a good role model for your children starts now. It doesn't start when you retire. So, building a good culture around doing well in the world and having a positive impact starts in your 20s, starts in your teens.
+
+Matt Rogers:                 My wife and I, we started volunteering on the Gore campaign in 2000, before we were even eligible to vote. Because, we believed that what he represented, especially around climate was critical. And that's we did as teenagers. It's not something you need to do and wait till you're in your 70s to get involved.
+
+Jason Jacobs:                So, you married your high school sweetheart?
+
+Matt Rogers:                 Kind of. You could say that. Yeah, you could say that. We've not been dating since we were in high school. But we've known each other for a very long time. My point being, positive habits around impact don't need to start when you retire. Start as soon as possible. And that's the advice I give everybody.
+
+Jason Jacobs:                So, the people that are still not focused on this and are financially independent, and are continuing to optimize for creating more wealth. Do you judge those people? And is that fair to do so? Or each to their own? How do you think about that? Do they have a duty?
+
+Matt Rogers:                 I think so. I think, again, speaking again about capitalism, capitalism isn't fair. And there's a lot of luck involved. Once you realize that's it's not fair and there's a lot of luck involved, you do have a responsibility and a duty to basically, effectively give your money away to the greater good. Because, it's not a fair system. And because, you were born on the right side of the tracks to educated parents, you had these opportunities. And once you realize that there's luck in every step of the way and privilege every step of the way, you realize it actually is your duty and you have to do it. It's not because you were special. It's because you got really lucky and you were born to the right parents, at the right time, in the right place, who have the right jobs and those kind of things.
+
+Jason Jacobs:                Yeah. It's amazing how many people that's all true for. But that think it's just-
+
+Matt Rogers:                 It was their skill.
+
+Jason Jacobs:                Yeah, exactly. Their skill and good looks.
+
+Matt Rogers:                 Yeah. Like you said-
+
+Jason Jacobs:                I know I was lucky.
+
+Matt Rogers:                 Skill could an accelerate around that stream. But there is so much luck and privilege that put you in that fast lane, that 99% of the world never got to do. So, it's your duty to do the right thing.
+
+Jason Jacobs:                And last question. I've been asking this of every guest. If you have $100 billion and you could allocate it towards anything to maximize it's impact on the climate fight, where would it go and how would you allocate it?
+
+Matt Rogers:                 So, I'm a big believer in portfolio theory. And much like we do today with Incite, we don't have $100 billion. But, we try to spread it amongst a lot of different initiatives. I would do the same. Especially given how tough the climate fight is, we need all the shots on goal we can get. So, I would back everything. And today, I have the fortune to be able to back things that are early and make very catalytic investments in early stage things. But, it's hard for me to follow that catalytic investment. When Cyclotron Road needs $10 million to scale their next site, I can't help them with that. I can help them raise it, but I can't do it myself. If I have $100 billion, we'd have Cyclotron Roads all over the world.
+
+Jason Jacobs:                So, I guess then that can be my last question, which is a follow up to that question. Which is, that you and Swati are the sole LPs in your vehicle. And as you just said, you can't follow on and there's a shortage of capital. So, how do you think about those trade offs between control and not polluting the mission versus just having more means to have more of an outside impact?
+
+Matt Rogers:                 I think we've found really good partners that could follow on. I think that's been our strategy and our solution to that. And once you've identified really good partners that could take it to the next step, that rely on you for the early stage, that then carry on the next. You realize that there's an ecosystem around you. And we don't need to own each step of that journey.
+
+Jason Jacobs:                So, you're pretty happy with your perch?
+
+Matt Rogers:                 I love what we do. One, we have a great time doing it. But, also, it's catalytic for these founders. When we back Noah and Gianna for Carbon 180, they had an idea and they were in school. And for someone to come in and write them a half million dollar check, with an idea, is catalytic. Right?
+
+Jason Jacobs:                Anything that I didn't ask you or any parting words for our listeners?
+
+Matt Rogers:                 I love what you're doing, Jason. One, thank you for doing it. When you and I started talking last year around how can you make a difference in climate? I think helping folks chronicle their journey is a really big deal.
+
+Jason Jacobs:                Which was a cold email that you replied to. So, thank you for that.
+
+Matt Rogers:                 Well, and this is still true. Folks could email me and I respond. That's part of being a philanthropist, it's about the good of people. And I got a lot of inbound and we were trying to reply to almost everything. Thank you for what you do. And two, I think everyone needs to get involved. At whatever scale they can do, it's never too early to get involved and vote. Vote your conscience. And when people say, "Oh, the candidates are all about the same. I'm going to stay home." That's pretty much the worst vote they could make.
+
+Jason Jacobs:                Well Matt, this was a fascinating episode. I learned a lot and I always want to thank you for what you do. I actually bring you up quite a lot in my travels. Because, I think that you're a role model of sorts in terms of both the work you're doing, and the impact your making, and the way that you've structured things with Incite. Runkeeper wasn't the same magnitude of win as Nest. So, I don't necessarily have the same resource. But I think philosophically, super well aligned.
+
+Matt Rogers:                 Right? And likewise, like you mentioned. It's never too early to start. And you've made early investments and early grants. Those are the kind of things, getting the habits formed and getting that process going is the most important step. And getting others to do it too. And you're doing that in spades now. So, thank you.
+
+Jason Jacobs:                Well, keep up the great work. Thank you for the support and thank you for coming on the show.
+
+Matt Rogers:                 My pleasure.
+
+Jason Jacobs:                Hey everyone, Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at, myclimatejourney.co. Note, that is .co, not .com. Some day we'll get the .com, but right now, .co. You can also find me Twitter at @jjacobs22, where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear. And before I let you go, I you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that. Thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

@@ -1,0 +1,408 @@
+Adam Minter is an opinion columnist at Bloomberg covering Asia, technology and the environment. He's written two books, Junkyard Planet: Travels in the Billion-Dollar Trash Trade, and Secondhand: Travels in the New Global Garage Sale. 
+Adam is a global expert on the circular economy, and we spend the first chunk of the conversation covering the recycling market and the role of China therein. We then go into the reuse market and talk about textiles and clothing. Lastly, we cover some of his recent reporting, which spans water and agriculture before bringing it back to climate and China. Adam is deeply knowledgeable about a lot of topics, and he has a knack for uncovering the global market forces that shape local economic situations and trends. This conversation is rapid-fire and covers a lot of ground.
+Get connected: Adam Minter Twitter / LinkedInCody Simms Twitter / LinkedInMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests. 
+Episode recorded on May 11, 2023 (Published on Jul 17, 2023)
+In this episode, we cover:
+[02:00]: Adam's background and family history in the scrap metal business
+[03:28]: The existing circular economy as a theme in Adam's work
+[05:33]: The role of recycling in China's rise in the industrial economy
+[08:51]: The U.S. investment in recycling EV batteries
+[10:25]: Adam's thoughts on "green protectionism"  
+[11:15]: The global market for used consumer goods
+[13:26]: The role of secondhand clothing in developing countries and the impact of South and East Asian apparel manufacturers
+[19:22]: The pros and cons of big U.S. brands engaging in recommerce 
+[21:02]: The true environmental value of extending product lifespan
+[25:10]: Challenges of mining and recycling rare earth minerals
+[27:44]: An overview of plastics recycling, the role of consumer demand, and limitations of recycling technology
+[34:25]: Adam's shift into the water and agriculture topic space
+[36:09]: His recent pieces on water scarcity due to groundwater depletion
+[42:07]: The complexities of water rights and regulation in the U.S.
+[45:57] Adam's thoughts on why the 2023 Farm Bill should support climate-positive farming practices
+[47:45]: How crop insurance policies can sometimes exacerbate food crises
+[51:36]: Adam's thoughts on China and the climate crisis
+Cody Simms (00:01):
+Today's guest on My Climate Journey is Adam Minter. Adam is an opinion columnist at Bloomberg covering Asia, technology and the environment. He's written two books, including Junkyard Planet, an insider's account of the global waste and recycling industry, and Secondhand: Travels in the New Global Garage Sale. Adam is a global expert on the circular economy, and we spend the first chunk of the conversation covering the recycling market and the role of China therein. We then go into the reuse market and talk about textiles and clothing. Lastly, we cover some of his recent reporting, which spans water and agriculture before bringing it back to climate and China. Adam is deeply knowledgeable about a lot of topics, and he has a knack for uncovering the global market forces that shape local economic situations and trends. Our conversation was rapid fire, and we cover a lot of ground. But before we get started...
+(00:58):
+I'm Cody Simms.
+Yin Lu (01:00):
+I'm Yin Lu.
+Jason Jacobs (01:01):
+I'm Jason Jacobs, and welcome to My Climate Journey.
+Yin Lu (01:07):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:12):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Adam, welcome to the show.
+Adam Minter (01:27):
+Thanks for having me.
+Cody Simms (01:29):
+Adam, you are working at the intersection of many things that I personally have spent a lot of time in. You've managed to connect the dots for them professionally. I haven't necessarily, but a lot of time in China, obviously a lot of time around thinking about working on climate change and the environment, and you're from the Midwest. So hey, we got a triumphant of topics to go after here today. Let's start by hearing from you how you went down those paths and how they all connect for you.
+Adam Minter (02:00):
+Well, the very short version is I was born in the junkyard. My family dating back 100 years was in the scrap metal business, and so some of my earliest memories are literally wandering around the junkyard with my grandmother looking at stuff being recycled, about to be recycled, about to be sent off to the steel mill. At the time, you don't think of it as an environmental activity, it's the family business, you know what I mean?
+Cody Simms (02:26):
+Yep.
+Adam Minter (02:26):
+But you do start to think maybe a little bit differently. From a very early age, I was taught to seek out the value in anything that somebody considers junk, and that's really good training to be a reporter. So I opted not to go into the business for a range of reasons, but one of which was I liked writing, and I really wanted to write and report. So I started out writing in the Twin Cities, had the opportunity to go freelance to China, had no interest in Asia. It wasn't my plan, but like a lot of people who go to Asia not knowing why they're going, I fell in love with it, and I spent 12-
+Cody Simms (03:03):
+When was this, Adam? When was this?
+Adam Minter (03:04):
+2002.
+Cody Simms (03:05):
+Okay. Wow.
+Adam Minter (03:05):
+2002.
+Cody Simms (03:06):
+Yeah. Yeah.
+Adam Minter (03:07):
+Yeah. Yeah, so pretty early in China's development cycle and stayed in Shanghai for 12 years, and then moved on to Kuala Lumpur until COVID in 2020.
+Cody Simms (03:18):
+Wow.
+Adam Minter (03:19):
+So initially freelanced, wrote two books and continue to serve as a columnist for Bloomberg Opinion.
+Cody Simms (03:28):
+Well, and so let's dive into the two books you wrote, which are highly relevant for our listeners. The first being Junkyard Planet, which I think really recounts a lot of your learning on this early journey from growing up to... My big macro takeaway from the book is that you basically have the thesis that China's rise is in large part due to a global circular economy that maybe we don't even think about, but that it very real and very much exists.
+Adam Minter (03:56):
+Yeah. Well, one of the themes of my work is that we already have a circular economy, we just have to look for it. In certain cases, it's right in front of us. I think a lot of your listeners are familiar with what's called the Trans-Pacific Trade and Recyclables. Some people think of it as the Trans-Pacific trade and garbage. I was there, it was not garbage. The reason China was importing all of that recycling was to recycle it. It had value. They purchased it, every piece was purchased. Some of it, they got it and they said, "Maybe not," but most of it was manufactured into new stuff.
+(04:29):
+Lo and behold, it was sent to Europe and North America and Japan as new products, which, depending on what it was, maybe was thrown back in the recycling bin, sent back to China to be made into more new products. I documented some of this. So I tried to put a very hot spotlight on to this trade that was for a lot of people immersed in murkiness and was viewed as not environmental, not green, not circular. I argued in these books, amongst other things, it's good for the environment and it's actually climate positive.
+Cody Simms (05:01):
+I'm a big Chinese history major, actually. In college, that was what I studied way back in the day. China has actually a long history of leveraging its populace to reuse, recycle metals. A lot of the rise of the current Communist regime happened because it was pulling materials out of the populace to create the industrialization that it needed. It sounds like your thesis is that's just expanded on a global scale over the last few decades.
+Adam Minter (05:33):
+Right. I think one of the things that I found most interesting in being in China at the time I was, which was the frothiest of the boom years, was how important that scrap metal and scrap paper and scrap plastic trade was to the rise of their industrial economy. Southern China, Guandong Province, which so many people now think of as the factory floor of the world, it is not a natural factory floor of the world. There are very few raw materials there. If they don't import the raw materials, now that could be imported iron or mined out of the ground, say in Australia, or it could be imported, shredded automobiles from Michigan, which I documented.
+(06:13):
+From an environmental standpoint, which do you prefer? That's great, but also from an entrepreneur standpoint, which do you prefer? Because frankly, buying scrap metal is cheaper. You can buy it in smaller quantities. You don't have to buy a whole ship full of iron ore. You can buy half-a-container load of a certain kind of aluminum. So that trade really gave rise to China's industrial heft. I would argue, and I do argue that China was going to rise one way or another. They were going to manufacture better that they manufacture from our unwanted junk than from something dug out of the ground in northern Australia.
+Cody Simms (06:48):
+At some point in, call it the mid-2000s into the early 20 teens, China, all of a sudden now, at least if you look at today, they're known for absolutely controlling the mining markets for precious metals and battery metals that I guess is different than iron and aluminum and the scrap metals that were used over the last few decades. But at some point, the flip switched where they said, "Hey, as a policy, we now need to go control the original sources of these materials." How did that evolve?
+Adam Minter (07:23):
+Well, I think there's a couple of things happening. At first, it dates back hundreds of years. China, it's leaders, the emperors had all been very keenly interested in being self-sufficient. China shouldn't rely upon other people and other countries. China, when it comes to raw materials, continues to be very reliant upon other countries. But it had become right around 2010, 2011, it was becoming apparent they were becoming less reliant on scrap metal, scrap paper, scrap plastic from the U.S., Japan, Europe, Australia. Why? Because they were generating their own junk. So all of a sudden, they didn't need it as much anymore. So once they determined, and at least the government determined, I can tell you that a lot of business people there didn't feel this way, once they decided that they were generating enough recyclables on their own, they started cutting off the import of that stuff and that began this process. When that started happening, this process of saying, "Where else can we be self-sufficient? How else can we control our own destiny in terms of manufacturing and the industries of the future?" So it really began there.
+Cody Simms (08:34):
+Now on the flip side, you have the U.S. making massive investments from a tax rebate perspective and whatnot into recycling of, for example, EV battery metals in the U.S. So it's almost like the script has completely changed in that regard.
+Adam Minter (08:51):
+It has, and yet, I've argued elsewhere that the U.S. investment in recycling EV batteries, it's a great idea, but it's never going to give the U.S. the supply, at least not in the foreseeable future that it needs. Because to recycle batteries, you need batteries, and most of the batteries are in China.
+Cody Simms (09:09):
+Yeah. You wrote a piece in Bloomberg recently that said we're 10 years too early in that investment, I think.
+Adam Minter (09:14):
+Exactly.
+Cody Simms (09:15):
+But at some point, you have to invest in the technology that's going to turn into those facilities, right? Do you think we're still too early in investing in the technology to enable those facilities?
+Adam Minter (09:23):
+Yeah, in my opinion, I think it's worth investing in the technology. For better or worse, there's a lot of money, a lot of subsidies, a lot of venture capital chasing the EV battery recycling chimera, whatever you want to call it-
+Cody Simms (09:37):
+Right.
+Adam Minter (09:38):
+... and they're building out enormous amounts of capacity that's just not going to be able to be used for many, many years. So there's going to be a lot of money lost and wasted, but at least we'll have the technology as the battery supply ramps up.
+Cody Simms (09:50):
+I guess your point is we're just now starting to hit EVs surpassing 5% plus of annual sales. So as that continues to ramp up, then you have a 10-year wait period for those cars to hit end of life, right?
+Adam Minter (10:03):
+Maybe more, and-
+Cody Simms (10:04):
+Maybe more, yeah.
+Adam Minter (10:05):
+The other thing is, a lot of those cars may very well just leave the U.S. People forget the U.S. exports millions of used cars per year. If we end up exporting EVs, say to Nigeria, which is a major importer of them, those batteries are never going to be recycled here unless somebody sets up a supply chain.
+Cody Simms (10:25):
+Which is back to this whole green protectionism that is getting the word that's getting thrown around all over the world right now. You could see a world where there become tariffs on where the U.S. is able to send used cars, et cetera, in the future potentially, going only to allies where the batteries will be recycled back into a U.S. allied supply chain.
+Adam Minter (10:44):
+Right. The problem with that green protectionism is it's not always green. I would argue that if you send an EV to Nigeria instead of recycling it in the U.S., that's the better environmental outcome because that EV's going to be used longer.
+Cody Simms (11:00):
+Yeah, and it'll displace a diesel or gasoline-powered vehicle-
+Adam Minter (11:03):
+Exactly.
+Cody Simms (11:04):
+... faster.
+Adam Minter (11:04):
+Exactly. So these are hard questions, and they're really questions about markets as much as they are about circularity and sustainability.
+Cody Simms (11:15):
+Well, so speaking of markets, your second book is Secondhand, which-
+Adam Minter (11:19):
+Right.
+Cody Simms (11:19):
+... I think you put out in 2019, and that tended to focus as I understood it, more on what happens to all of our consumer goods. So your first book is about, quote, unquote, waste and materials. Your second book is about things that really are still usable, whether it's fashion, whether it's furniture, and what happens to those around the world, which I guess, the thing you uncover in the book is there is a entirely huge global market around all of this as well.
+Adam Minter (11:49):
+Yeah, exactly. I really love that book. It's a very personal book in some ways, and yet it's also, it's a business book. But that book was really inspired by, after my mother passed away, like everybody, we had some of her stuff and we didn't know what to do with it. We had some sentimental value, but ultimately, I know she would've said, "Come on, you're just going to keep it in the basement." So as I was waiting in line to drop it off at a Goodwill, it suddenly hit me, "I don't know where this stuff goes." I'm like the trash and recycling detective. So it hit me, "I got to do this book." I figured there were global markets, I didn't realize how large these global markets are. I was just in Costa Rica a couple of weeks ago at a conference of clothing recyclers.
+(12:39):
+If you talk to clothing recyclers in Central America, they will tell you, and you can see it just by walking down the street, the secondhand clothing in Central America is the primary means by which people dress themselves. Now, it doesn't show up in say, Business Week as this really important fashion industry because the value is very low. So we don't do very good at valuing this trade. But in terms of what it brings to people, that equivalent of a dollar tee-shirt is just as important as a $50 Patagonia tee-shirt, but the dollars and cents don't add up that way. So when I tell people, you go to Nigeria or you go to Ghana and everybody's wearing secondhand clothes, they're not wearing new stuff, they're not interested, the development agencies aren't interested. But from a human perspective, it's critically important, and it's still a very large industry.
+Cody Simms (13:26):
+How do you personally think about the balance between access to very low-cost clothing, basic necessities relative to the ability to build a domestic manufacturing base in a given country?
+Adam Minter (13:40):
+Yeah, that's always the question, isn't it? If you go to West Africa where you will not really see much of a domestic clothing industry anymore, the immediate instinct is to say, "Oh, Goodwill and Oxfam and Salvation Army, their exports to these countries, the imports have devastated the local clothing industry," but that's not right. The U.S. doesn't have the same clothing industry that it had 25 years ago either, and it wasn't put out of business by Goodwill. It was put out of business by South and East Asian apparel manufacturers who were able to create economies of scale and efficiencies that drove the price of clothing so low that North Americans mills say, in North America, they couldn't compete with it anymore, so they off-shored. The same phenomenon happened in places like Ghana where I spend time for Secondhand.
+(14:32):
+If you talk to the people who are in apparel there, they'll say, "We simply cannot compete with the South Asian and East Asian imports coming in," and there's another level to this. They'll then say, "That's why we like the secondhand clothes from Europe and North America because it's better quality. It's been massively pre-tested. Somebody's been wearing it and wearing it and wearing it, and it's at a price point that oftentimes beats this new clothing of lesser quality. Sometimes it's even more expensive, but we know it's more durable, so we're interested in it." So from my point of view, as somebody who spent time in and around this industry and watch how it operates, I don't believe this industry is hurting the local manufacturer at all.
+Cody Simms (15:16):
+Let's go the other direction, which is the rise of, at least in the U.S., the fast fashion, which is H&M's, Aura, some of these brands that are creating clothes that really aren't meant to last, I would argue.
+Adam Minter (15:29):
+No, not at all.
+Cody Simms (15:32):
+How does that compare to in Asia where you have a domestic produced clothing that are also low cost, how do those two industries compare to one another?
+Adam Minter (15:43):
+Yeah, it's a really interesting question. One of the things I found most fascinating about Chinese manufacturers, I'm going to talk about Chinese manufacturers, Chinese manufacturers in general, not just apparel manufacturers, is that you can give them a product, and they'll call you up later that afternoon and say, "We can make it at this price point and it'll have this thread count. We can make it at this point, and it'll have this lower thread count. We can make it this lower price point, and it'll have counterfeit zippers, but it'll still look like that spec you sent to us." A lot of that stuff never makes it here.
+Cody Simms (16:17):
+Right.
+Adam Minter (16:17):
+It's largely sold in emerging markets because it hits that price point. Chinese are very good at manufacturing for those emerging markets, and in that sense, the Zaras are oftentimes the higher quality alternative in many of the malls in Asia. So it's a very complicated play, and it really depends upon the consumer, place, local markets.
+Cody Simms (16:44):
+My understanding is the challenge in both of these instances with just these lower price points clothing that are not made to last, is just an incredible growth in the amount of clothing that's being landfilled and being burned. How have you seen that trend change over time?
+Adam Minter (17:05):
+Yeah, it's true. One of the things you hear the traders in West Africa say is that they are getting more and more clothing in the bundle. So when used clothing is sent to a country, it comes in a bundle, and it's presorted over and over, usually in multiple locations. But they're complaining more and more that the quality just isn't what it used to be five years ago. You'll hear this in Goodwills. You talk to anybody at Goodwill in North America, they'll tell you the same thing. The stuff just isn't as good as it used to be, and so it makes it harder for them to sell. What happens to that stuff? It could be landfilled. It could be incinerated. It definitely becomes waste. Sometimes it depends what the fabric is. It could be shredded into stuffing for mattresses, different kinds of furniture, and that is a use.
+(17:54):
+We occasionally see these pictures of, say, in the Atacama Desert in Chile, there's some famous pictures of a big pile of clothes out there, and that's reprehensible. But I got to tell people, if you know anything about the used clothing trade and those pictures of piles of clothes in the Atacama Desert, that's probably two or three days worth of clothing in terms of what's shipped into Chile. Where are the other 362 days of clothes? They're probably in people's closets. If you talk to any new clothing retailer in the U.S., in Japan, in Ghana, they will tell you that they also have this problem. No retailer sells everything that comes into their store, so there's also the waste issue. I think this issue gets blown a little bit out of proportion sometimes. There seems to be some guilt from people in exporting countries about this. But in terms of great environmental crimes that are out there, and top concerns you will find in environmental problems in emerging markets, I can tell you an excess of used clothing that can't be worn doesn't enter the top 20.
+Cody Simms (18:58):
+Interesting.
+Adam Minter (19:00):
+Yeah, it's just not a big issue. If you go to Ghana, what are they worried about? Clean water-
+Cody Simms (19:04):
+Right.
+Adam Minter (19:04):
+... potable water, garbage pickup, all these things. This is really an uptown problem, if you will, and it's something that people who I don't want to pay subscriptions for certain publications in wealthy countries worry it about a lot more than the people in the emerging markets.
+Cody Simms (19:22):
+It feels like in the U.S. there's a trend in higher end brands starting to invest in what I hear called recommerce, which is creating their own reuse marketplaces themselves.
+Adam Minter (19:35):
+Yeah.
+Cody Simms (19:35):
+Do you see that as solving an environmental problem, or do you see that as mostly sustainability marketing?
+Adam Minter (19:42):
+I have two answers to that. The first answer is great. The more you can see these big brands out there talking about sustainability, the better. I think it's good. If it's greenwashing or not, I don't care, because it's clear amongst, just talking in the U.S., younger Americans, the polls are clear. Younger Americans, generation Z, they are more sustainable consumers. They care about price, but they are more sustainable. So the more these brands talk about that stuff, great, get that message out there. Now, in terms of say, a brand engaging in recommerce, I don't know that that is environmentally sustainable. Let me put it this way.
+(20:23):
+If I am a big fashion brand that sells expensive clothes, and I'm saying, "I'll take back your clothes," I'm taking stuff off the secondhand market. More likely than not, I'm taking really good stuff off the secondhand market, stuff that would sell at Goodwill very quickly. These big brands want to control their brands. They don't want to see them being sold in Goodwills. It hurts the brand, or they want to control that market. The more stuff they can take off the market, the better for the brand. So I'm very wary of that kind of thing and what the motives are. But on the flip side, again, anytime they can talk about sustainability, I think it's great.
+Cody Simms (21:02):
+Yeah, I've struggled with my own climate change hat on when I've seen these companies, because on the one hand, there's a time value to carbon, so keeping something from turning into CO2 today by getting landfilled or burned or whatever is a good thing; on the other hand, is another turn for an extra four or five years, and then it ultimately is going to end up landfill or burned anyway the next time someone is done with that piece. Does that really make a difference? Maybe at scale? I don't know.
+Adam Minter (21:29):
+I think it does-
+Cody Simms (21:30):
+It does. Okay.
+Adam Minter (21:31):
+Yeah. Forget apparel for a moment, let's talk electronics. I've spent a lot of time thinking about electronics. You take an iPhone, these are Apple's own numbers. You can go on their website, they put them out there. I think it's over 90% of the carbon associated with the iPhone, a single iPhone, is generated during the production process, the manufacturing process. That includes the mining and everything else. The actual end of life, meaning waste disposition, whether it's recycling or tossing it in a landfill or tossing it into a fire, which nobody does, is in the range of 2%.
+Cody Simms (22:08):
+Okay.
+Adam Minter (22:09):
+So the longer you can keep that iPhone circulating, awesome. From a-
+Cody Simms (22:15):
+Assuming it's displacing the purchase of a new one, the purchase, and thus the need to order and manufacture a new one, I guess. So that's the thing you have to assume.
+Adam Minter (22:22):
+Usually, there are people who actually track where these things go, and it's amazing. They eventually make their way to emerging markets. I have a friend of mine, he's pointed out, he says, "If I were an iPhone and I wanted a long life, where would I live? It wouldn't be in North America because Apple's going to do everything it can to pull that off the market. It's going to be in an emerging market like Nigeria, Ghana, Bangladesh, wherever it is, because it's going to keep getting used. Even when that phone isn't usable anymore, the components will be taken apart and those will get reused."
+Cody Simms (22:51):
+I love that you transitioned in that way because in my mind, I was trying to think before our conversation of what are the high-level categories of this circular economy? Clearly, at the top of the pyramid, you have reuse, which is just literally taking the same thing and turning it again, getting someone else to buy it or use it. Then it feels like you have this, recycle is obviously the next one we talk about though, I would venture to guess you would say recycling is more complicated than just the word recycling. Are you just literally taking the raw material and resmelting it, or are you running it through some kind of chemical process, some kind of cleaning process?
+(23:27):
+Typically, I'm guessing there's a heavy industrial component to recycling that is probably more than most of us appreciate. Then you have this what I would call reprocessing, which is what we talked about with EV batteries or e-waste where you're having to actually get down to chemical-level components and essentially remanufacture the thing around it. Then I guess the fourth category I would think of is the notion of trash devalue or feedstocks, which is whether you're taking a woody biomass or a chemical and converting it into some other kind of thing where you're taking a waste product and turning it into a new thing. I don't know, that's just me jotting stuff down. Are those the right four categories, or does it not matter or what?
+Adam Minter (24:11):
+I've spent my whole life around the industry and recycle, reuse, it's a moving target-
+Cody Simms (24:20):
+Okay.
+Adam Minter (24:20):
+... so you tell me. I'll get confused by it. People will tell me, "I have a recycling facility." "Oh, what do you do?" "Well, we refurbish old phones."
+Cody Simms (24:28):
+Right.
+Adam Minter (24:29):
+So I say, "Well, no, you refurbish. You're not recyclers," but that's my preference. So it's different processes.
+Cody Simms (24:35):
+Yeah. Okay, got it. It feels like this whole notion of e-waste, whether that's EV batteries or cell phones, or the idea of really, you've got this large thing and you just need a handful of the really important, hard-to-reach metals or chemicals that are inside that, we have to crack this open and completely reprocess that. That's where a lot of money is flowing in right now to try to accelerate our ability to do those things, which ideally, I guess, prevents mining, but your argument is on what time horizon?
+Adam Minter (25:10):
+It's all about the time horizon, and it's all about what in a sense you're trying to accomplish. You can recycle just about anything. I always like to talk about rare earths, which they're not that rare, but they are these very important components. They go into your phone screen, for example, they make the colors pop.
+Cody Simms (25:32):
+Molybdenum, that's of them, I think, Right?
+Adam Minter (25:34):
+Yeah.
+Cody Simms (25:34):
+Yeah.
+Adam Minter (25:34):
+Right. Exactly.
+Cody Simms (25:35):
+Okay.
+Adam Minter (25:38):
+They are expensive. Mining them, most of the mining is currently done in China. There's expansion of a lot of places now. It's very energy intensive. If it's done the wrong way, it will absolutely destroy land, and it only requires a few grains, if you will, to make your iPhone screen pop. That stuff can be recycled, and there's lots of people talking how they want to recycle rare earth, but is it really circular to be recycling that stuff? I just don't see how you're ever going to be able to scale that kind of recycling up.
+(26:12):
+So we have to tread carefully, and I think there are very high expectations sometimes for what recycling can do. Apple talks about how it wants to be able to recycle the entire iPhone or build an iPhone out of completely recycled materials. I personally don't think that's possible. I think there's always going to be waste, and I think we all need to talk... This may sound a little catty, but be a bit more adult about what this means. These are industrial processes, and you do what is possible and economically possible.
+Yin Lu (26:43):
+Hey, everyone. I'm Yin, a partner at MCJ Collective here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community.
+(27:13):
+A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early-stage investments have been made, as well as ongoing events and programming, like monthly women climate meetups, idea jam sessions for early-stage founders, climate book club, art workshops, and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the Members tab at the top. Thanks, and enjoy the rest of the show.
+Cody Simms (27:44):
+Well, I want to hit one more recycling topic, and then let's shift to some of the other work you've been doing recently. Plastics, just broadly, you wrote a recent piece in Bloomberg about how plastic recycling is working. That is obviously a counterfactual to what most people would say, so unpack that for us a little bit. What's going on with the entire plastics world since China basically stopped accepting plastics from the U.S., at least as far as I understand it, what, five or six years ago?
+Adam Minter (28:14):
+Yeah, they will still accept plastics from the U.S.-
+Cody Simms (28:18):
+Okay, well, there we go, see?
+Adam Minter (28:18):
+... but it's a more restrictive list.
+Cody Simms (28:21):
+Okay.
+Adam Minter (28:21):
+But basically, it's plastics that they feel they need, that they don't have sufficient supply of. It's very pragmatic, very market based, so there are some that they'll take. Plastics have been recycled for years, and it depends on which ones you want to talk about. Some are highly recyclable, PET, your plastic water bottle. Those are extremely valuable. They can be recycled in everything from carpets to CDs, although we don't make many CDs, but ideally, they're made into additional plastic water bottles. Industrial plastics, which many of us never see, but are extremely important and actually exists oftentimes in volumes much larger than the consumer stuff we put into our bins, those are also recycled.
+(29:05):
+There's a lot of demand now from consumer product companies to create recycled packaging. That's been really important to the development of plastic recycling technology and the development of plastic markets. So the problem we have right now isn't that there isn't plastic recycling, it's that there isn't enough. There aren't plants to supply all of the recycled water bottles and all of the recycled plastic bottles that people want to build. So it's not a question of weather, but it's basically a question of how much?
+Cody Simms (29:39):
+Is that a markets problem where because there's been so much investment in fossil fuel infrastructure, it is basically cheaper to create virgin plastics than to recycle them? Or is there a policy subsidy thing here where we're overly subsidizing petrochemical production for virgin plastics and thus, are not allowing recycled plastics to be competitive, or what's-
+Adam Minter (30:01):
+Certainly, it depends-
+Cody Simms (30:03):
+Different kinds of plastic, right?
+Adam Minter (30:04):
+Different kinds of plastics, different countries, but there are times when recycled plastics are more expensive than the virgin variety. That happens more and more because there's a lot of competition out there for certain kinds of plastics. PET, think about clothing that you've seen that says it is made from recycled plastics or shoes made from recycled plastics, that's almost always PET. Well, the apparel manufacturer is competing for that PET with say, a bottle manufacturer. So that's one of the reasons you'll see recycled PET be more expensive because there is a market demand for it now. It's a moving target. As people demand more sustainable materials, hopefully, that becomes more and more of the case. It'll help boost recycling.
+Cody Simms (30:50):
+I was talking to an entrepreneur recently who works in the recycling space, and he was telling me that because of the housing market slow down, all of a sudden, I think it was PET commodity market took a crash because all of a sudden, there wasn't as much demand for new carpet, which is like, it's amazing to see how-
+Adam Minter (31:10):
+Right.
+Cody Simms (31:10):
+... these macro trends affect things.
+Adam Minter (31:13):
+I think this is a really important subject because I think a lot of your listeners, I give talks all over the country and all over the world, and one of the things that I've found over the years in doing that is people understandably view recycling as an environmental imperative, especially in rich countries, "We're doing this for the environment," but that's not why somebody in the recycling business does it. They do it because it's a raw material, and there's a market for that raw material. What I always tell people is, "Look, that valuable PET bottle that you put in your recycling bin, it's recycling, except if somebody doesn't want to make something new from it, in which case you've just put garbage in your recycling bin. If there's no market, it's garbage."
+(31:59):
+So sometimes the markets are good, and sometimes the markets are bad. What usually happens when the markets are bad is we start seeing big media organizations write articles like "Recycling is Dead," which drives me crazy because when the price of oil is down and gases at $2 a gallon or whatever it was at the low point during COVID, nobody was saying, "Oh, oil is dead." No, we knew the markets are down, but for some reason people get very emotional, and I get it, about recycling, and they have a hard time getting their mind around that, less so in emerging market countries where there's more of an understanding of what the economics of this are. But in the U.S. and Europe in particular, I find that mindset.
+Cody Simms (32:41):
+Wow. Yeah, it's a good point and a good reminder. Also, an interesting question that comes to mind, which is, boy, at some point, do we ever hit critical mass where the bulk of materials we create are from reused feedstocks as opposed to continuing to pull virgin chemicals, virgin metals out of the ground? Because at some point, my goodness, we're swimming in our own trash here.
+Adam Minter (33:07):
+I don't think so, but it would require some really remarkable technology upgrades. We haven't talked about paper yet, but recycled paper, there's a reason why you see it, a box will say, "Made from 60% recycled feed stock," or, "80% recycled feed stock." There's always virgin feed stock in there because you need it to bring the quality level up. When you recycle a piece of paper, every time you recycle it, the fibers get smaller. For Amazon, they're going to say, "Well, at some point that box is going to break because the fibers are so small, so let's mix some new fibers in there."
+(33:45):
+That pretty much is what happens with every material. I don't know how you make paper fibers longer after they've been shrunk down. I think it's basic thermodynamics that you can't, but no, but on the other hand, the good news is we use more recycling in this economy than most people realize. Half the steel used in the United States comes from recycled resources, and I think that that goes past people sometimes. For aluminum, I think in China, off the top of my head, I want to say it's 40%, and they're the world's largest manufacturer. So there is this really good news story in that sense-
+Cody Simms (34:22):
+Right.
+Adam Minter (34:22):
+... about using recycled material.
+Cody Simms (34:24):
+Well, Adam, I want to shift gears a little bit and talk about some of your recent reporting on Bloomberg, which there are a few things on there recently in circularity, but it looks like a lot of what you've been spending your time on of late is in the water and in the ag space. I'm curious how you shifted into that topic space.
+Adam Minter (34:46):
+Well, here's how journalism happens. At the beginning of COVID, the first day the global pandemic was declared, I was in the U.S. with my family. We were going to go back to our home in Malaysia, and we couldn't because the borders closed. So I'm from Minnesota, and we were in Arizona at the time, I said, "Well, we better go home to Minnesota, see whose basement we can live in for a couple of weeks while this pandemic thing works itself out and we can get back to Asia." Well, we know how all that went. So I was talking to my editors and they said, "Huh, you're in Minnesota, a lot of farms there." I said, "Yeah." It'd be really great if you did some stuff on ag." I was like, "Well, I'm here." So honestly, that's how it happened. I don't think I've ever told that story publicly before, but it's been great. It's been a natural for me because it's an environmental space. It's incredibly important to the climate question, and it's a raw material story as well, so I've-
+Cody Simms (35:46):
+Yeah, and a global commodity story too, right? So you hit all the same general themes, I guess.
+Adam Minter (35:51):
+Yeah. So it was a gift in a way. As I've spent more and more time in the U.S. and we're now going back and forth a little bit to Asia, I've continued doing this ag reporting. I had always done some food reporting in Asia, but it's become much more of an interest since I've been here.
+Cody Simms (36:06):
+Let's start with the water topic. You wrote a piece recently what was near and dear to my heart about how Kansas, which is where I grew up, is showing what a drier future looks like.
+Adam Minter (36:19):
+Yes.
+Cody Simms (36:19):
+Sure enough, there was a huge drought in Kansas over the last year. My dad was just talking to me the other day about how his entire backyard was dead and he was having to replant everything. Tell us more, what does a dry future look like?
+Adam Minter (36:37):
+Right. Well, the scary thing about Kansas is it's highly dependent upon groundwater, and especially western Kansas. In particular, northwest Kansas, that's the source of water. It's fairly dry, and the water source is something called the Ogallala Aquifer, which is very hard to say multiple times fast, Ogallala Aquifer. The Olagalla Aquifer has been used for agriculture for many years. People drilled wells into it. In the 1960s and '70s, they started doing irrigation that started pumping it at industrial rates, and lo and behold, it started falling and it's fallen precipitously.
+(37:16):
+Because it was already dry, it's very hard to recharge, and in a hotter, drier future, there will be even less recharging. So all of a sudden you have these western Kansas, northwest Kansas communities having to figure out, "How are we going to keep our towns, our farms, our way of life going without this source of groundwater?" These are not places where people spend a lot of time worrying about climate change from a political standpoint, just putting it out there bluntly. But everybody's practical and nobody's more practical than a farmer, and they are starting to adjust, the way they irrigate. You can never call irrigation sustainable necessarily, but they're certainly using much less water. But it's scary because ultimately, it's going away.
+Cody Simms (38:03):
+Was the aquifer typically recharged through annual rainfall and snow pack? Is that the basis of how it was explained?
+Adam Minter (38:11):
+No. The Ogallala, especially in northwest Kansas, and northwest Kansas is a huge area, but it's the source of an enormous amount of the nation's wheat product. To recharge the Ogallala Aquifer, it takes hundreds, sometimes thousands of years for water to seep through the sediments to get down there. So a big rain, a California style series of, what is it? Atmospheric rivers ain't going to do it. It just takes too long. When the settlers first arrived and colonized that area, the aquifer in some places was a few feet just below the soil. That's not the case anymore.
+Cody Simms (38:52):
+These were inland seas at one point, right? It was an ocean.
+Adam Minter (38:57):
+Yeah. Yes, they were. So I think when we talk about a drier future, there's a lot of focus on California and what's happened to groundwater there, especially in the Central Valley. There should be, because it's critically important agriculturally. But something absolutely similar in terms of the groundwater has been happening in northwest Kansas, and if people don't become better at using their water and also adjust with different kinds of crops and different kinds of methods of farming, it's going to be absolutely catastrophic to that farm economy.
+Cody Simms (39:26):
+What are the world's other big wheat producers, Russia's up there? It really starts to hit large geopolitical issues at that point.
+Adam Minter (39:35):
+Absolutely. It's funny, I talked to a lot of people in northwest Kansas for that piece, and they get it, like they get it. They'll tell you, they'll say, "The farmers that we work with aren't going to spend a lot of time worrying about climate change, but they will worry about their water supply," and they see it because they're drilling down further and further and further to get their water. It's reality. So that may be a place where we see some real climate innovation.
+Cody Simms (40:04):
+So this is rural Kansas where there's a clear issue that's happening. Then you also did a recent piece on Arizona, and I think it was more focused on urban Arizona and the growth engine of urban Arizona, and this one feels obvious to all of us, but it's clearly water constrained.
+Adam Minter (40:24):
+Absolutely.
+Cody Simms (40:24):
+Maybe explain a little bit more about what's happening in the Southwest.
+Adam Minter (40:27):
+Yeah, in many ways, it's the same issue, groundwater. A lot of people are thinking about the Colorado River, and the Colorado River is really important. Those aqueducts bring water in. But there are vast sections of the Desert Southwest that are highly reliant upon aquifers, and that includes the suburbs of Phoenix, Arizona. Arizona in the '70s was very forward-thinking about some of this stuff. They actually passed a law saying that you cannot build a subdivision if you don't have a 100-year supply of water, and it was great. It worked because people had groundwater, but more importantly, they had access to Colorado River water.
+(41:06):
+But as the suburbs of Phoenix grow out further and further, there aren't the aqueducts coming in there. They have to rely on the groundwater. In Arizona, the government has determined, and again, this is not a liberal government that runs the state there, they have determined there isn't 100 years of water to support these massive real estate developments. We're talking about hundreds of thousands of homes that have been planned for these areas, and they can't get the permits to build because there isn't the groundwater. If they want the water, they are going to have to do one of potentially a couple of things. One, potentially build aqueducts from the Colorado River, except as we all know, what Colorado River?
+Cody Simms (41:44):
+Right. Yeah.
+Adam Minter (41:44):
+Then the other option is buy water from farmers. Because of the way the very complicated treaties and everything that have gone on with allocating water in the Desert Southwest, much of the water goes to farmers. So now you have real estate developers buying up farmland and saying, "We can maybe move that water into our real estate developments." But the bottom line is, there's not enough water.
+Cody Simms (42:07):
+I know in California, you mentioned water rights. Water rights is such a complicated issue in California, and I know it's actually a relatively privatized thing in California where large farms, large, corporate farmers own the actual water rights and can control to where it can go, or if they can bank it. Each state is different, I'm guessing, in terms of regulation here. Is there any kind of federal water regulatory authority at all in the U.S.?
+Adam Minter (42:38):
+There is the Bureau of Reclamation, which is a great name, the Bureau of Reclamation, they have the authority over the waters of the Colorado, for example. They manage those waters, and so they are technically in a position to mandate, say, the farmers in the Imperial Valley down south in California, south of the view, you're going to have to give up X amount of your water allocation, and it's going to be used by Phoenix, Arizona, which needs water. They are very reluctant to do that. There's negotiations going on right now to see if it can be resolved. Imperial Valley's going to have to give up some water. But yes, it's very complicated politically. Congress could get involved. California, it's congressional delegations, they don't want to give up their water. Arizona says, "You're going to give up your water 'cause we're a growing city and you don't need it on these farms." The bottom line is, the Imperial Valley, you could say, "Oh, those greedy farmers," but they grow a massive amount of the winter greens that are consumed all over the United States. Giving up that water means potentially surging food prices.
+Cody Simms (43:47):
+Maybe need fewer hot desert summer-grown almonds and heavy water requiring plants, but certainly losing your leafy greens in the winter for the bulk of the country would not be a good thing.
+Adam Minter (44:01):
+Yeah, and the almonds, it's an issue. But if you talk to almond farmers, they'll also come back to you and say, "Look, these are in some ways highly-efficient plants because we can do multiple crops a year. Whereas, maybe corn, you can't do as many crops just to show."
+Cody Simms (44:16):
+Okay.
+Adam Minter (44:16):
+So it's really hard, and I'm always reluctant to... Whenever I hear there's a boogieman-
+Cody Simms (44:24):
+Yeah. Yep. Yep.
+Adam Minter (44:26):
+... on an issue, I don't care what it is, I really want to find out because I found it's usually more complicated than that. There's no easy solution and you pull up all the almond trees and plant broccoli, there's still going to be water shortages.
+Cody Simms (44:40):
+All right, but the biggest boogeyman I've heard of in the California water story are Chinese investors investing in alfalfa for cattle feed in the desert. I don't know-
+Adam Minter (44:52):
+Yeah, the Saudis do it as well-
+Cody Simms (44:57):
+The Saudis, okay, maybe it was the Saudis.
+Adam Minter (44:58):
+Yeah.
+Cody Simms (44:58):
+There we go.
+Adam Minter (45:01):
+The good news side of it is, alfalfa's a very efficient crop. You can grow lots and lots of alfalfa multiple times a year. So in that sense, it's very efficient. The flip side of it is, the point of the alfalfa is to feed beef cattle and other animals. So then you have to start thinking even more deeply about animal-based diets. That, to me, becomes the crux-
+Cody Simms (45:23):
+Is the boogeyman.
+Adam Minter (45:23):
+... of it. Yeah.
+Cody Simms (45:24):
+Okay.
+Adam Minter (45:25):
+So I don't know. If you stop growing alfalfa, it's going to grow somewhere else. You have an entire developing world that wants to eat more meat, so where are you going to grow the alfalfa? These are really hard questions.
+Cody Simms (45:42):
+All right, so super appreciate the dive into water and let's do a little bit more even deeper into ag. One of your most recent pieces is that the 2023 Farm Bill should be a climate bill. Explain that piece to us.
+Adam Minter (45:57):
+So right now, Congress is in the midst of negotiating and wrangling and making the sausage of the Farm Bill, which is this massive bill that governs America's farms and subsidy programs and nutrition programs, that's the biggest part of it, for five years. Traditionally, it's there to help farmers grow more food, give them the support that they need. The farmers, arguably, at least in terms of policy, haven't had to give much back. They give back food. What I've argued, and I'm not the only one, there's lots of groups saying this is, "Look, we have an opportunity here to help farmers become more climate positive," and that can take many, many forms.
+(46:36):
+It can take the form of requiring cover crops, which I'm guessing at some point you might have talked about on the show. Cover crops are just basically the idea that when you're not growing a regular crop, you grow plants on the ground and they sequester carbon and keep carbon in the soil because the soil is a source once it's broken up and cut up when you plow it, when you till it, a source of carbon. What if we give them incentives to do that, more incentives? So I argue in the piece, something like that. Cropping-
+Cody Simms (47:04):
+What's the counter argument to cover cropping?
+Adam Minter (47:08):
+I think the counter argument is really farmers are best suited to make the kinds of choices on their farms and not regulators. Having spent some time reporting in farm country, lots of farmers are voluntarily doing it. They aren't real big fans of being told to do something, even with light incentives. Now, if you start paying them to cover crop, which is one of the things that's been discussed, it might be a different story.
+Cody Simms (47:35):
+I assume they have heavy investments in the machinery that they use to till the land that they've been doing for decades and decades.
+Adam Minter (47:42):
+Right. There is the mechanical side of it. Other ways to make a climate-positive bill is right, now we have federal crop insurance, and federal crop insurance basically incentivizes cropping wherever you can. Some of these places that are being cropped maybe aren't appropriate for cropping, and they'd be better off left alone as natural habitats. Let's stop incentivizing insurance to actually crop these pieces of land. Something I don't think I brought up in that piece, there's something called precision agriculture where we're seeing more drones and more GPS used so you can micromanage a field, basically. "This 10-acre plot requires this kind of irrigation, or this kind of water or this kind..." More efficient agriculture is more climate-positive agriculture. I think all of these things can and should be subsidized in the bill so that we start thinking about agriculture not as something separate from climate if you aren't part of the world, but actually something that can help on climate.
+Cody Simms (48:42):
+You wrote a separate piece on crop insurance, outlining that it's actually making our food crisis worse. Can you share a little bit more there?
+Adam Minter (48:51):
+Yeah. Again, the way it's structured, it sometimes incentivizes farmers not to plant. The insurance is designed to reimburse them if a crop fails, but it's structured at times in ways, without getting into the complicated stuff around it, to actually encourage them not to plant. You can say maybe that's climate positive, "We'll fallow the land and let the carbon stay in there." But on the other hand, we're all seeing the surging food prices, some of that which is related to the Ukraine. I think policies which encourage them not to plant for those reasons are not good ones.
+Cody Simms (49:27):
+Well, as discussed, I grew up in Kansas, and I will say I grew up around Wichita, Kansas.
+Adam Minter (49:32):
+Okay.
+Cody Simms (49:32):
+Growing up, it was wheat, it was wheat. Then I would say by the time I was in my young adulthood, it was all corn. I assume that was during the biofuels boom of the 2000s when all of a sudden the government was essentially paying these farmers to not grow food but to grow fuel. Then today, it's almost all cotton in Kansas, which-
+Adam Minter (49:56):
+Right.
+Cody Simms (49:57):
+... there was no cotton in Kansas when I was a kid. Well, I don't remember seeing cotton in Kansas when I was a kid. Are these government incentive policies? Are these climate-induced changes to what grows in certain areas? What causes these vast shifts in what's planted where?
+Adam Minter (50:14):
+Yeah, yes to all. Sometimes government incentives help, sometimes markets change. There used to be much more wheat growing in the United States, including in Kansas, including in Indiana. I talked to somebody about that recently. The incentives changed. Suddenly, biofuels came in, and that's a very complicated issue from a climate perspective. But suddenly, there's an incentive to grow more corn in terms of climate. I did a piece, I was up in the Yukon of Canada in Whitehorse back in November, I think it was. Yukon Whitehorse is actually home to wheat farms now, which is incredible. Nobody was ever going to grow wheat up there. It's a very short growing season. They're growing other stuff up there.
+(50:58):
+Why? The climate has shifted enough where they can actually have enough of a growing season to make certain crops work. It's an extreme example because you're never going to see vast wheat farms up there. They're relatively small. The one I visited for the piece I think was 400 acres. That's 400 acres of wheat in the Yukon territory. It's unbelievable, and you can thank a shifting climate for doing that. You will see that if you go a little further south in Alberta, you're seeing the mix of crops change. If you talk to agricultural officials there, they'll tell you the climate shifted, and it's opened up possibilities for Alberta's farmers. So yes, that's going to drive some very significant changes in agriculture.
+Cody Simms (51:36):
+Well, I know we're going to wrap this conversation up pretty quickly. Let's go full circle on this and connect the China and climate angles together. So anything you want to share? For me, that's actually a topic I've been meaning to and wanting to go deep on on this podcast is the intersection of China and climate. China's the largest annual emitter of greenhouse gases today. In 90 seconds or whatever you want to use, explain a little bit about what the current climate policy landscape looks like in China.
+Adam Minter (52:10):
+It's complicated. How's that? On one hand, the Chinese government, it's a country of 1.2 billion people, a very competent central government and lots of local governments that do what they want to do. There's an amazing renewable drive there. They're building renewable energy like crazy, so crazy that they're building over capacity and sometimes not even building the power lines to connect it. At the same time, they're also expanding coal and other traditional fossil fuels. They feel that they need them as backup for all these renewable projects that don't have power lines sometimes and for other reasons. Then on top of that, and I think for me, the really positive thing is you see, again, the same thing you're seeing in the U.S. is you see this generational shift.
+(52:54):
+I think it's partly an emerging, more affluent middle class and a younger generation that's become much more environmentally sustainably minded. They are subtly and sometimes vocally pushing their government to act in more sustainable ways. It's really striking if you spend time on Chinese social media, which I do, the number of people talking just in the last few years more and more about sustainability more and more since COVID. I think that's positive because we don't often talk about it in the U.S., but the Chinese government is responsive, especially to its younger people as we saw at the end of COVID. So that's very optimistic to me. But the full answer is, a country that big, that complex, it's complicated.
+Cody Simms (53:32):
+I guess one thing that maybe people don't think about with China as it pertains to emissions is, China doesn't have a and endemic petrochemical industry. There's no oil industry in China, so there's not that entrenched interest there necessarily pulling them back toward fossil fuel production in any large way.
+Adam Minter (53:52):
+On the other hand, there is a very entrenched coal industry and vast parts of the North in particular are very... they're deeply rooted in the coal industry. That's extremely difficult to break that bond, and so that's the real challenge. Yeah.
+Cody Simms (54:08):
+Interesting. Interesting. Well, Adam, I'm so grateful for you spending time with us today. How should people follow you? It looked like you maybe have at least temporarily or maybe permanently signed off from Twitter? I'm not sure. I couldn't quite tell.
+Adam Minter (54:20):
+Yeah, I can't quite tell either. But a couple of weeks ago, I said, "I've had enough of this," and I haven't logged back on since. I'll leave it at that. But I'm pretty active on LinkedIn-
+Cody Simms (54:30):
+Okay.
+Adam Minter (54:31):
+... so that's the best way to connect with me. Then you just Google me, whatever I'm following or whatever I'm writing on Bloomberg usually shows up right there in the new section.
+Cody Simms (54:41):
+Well, hopefully, folks are inspired to pick up a copy of Junkyard Planet or of Secondhand. Adam, we really appreciate you joining us.
+Adam Minter (54:47):
+Thanks so much.
+Jason Jacobs (54:49):
+Thanks again for joining us on My Climate Journey Podcast.
+Cody Simms (54:53):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+Jason Jacobs (55:02):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. If you have a guest suggestion, let us know that via Twitter @MCJPod.
+Yin Lu (55:15):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ Venture Funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (55:25):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

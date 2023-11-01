@@ -1,0 +1,301 @@
+McGee Young is the founder and CEO of WattCarbon. 
+WattCarbon knows the hour-by-hour carbon intensity of the grid for every building in the USA, and it helps identify the real-time carbon savings of distributed energy resources, such as heat pumps, rooftop solar, and storage in commercial buildings. This empowers project developers to sell these carbon savings as building decarbonization credits to companies and organizations with net-zero commitments, helping to accelerate the adoption of these more efficient technologies and speed up the decarbonization of the built environment.
+McGee started his career as an associate professor of political science at Marquette University, where he studied the history of political action groups in America. This led him to learn more about environmental movements. As part of his classes, he started having his students hack their way into political action by pulling publicly available data, making sense of it, and publishing their findings. This led McGee down an entrepreneurial journey that eventually saw him leave academia and go all in on a climate tech career. Rather than spoiling any more of his story, listen to hear it directly from McGee himself. 
+Get connected: Cody Simms Twitter / LinkedInMcGee Young / WattCarbonMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on May 15, 2023.
+In this episode, we cover:
+[2:22] McGee's background in academia 
+[8:09] Early entrepreneurial pathways he explored with students 
+[11:45] McGee's transition to starting MeterHero and its evolution to STEMHero
+[16:45] His time at Open Energy Efficiency and MRV learnings 
+[20:09] The origins of WattCarbon 
+[25:22] Challenges with how we think about carbon accounting today 
+[26:42] An overview of WattCarbon's software solution 
+[30:43] The process for companies using carbon credits as part of their toolkit 
+[34:47] How WattCarbon works with new energy companies 
+[42:04] The role of the IRA in accelerating local regulations
+[44:39] Tenant implications for building owners 
+[46:34] WattCarbon's ideal customers 
+[47:57] The company's status today 
+[48:56] How listeners can get involved 
+[49:52] McGee's takeaways from the recent Clean Energy Buyers Association Summit
+Cody Simms (00:00):
+Today's guest on my Climate Journey startup series is McGee Young, founder and CEO of WattCarbon. WattCarbon knows the hour-by-hour carbon intensity of the grid for every building in the USA, and it helps identify the real-time carbon savings of distributed energy resources, such as heat pumps and rooftop solar and storage in commercial buildings. This empowers project developers to sell these carbon savings as building decarbonization credits to companies and organizations with net-zero commitments, helping to accelerate the adoption of these more efficient technologies and to speed up the decarbonization of the built environment.
+(00:41):
+McGee started his career as an associate professor of political science at Marquette University, where he studied the history of political action groups in America. This led him to learn more about environmental movements, and as part of his classes, he started having his students hack their way into political action by pulling publicly available data, making sense of it, and publishing their findings. This led McGee down an entrepreneurial journey that eventually saw him leave academia and go all in on a climate tech career. Rather than me spoil more of his story though, let's hear it directly from him. But first...
+(01:19):
+I'm Cody Sims.
+Yin Lu (01:20):
+I'm Yin Lu.
+Jason Jacobs (01:21):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+Yin Lu (01:28):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:33):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help.
+(01:46):
+With that, McGee, welcome to the show.
+McGee Young (01:49):
+Thanks, Cody. It's great to be here.
+Cody Simms (01:51):
+McGee, I want to hear all about your backstory and how you became a clean energy climate tech entrepreneur because I know a little bit about it, but when I was looking at your LinkedIn prior to today's conversation and scrolled down and saw your time as associate professor of political science at Marquette, and the only entry you have underneath that is the word hell. I'm going to leave it there and let you do some talking.
+McGee Young (02:22):
+Yeah. I might be sort of an OG My Climate Journey person before it was a thing. I went straight from undergrad to graduate school. I graduated from college a long time ago, right around the same time you did, I bet, where we had gotten the internet, the NCSA Mosaic browser in our computer lab, I think, somewhere around sophomore, junior year, and I was captivated by it. My roommate and I actually tried to start a business where we would provide internet access at the airport, which was next door to our college, and we're going to string over a ethernet cable across the way to... Everybody said, "What a dumb idea. Nobody would ever want to use the internet while they're waiting for a plane when there's a bookstore right there, where they could just go pick up a newspaper for 25 cents." That's a terrible business idea.
+(03:09):
+I had this inkling of, this is the kind of thing that I'm really excited about but no idea how to actually put that into practice, so I did the safe thing, which was to go get a PhD. I don't know if that was actually a safe thing or not, but it was the thing that I did. I wound up going through a grad program, got a job at Marquette University and loved it, at least a lot of it. Being an academic is fantastic in a lot of ways. There's elements of it though that are really challenging, and I think higher education itself has struggled to reinvent itself in the last decade or so. As you get promoted, I got tenure, you end up serving a lot of middle management functions, so you're on different kinds of university committees, and it kind of lost a little bit of that, the excitement and newness of it all, which was something that I was craving.
+(03:58):
+I started looking at other things that I was interested in. As a university professor, your options are somewhat limited in that regard, but I was able to be creative. My research had been on political entrepreneurs, so I was really interested in how the environmental movement in the United States evolved over the years from the early days with John Muir to the Sierra Club in the 50s and 60s under David Brower, to the more recent NRDC and some of the more recent organizations, and how political entrepreneurs catalyzed changes in the way policies were contested in the United States. It was a natural connection between political entrepreneurship and what we were building at Marquette, which was a social entrepreneurship program. As that started to come about, I got more and more involved in that and felt like that was where my heart was.
+Cody Simms (04:48):
+I have to interrupt you. I didn't realize that was your background topic area. Are there any books you want to recommend for folks who are listening, that are a good, fun read, charting the history of the environmental movement in America?
+McGee Young (05:02):
+Well, you should read my book.
+Cody Simms (05:04):
+Okay. What's your book?
+McGee Young (05:06):
+It's called Developing Interests: Organizational Change and the Politics of Advocacy. It's a mouthful. Honestly, the book that I read that really shaped my world was a book by a guy named Ted [inaudible 00:05:20], I think, is how you pronounce his last name, and it was on the history of the environmental movement in the US. It's such a rich and fascinating history. The Sierra Club was founded in the Bay Area, and they were mostly Republicans. In the early part of the century, it was the Republicans who were in the Teddy Roosevelt kind of genre of, "Hey, we need to preserve these wild [inaudible 00:05:46] for their own sake." It was kind of upper middle class.
+(05:49):
+These were the progressives in California, the patricians. It was only much later on that it became associated with the social movements of the 60s and the kind of more activist side. For anybody who's encountering this transition themselves, I would highly recommend just going back, and you can't really go wrong. You can read Silent Spring by Rachel Carson or read some of the original writings of John Muir from his time spent in the Sierras. All of it is captivating, and it really brings to life a lot of the reasons why we do the work that we do today.
+Cody Simms (06:22):
+Well, interestingly, I mean, even the climate movement today feels like has its origins in protectionism and is moving more into capitalistic entrepreneurial-based solutions. Even the Inflation Reduction Act is all around tax credits for entrepreneurial solutions, not necessarily about protections. So interesting to see history kind of repeat itself. I was a history major myself in college, so for what it's worth.
+McGee Young (06:50):
+I think it's environmentalism 3.0. The first wave was very much the Izaak Walton League and the Sierra Club, we're going to protect and preserve these natural lands. Then the second wave was the rise of the nonprofit, the sort of clickbait environmentalism, where it's very much about having as much controversy as possible and saying, "Wait, you're going to put a dam on the Grand Canyon? What? You're going to kill the whales? What?" Now we have this kind of new concept emerging around, actually how can we harness some of our ingenuity and innovation to create a better world for ourselves. It's very much more future-oriented, I think, now than it has ever been, and I think it's a pretty exciting new phase.
+Cody Simms (07:32):
+Well, maybe there's a future academic study for you to do there, McGee.
+McGee Young (07:36):
+Man, yeah. We'll solve one problem at a time.
+Cody Simms (07:42):
+I love it. Well, you're too busy building a business, so we'll let other people study the successes of your labors, I suppose.
+McGee Young (07:47):
+That's right.
+Cody Simms (07:48):
+Thanks for that slight detour, and I bet we could have a conversation about the changing movements in American attitudes toward the environment, I guess you could call it broadly. We could probably do a whole pod episode on that, which I would actually would love to do sometime. For now, I want to make sure we cover what you're building with WattCarbon. You were maybe mentally finishing up your time doing this professor gig, and it seems like you started to go down some entrepreneurial pathways while you were teaching. Maybe walk us through what that looked like.
+McGee Young (08:20):
+Yeah. I started to realize that there's this concept of experiential learning that I found a much more interesting way of teaching American politics courses than just out of a textbook. I had a lot of latitude as a professor to do whatever I wanted. I started about challenging my students in my classes to actually start projects, and projects became one class. We built a website called greenvoting.org, where we were trying to crowdsource how politicians stood on various issues. Then we did another one called Water Score, which we figured out we could do public records request of water utility records all across the United States and make a software platform that would allow anybody to type in their address and get their water utility records, which was crazy, and shut down immediately by the powers that be across these water districts because they realized that all of their information was basically public. This kind of notion that you could really empower people through technology, and that turned into actually intentionally starting companies within classes.
+Cody Simms (09:27):
+These were undergrads, or grad students?
+McGee Young (09:29):
+Mostly undergrads. Yeah.
+Cody Simms (09:30):
+Undergrads. Cool. Were they building software as part of this to build these businesses?
+McGee Young (09:36):
+Well, a lot of it was kind of like wizzywig software, where it's not real software, of course, but it's sort of like blogs and other kinds of content that was accessible to a student who didn't have a technical background.
+Cody Simms (09:48):
+Taking data that is there, but no one's bothered to do anything with it because it's sitting on some government website and is not formatted well and actually taking it, running it through an Excel table or a Google sheet or something, and then creating more public awareness of the results by blogging it or putting it on Facebook or LinkedIn or whatever you were using at the time.
+McGee Young (10:10):
+Exactly.
+Cody Simms (10:10):
+Wow, that's so cool.
+McGee Young (10:12):
+One year at the end of the semester, the local chamber of commerce or somebody was putting on a hackathon, and so I took some students down there, I said, "Hey, instead of a final, if you want to do this hackathon over the weekend, I'd give you credit for that instead of the final project." We met somebody who showed up for the hackathon who's just lived in Milwaukee and said, "Oh my God, I'd love to work on something like this." He was a software engineer, and so we built something. Then the Milwaukee Water Council, which was this kind of Civica's trade association, trying to build water technology capacity within the city of Milwaukee, said, "Hey, you know, should apply to our new accelerator that we are standing up and-"
+Cody Simms (10:53):
+BREW, right? The BREW Accelerator? Yeah.
+McGee Young (10:55):
+[inaudible 00:10:56].
+Cody Simms (10:56):
+I just met with those folks a week or two ago. Yeah.
+McGee Young (10:58):
+Yeah, so Dean Amhaus.
+Cody Simms (11:01):
+Oh, it's because you were at Marquette in Wisconsin, right? Yeah, you were right there. Okay. Awesome.
+McGee Young (11:06):
+H2Oscore was in the first batch of BREW Accelerator companies 10 years ago at this point. From that point on, I just never looked back. I tried to do both at the same time for a couple of years and realized that it's way too hard to start a company when you have a side job. Once I got tenure, I said I'd actually rather just be working on company stuff and not continue with my job. I went to my university president, I said, "I'd like to retire, please." He goes, "I don't think you can." I'm like, "Okay. Well, I guess I just quit then." That was that.
+Cody Simms (11:45):
+Wow. Oh, man. I have a lot of questions about that, and I could spoiler alert WattCarbon a little bit by saying that you took a lot of those same principles you were doing with your students of exposing data that's there, but no one's really fully accessing and building businesses or building exposure around it. That's the the kind of the core of your current company. Is it not?
+McGee Young (12:07):
+I've only ever had one idea, Cody. You basically kind of work around that kind of core thing that you're interested in, and I think that's what doing a startup is. It's like you're going after this thing that you have an idea about, but you don't exactly know how to crack it. You want to do it over and over again until you really get at the core of it, and then I think, at that point, you can do something hopefully pretty special.
+Cody Simms (12:33):
+I want to get there. But before we do, how did you go from A to B? So you say, "I quit," and the dean or whomever looks at you and sort of says, "Okay," and then what?
+McGee Young (12:45):
+You know you don't get this back, right? Once you give it up, you're done. They just didn't know how to even handle it. My wife, bless her heart, and our two little kids, we moved out here to the Bay Area, I had a second company at the time called MeterHero, and funny story was I sort of got a little bit too clever for my own good, and I had taken sabbatical to work on that and then went and quit. They said, "No, if you take sabbatical, you have to work for another year, or you have to pay us back for your sabbatical." I ended up commuting from San Francisco to Milwaukee for a year every week to teach the classes, and then come back here and work on that company again.
+Cody Simms (13:23):
+They let you own the company. The company was yours?
+McGee Young (13:26):
+Yes. Although they were changing the rules, this is part of the reason why I actually decided to leave, was that they had said, "There's no such thing anymore. There's no such concept and your contract as your own time. Anything you do, even if it's nights and weekends, belongs to us as the university." I found that deeply problematic and said, "Well, okay, how about I quit? I'm not ever going to sign that." That was part of pushing me out the door. Yeah. We ran MeterHero for a couple of years. It was one of those things where it's a good idea, but it doesn't quite hit all of the things that you want them-
+Cody Simms (14:02):
+This is the idea that if you live more efficiently, somehow you found people, organizations, whatever, that would basically reward you for saving energy or water off of your meter?
+McGee Young (14:14):
+Exactly, yeah. Again, a lot of the same concepts, right? If you can reduce your water and energy use, there are companies out there who have strong ESG goals that would love to use that as a way to communicate their own commitment to ESG to help to reward you. The frictions, there were things around access to data. We were doing this 10 years ago, so a lot of the things that we take for granted to now, like smart meters. Even the concept of measurement and verification was new to me, so I was sort of making up some really lame ways of calculating energy savings and water savings because I didn't know any better. The whole thing was just, it was too early in a lot of ways, both from a technical standpoint as well as my own ability to comprehend how one would do this successfully.
+(14:57):
+I think you have to fail at stuff a bunch to really understand how to hopefully be successful with it. What I love about that project though and that company was that I had a grad student who had worked on it with me all the way back to the first company, to H2Oscore, and he asked, as I was shutting it down, if he could... He had kind of built some educational software around it, and he called it STEMhero. The idea was that you could take high school, middle school students and teach them some basic concepts of data science by having them track their water energy use in their homes.
+(15:38):
+He's built that as a company that still exists today that works with kids all over the country and high school science teachers with a curriculum that helps them learn the basics of data science through tracking their own water and energy use in their homes and, remarkably, uncovers all sorts of problems, like leaky toilets and the whole thing. It's really rewarding to see even where you don't have your own personal success, where you think, "Okay. That company didn't succeed for me. It was a pathway to success for somebody else who's done quite well with it." It's sort of a nice moral to the story or whatever it is that there's always some outlet out there for a good idea that maybe you aren't the right person to be executing on that idea, but somebody else might be able to take it and [inaudible 00:16:28] be quite successful.
+Cody Simms (16:29):
+I can tell you how many times I'm walking my dogs or whatever and I see a neighbor who has a sprinkler head that's just broken, and their timer's going off, they're not home or whatever, the water's shooting straight up in the air like a geyser, and you wonder how long that's been happening. Certainly they're going to feel that in their water bill, right?
+McGee Young (16:45):
+Totally. And it's empowering for kids to be able to go home to their parents and say, "Hey, I can save us money on our bills." That's a really nice thing.
+Cody Simms (16:54):
+You did this, and then I guess you went and kind of took a gig somewhere at Open Energy Efficiency. You actually said, "Okay. I am now a tech person. I'm going to go join a tech company."
+McGee Young (17:08):
+That's right. I had met Matt Golden while I was doing MeterHero, and he said, "You're doing measurement and verification wrong. I said, "I know. I don't know how to do it." I'm like, "You're absolutely right." I love challenges like that, where you have no idea how to do something. There's a right way of doing it, and you get a chance to just dive deep into that. At Open Energy efficiency, we were thinking about a lot of the same issues. How can you create markets around, in that case, energy efficiency, savings. One of the big challenges that we face personally was that there's a thousand ways of making these calculations, and they're all kind of right in some way, but our market doesn't work very well if everybody's making their own calculation. Can you standardize that in some way?
+(17:55):
+I spent five years there, building a protocol called CalTRACK, an open source software that we call the OpenEEMeter that standardized a methodology for calculating energy savings, and then developed a new methodology for using smart meter data to calculate energy savings on an hourly basis. What had been a calculation that was an annual number, you might save a thousand kilowatt-hours this year could now be made at an hourly granular level, so we know that you save six kilowatt-hours at 2:00. That has real importance for thinking about buildings as grid assets.
+(18:36):
+As we think about there are times a day in which the grid is really stressed when we have to use particularly polluting power plants, for example, to supply power, if we could target our energy efficiency savings to those times of the day, would be much more valuable than saving energy when the grid's pretty clean or where there's low demand on the grid. That was really kind of revolutionary for me and for the way that I thought about this problem space, and it actually kind of transformed a lot of what we do in California, generally as a state, to try to harness demand side energy resources in pursuit of our broader decarbonization policies. I think that was a really kind of important five years in my life to level up my own understanding of how to go about solving some of these core problems.
+Cody Simms (19:22):
+You joined as head of product and I think moved into a CTO role at that company, right? You were helping to lay out the architecture of how to solve these problems, not just sort of saying, "Hey, we should go solve these problems."
+McGee Young (19:35):
+Probably the worst qualified CTO this side of... I don't know where, but it's interesting because with a political science background, a lot of the methodologies that we use are regression analysis, so statistical analysis, and that's what I had some training in, and a lot of it is policy. You have this interesting intersection of stats, of software, and of policy that really felt like a comfort zone for me and certainly was an amazing body of work that, collectively, we were able to deliver during my time at Recurve, and they're still doing quite well with.
+Cody Simms (20:09):
+Then somewhere along the way, you had this insight that, "Hey, if this is an energy problem, it's also a carbon problem." Not only can you or should you track what your energy consumption looks like on an hourly basis, but you could also track the emissions from the grid that you are pulling from on basically a near real-time basis, which I believe was the nugget of insight that led to what carbon. Is that a correct mental leap I'm making here? If so, maybe then explain what carbon is.
+McGee Young (20:41):
+Yeah. Definitely that's a huge part of it, but I think it's even more sort of fundamental is that I'm an early adopter. I have solar panels, a battery, two EVs, a heat [inaudible 00:20:54] insulation. I've done all of the things, and I had this question of, "How am I doing?" We want to know. We put all this work into trying to decarbonize and try to do the right thing, and at a certain level... I subscribe to my deep green CCA plan for a hundred percent renewable energy. I checked all of the boxes, but there was something still, at the end of the day, that I felt I was being untrue about. It went back to the work that we were doing at Recurve, where we would identify the time of day in which the energy cost was highest.
+Cody Simms (21:31):
+We didn't touch this, but Open Energy Efficiency became Recurve, right? Same company?
+McGee Young (21:36):
+[inaudible 00:21:35]. Yeah. We rebranded there along the way. In California, there's a credit that you get for reducing your energy use that's attributable to greenhouse, so you get a greenhouse gas emission reduction credit. That's the same amount every hour of the day. It struck me that that was false, that if I'm saving energy, like right now, and it's perfectly sunny out, that's going to have a different GHG impact less, in fact, of a GHG impact than if I save energy later tonight or overnight.
+Cody Simms (22:04):
+That also is really different depending on where you are in the country, right? California, clean during the day, less so at night. Texas, you got a lot of wind, and so Texas, you actually have a lot of clean energy at night and a lot of natural gas I think powering during the day in many cases.
+McGee Young (22:21):
+My PG&E bill gave me the cheapest energy in the middle of the night, and I was paying double that during the middle of the day, even though presumably the grid was a lot cleaner during the middle of the day as when I should be incentivized to use energy. On an annual basis, it looked like I was net-zero because I produced more with my solar panels than I use in general. But I knew that I was sort of lying to myself because my solar panels are overproducing in the middle of the day when the grid's clean.
+Cody Simms (22:53):
+Yeah. Even net meter in California is a 24-hour lookback, right? It's not an hour-by-hour lookback. Is that correct?
+McGee Young (22:59):
+You get it on an hour-by-hour basis. Yeah. They'll tell you each hour of the day, and so I know for a fact that my electricity overproduction happen.
+Cody Simms (23:09):
+Oh, I see. You get it for the electricity side, but no one's accounting for it on the carbon side.
+McGee Young (23:13):
+On the carbon side. Right. The carbon looks like an annual number still. It's like, "What's the carbon emissions' average for California, and what's your total energy for the year?" I started looking at this, and this is how most corporations report their carbon emissions is this annual number, and this is how the state of California thinks about its carbon emissions. If this is the most important thing... Think about it this way, if we decarbonize buildings, we eliminate 40% of annual GHG emissions. That's enough to get us to the goals of the Paris Accords, right? That's massive, but we're doing that without any real visibility into whether or not the actions that we're taking are working or not. Just like in Energy Efficiency where we had been doing these annual numbers, and then we switched to hourly. With carbon, we've been doing annual numbers, but as soon as we switch to hourly, it totally changes the tools that we have available to us to actually make a difference with our buildings.
+Yin Lu (24:21):
+Hey, everyone. I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(24:47):
+Some awesome initiatives have come out of the community, a number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made, as well as ongoing events and programming, like monthly women climate meetups, idea jam sessions for early stage founders, climate book club, art workshops, and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the member's tab at the top. Thanks and enjoy the rest of the show.
+Cody Simms (25:22):
+I'm going to put this in startup accounting language. Let's say you're running a business and you've got a negative burn rate, and you have X amount of cash in the bank, and you know that by October you've got a bunch of contracts they're going to hit. You've got a bunch of accounts receivable that's going to come in, and you're going to get a bunch of cash coming in October. You look at your annual budget for 2023, and at the bottom you've got an excess of $300,000 cash in the bank, and you're going, "Woo hoo." But what you didn't know was if you would've looked at it on a monthly basis, in May, you went cash negative, your bank accounts went negative, and you're out of business because you can't make payroll. That's what I'm hearing you say in terms of how we're thinking about carbon accounting today.
+McGee Young (26:04):
+Another example is when you're looking at a company to invest in, you ask them for their financials, and you're expecting something like a P&L. If they gave you their annual bank account balance and said, "Aha, here's our performance for the last three years. Two years ago, we had 300,000 in the bank. Last year, we had 400,000 in the bank, and this year we have 500,000 in the bank." We're growing, right? It doesn't tell you anything. We don't know what's driving that, and that's the problem. It's like we don't know what's actually driving our carbon emissions if we're looking at it at that gross level.
+Cody Simms (26:38):
+Yep, makes sense. So, what did you decide to do about it?
+McGee Young (26:42):
+Well, same playbook as I've had for the last 10 years because it's not that complicated. We know what we need to do to decarbonize buildings. It's 24/7 carbon-free energy on every grid. It's electrifying all of our loads, and it's a grid connected smart device in every building. So, how do we get there? The first thing we need is visibility into what's actually happening. That means that sort of hourly level carbon accounting for every building, every grid, at least across the United States, but obviously we need to do this globally too, is kind of table stakes for being able to do this effectively.
+(27:16):
+That means joining building level data, meter data, with grid level carbon emissions data. That's not a natural join, so there's kind of different data sets that you might plug into. Fortunately, and this was kind of a lucky break for us, that the US government, the EIA, the Energy Information agency has made it a point to publish the hourly carbon emissions intensity for every grid in the United States on a daily basis. You can actually go anywhere in the country. Now there's a bunch of work to do because those are Excel spreadsheet files that get updated daily. You have to do lat long matching to find the address from your building to the right grid that it belongs to and a few other things.
+Cody Simms (27:58):
+McGee, I love that the Google Maps mashup business is your playbook, and just you keep doing it. It's awesome.
+McGee Young (28:05):
+Totally. Look for easy ways of getting at this information, it doesn't need to be hard, and then build software tools around that to make it easy for people to accept. Right now we could find out what the hourly emissions intensity of your grid is and how much energy you're using in your home and get that answer. We could do that for any building in the United States in real-time on demand. That's really important table stakes for doing this at all. From there, what do you do with that? What do you do with that information? My favorite quote... It freaks out venture capitalists every time I say this out loud, but it comes from Karl Marx. I'm a political scientist, but a good old lefty Marxist back in the day. On his tombstone, he's buried in London, it says, "The job of philosophers has always been to interpret the world. The point, however, is to change it."
+(28:56):
+This is how I think about things, right? It's like we can get this data, we can understand what's going on, but if that's all we do, we're missing the point. So, how do we actually change the world? The work that we did at Recurve, and that I had done a little bit with MeterHero prior to that, is to think about how can we turn this into a market. Can we have a market for the environmental attributes associated with a decarbonization project? If we can transact that, if that's valued as a thing in and of itself, that can be what drives... It's going to take somewhere between 10 and 100 trillion of new capital to decarbonize buildings in North America. So, how do we unlock that capital that's necessary to achieve that goal while by making the environmental attribute itself valuable?
+(29:41):
+Companies all around the world right now are buying carbon offsets from nature projects or from any number of direct air capture, but they're ignoring the elephant in the room, which is that there's a specific place that these emissions are coming from that we could decarbonize without a ton of work. It doesn't require any new technology or anything really to decarbonize buildings. We just need to put the capital there. Instead of buying carbon offsets from trees, buy carbon offsets from building decarbonization projects, and you kill two birds with one stone. Maybe not a great metaphor, but you solve two problems at once. You mitigate your own emissions as a conscientious inhabitant of the Earth, and you stop emissions from happening. Instead of closing the barn doors after the horses have escaped, you actually keep the emissions from happening in the first place, which is a far more powerful approach to addressing climate change.
+Cody Simms (30:34):
+Yeah. It's a proactive as opposed to an avoidance. I mean, it is an avoidance, but it's avoidance before the emissions are up there.
+McGee Young (30:42):
+Exactly.
+Cody Simms (30:43):
+Help me understand the state of that today. Today, there are a number of companies out there building electrification, and they are today able or unable to utilize carbon credits as part of their toolkit.
+McGee Young (30:59):
+Generally unable, and not for the lack of trying. Maybe I won't name any specific names, but we hear stories about going to Verra or Gold Standard or these carbon registries.
+Cody Simms (31:11):
+These are companies that are helping buildings install heat pumps, put on solar panels, do window retrofits. You name your building decarbonization sort of toolkit of choice, right?
+McGee Young (31:23):
+Verra tells them, first of all, to get in line, it's going to be a couple of years, and to pay them a lot of money to certify the carbon offsets from a project. These projects are-
+Cody Simms (31:35):
+On a project-by-project basis.
+McGee Young (31:37):
+Project, yeah. It just doesn't work for the built environment. These are nature scientists, so they're not experts in measurement and verification of energy, for example. Their concepts are sort of awkwardly imposed on the built environment. Today, if you're a decarbonization company that's out there doing these projects, you have basically two kind of value propositions. One is that you might save money on somebody's bills, although that's not always true if it's an electrification project. Sometimes the bills go up. Or, number two is you might be able to arbitrage energy markets. A company that does demand response, for example, might be able to bid into an energy market to get paid for that, but you're getting paid in both cases on the fossil fuel value of your energy and not the clean energy value of your energy.
+(32:35):
+If we're going to value clean energy in and of itself, we need a way to be able to calculate that and turn that into itself a tradable instrument. Similar to how we've done with solar and wind, where there's wrecks associated with that. That's the environmental attribute associated with the production of clean energy. But today is limited to that world of wind and solar production, when really we should be thinking about distributed energy resources, buildings, heat pumps, batteries, solar panels, all of the things that constitute our consumption of energy as connected together as part of the holistic solution for decarbonizing a grid. The environmental attributes from acting on any of those should be available to us to transact around.
+Cody Simms (33:22):
+The heat pump isn't a producer of energy, right? A heat pump is a more granularly controllable consumer of energy and one that uses a lot less energy than and presumably no fossil energy relative to your traditional HVAC, for example.
+McGee Young (33:37):
+Yeah, true. If you had a gas furnace that was combusting natural gas or fuel oil in many cases, and so you switch to a heat pump, you're avoiding the emissions associated with a traditional natural gas. Now you've got some emissions that you're newly having to attribute to because you're using electricity from the grid. That's a thing that you have to account for. As you do the measurement and verification of these projects, not only do you get credit for the replacement of what was there before, but you also in some cases have to account for the increase, just like electric vehicle charging, for example, or you can think of lots of other examples.
+(34:18):
+I think that's part of the richness of what we're trying to uncover here is that it doesn't need to be confusing or black box or whatever. These are actual noble values that it's fairly easy to account for. If we do so in an open and transparent and auditable way, it gives us tremendous leverage to go out and do these projects, not just on a one-off basis but at scale because we're confident that we're getting the value out of it that we're expecting.
+Cody Simms (34:47):
+I see on your website, you're working with a number of the... I will call them new energy retailers or sort of companies that are helping to manage these demand response type of use cases. How do you work with those types of companies in this environment?
+McGee Young (35:03):
+They're sort of the critical piece. Part of the reason for that, this is one of the things that's different from MeterHero versus today that I owe my time at Recurve and a lot of credit for, which is the importance of what we would call the project developer, the company that's doing the work. If I came to you, Cody, and I said, "Hey, I've got some free money for you if you put in a heat pump," you're going to be like, "Cool, sign me up. I've drunk the Kool-Aid, I'm into it," but it's also likely the fact that you would do it anyway. When you approach the individual with an offer, you're going to end up with a self-selection bias where you get basically free ridership.
+(35:40):
+This is a big problem with rebate programs, generally. The better way of approaching it is to not approach you but to approach your HVAC contractor and to say, "Hey, there's some free money here if you can convince Cody and all of the rest of your customers to not put in a natural gas furnace but to put in a heat pump instead." Now, the primary barrier that we have to electrification generally is the reticence of our contractors to go out and do the extra work required to put in these new types of equipment. By pointing the incentive at them for the amount of carbon that they're able to reduce, all of a sudden it aligns the incentives generally so that they're going to you and saying, "Hey, you don't want to do that gas furnace. You want to do one of these heat pumps because I'm getting paid a little extra for that."
+(36:29):
+The person who's funding this, who's looking for a way to mitigate your emissions, is not just funding people who would've already done it otherwise but, in fact, are funding the people who would be least likely to do it because that contractor now is going on and seeking the people who would otherwise be doing natural gas and trying to get them to do the heat pump instead. These new energy companies are part of that vanguard of transitioning the entire market. Ideally, as they become more successful, they have the nicest trucks and the best-trained staff and the best customer experience because they're able to be rewarded financially for the environmental benefits of the work that they're doing.
+Cody Simms (37:11):
+Because they make money when the grid uses less energy. They have brokered to other places, and they're taking a cut over that so that the more of that efficient use of these distributed energy resources that exists, the richer these companies become, and it enables their lead gen engine to go fund more folks at the front end to switch over to distributed energy resources from traditional fossil fuel-based building resources. Is that the network effect here that you're tapping into?
+McGee Young (37:43):
+The virtuous cycle, absolutely.
+Cody Simms (37:45):
+Then you are then out there helping these projects to go in because you can allow them to claim a carbon credit for the hourly-based carbon savings that these projects are resulting in. Yes?
+McGee Young (38:02):
+That's right. If you take even something as simple as demand response, a company like LEAP, for example, that we work with, they're typically bidding into the market only when the price of electricity gets high enough. There's a lot of times on a regular day when the evening hits and we fire up our gas peaker plants, but it never gets quite expensive enough to justify demand response being called. That's still really dirty. Fossil fuel power that's being used every night of the... The utilities are fine with it, the grid operator is fine with it, everybody is fine with it, except for the planet.
+(38:41):
+What we're saying to LEAP is like, "Hey, there's a little bit of an extra incentive here for bidding in and come in at a lower price." Instead of at $100 a megawatt hour, maybe we can bid in at $70 a megawatt hour. Now we double the amount of time that demand response can participate in the market because that clearing price required for it to participate is now lower than it would've been, and we're able to compete more directly against fossil fuels. Not just on the basis of the energy price but also on the value of the emissions reduction associated with that.
+Cody Simms (39:13):
+This is the theoretical impact you're able to have, or you're able to do this now? Because you said the credits don't yet exist, but you're working to make them able to exist?
+McGee Young (39:21):
+They are able to exist now. We're actually doing this now, and LEAP is one of our early participants in this.
+Cody Simms (39:29):
+Who's on the other end of those... I mean, you don't have to say the specific names, but what kind of orgs are on the other end of those credits, then buying essentially the avoided emissions credit in this case?
+McGee Young (39:41):
+Any organization that has a net-zero goal is a good candidate to buy this. If you're buying carbon offsets today, say, from tree projects and you're going, "I don't really know how much of an impact that's having. I'd like to have more direct impact to my community or more transparent measurement verification around that." What we're doing is a alternative to the traditional carbon credits that organizations typically buy today. Our community are those who care deeply about building decarbonization.
+Cody Simms (40:14):
+Yeah, makes sense.
+McGee Young (40:15):
+[inaudible 00:40:15] care about buildings, you probably don't care about what we're doing, whether it's-
+Cody Simms (40:17):
+Property management companies, large retailers, folks like that most likely, I'm guessing.
+McGee Young (40:23):
+Yep. All the building nerds out there who go, "Yes, we want to do more of this." That's the purpose.
+Cody Simms (40:28):
+They can come to you today, you can issue them credits. This isn't going through Verra like you are the credit supplier of these credits today and the verifier, I'm guessing, you can issue them these credits that they can buy where they can take an offset, essentially, or a credit for some other building being incentivized to switch to a heat pump or a distributed energy resource, and you're accounting on an hourly basis for the net savings from a carbon perspective. That credit is going to this credit buyer, which then, I'm guessing, on the project side helps defray the installation costs of the equipment in the first place. Yes?
+McGee Young (41:07):
+Exactly. These credits are being bought ahead of time so that the project developer can go to the customer with a lower priced offer.
+Cody Simms (41:18):
+Instead of 200 grand for this industrial heat pump installation, it's 125 grand, for example.
+McGee Young (41:23):
+Exactly.
+Cody Simms (41:23):
+I don't know if those prices are anywhere or the right ballpark.
+McGee Young (41:26):
+This meets the criteria of additionality, which is really important in the carbon offset world, is you don't want to be funding projects that would've happened otherwise. If they've already happened, by definition, they would've happened otherwise. These are trying to identify those projects that just need that little extra bit to get them across the finish line, to make it pencil out, to meet that ROI need. Then, again, on the margins being able to double the volume of demand response of electrification, of renewable energy development that's going in the ground because our pricing looks just a little bit better than it did before.
+Cody Simms (42:04):
+We've talked a lot on this show about regulations in New York, like Local Law 97, that are starting to penalize building owners for their carbon footprints. Are you seeing certain geos where regulatory environments are accelerating demand for these types of solutions?
+McGee Young (42:22):
+I think the accelerant from the IRA is probably more impactful thus far vis-a-vis the sticks that are out there.
+Cody Simms (42:30):
+So, carrot versus stick. Interesting.
+McGee Young (42:32):
+Yeah. In New York, a lot of the property management companies are looking at how to get around the fines that they're facing as opposed to doing the hard work that needs to happen. One of the, I think, key insights here that everybody should take away is that buildings are complicated. These projects are hard, they're expensive, and capital budgets are constrained. When we're going at these one at a time, where I have to take responsibility for my project and my building, it's a very inefficient use of capital that way. This is where I'm a big fan of concepts like cap and trade, for example. You could take one building in downtown Manhattan, for example, that's really hard to decarbonize and say to it, "Well, you could pay that $260 a ton penalty, or you could pay, say, $200 a ton and decarbonize 50 buildings elsewhere in New York City and improve the quality of the building, the efficiency of the building, lower the bills for the customers in those buildings."
+(43:38):
+We like to think about this in terms of kind of like the Dutch did. If you think about the origins of the stock market, the Dutch East India Company socialized a lot of the risks of going out and exploring the world, bringing back stolen stuff from the far-flung corners of the world rather than funding individual expeditions. The Dutch said, "Hey, we're going to do this collectively, some ships are going to sink and some are going to come back loaded and whatnot, and we'll divvy up the benefits." Today, we spend a lot of time focusing on decarbonizing individual buildings and underwriting individual specific projects. A more efficient use of our capital is to deploy it broadly across portfolios of [inaudible 00:44:21] and try to find the lowest hanging fruit first. We're in a race right now against global warming, and so the faster that we can deploy this stuff, maybe not hitting the giant skyscraper first because that one's going to be really hard, but hitting 50 other buildings might actually be a better way of going about and doing this.
+Cody Simms (44:39):
+I assume also in the commercial building space, one of the things that's maybe unspoken for any of us who don't work in commercial real estate is the fact that these buildings are generating profit from tenants, from rent. If you're decarbonizing your house, you can choose when you want to do your project to flip out your heat pump, and it'll be inconvenient for a week or two while your house is under construction, but it's your choice. If you're operating a building that has thousands and thousands of tenants, and those tenants themselves are other companies and small businesses and whatnot, you can't necessarily just decide to swap out the HVAC of a building whenever you want to. I think your point about, "Hey, maybe you can't decarbonize your own building today, but you can get credit for helping to support the decarbonization of others," also presumably factors into that timing issue with respect to when a building is occupied or not.
+McGee Young (45:31):
+Exactly. We call this one click to net-zero. Every single organization should be able to be net-zero today. Now it doesn't mean that you don't have emissions anymore and that you don't have to get rid of those emissions at some point. As long as you are net-zero, you're kind of paying a tax, self-imposed tax for your emissions, but that "tax money" is going directly into decarbonizing other buildings at the same pace as your emissions themselves, so you have that mitigation factor. That, to me, is respectful of the fact that there are these capital cycles. In large commercial buildings, it's very disruptive to go and to decarbonize them, but there's a lot of low hanging fruit out there that we could be tackling today. A lot of it is in disadvantaged communities that don't have their own resources, that don't have the capital available to do the work. If we can marshal some of that, even if it comes at the expense of decarbonizing a downtown skyscraper right away, the positive impact that we can have in these other neighboring communities can be equally or greater than that.
+Cody Simms (46:34):
+For you, I would guess, the ideal customer type would be head of sustainability, someone who has some budgetary control over that organization's net-zero roadmap and can choose or heavily influence where the company decides to deploy investment capital into hitting net-zero. Making that choice of, "Do I invest in my owned and operated building portfolio, or do I invest outside of my portfolio for now until my portfolio can be ready to absorb that change."
+McGee Young (47:07):
+Exactly. One of the great things about that is some of the storytelling that comes along with it. When you have your ESG report and you talk about what have you done to be able to point to the local community and say, "Hey, we helped to fund solar panels and storage in this neighborhood," or, "Hey, we helped to install heat pumps in this neighborhood," these are real impacts in real communities that I was... that double bottom line as it were of it, really is part of what we're doing. We're trying to create a better world for ourselves and for our children, a more equitable world, a more just world, and environmentally speaking, a more sustainable world. Thinking about this, not just in terms of the energy benefits, but in terms of the broader social and environmental impacts of the work really does kind of resonate within that broader concept of what ESG really should stand for.
+Cody Simms (47:57):
+Well, McGee, thanks for explaining all of that and helping me understand more about what you're building at WattCarbon and how it fits into the bigger picture here. Where are you today? I think you all have recently raised some financing. Maybe share a bit more about the history of the company itself.
+McGee Young (48:13):
+We're coming on two years old now. We'll be two years old in August. We've raised a couple of rounds of capital, pre-seed and a seed round. The most recent seed round, we closed in November, led by Crew Ventures, which is an amazing venture capital firm, as well as a number of great climate specific investors, Greensoil PropTech Ventures, Tommy Leep at JetStream, Anne Dwane at Village Global has been there from the very beginning. Adam Besvinick at Looking Glass. There's this amazing ecosystem of investors and investment companies that are helping people like me realize these visions. We're really excited to be part of that and really look forward to the coming years ahead.
+Cody Simms (48:53):
+Where do you need help for folks who are listening?
+McGee Young (48:56):
+It's not really about us. The way that we think about this is that we're providing tools to help people save the planet. What we want are for people to continue to do what they're doing, to put the time and energy into understanding their own carbon footprints, to understand ways of mitigating it. If the built environment, building decarbonization is a thing for you, we are the place for you to get involved and to be excited about that work and to help you do that work better. We'd love to just talk and collaborate with folks who are in this space. It's going to take a lot of us. Again, it's 40% of annual carbon emissions, and so it's not going to be a quick and easy thing, but if we can do it, if we can do it right, if we can do it effectively, we really can make a big dent in the climate change arc that's now awaiting us.
+Cody Simms (49:42):
+I have one other question for you which I forgot to ask, which is you told me you spent the last week at the Clean Energy Buyers Association. What did you learn? What were the big takeaways? What was being discussed right now?
+McGee Young (49:52):
+What I was surprised by was how many people are still kind of just dipping their toes into this world? You and I live this day-in and day-out, so we sort of take for granted a lot of the terms. We hosted a little bit of a discussion section, and folks were kind of coming in just going, "Hey, we're new to all this. We don't really know how to get started," but our organization has made a commitment. Me and my team of three or team of one has been deputized to go out and figure it out, and they don't know really where to start. I think, to me, it was exciting, but also it was a good reminder that we can't get too far ahead of ourselves. We can't get too far over our own skis. We can't be too sophisticated too quickly for the folks that are just entering their climate journey themselves.
+(50:42):
+I saw a couple of instances of people talking down to some of the new people and be, "Oh, you're using the wrong word, so you're not net-zero. You're like net whatever." I think that they're trying. They're showing up and they've raised their hand, they've volunteered, and they want to be part of the positive difference in the world. For us who've been in this for a while, who maybe have some deeper understanding, it's the worst possible thing we can do to be above them and to talk past them. Really, we need to meet them where they are because those are the people that are going to be critical to winning this fight.
+Cody Simms (51:19):
+That's such a good reminder. Well, McGee, I'm so grateful for you to come on today, having shared more about what you're building at WattCarbon. Best of luck to you, and thanks for doing all the work you're doing.
+McGee Young (51:28):
+Thanks, Cody. Really appreciate it.
+Jason Jacobs (51:30):
+Thanks again for joining us on the My Climate Journey podcast.
+Cody Simms (51:34):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+Jason Jacobs (51:43):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. If you have a guest suggestion, let us know that via Twitter @mcjpod.
+Yin Lu (51:56):
+For weekly climate op-eds jobs, community events, and investment announcements from our MCJ Venture Funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (52:06):
+Thanks and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

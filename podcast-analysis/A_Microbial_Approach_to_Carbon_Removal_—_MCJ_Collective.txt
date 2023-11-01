@@ -1,0 +1,258 @@
+Gonzalo Fuenzalida-Meriz is the CEO and co-founder of Andes, a startup that employs microorganisms to tackle CO2 removal. Specifically, they introduce microorganisms into soil alongside agricultural seeds. As these microorganisms grow with plant roots, they expedite the transformation of CO2 into minerals, which contributes to soil inorganic carbon.
+The MCJ pod has featured startups exploring methods to amend soil for carbon removal, including biochar and enhanced rock weathering. It’s intriguing to hear how Andes utilizes microorganisms to achieve a similar result.
+Gonzalo and Cody delve into the company's origins, revealing their initial focus on enhancing crop resiliency, and their transition to carbon removal. Beyond the concept of microbial carbon mineralization, Andes also harnesses a different microorganism, one they genetically modify, to increase corn's ability to affix nitrogen into the soil and thus reduce the need for synthetic fertilizers. There's a lot to unpack in this one.
+Get connected: Gonzalo Fuenzalida-Meriz LinkedInCody Simms LinkedIn / XMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on Aug 29, 2023 (Published on Sep 7, 2023)
+In this episode, we cover:
+[02:08]: An overview of Andes and its origins
+[05:45]: Current challenges in crop resiliency
+[07:52]: Natural history of microbes and their relation to plants and humans
+[12:37]: Andes' two programs: microbes for nitrogen and CO2 capture
+[15:22]: In-depth look at Andes' nitrogen program
+[20:41]: Andes' second program and overview of organic carbon
+[24:57]: Soil inorganic carbon and the role of lime in farming and carbon capture
+[29:25]: How Andes' solutions are applied on farms and economics of business model
+[34:54]: Andes' Microbial Carbon Mineralization (MCM) methodology and potential for carbon credits
+[39:49]: How Gonzalo thinks about scaling and fundraising
+[43:48]: His advice for entrepreneurs looking for opportunities in this space
+Cody Simms (00:00):
+On today's episode of My Climate Journey, we're featuring Andes, a startup led by CEO and co-founder, Gonzalo Fuenzalida-Meriz. Andes employs microorganisms to tackle CO2 removal. Specifically, they introduce microorganisms into soil alongside agricultural seeds. As these microorganisms grow with plant roots, they aim to expedite the transformation of CO2 into minerals, which contributes to soil inorganic carbon.
+(00:35):
+Our journey has led us to various startups exploring methods to amend soil for carbon removal, including biochar and enhanced rock weathering with basalt rock. I was super intrigued to hear how Andes utilizes microorganisms to achieve a similar result. Interestingly, carbon removal wasn't part of Andes original mission. Gonzalo and I delve into the company's origins revealing their initial focus on enhancing crop resiliency. The transition to carbon removal came later. Also, beyond the concept of microbial carbon mineralization, Andes also harnesses a different microorganism, one they genetically modify, to increase corn's ability to affix nitrogen into the soil and thus reduce the need for synthetic fertilizers. There's a lot to unpack in this one, but before we dive in... I'm Cody Simms.
+Yin Lu (01:30):
+I'm Yin Lu.
+Jason Jacobs (01:31):
+And I'm Jason Jacobs. And welcome to My Climate journey.
+Yin Lu (01:38):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:43):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Gonzalo, welcome to the show.
+Gonzalo Fuenzalida (01:58):
+Thank you, Cody. Thank you for the opportunity of being here.
+Cody Simms (02:01):
+Gonzalo, let's maybe dive right in and explain or describe to me what is Andes.
+Gonzalo Fuenzalida (02:08):
+Andes is a climate tech company that has developed a technology based in microbes, which are basically applied in agricultural fields. And these microbes have the ability to capture atmospheric CO2. Now with that capture CO2, we measure that and we create carbon credits so people and companies can use those carbon credits to achieve their climate goals. Very highly explained, Cody, there's a lot of science and technical stuff here, and that is in a nutshell what we're doing at Andes.
+Cody Simms (02:41):
+We're going to get into all the technical stuff or as much of it as we can. Maybe explain a little bit first, how did you decide to start the company? I mean, it looks like you have started a few companies in the last five to 10 years. How did Andes become one of those?
+Gonzalo Fuenzalida (02:57):
+As you mentioned, I've been creating companies for the last decade now. My past experience was on investment banking, but I've always had a passion for nature. And yeah, my first biotech company was focused on the production of recombinant proteins, growth factors that are used by laboratories worldwide to grow cells. And while I was growing that company very successfully, I met a, now, very good friend of mine, a renowned scientist from Chile, Bernardo Gonzalez.
+(03:26):
+Bernardo has been studying the interaction of microbes and plants for over two decades now. And while having a conversation with Bernardo, he explained me on how microbes are a key piece of life as we know it. They've modeled life as we know it, and that is true for humans, animals, plants, and even landscape. He was explaining me on how these microbes could be used in agriculture for the purpose of basically transforming the industry. And that's where he did an inception on me and as months went through, I started thinking on, what if we could use some of these microbes and transform those into products and apply them on agriculture for transforming the industry for good? Very naive at that time, thinking that was an easy thing to do, grabbing a microbe from the laboratory and transforming into a product. But that is how the idea of Andes started. This was back in Chile in Santiago.
+Cody Simms (04:19):
+My suspicion is if any entrepreneur knew how hard their business was ultimately going to be, they probably never would've started it in the first place.
+Gonzalo Fuenzalida (04:26):
+Yeah, that is so true. Yeah, exactly.
+Cody Simms (04:32):
+At this moment of inception, as you said, was the idea that these microbes can replace or largely replace synthetic fertilizer? Was it that these microbes could be a carbon sink or was there some other "aha" that got you excited about the use of these microbes in an agricultural setting?
+Gonzalo Fuenzalida (04:52):
+Bernardo, with his team of scientists, at that point, he had studied different ways by which the microbes could help plants grow. There are things like triggering certain genes on the plants that will make the plant more resilient. For instance, for stress, high temperatures, high salinity. There are other genes that are triggered by microbes that makes the plants more resistant to pathogens, which is a big threat in agriculture. Thus, you can reduce the use of, for instance, fungicides and other chemicals. At the beginning, we have this group of areas that we wanted to understand better how micros could contribute for a better and more clean process of growing food through agriculture. Now, one thing took us to the other and we ended up focusing on the ability of some microbes of capturing carbon, and that aligned very well with what we want the company become.
+Cody Simms (05:45):
+We're going to spend all sorts of time on how these microbes that you're helping to, I guess, deploy into soils can be a carbon capture mechanism. But before we do that, interesting to hear that the original thesis was around, what I'm hearing essentially, is plant resiliency and crop resiliency. What are the traditional means of crop resiliency today and what did you want to see change when you first got excited?
+Gonzalo Fuenzalida (06:13):
+Currently, there are important efforts by big Ag companies on trying to develop seeds and plants that can withstand higher temperatures or drought, and we've seen some success on that. For instance, corn that can withstand a low moisture for those years that you have a little or not enough rain. And I'm from Chile and the team that started on this, back in Santiago, my co-founder, Tania Timmermann, she's also a scientist that worked with Bernardo very close for a long time.
+(06:41):
+And our idea, the problems that we're facing in Chile are associated with drought, not enough water, and also connected with salinity. As we don't have rain, we need to dig wells and take that underground water, which contains high levels of salt. You need to think on plants that can withstand those. But what really happens, Cody, is as farmers encounter these challenges, what they typically do is that they move to other geographies. Most of the farmers worldwide don't own the land, they rent the land.
+(07:10):
+Basically there's no high cost of change to moving to places. And that is true also here in the United States. I guess currently, at least for North America and South America, plant resiliency, while we think it will be something important has not yet become a huge problem or challenge that we need to solve. We were focused at the beginning of enabling plants to be able to grow healthy with high levels of sodium, for instance, which is common in Chile. As you take water from the ground, it'll contain high levels of different salts including sodium, and we were successful in doing that, Cody. But yeah, the market wasn't there and that's where we needed to pivot and find other ways and other value coming from these microbes.
+Cody Simms (07:52):
+What I'm hearing is, these microbes have a symbiotic relationship with the plants underground, in that they can help plants live and thrive in soils that are maybe lower in water content than the plant would like and or higher in salinity and salt content that the plant would like. They do this presumably by triggering some kind of root growth or something around the plant that helps the plant thrive in that environment. Regardless of the market not being there, it's interesting to hear where the science came from. Is that correct?
+Gonzalo Fuenzalida (08:22):
+You're right, Cody. I guess that is one of the things that keeps me fascinated every single week as we understand better about this interaction. And if you take a step back and think about how life as we know it has evolved, basically bacteria appeared in the earth about 3 billion years ago and then plants only appeared 700, 800 million years ago, a fraction of that time. And humans, as we know, it probably 1 million years ago, even less for those that are more close to homo sapiens.
+(08:52):
+What I'm saying is that all these other species that appear after, in earth, were basically developed in harmony with microbes. If we look into our bodies, we have more genetic code for microbes than human and we have more microbial cells in our body than human cells. Microbes have the ability to affect plants and make different species, including plants or animals or humans to be able to withstand different environmental conditions. And that alone is fascinating, Cody. And this applies also for human healthcare, new discoveries on how gut bacteria can basically change our health, things that are fascinating and that is also true for plants. And there are mechanisms that are well understood, by which the microbes have the ability to give the plants the ability to, for instance, withstand high temperatures or high salinity.
+Cody Simms (09:41):
+Has there been any change in the microbial content of our soils, really I guess, since the rise of industrialized farming that is impacting plant growth, that the average person may not be aware of?
+Gonzalo Fuenzalida (09:54):
+Always something quite difficult to demonstrate at a large scale. I would say that, for the most part, what you're saying, Cody, it is true. Think for instance on the United States Midwest, if you fly over North Dakota or Iowa, you'll see all fields. In the past that landscape was very different. You have grass fields, you had a forest, you had a lot of flora and fauna that was very difficult. And flora and fauna will, of course, modify microbial communities, fungi and bacteria, Archaea change depending on the species that are developing on the soil. That is true.
+(10:30):
+Now, making the connection with how a group of microbes have changed and the positive or negative effect of that is a little bit more challenging. Something that you'll see a lot of debate and even heated debate among different groups. But it is true, it changed. And the same is true for us. If they're going through a stressful situation or if we change our diet, we will certainly change the microbes that lives inside of us and that could have a negative or positive effect on our long-term health.
+Cody Simms (10:56):
+For listeners who have an interest in understanding more about soil microbes and some of what's going on, we just released a podcast episode fairly recently with Josh Silverman of Windfall Bio, which is using natural soil-borne microbes to help with methane removal from dairy farms and other places where there's an excess amount of methane. And he makes the point that these are, again, these naturally occurring organisms that are incredibly resilient and use feedstocks. They eat things, I guess is the better way to put it, that create all these natural processes in the soil that, to the blind eye, you just wouldn't necessarily pay attention to. But it's a fundamental part, obviously, of the biological world that we live in.
+Gonzalo Fuenzalida (11:40):
+You mentioned it, Cody and different groups are understanding better, year after year, about how these interactions and these tools basically could be used for the purpose of improving humans' life. And that's basically what we're doing as well.
+Cody Simms (11:54):
+Getting to the specific microbes that you are working with, how did you go about, you said, "Hey, we're going to start by looking at this as a crop resiliency supplements," essentially came to the realization that maybe there wasn't much of a market there, but then you've now come across the idea that there are essentially two other benefits of this same microbial family. One is reduced need for nitrogen fertilizers, as I understand it, and two is the stimulus of something called soil inorganic carbon. Without overly explaining what you do, because I certainly can't do it anywhere near what you can, why don't you explain how you came across this discovery?
+Gonzalo Fuenzalida (12:37):
+The microbes that work in the past for resiliency of plants of environmental stresses are not the same ones that we are using for replacing fertilizer or even capturing carbon. These are different families that have different characteristics. Very briefly, we have two programs right now, one that is focused on devoting these microbes that can eventually replace or partially replace synthetic fertilizer. For that program, what we're doing, Cody, is that we're engineering microbes. Basically, we are modifying genetically microbes for them being able to constantly capture nitrogen from the air. The air that is around us basically contains approximately 80% of its composition is nitrogen, but that nitrogen is in a form that the plants cannot uptake. And what these microbes do is that while living on the root structure of plants, they produce enzymes that have the ability to grab this nitrogen and transform it into a form that the plant can uptake and can use a nutrient.
+(13:34):
+That is one program and that is engineered microbes. For the carbon program, we're working with a different set of microbes that are natural and non-engineered and they have this natural capacity of being able to transform CO2 into minerals, typically taking form of carbonate minerals as they're called. A typical carbonate mineral is limestone, for instance. These microbes have the ability, again, while growing with the plants on the root structure, feed from the plant, they get the nutrients from that symbiotic interaction and while doing so, they have the ability to capture carbon. And I'd like to share this, Cody, because I guess in science, typically this happens often. When we thought about using microbes for the purpose of carbon capture, we started the program without truly knowing about a specific characteristic of our microbial collection that can help with this endeavor. And basically, by performing field trials, we received some samples and when we compare the controls, which were the plants without the microbe, versus the plant with the microbes, we visually saw a huge difference on how the soil develop on the plants with the microbes and without.
+(14:45):
+And that visual difference made us want to take a look and analyze that soil. And then we ended up understanding that soil with the microbe had a high concentration of these carbonate minerals. Without looking for this phenotype and for this characteristic of the microbes, we stumbled upon a microbe that had the ability to make this process of carbon dioxide removal very easy. It was very impressive. That is how we are structured as a company right now. One is a nitrogen program, which basically we seek to replace, partially, synthetic nitrogen and the other program is focused on carbon using different kinds of microorganisms.
+Cody Simms (15:22):
+Well, let's break those down one at a time. On the synthetic microbes that you're seeking to use to supplant nitrogen fertilizers, presumably the climate benefit there is the avoidance of nitrogen fertilizer production, which is, as I understand, it's emissions intensive. Can you explain a little bit more about the state of how fertilizers are created today? What that means from a climate perspective? And then what your microbes seek to do as an alternative to that?
+Gonzalo Fuenzalida (15:56):
+This is very well-connected to the history of my country, Chile. 100 and plus years ago, Cody, in order to grow crops intensively, you would've find different inputs that help with the nutrients, including nitrogen from the field. The common input was... What's the pronunciation in English? Saltpeter, is that correct?
+Cody Simms (16:16):
+Yeah.
+Gonzalo Fuenzalida (16:16):
+Okay. The biggest reservoir of Saltpeter were in Chile. The economy of Chile until the 1920s was based on the production of Saltpeter and the export of that and then a couple of scientists, Haber-Bosch, developed this technology by which you're able to produce synthetic nitrogen basically by grabbing it from the air and transforming into a form that then you can distribute, a physical form, and you can apply. Now as you mentioned, that process needs a lot of energy and so, you produce a lot of emissions for producing synthetic energy.
+(16:49):
+Now the impact on the environment doesn't end there because when you apply the synthetic fertilizers, a part of that won't be uptaken by the plant and will go with the water into watercourses, affecting fauna and in flora downstream. And also another part of that synthetic nitrogen will localize as nitric acid, which is a potent greenhouse gas.
+(17:13):
+There's a lot of problems with synthetic fertilizers, although they're much needed. Now, if you're looking into nature, Cody, there are plants, legumes such as soybean, that can naturally interact in symbiosis with specific microbes that can provide the nitrogen for the plant in this process of fixing it from the atmosphere and making it available for the plant. Now that interaction hasn't been replicated for other kinds of crops, such as corn, which is arguably one of the crops that needs a lot of synthetic fertilizer.
+(17:47):
+As you correctly mentioned, what our focus is, is being able to develop these microbes that can live on the roots of corn plants and while doing so, they can provide an important amount of nitrogen captured from the air, on a very sustainable way, thus reducing the amount of synthetic nitrogen that needs to be applied into that field and avoiding further emissions and contamination. Not an easy task to do. There are multiple companies trying to pursue similar results, but that is, in part, what we're working at Andes, in regards of nitrogen.
+Cody Simms (18:19):
+The goal there would be essentially just turn corn into a nitrogen-fixing crop as opposed to a nitrogen-consuming crop, I suppose?
+Gonzalo Fuenzalida (18:27):
+At least partially Cody, trying to think that we will fully replace synthetic nitrogen, I think we're far away from that, but if you can replace 2025, even 30%, the impact will be huge.
+Cody Simms (18:37):
+And what's the current global emissions footprint of synthetic nitrogen roughly?
+Gonzalo Fuenzalida (18:43):
+There are different calculations, but overall the production and use of synthetic fertilizer represent roughly 3% of global emissions.
+Cody Simms (18:51):
+One to two gigatons per year, ballpark, somewhere in there?
+Gonzalo Fuenzalida (18:55):
+That's correct.
+Cody Simms (18:56):
+For the farmer, the value proposition to them is, you need to buy these microbes and you need to apply them at certain appropriate times of the year or when you're planting the seeds, and then presumably there's some upfront costs there, but then less cost on the need to continue to purchase and distribute nitrogen fertilizers onto the field. Is that the value equation that you're trying to go to market with?
+Gonzalo Fuenzalida (19:24):
+Yeah, although it gets tricky, right, Cody, because you're competing with a commodity and with well-established companies, with distribution network and the capacity to be able to compete on price even. From a farmer's perspective, it's more difficult to align them with the idea of just replacing synthetic nitrogen because it's part from the environment. You'll need to see that extra benefit in order for seeing these things happening.
+(19:48):
+And there are companies that have done substantial effort on penetrating and being successful. One of those is Pivot Bio. They have a first generation technology and product that has been relatively successful on being able to convince farmers on replacing at least part of their fertilizer needs. It's not quite easy though because farmers are businessman. As you change the input, you'll want to see that first, that change on the bottom line, in order to be able to take the decision of you going with for one or the other.
+Cody Simms (20:15):
+How do you start? Is there a target market or target customer farmer that you think is the right initial customer for you to start to prove the science here?
+Gonzalo Fuenzalida (20:23):
+There are farmers, of course, that are environmentally conscious and know how harmful synthetic fertilizers can be. I guess, again, all these pioneers like Pivot Bio, have paved the role basically showcasing and making this something top of mind. Synthetic nitrogen is great for yields, but it has a cost for the environment.
+Cody Simms (20:41):
+other product that you are developing, you mentioned, is a natural-born microbe, not one that's synthetically altered and that you're using to actually stimulate the growth of what's called soil inorganic carbon. Explain that more please.
+Gonzalo Fuenzalida (20:58):
+When you look into carbon reservoirs in soil, basically, you have two big buckets. One is organic carbon, which is a carbon element containing inorganic compounds. For instance, when a plant is growing, that root structure will contain a lot of carbon, and then when the plant is dead and this organic matter evolves, even the microorganisms that contain carbon will take different forms that can store carbon for certain amount of time.
+Yin Lu (21:25):
+Hey everyone, I'm Yin, a partner at MCJ Collective. Here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast.
+(21:37):
+We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more.
+(22:11):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+Cody Simms (22:26):
+Even getting away from crop growing. When we talk about forestry credits, for example, for the most part we're talking about the soil organic carbon, which is essentially the growth of the root structure under the ground of a forest. Yes?
+Gonzalo Fuenzalida (22:40):
+Yes. When you look into a tree, that wood contains a compound that is called Lignin, that is rich in carbon. All that is organic carbon and organic carbon is much needed for the long-term health of the whole ecosystem in a field. Now it comes with the challenge of durability.
+(22:57):
+The problem with organic carbon is that, if we think that the temperature of the world will continue rising, you'll have more activity of microbes in those soils and those microbes will start using, at some point, that organic carbon and decomposing that and releasing back the CO2 into the environment. When you think about re-gen or regenerative agriculture, basically it's the strategy of changing practices on the field in order to have a positive effect on the buildup of that organic carbon in the soil.
+(23:24):
+Again, much needed. That is something that we should all push for because of the long-term health of plants and soil. But when you think about a tool for tackling climate change, I guess, our view is that you need to focus on those pathways and those forms of carbon that can have a high permanence or a high durability, understood by long times that we, with a high certainty, can predict that the carbon will stay captured. And then is when you look into the second bucket in the soil, which is the inorganic carbon.
+Cody Simms (23:55):
+So Gonzalo before we go there, so if I understand that organic carbon, all great, needs to be there, incredibly important. Challenge with it is, of course, if you change your agricultural practices when you till up your land or pull the roots out of the soil or otherwise distress the soil, presumably, the permanency of that is essentially gone to zero. Yes?
+Gonzalo Fuenzalida (24:19):
+It can. Yeah. If you start moving that soil around, for instance, a farm that has a high content of organic carbon, then a company wants to develop houses and start moving the soil around, that organic carbon gets exposed to the environment. Yeah, if this is a key concern about the future of climate and you need to put up your bets on things that will capture the carbon for a very long time, while organic carbon is important in soil, if you have other alternatives that probably, you should prioritize those others that have more to the beat. That's correct, Cody.
+Cody Simms (24:57):
+You were about to introduce soil inorganic carbon. Explain a bit more about what that is and how your solution helps to increase it.
+Gonzalo Fuenzalida (25:06):
+When you look into the other pool of carbon in the soil, it is the inorganic carbon and that inorganic carbon pool is basically composed by carbon in minerals, most typically calcium carbonate and contrary to organic carbon, inorganic carbon, in the form of calcium carbonate, under the right conditions of where you are building up, it and the conditions or characteristics of that soil, you can with a high certainty, basically predict a high durability, permanence of that carbon being stored and captured there. And that is what we're focused on.
+(25:40):
+We're focused on working with these microbes that have the ability to increase the amount of this inorganic pool in the soil. Now, as part of the efforts and all the field trials that we've done in the past, more than 25,000 acres in different states here in the Midwest, we also see positive effects on the buildup of organic carbon. Now, as a company, we're not doing any claims on that buildup of organic carbon and we're just creating carbon credits from the inorganic carbon buildup, just to be conscious about durability.
+Cody Simms (26:11):
+We're going to get all into the credit frameworks that you're creating and whatnot but before we do, if I understand correctly, today, farmers do put inorganic material on their field quite frequently, primarily in the form of lime. Is that the typical supplement that farmers are using today to drive... They're not doing it for carbon capture mechanisms, but they're doing it as a way to essentially increase crop yield and plant health? Yes?
+Gonzalo Fuenzalida (26:38):
+That is correct. Farmers across different areas use limestone in order to increase the pH of the soil. Typically, the better yields we'll have for soybean and corn are in the range of 6.5 to seven pH of the soil. If you have a field with a soil pH of five, you want to drive that up and the fastest way to do it is applying these minerals.
+(27:01):
+On our strategy of capturing carbon, we're not focused on soil with a low pH and I can further explain why. Not only because of the permanence of the mineral created, but because we need certain characteristics being present on that soil for the microbe being able to produce this carbon dioxide removal process.
+Cody Simms (27:19):
+The lime eventually breaks into a bicarbonate under the soil and eventually generates the whole long carbon cycle in the soil. Does it not or is my science off here? I'm trying to remember.
+Gonzalo Fuenzalida (27:32):
+You'll find different literature and groups, Cody, saying that application of limestone can capture at least some carbon. There are others that say that it's a pure influx, an offcasting of carbon, and in order to be able to correctly answer that, you need to understand the kinds of acids that are present on that soil. If you have strong acids on the soil, which you'll typically find on soil with a pH of five or even lower, the weathering reaction of that calcium carbonate will eventually offcast any carbon that was contained so that carbon will return to the atmosphere. Understanding the dynamics of different fields requires you a better understanding of the kinds of acids that you'll find on every single field. It's not an easy task.
+Cody Simms (28:14):
+I guess lime is already naturally somewhat carbon absorbed because it comes from the bottom of the ocean where it has been long absorbing carbon, whereas it's basalt rock that is often used, enhanced rock weathering applications, today as another means of trying to trigger the increase of soil inorganic carbon. Yes?
+Gonzalo Fuenzalida (28:32):
+Correct. And in order to answer your question, and maybe this will set up or pave the road for the next piece of the conversation, is that, as you mentioned, that calcium carbonate came from the bottom of the ocean and that calcium carbonate contains a calcium element.
+(28:48):
+When we think about our strategy of using microbes to capture a carbon dioxide, the calcium carbonate that we're generating, that calcium should come from a different source than limestone, than a carbonate. It should come, typically, from a silicate, and that is one of the conditions that we require in order for us to choose a field where we are deploying the technology. We are working on fields which are naturally rich on silicate minerals that contains all these elements, these cations including calcium that are required for our microbe to be able to produce that inorganic carbon form in the soil.
+Cody Simms (29:25):
+Can you explain how and when the microbes are applied to the soil in Andes' solution?
+Gonzalo Fuenzalida (29:31):
+The microbes requires to be applied only once at the beginning of the season. It is applied on the field by different means. For instance, for soybean, typically, it is applied as a coating altogether with fungicides that the farmers typically do that onsite. For corn, it is applied while the seeds are being planted or in combination with fertilizers.
+(29:52):
+If you apply the microbe in a high concentration, Cody, at the beginning of the growth season, basically you are providing the microbe with an advantage to be able to colonize that root structure from a very early stage. And these microbes, the strains that we are working, are very good at doing that. From a very early stage, this is one of the things that we measure, the microbe have the ability to start colonizing the root structure and continue living with the plant through all the lifecycle. Now when the plant dies, the microbes also reduces its population up to the point that we're not able to measure it. For the next season, for the next year, we need to reapply these microbes in the field, in order to see these effects.
+Cody Simms (30:33):
+Then for the farmer themselves, they're either buying the microbes and applying them directly, or it sounds like they may be buying seeds that already have the microbes included in them, depending on what type of plant they're growing. Did I understand that correctly, Gonzalo?
+Gonzalo Fuenzalida (30:48):
+Yeah. And this connects with your previous question of what drives, for instance, if you have another product that can replace synthetic nitrogen, what drives the farmer to adopt that new technology that has a positive impact on climate?
+(31:01):
+When we started the carbon program at Andes, we wanted to make it very simple for farmers to help us in the process of deploying this microbe and generating carbon dioxide removal. This is how our business model toward farmers works right now. We signed farmers that have these fields with the ideal characteristics for this process of capture to happen, and we provide that farmer, free of charge, with the microbes. These microbes comes in an liquid form and are shelf stable at room temperature. Basically what the farmer does is that they mix this liquid microbe with fungicides or fertilizers or other things that they typically applied on the field.
+(31:41):
+There's a very low barrier of implementation of the technology that requires very little time and no money from a farmer's perspective. Now, what is the incentive for the farmer to participate in the program? They receive a cash payment at the end of the season, which is guaranteed, and in exchange of that, we ask for all the rights of the carbon credits to belong to Andes, and we ask also for our team to be able to get into that field and collect real soil samples for then as being able to analyze the content of carbon.
+(32:10):
+I guess, when you compare this with regenerative agriculture, where the farmer needs to spend time and money in order to do these change of practices, I think this is quite different and make their life very easy. Also, if you look into the economics of farmers, currently we're paying anywhere between 10 and $15 per acre depending on how involved is the farmer on collecting samples, for instance.
+(32:33):
+If you look into a typical farmer, for instance, growing soybean in North Dakota, a great year, Cody looks like getting $50 per acre bottom line, that is a great year. If we're paying 10 to $15, basically we're increasing their net income anywhere between 20 and 30%. And that isn't seen in agriculture. A service, a product, or a program that can have that impact on the bottom line of the operation of a farmer, is something that is unseen.
+(32:58):
+That's the reason why we've seen so much good traction happening upstream with the farmers. We are now doing 50,000 acres across four states of the Midwest, and we have basically five times the amount of farmers and acreage that we can handle for this season. It is a win-win business model, we think. And even though if the farmer is not aligned with the idea of having and pursuing this climate impact, they have the clear incentive to do so.
+Cody Simms (33:23):
+The farmers, if I heard you correctly, they don't have to care about carbon credits, they don't have to care about whether there's a successful credit issued on their land. They don't have to care about measuring, maintaining that, they just need to apply the microbes when you ask them to, allow you to come onto the property to do whatever measurement and whatnot that you need to do. You own the carbon credits and you're just giving them a cash payment for basically the privilege of being able to do all of this on their land. Am I understanding that correctly?
+Gonzalo Fuenzalida (33:57):
+That is correct, Cody. The impact on that farmer and family, economically speaking, is huge here in the United States. Now, we have to think of what we're doing, Cody, as a dual impact project. We have the climate impact, but we also have that social impact. I am from South America and South America, of course, as we work on other developed countries, those same 10 or $15 that we're paying per acre can have a huge impact on communities in South America. That is part of our expansion plan in the short term.
+Cody Simms (34:22):
+You took one of my questions right away from me, which is, I was going to say, okay, so a farmer, if they are trying to think about adding a carbon credit to how they make money on their farm, how do they choose between your microbes or biochar or enhanced rock weathering or this, that and the other? And what I heard you say is, they don't have to choose with us, they don't even have to think about wanting carbon credits. They just have to think about whether they want an additional $15 an acre and we go do all of that side of the stuff.
+Gonzalo Fuenzalida (34:51):
+That's it, Cody. Yeah.
+Cody Simms (34:54):
+Let's get into then, you're taking on all the risk of whether or not this land would qualify for a carbon credits. What does that look like? You all just issued your methodology, the Microbial Carbon Mineralization methodology or MCM, which is incredibly well-detailed and documented on your website, which is Andes.bio, for folks who want to go read about it under the science tab. Maybe explain a little bit about what this methodology looks like and where it sits in terms of being able to actually be sold as a carbon credit.
+Gonzalo Fuenzalida (35:28):
+In order for us to be able to create a carbon credit, we need to be very transparent on the process and all the activities and involve this technology and pathway. Basically, that methodology is a first version of detailing all these activities that are included in our program and even including the formulas that we use in order to calculate and do these claims so carbon being removed now.
+(35:53):
+Having a methodology is a first step. Typically, we'll want to work with a methodology that is part of a big registry and a standard like Verra or Gold Standard. Unfortunately, we are working with a novel pathway that doesn't exist, and that's the reason why we needed to start from scratch, creating our own document. This document, it is intended to evolve through time as science evolves, being strict and very aligned with requirements that we see necessary. This is a first step of being able to create a carbon credit. On top of that methodology, what we are doing, Cody, is that we are going through a process of validation of that methodology and also verification of the issues of our credit.
+(36:31):
+We expect to have our first verified credits verified by an external partner by the end of this year. That verification will be aligned with what we disclose on that methodology. That is how it works. We're also in the process of exploring this methodology being incorporated by already established standards and registries. That is something that we are certainly looking for and certainly something that some buyers look for as well. But yeah, being able to have a claim on a carbon being created, it is very complex and from our perspective, first, involves having a document that very well details everything that we do, and also having a third party that basically verifies that every single one of our claims is true and we're in that process.
+Cody Simms (37:18):
+How do you measure and verify this? Are you taking soil core samples and looking for signs of inorganic carbon growth? How are you measuring before and after, in that regard?
+Gonzalo Fuenzalida (37:30):
+What we are doing is a strategy that is called measure and remeasure. And basically what we do is that we look into every single field. We understand different kinds of soils that are in that field. We do what is called stratification, that we subdivide that field, each soil is very different within the field. Then we have a software that randomly selects points and then we collect samples from those points before and after. And also, we have, as baseline, fields with the same practices, close to the treated field, but without the microbes. And that is what we use as, what is called, our baseline to what we compare.
+(38:06):
+Having those two kinds of fields, the untreated ones or the controlled ones and the treated ones, with these direct measurements, we're able to understand how much buildup of the inorganic pool we did on these fields. And the measurement of the inorganic carbon is relatively simple, Cody. There's a measurement called calcium carbon equivalent and basically, it is a way to understanding how much of calcium carbonate like minerals you have on a specific soil sample.
+(38:35):
+That is what we're using right now. On top of that, we are adding other measurements to further layers of certainty about the process of carbon dioxide removal that we're doing on these fields. And one of other measurement that is important is understanding the abundance of calcium in these soils. It involves a direct measurement of the soil. I hope, as we build up more data and knowledge, we'll get to a point that we'll be in a hybrid situation where we have some modeling plus direct sampling. That will be ideal when you think about millions of acres, rather than having to go into every single one and do these high frequency collection of soils and sampling and analysis. We see a future where, with enough knowledge, we'll have a model in place that would allow us to reduce the amount of samples needed in order to have a high certainty on the amount of carbon capture. But yeah, we're working towards that.
+Cody Simms (39:28):
+Would buyers of these credits, do you believe, trust you to self-certify or do you need a third party to do this measurement and verification?
+Gonzalo Fuenzalida (39:36):
+We're not certainly doing this ourselves. We're collaborating with an external laboratory where they receive the samples and they're the ones that analyze this, Cody. You need the third party doing the measurements that provides an extra layer.
+Cody Simms (39:49):
+Thinking in the future, you mentioned, hey, maybe in the future we can create modeled verification of this. What does scale look like for you in the future? Are these microbes able to be shelf stable for a long amount of time? Are you planning to centrally produce them and distribute them out? Are you going to need lots of local distribution centers? Explain how you view the company growing, assuming all of this continues to work for you.
+Gonzalo Fuenzalida (40:15):
+I would say that our biggest challenge to grow has to do with MRMV, with the ability of measuring across millions of acres. The production of the microbe, Cody, is a lesser concern. Currently, we're working with a third party company that basically multiplies and grows the microbe for us, and they provide it into a liquid form on jacks that are shelf stable for at least three years. That piece is relatively easy and you need a little amount of microbe of volume in order to cover a huge amount of acres. But the challenge has to do with the MRMV.
+(40:47):
+What we're doing right now. We are covering 50,000 acres. That sounds like a lot, but it's doable by our team. When you think about millions of acres and if you want to be in 50 million acres, how do you deal with that? Are you thinking of a company with 20,000 people that are just going into all fields? And that's why it's so important to think about those technologies that will allow us, Cody, to be able to reduce the amount of time spent on the field. There are some cool technologies around there. I don't know if you're familiar with a company that is called Yard Stick. They have this technology that basically you can take into the field and you can do an in-situ measurement of the amount of organic carbon. They're focused on organic carbon, but the same principles of that technology could apply for measuring the inorganic pool.
+Cody Simms (41:31):
+Our venture funds at MCJ, we're proud investors in Yard Stick. We know Chris very well.
+Gonzalo Fuenzalida (41:36):
+I love the company and the technology is very cool, and we look forward to collaborate with those kinds of technologies. That is the biggest challenge for us when we think about scaling, Cody.
+Cody Simms (41:46):
+And then, as you think about scaling, you all have relatively recently announced your series A of financing. Maybe explain a bit about how you have financed the company to date and how you think the company will need to attract additional financing to grow in the future, whether in the form of venture capital or in the form of other forms of debt financing. One thing that comes to mind is, it's not like you need to build a bunch of big factories or anything to produce what you need to do. So I would think you're a relatively capital light solution to carbon removal, which is actually, frankly, kind of unique and interesting.
+Gonzalo Fuenzalida (42:20):
+Yeah, I agree with that. Unless we want to have our own style capacity of bioreactors in the future, it might become true. The capital needed for expanding is quite modest, Cody, you're right. So far, yeah, we've raised roughly $38 million for Andes. We've been very lucky to attract great investors. Our first investors were VCs from Chile and family offices from Chile.
+(42:46):
+One of the reasons why we moved to the United States was because we could then connect with bigger investors that have joined the company since then. Among our investors, we have Yamaha, we have Bayer, we have Cargill, KdT Ventures, the first investors here in the United States, Wilbur-Ellis, a family owned input company. Very lucky to have brought all of those investors aboard.
+(43:10):
+When we think about moving forward, that is something that we're currently looking into. It's either continue raising money against equity or looking into financing the expansion, and there's quite an appetite from several groups to fund through debt, project developers as Andes. We'll see on the upcoming months, what is the path that we end up taking. I wouldn't be surprised that many companies, and not only for Andes, they will find debt as a way to move forward and expand. Of course, that is connected with the capital needs. As you mentioned initially for us, less of a concern, so it might be the way to go.
+Cody Simms (43:48):
+Gonzalo, for folks listening who are interested in what you are doing, whether that's people looking for their next career chapter or whether it's people who want to get in touch about potential business opportunities, what are you looking for help with right now?
+Gonzalo Fuenzalida (44:05):
+Typically, when you see startups being created, they are spinoffs from university, from projects that have been around for years, and a lot of money have been put on that. We were kind of different because we started with a technology that was very mature. And then we did the science within the company.
+(44:22):
+I will recommend to anybody wanting to a startup now, it is easy if you come with a technology that is already well-developed. I love the connection with basic science and we are internally, at Andes, connecting with institutes and universities that have some ideas on things that could be done. And we're studying active projects with, among others, Lawrence Livermore National Laboratory. Those are fresh ideas that connects climate and biology specifically, microbes are things that we're truly interested on further collaborating, and for me, at a personal level, it is fascinating because of all that we've shared. I think there's a huge opportunity in that intersection between climate tech and biology, specifically microbes. There are a lot of fascinating ideas and concepts that can develop there.
+Cody Simms (45:12):
+My big takeaway is that you're applying many of the principles we've heard about in nature-based solutions and applying it really to agriculture in some new and unique ways to help farmers produce more resilient crops, and hopefully, at the same time also create a lower carbon way of growing food for a continuing growing planet.
+Gonzalo Fuenzalida (45:34):
+That is our mission, Cody.
+Cody Simms (45:36):
+Gonzalo. Thank you.
+Gonzalo Fuenzalida (45:37):
+Thank you, Cody.
+Jason Jacobs (45:39):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (45:42):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+Jason Jacobs (45:52):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter at @mcjpod
+Yin Lu (46:05):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture fund,. Be sure to subscribe to our newsletter on our website.
+Cody Simms (46:14):
+Thanks, and see you next episode.
+
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT
