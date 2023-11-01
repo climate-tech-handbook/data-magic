@@ -1,0 +1,291 @@
+Today's guests are Fred Fournier, Co-Founder & CEO, and Michael Kelly, Co-Founder & CPO, of Open Forest Protocol. 
+Open Forest Protocol (OFP) is on a mission to accelerate the global response to climate change via nature-based solutions. The startup is building a product that will allow reforestation and afforestation projects, conservation organizations, and forest managers to easily measure, report, and verify environmental data from their land. The current MRV landscape is expensive and inaccessible, inhibiting the establishment of a global carbon economy. Open Forest Protocol has built a system for accessible and transparent forest MRV, laying the foundation for an accelerated response to humanity's greatest existential threat. 
+Before OFP, Fred co-founded ON A MISSION, a non-profit organization enabling businesses and individuals to invest in local, sustainable reforestation projects to compensate for carbon emissions. Fred and his team at ON A MISSION discovered that measuring, recording, and verifying (MRV) reforestation was difficult. At the same time, Michael was focusing on designing a protocol to track and verify things like tress using blockchain technology. So in October 2020, Fred and Michael co-founded Open Forest Protocol and continued their work to decarbonize and reforest the planet.
+In this episode, I'm joined by Michael and Fred of OFP. We dive into Open Forest Protocol's approach, why marrying blockchain and reforestation will bring us into the clean future, and how Fred and Michael co-founded OFP. We also talk about the existing carbon verification and certification landscape, OFP's community fund, and an overview of NEAR. This is a great episode if you're interested in learning more about web3 and climate change.
+Enjoy the show!
+You can find me on twitter @jjacobs22 or @mcjpod and email at info@myclimatejourney.co, where I encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded January 4th, 2022
+In Today's episode, we cover:
+Overview of Open Forest Protocol
+Fred and Michael's respective journeys and the origin story of Open Forest Protocol
+The initial vision for OFP and the Venn diagram of Fred and Michael's focus areas in climate and blockchain
+OFP's platform, products, and the prominent actors within the OFP ecosystem
+The existing landscape for forestation validation, why there is a problem with the current systems, and OFP's unique perch in the industry
+Forest preservation for tourism and the opportunity for landowners to become climate motivated
+What success looks like for OFP
+The barriers for existing certifiers in the larger carbon market verification sector
+Key steps to OFP validating offset and key assumptions the OFP team is making when thinking about steps to succeed
+OFP's community fund
+An overview of NEAR and the blockchain they are building OFP on
+ason Jacobs: Hey everyone, Jason here. I am the, My Climate Journey show host. Before we get going, I wanted to take a minute and tell you about the My Climate Journey or MCJ, as we call it, membership option. Membership came to be because there were a bunch of people that were listening to the show that weren't just looking for education, but they were longing for a peer group as well. So we set up a Slack community for those people that's now mushroomed into more than 1,300 members.
+
+There is an application to become a member. It's not an exclusive thing, there's four criteria we screen for: determination to tackle the problem of climate change, ambition to work on the most impactful solution areas, optimism that we can make a dent and we're not wasting our time for trying, and a collaborative spirit. Beyond that, the more diversity the better. There's a bunch of great things that have come out of that community, a number of founding teams that have met in there, a number of nonprofits that have been established, a bunch of hiring that's been done, a bunch of companies that have raised capital in there, a bunch of funds that have gotten limited partners or investors for their funds in there, as well as a bunch of events and programming by members and for members.
+
+And some open source projects that are getting actively worked on that hatched in there as well. At any rate if you wanna learn more, you can go to myclimatejourney.co, the website, and click the become a member tab at the top, enjoy the show. Hello everyone, this is Jason Jacobs and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change and try to figure out how people like you and I can help.
+
+Today's guests are Fred Fournier, CEO and Co-Founder and Michael Kelly, Chief Product Officer of the Open Forest Protocol. The Open Forest Protocol or OFP is changing how forestation including reforestation, afforestation and conservation projects are monitored, verified and funded with blockchain technology. I was excited for this one because increasingly we're evaluating what's happening at the intersection of Web3 and climate. My partner, Cody, who also joined us on the show is deeper down that path than I am. But coming out of the Toucan episode, which we did recently, we were excited to continue digging into what's happening at this intersection.
+
+The Open Forest Protocol is right on the front lines and we have a great discussion in this show about the origin story for the company, how it works, where they are today, what their vision is, their traction to date, what's coming and also just what is happening at this intersection in general and how they'll play with existing players who they'll replace, who they'll be a threat to, what the incentives are for the different stakeholders across the ecosystem and if it's successful, what it can do. Michael, Fred, welcome to the show.
+
+Michael Kelly: Thanks for having us on, I'm excited to be here.
+
+Fred Fournier: Thank you.
+
+Jason Jacobs: And Cody my official or unofficial cohost, should I say welcome to the show to you too?
+
+Cody: Sure, hey there.
+
+Jason Jacobs: [laughs].
+
+Cody: I'm back for times two, I guess.
+
+Jason Jacobs: So at any rate guys, we're so excited for this discussion. We have been dabbling a little bit, or I've been dabbling a little bit at this whole intersection of Web3 and climate. And I don't know if it's possible to dabble because it's such a deep hole that you go down once you start pulling on those threads. Cody is further down the path than me thus he's joining us on the show. But you guys are doing such interesting work that we were psyched when you agreed to come on the show and talk about what you're up to, so thank you.
+
+Michael Kelly: Thank you Jason, we're glad to be here and I think we'll have a fun conversation, interested to hear where you guys are coming from and getting into it a little bit.
+
+Jason Jacobs: Great. Well, where we typically start is just to take it from the top and ask, what is Open Forest Protocol?
+
+Fred Fournier: Let me answer on my side and then let's ask Mike to answer also on his side and see if we fit here.
+
+Jason Jacobs: We should put like the noise canceling headphones on each of you so you can't hear each other's answer to see if they're aligned.
+
+Fred Fournier: [laughs] Yeah, sure. [laughs] I'm [inaudible 00:04:27]. Yeah, sure.
+
+Michael Kelly: I'm actually curious. I wanna hear what you say, Fred. I'm curious to see how we align on it.
+
+Fred Fournier: For me, Open Forest Protocol is basically an intention first more than a technical product, a Web3 product, a community or whatever you wanna call it, which is all of that. It's more the intention on helping people on the ground that basically don't have access to funding and support today in the forestation industry. I would put it in the simple words like that. Not more than that on my side.
+
+Michael Kelly: That's good. It's pretty funny because, side note, we had a summit like four or five months ago where we were like getting into open forest and everyone was like, "Wh- what is open forest to you?" And I don't know if you remember I said, "Open forest is first and foremost art, for what we're trying to do on the technical level and then comes the climate side of things." But I guess from my angle of this, Open Forest Protocol is really a digital system for coordinating the preservation and reforestation and I guess for that matter, all things in terms of the ecosystems involved in forests in a distributed manner. So what we're really trying to do is to build a system on a global level where forests from all around the world can be preserved, can be funded and can be supported so that they stay in the ground. They don't get cut down or burned or destroyed or commercialized.
+
+Jason Jacobs: And before we started recording, you mentioned that you guys came from different backgrounds. So can you just take a couple of minutes up front and talk about your journey and also how your individual journeys converged in Open Forest Protocol getting born? Can I say born if it's art or if it's intention, does it also get birthed? I'm not sure.
+
+Fred Fournier: Yeah. [laughs] You can judge based on the story after, if it's born or not.
+
+Michael Kelly: Yeah.
+
+Jason Jacobs: So Mike, do you wanna go first or... no, Fred you can go.
+
+Michael Kelly: Fred you normally take it first, I think.
+
+Fred Fournier: Well, in that case, let's do the other way around. If I normally go first, go ahead. [laughs]
+
+Michael Kelly: That works. My kind of [inaudible 00:06:24] is actually kind of ambiguous in all honesty. I'm a crypto guy, I got into the crypto space in late 2016, early 2017, worked for a bunch of different projects and then kind of shipped out as my own crypto entrepreneur/community builder. I was really good friends with the professor of sustainability in the states. And he came to me one day and said, "I'm interested in how we can use blockchain to preserve forests. Because I have a project with the World Bank and they wanna give a big grant to Pakistan but they don't wanna give the money to Pakistan because they don't know if the money is actually gonna be used to keep the forest in the ground."
+
+So there's this kinda chicken in the egg problem. And I was like, "Okay, this is interesting." So I started doing some research, we wrote up a white paper and then we started shipping it around, I guess you could say, it's the climate industry. So we started talking to like consultants in Sweden et cetera, et cetera. About three months later, we just randomly hit it off really, really well with Christopher Martius, who is the now Managing Director for the Center of International Forestry Research.
+
+And Christopher did not come from the crypto space at all, loved the idea and pretty much for a good year, year and a half, we would probably jump on a call every two weeks and just kind of like babble about how blockchain could in some way be used to keep forests in the ground. And there was nothing more than that. There was no project involved with it. There was no direction with it. It was just kind of like fun dialogue and discussion. And I think that's where Fred fits in the story, on my side.
+
+Jason Jacobs: Fred?
+
+Fred Fournier: Yeah, my turn. I'm a scientific guy. I studied geology and not forestry. My intention was forestry, but I had to do it in German and I decided not to do it in German. So I ended up doing geology, but I got interested in trees from when I was very little and what actually triggered my journey was a trip to Thailand and Burma in 2005 there and I witnessed fires. Oh actually, I didn't witness fires. I witnessed the destruction of forests after the fires. That was really heartbreaking, I would say in a simple way. Coming back from that trip, I tried to found an NGO supporting reforestation projects around the world.
+
+And I felt basically I was too young, not having the resources and so on and so forth. And then in 2008, 17, 18, I restarted the idea with my co-founder. So we started basically a sustainable reforestation NGO based in Switzerland and by doing so, coming also from the scientific background, we found that we were not happy with the reporting of the projects we were supporting.
+
+So we tried to help them in terms of reporting, we set up a monitoring tool with satellite. We kind of helped the projects to do a better job at reporting, but still we- we were not happy. And basically what we realized is that without this reporting piece, which is essential, you don't get money because it's a trust issue. If you get the reporting right then people will trust you, then eventually you will get money. It doesn't work the other way around.
+
+And so I was trying to figure out a way of getting something really working for that reporting piece. And when I say working really trustful and I reached out to an old friend who was in blockchain for all the projects. He said, "Yeah, I actually know a guy who have kind of a white paper in this sphere." And that guy was Mike and we got introduced and we clicked basically. So, I don't know if we were born there together or not but it's how it happened.
+
+Jason Jacobs: When was that?
+
+Fred Fournier: That was in October, 2019.
+
+Michael Kelly: Yeah 2020.
+
+Jason Jacobs: Oh 19?
+
+Michael Kelly: [crosstalk 00:10:05] October 2020.
+
+Fred Fournier: Oh 2020.
+
+Michael Kelly: Yeah.
+
+Fred Fournier: Yeah, sorry, 2020.
+
+Michael Kelly: Yeah.
+
+Fred Fournier: Yes, yes.
+
+Jason Jacobs: I mean, with COVID the years are all blending together anyways.
+
+Fred Fournier: Yeah, yeah. Sorry [laughs].
+
+Jason Jacobs: Got it. And so when you first came together was there an initial vision that you were both drawn to and aligned on at that time? Or was it just kind of a fertile area that you were gonna go experiment with and play with different visions or? Maybe talk a little bit about where you started and also some of the twists and turns and the evolution over the last few years since then. Couple of years.
+
+Fred Fournier: I think we were pretty aligned right away because when I read the white paper at the time, which we can discuss about and the evolution of it also, it was quite fitting my vision, not on the technical side of things. I didn't know anything about blockchain, but the vision of building a trustful system with this validation and we can discuss that also. We were pretty much aligned on the vision, because we had something at the time already written. But then of course we discussed a lot and the initial plan also evolved. And maybe Mike, you can maybe explain a bit about what was... the initial white paper, what it had in it and what kind of evolution we discussed and were able to make together.
+
+Michael Kelly: Maybe more generally speaking, it's good kind of background to just say that the toolkit, so to speak, for what you can do with a Web3 or crypto project has really expanded massively in the last two, two and a half years. So, when the original white paper that we wrote was kinda put together, it was very one dimensional. It kind of was made for a single company to plug in and collect data and put data on chain to show someone else what was going on. As crypto has evolved and you have things like NFTs now, you have cheaper protocols with cheaper transaction fees. You have DAO infrastructure for governance.
+
+We kind of saw this and thought, okay, you could do a kind of standalone one-off application or we could go big and try to build kind of a protocol level solution. Meaning something that encompasses multiple different projects all in one and is kind of a much bigger machinery that would have to be built. And so I think we got lucky in so far as the idea kind of we met at the right time, for when crypto was finally kind of reaching that tipping point in terms of buildability where we could use NFTs and DAOs to make our protocol into what it's gonna be in the future. I think if we had met five or six months earlier, it would have actually been a different a story just because of the fact that's crypto's moving so fast now and things have changed so much. Our vision was really set by what was made possible at that time in November, 2020.
+
+Jason Jacobs: And I've got plenty of questions but Cody, maybe this is a good time just to check in with you and see what questions you've got for Mike and Fred.
+
+Cody: I'm a product guy by background and so I guess the first thing I would do is, we've talked a little bit about how you all came together and a little bit about the art behind OFP, but maybe just break down like what it actually is, what the product and platform allow people to do and who the actors are in the system that leverage it.
+
+Michael Kelly: Fred, if you want, I can talk about the core kind of validation skeleton and then you can talk about the vertical.
+
+Fred Fournier: Yeah, yeah, of course.
+
+Michael Kelly: The simple version of what we're doing is, we're creating a digital validation infrastructure. So, a place where people can connect digitally and either affirm or deny data that is sent to this validator on the blockchain. And with that kind of core, you can think of this as like the sun, the center of the solar system. We then have forest projects, mint NFTs and upload data to this validator and a set timeframe.
+
+And when the validators approve the data upload, meaning that the data upload's correct, that data gets written into the NFT metadata. So ultimately like in kind of very big general terms, we're [inaudible 00:13:54] like the very, very first ugly infrastructure for some type of record keeping system between a forest project and an on-chain validation infrastructure, where basically a collective group of people will stake on outcomes of... of what's the correct outcome.
+
+That's like the very, very simple version of what we're trying to do and I think Fred can talk more about how we've had to customize that specifically for accommodating the forest industry. Because I didn't know this at the time, but there's a lot of kinda specificities with forest specifically in terms of the data they need to upload and what they're required in order for it to be legitimate. Fred do you wanna take it?
+
+Fred Fournier: So maybe in terms of stakeholders, of course an important stakeholder here are the projects. And the projects, they are either doing some sustainable reforestation. They are doing con- conservation, they are doing afforestation, different set of activities. And what they need to report on is, what's happening with their projects year after year. And that's kind of the essential piece here, is that the reporting is not once in a lifetime it's regularly. And what we're looking at here is reporting on data on the tree.
+
+So basically, and I'll explain now it... how it works. Imagine you have a s- small project, few hectares somewhere, you reforest with the community and then you'll have a few sampling points on your forest plot. And those sampling points will mean that you will have to go on the field. One of you, of your field agents or yourself, you go on the field to the sampling points and you'll then upload some data about 15 trees, around 15 trees per- per sampling points. You'll upload a picture that is geolocated, you'll upload the tag of the tree, the diameter, the height and basically that type of data you'll do every year.
+
+So the validators that are in the system, they will validate the data based on a previous set of data. So they'll be able to say, "Okay, last year those trees or that specific tree was three meters high, 20 centimeters in diameter, whatever. And this year, yeah, well okay it has grown by that much. I validate this tree... the data on this tree," and then they do it for every tree.
+
+And if you do that at scale, of course, then you validate... basically you validate all the data of your project, meaning that the product is genuine. And then if we want to extrapolate to a second step of what we want to develop on top of this, what we call MRV systems or... MRV stands for measurement, reporting, and verification we will be looking also at carbon and we can take the discussion further on to that later. That's kind of the basics we have in place.
+
+Jason Jacobs: If I understand it then, in my mind, this looks like some kind of smartphone app that the forest owner has where they're taking pictures and sort of uploading data off of sensors. And then there's this network of validators out there in the blockchain ether world who are getting this data and somehow being rewarded for either affirming that the data looks accurate and thus the project owners forests are what they say they are or is somehow saying, "No, this data looks fishy. Something's going on here." In which case the forest project may not have the value that the market thus believes it has. At a highest level, am I understanding that correctly?
+
+Michael Kelly: That's exactly right. There's a couple of other steps in so far as we basically have the mobile app one step removed from [inaudible 00:17:11] to the chain. So basically the project has the mobile app in the field, the mobile app sends data to a dashboard. The dashboard operator, which is ultimately the project manager, they can ultimately decide what data they want to be sent to the validation Oracle and then they send the data at fixed intervals.
+
+The thing I really wanna emphasize is, the kinda two big aha moments that we had was, once we kind of... we call it the timer of the protocol. So basically once you start your project, you have to upload data every six months for the first two years every year after that. Once you start having these data uploads flowing on this timer, two really, really cool things happen. The first one is, as Fred said, you can build in additional conditions for sending data. And if those additional conditions are met, you have the potential of doing something like launching a carbon credit for the data that was sent by the forest project, all on a smart contract level done by the core group of validators if the data is approved.
+
+The second one is, from a financing point of view, you can take money, put it into a pool or put it into a smart contract and say, "If this project is successful in their third or fourth data upload, release $20,000 to them. If this project is successful in their seventh or eighth data upload, release $30,000 to them." So you have some type of like really on-chain results-based climate finance and then in the crypto world, you can go absolutely wild with that, where you can plug that into a DAO. You can plug that into an NFT marketplace. You can plug that into an individual NFTs artist revenue [inaudible 00:18:43].
+
+So I don't know for the listeners or for you guys, if you guys are familiar with like Constitution DAO, what they were able to do. Where basically a bunch of people come together, they pull money and they're like, "We wanna try to bid on a copy of a constitution." What we're ultimately trying to do is to put kind of the infrastructure, the pipeline in place for people to say, "We wanna buy up an Amazon hotspot and we wanna be able to basically buy it and fund it. And ultimately also get carbon credits for it on a 15 year expanded timeline, purely done via smart contracts, without having to worry about too much paperwork or too many white tape to cut through."
+
+Cody: Jason I feel like there's two directions we could go with this right now. One is, to continue to pull on what the possibilities could be but the other would be, to actually look backward at the existing systems that are out there in the world today and what's wrong with them. And that to me feels like the right place to start. Which is to hear you guys, presumably did some work to understand the existing MRV space, the existing sort of forestry verification space and saw some challenges and problems with how projects were being validated, how projects were being brought into market places. And I'm curious what issues you saw with the existing systems that allowed you to land on OFP.
+
+Fred Fournier: That's a very good point. I would start not so much into the comparison of the products because we have a very different products than what it exists today. But at a higher level, one of the main issue today in the MRV space is not... of course there are a few tools out there, but none of them I would say are really truly digital. And all the- the climate tool are really based on regular [inaudible 00:20:20] take on a book or things... something like that. That's kind of the product side of it.
+
+But th- the other... a very interesting thing is that, all the projects we've been supporting at our mission, all the projects we've been talking to with OFP that are, would say small size, medium-size projects, up to a few thousand hectares today, they don't have the resources neither the finance to actually access an MRV tool that will be enabling them to access carbon finance or any type of finance.
+
+That's kind of the bottleneck we saw, which is the overarching problem. What we are trying to develop here is a product that will kind of solve that not only for the finance aspect but also for the utility aspect on the ground, the operational aspect on taking measurements on the ground. And also on the fact that people today in this world, they don't own the data. So if your project, you are doing MRV, most probably you'll be hiring a consultant or a firm and you will be not eventually owning the data. The data will be in a report, it will be public- publicly available not so easy to access anywhere but publicly available. And the data is out there somewhere.
+
+In our case we want the projects to own their data, which is super important in our sense. So I'm not really answering what we saw completely but this gives the bigger idea of where the industry stands today. We can jump into more details about carbon or just regular MRV tools, about how UN does it, totally open to discuss that. But that's kind of my approach to it.
+
+Michael Kelly: If I could add something also, Fred, on that topic real quick. I'm not coming primarily from a super climate background. So I think I got a nice, fresh look with more crypto tech eyes. For me the kind of standout moment was, you look at the macro trend. Are more forests being put in the ground and preserved than are being cut down and getting destroyed, obliterated on a global scale, at least from wha... the data we looked at pretty bad record the last 40, 50 years of where the direction was going. We watched this all together, Fred, it was... I wanna say the International Forest Congress, a bunch of people came together to talk about forests on a whole bunch of different levels.
+
+And they kept talking about the need to preserve these forests and time and time again, it ultimately boiled down to, what is the trade off for where these forests are between commercializing the forest and cutting it down or doing something else with it? And by and large, I think the only answer they said was, some type of tourism, some type of tourism benefit from coming and visiting the forest to keep it in the ground or something like that. Now, honestly speaking from my perspective, I found that pretty unpersuasive and pretty problematic, just kind of the- the big picture of where it was going. That was kind of the overall takeaway, it was like, I wouldn't say there is a very scalable plan in place for keeping the forests in the ground based on the macro trend.
+
+Jason Jacobs: When you heard that [inaudible 00:23:15] that tourism was the best thing that they could suggest in the trade-off of not commercializing and preserving versus commercializing and cutting down. What was the better alternative that you imagined at that time?
+
+Michael Kelly: I mean, I think for me it was like a, whoa, this is the situation of where we're at. Less of saying to them, "Oh, it's terrible that you guys are trying to kind of preserve this for tourism," not at all. It was more like, "This is where we've come to with the way that our monetization economic system looks at natural capital things like trees." It's basically between you commercializing, cutting down your forest or putting it for tourism we're between a, a rock and a hard place.
+
+Jason Jacobs: If I'm hearing right, I think what I'm hearing is that carbon credits can be compelling but in order for them to be compelling, they need to be verifiable. In order for them to be verifiable, it's expensive and only available to the biggest land owners and so if you are able to do them in a more distributed way it brings down the cost, which increases the accessibility which overall increases the number of credits that are possible. Is that right?
+
+Fred Fournier: That's exactly right. And I would add something here is that I'm coming from the consulting world. I've been working in consulting for 20 years. So I know where, well how it works. If you want to scale and we need to scale and go fast with this issue on climate. It's not about hiring thousands of people who travel the world and report on their thing, in their report and trying to make that available to all the world. We need a more systematic approach to this and open source. At least if not open source, very easy to access, which is not the case today.
+
+What you will find if you are interested in, let's say carbon into the forest- forestation world, you first need to find the source of data, which is already very hard to find. If you are in this industry you'll know how to do this but for anyone who would actually buy carbon credit or be involved in there, it's a very, very complex market to understand first and then to eventually compare, make a decision it's pretty opaque to be honest.
+
+Jason Jacobs: If you are successful in this world that you're envisioning or if this world that you're envisioning manifests, where do the [inaudible 00:25:30] and gold standards fit into that future, if at all?
+
+Fred Fournier: I think they will still be there. We're not specifically aiming at huge projects like they have, we are more aiming at unlocking nature value where it's not been unlocked yet. And most of that is in smaller project, community project, farmers project, indigenous people projects. Now there are hundreds, hundreds of thousands of projects out there that would be very, maybe not happy, but would actually be looking for a solution like that in the years to come.
+
+Jason Jacobs: What prevents the existing certifiers from going smaller and more distributed as you're describing, not necessarily with blockchain but just in general? If they wanted to, could they? Have they tried? Might they try?
+
+Fred Fournier: Well, I guess it could definitely try to do that. One thing that is difficult for them, I would say is that they are very diversified. So they don't do only forestation. They do multiples different type of projects. We do only forestation with a very targeted approach, which requires fair amount of resources to develop a solution like that. And so they are not targeted specifically at that, but they could very well...
+
+And I- I'm pretty sure they're trying to do something with blockchain to be more transparent and trustful. But I think the issue here is really to come with a system that is easy enough and trustful enough for everyone to use and that is not their business model. Their business model is to be consultants, so you sell [inaudible 00:27:04] and the more [inaudible 00:27:05] you sell [laughs] the better margin you have, which is a totally different system that we're building.
+
+Michael Kelly: Just to add to that. We envision this in a way where hopefully the kind of existing guard jumps on board and joins us as validators of our system. We're very open to bringing them on and supporting OFPS pillars of that kind of validation structure. We sometimes liken what OFP is trying to do to carbon, a lot like what Bitcoin has done to banking. So if you were a Wall Street bank that started buying Bitcoin and offering it as a financial asset to your customers in 2011, 2010, your bank would have done pretty well today if you had built those services early on. I'd like to think of that in a similar way to how we are with OFP and carbon accreditation.
+
+Jason Jacobs: Can you talk a bit about the steps? So you mentioned white paper, so there's a white paper and it sounds like there's some marketplace dynamics here and some chicken and eggs that occur. So what are the steps to bringing OFP or an organization like OFP to market and where are you on that journey today? What steps have you been through so far? What's coming next?
+
+Fred Fournier: There are many steps at the same time, I would say. Because we're building a system that needs projects, validators, contributors and of course building a community around the project. So those are kind of the four main pillars, I would say. Mike, maybe you find the fifth or sixth, many pillars. But in terms of projects, I would say that we've been talking to a lot of projects and all the smaller and medium-sized projects we talked to, most of them said, "We are either interested or we find your idea appealing, we might be interested." So, at the moment we are testing the app with them.
+
+We have about 10 projects where we are testing the app on the field, getting the feedbacks, improving the app. On the validators side, we already have contracts signed with, I would say like three, four validators and at least conversations with 20 more. All those validators are companies, mostly knowing about the forest industry and ho- how forests grow, are being monitored, stuff like that. So on those two pillars, I would say that we are pretty confident. We haven't seen any major drawback at all. On the contributors side, we are now at the stage of private fundraising. We have three tiers. We are close to finalizing the first tier and then moving towards the second and then on the community that is more Mike's turf. So maybe on the community, you can take that on.
+
+Michael Kelly: So kinda just to recap, projects are the ones who are uploading data to the protocol validators. We're actually seeding the validators. So sometimes if you do like a really [inaudible 00:29:43] in crypto, anyone can be a validator. In order to kinda build the legitimacy of what we're doing, we actually are seeding who's gonna get to validate early on to make sure that the quality is upheld, it doesn't degenerate in that sense.
+
+And then as Fred said, contributors, we're happy to say we've actually also gotten some contributions from DAOs and other kinda people in the crypto space that see the potential here and are really interested in getting in early because they see how a kind of fully on-chain ecosystem like this can benefit them in the long run.
+
+And then the community side it's just really, really important in crypto. I think most of those who have been around know that communities really keep projects afloat, especially no matter what happens in the market. And we're pretty actively building out the OFP community right now. It's a busy, busy time. We have a big community fund as well, huge community fund of tokens to bring on and build bridges in the crypto space for this mission.
+
+Fred Fournier: Just something on the project side, basically, we are talking to different categories of people here. We are talking to countries. So we have now a conversation open with Kenya, where we are identifying three projects to pilot with them. So that's kind of country level. We have all the countries, we're in discussion with like Panama, Ivory Coast, a bunch of few other countries. So that's kind of more, a bit longer term l- level, I would say.
+
+Then we have bigger organizations like... that are multiple products organizations like Eden Reforestation you may know of they're from the states or Trees for the Future instance they're also in the states, so bigger organizations like that. And then we of course have a lot of conversation open with smaller projects that are trying to find a way to get more visible, get some more money. So we have those kind of three levels of conversation with those partners.
+
+Jason Jacobs: Do you all have a timeframe for when you plan to take a project end-to-end through the platform? If so or if not, what are the key steps you need to yourselves validate? What are the key assumptions you need to validate yourselves to get there that are still kind of open issues for you?
+
+Michael Kelly: Fred, do you wanna take this one?
+
+Fred Fournier: Yeah, sure. Then maybe I think you can take the product side of it. The main step for us is to be mainnet probably end of April, end May, something like that. Around, yeah, April-May will be mainnet. So at that point, the MRV system has to be in place, has to be working so we can onboard projects. The validation will be working. And then we are thinking of developing further for accommodating carbon.
+
+Also trying to do that this year, if possible, those are kind of the main big steps forward. And then of course, what we need is to onboard more people. We already are a team of 20, 25 and we need more people on board for the developments of products. So we are really now in the, in an extension phase at all levels. On the product side, we have many other products we want to develop. Mike can have a word there also.
+
+Michael Kelly: I'd say that the short term, meaning this year and into next year name of the game is like, build out the core protocol infrastructure. So that means making the carbon methodology possible, that means launching a DAO to govern the core metrics of the protocol. It means launching a financing platform to allow projects to get financing from all aspects of the crypto spaces and also possibly building some bridges with other ecosystems that we've been talking to who are really interested in supporting this kind of new world of tokenized forest projects.
+
+That's like our two year runway, you could say. So it's gonna be incremental, projects will go live this May. Carbon will probably not go live until sometime next year. The governance and the financing platform will probably be somewhere in between May and sometime next year, we're getting kind of all of our ducks in a row. Once that's built, then the kind of circle is complete. And at that point, it's really time to turn the motor on and start onboarding more and more projects and trying to kinda scale the number of total hectares on the protocol being preserved. That's pretty much the plan.
+
+Jason Jacobs: And where does the community fund fit into all of this?
+
+Michael Kelly: So ultimately when we kind of create the supply dynamics to the token, we wanted to ensure that something that a lot of projects, at least that I've seen in the crypto space, really don't do well is building runway for building a really, really kind of deeply entrenched and loyal community to the project on the crypto side. What that means is, people who are going to introduce the project to other crypto projects, people who are going to be actively discussing the project in their own networks, people who are gonna be involved kind of in representing the project in kinda the digital spaces that crypto incorporate.
+
+So we built in runway for basically seven million tokens of the protocol are reserved for the community side of things. We have community operations, which is kind of difficult to explain if you're not in crypto. But essentially it's like a... you could call it like a crypto marketing program from the community. Alliances with people from the mother ecosystem we work with from marketing, other ecosystem treasuries. Really what we wanna do with this fund is we wanna get the message out that if you can support us in some way of what you guys do with your project, we can collaboratively work to kinda green crypto.
+
+And green the image of crypto and everyone can buy into this and everyone can be involved in participating in this new product, that even though it lives on NEAR everyone can reap the benefits of having on-chain carbon credits, on-chain tokenized forests. And so we wanted to really be intentional about that for other DAOs out there, for other NFT marketplaces out there, for other people that wanna get involved. We have the runway to say, "Let's build an alliance, let's build a partnership. We'll connect with you guys so that X percentage of all your sales from your NFT marketplace go to funding a forest. Or X percentage of this is pooled towards supporting a new project." Something along those lines.
+
+Jason Jacobs: You mentioned NEAR, I assume that's the blockchain or the protocol that you're building OFP on top of. Many of our listeners who- who aren't deep into crypto have probably heard of Ethereum and Bitcoin but maybe don't know what NEAR is. Maybe you wanna quickly describe that and why you chose that as being the underlying chain to build this on top of?
+
+Michael Kelly: I hope I don't bore people here. But maybe the quick disclaimer is, most of what you've shown about crypto is doctored in some way to affect how to think about one ecosystem or another. And when you really kinda dig down into how protocols work, you look at things like scalability, can it scale cost? How expensive is it to use? And then this is the real [inaudible 00:38:50] for NEAR, usability.
+
+So how easy is it for non-crypto people to actually use the protocol? So, for those in crypto who have been around from 2016, 2017, it can be a bit of a mess when you're trying to get your mom to create a MetaMask account, send ETH over to a certain offering. Oh, you miss zero on your gas fee then you're paying more. Oh, you miss a alphanumerical hash in your address, guess what? It's gone forever. Crypto can be very unforgiving.
+
+NEAR as a next generation protocol, they... I think they were building in 2018, 2019 was when they started building. They only launched in September, 2020. They did a really good job of correcting all these problems. Most of these problems you could say. So, we picked NEAR because in my opinion, they're the most usable protocol in crypto. And if crypto's gonna go mainstream, it has to be intuitive enough for people who know nothing about it to easily create an account, easily get on-chain and easily start participating without jumping through days of hassle and not having an idea what's going on. For climate people, that is like an absolute prerequisite because as you know, a forest project in Ghana or Ivory Coast or Central America might not wanna dabble with ETH MetaMask to be able to participate in this system.
+
+Jason Jacobs: So basically this allows a lot of the underlying blockchain stuff to be obfuscated to the users of your platform is what I'm hearing.
+
+Michael Kelly: An incredible amount. There's so much more we can go into here. But with my personal goal with OFP on NEAR is to flex how intuitive and seamless crypto can be. So we're gonna have prepaid transactions, we're gonna have a custom-built governance platform. There's going to be so much underneath the surface going on. We hope that people come to OFP and are like, "Holy cow, I didn't even think crypto was this advanced to be able to do this yet. How are they doing this?" We can say, "Oh, it's 'cause of NEAR protocol, thanks guys."
+
+Fred Fournier: I'd like to add something here. Also, I'm kind of the young guy into the blockchain here [laughs]. When I started looking into blockchain few years back, I was like, "No, that's... there are no use cases for that technology. It's nice. I [inaudible 00:40:52]." And a few years back, I'm actually running a project and I must say o- one of the most impressive thing in our project, it's the fact that projects, they won't even see that they were in blockchain. And that is actually one of the most impressive thing because it's been only a few years. And so I think it has a huge potential, not only for OFP but as a whole, as an industry.
+
+Michael Kelly: What we like to tell people is generally speaking, if you believe in the future of nature-based carbon markets and you believe in the future of on-chain data management, you should take a close look at OFP. Because what OFP is ultimately doing is it's straddling both of those macro trends. And we're trying to build it as fast as we can but we gotta build it carefully. My belief is, is that if we build it carefully those macro trends converge and OFP goes pretty big this decade, before the end of the UN decade of ecosystem restoration will be pretty significant.
+
+Jason Jacobs: And when you think about the different building blocks that need to come into place to make a big vision like this manifest, what are some of the pieces that would be most impactful to solve that you are not taking on yourselves with OFP? Where are the gaps?
+
+Fred Fournier: I think a lot of pieces here are coming from the industry as a whole. And of course, as we're building first on NEAR what actually NEAR will be developing in the few coming months, years will be actually [laughs] a big help or a big break on what we develop, in some sense. But also, and Mike can talk a lot more about this, bridging to other blockchain is gonna be essential, I think. It's, of course we have our work to do, make sure what we develop is gonna be working well, used as a good product and people will like the product. But also is also a challenge on developing together as an industry. And of course [inaudible 00:42:45] NEAR. I don't know Mike, what is your vision?
+
+Michael Kelly: That's funny 'cause when I heard him say gaps, I mean for me, the gaps are the appetite of people looking to make forests a thing.
+
+Fred Fournier: Oh.
+
+Michael Kelly: There was a report that we read at the very beginning. It was about the business of planting trees. You guys can look it up, I forget who wrote it, I think it was in Nature. The business of planting trees is gonna be one of the most incredible commercial opportunities for the next 25 years. That's really the gap of what we're doing. Our protocol success hinges on the belief that there is an appetite in the world to preserve forests in the form as they stand today.
+
+And there's an appetite in the world to monetize the carbon sequestered by the forests and to care about keeping these forests in the ground. If something happens and that appetite goes away, then we're wrecked. But my approach at least was, well, if we're wrecked and that happens then the world's gonna be in a very different place because the forests are wrecked as well.
+
+Fred Fournier: [laughs].
+
+Michael Kelly: That's kind of my angle. [laughs]
+
+Jason Jacobs: Okay.
+
+Cody: For anyone listening that's inspired about what you're doing, where do you need help and who [inaudible 00:43:48] you wanna hear from, if anyone?
+
+Michael Kelly: This is a huge question. I'm sure Fred you'll have things to add. I think the one thing that I wanna add, which is so important to me coming from the crypto space is like, this is a collaborative opportunity. We really don't consider looking around, there being very many real competitors to what we're trying to do. The number of ways that you can integrate with our protocol, the number of ways that you can finance a project on the protocol, the number of ways you can take some of our open source tools, white label it and privatize it and use it underneath the surface but for your own business.
+
+From kind of a big picture perspective, we're looking to collaborate with the new players, with the traditional players, with the new entrepreneurs. We're hoping to kind of bring a new generation of climate crypto people forward to build and experiment and- and, you know, try to find creative ways of ultimately monetizing nature in a sustainable way. In the more immediate term, hiring is a big thing and signing on board as a validator or signing on board with your project is probably the most concrete stuff. Fred, I don't know if you have other stuff to add from there.
+
+Fred Fournier: No, I think you said it well. I think like-minded people are essential to a project like ours because we're proposing a new approach to, I would say business, not as a whole but as how you value nature. So, I think the mindset here is super important. So, you be a project, you be validator, you be a contributor or whoever we are very open to like-minded people. That is really the essential point here for me.
+
+Michael Kelly: There are jobs, we just posted a new jobs position. We're looking for people who wanna own the governance angle. People who wanna own the financing angle, people who wanna own the ecosystem development crypto angle. So if you're listening and you have a background, you're like, "I really wanna get into DAO governance," we have a perfect role for you at the intersection of climate and crypto for DAOs. If you wanna get into results-based climate finance, we have a perfect role for you at the intersection of financing in crypto. And if you're a crypto person who cares about the climate, we have a perfect role for you where you basically can build these alliances to green crypto in the coming decade.
+
+Jason Jacobs: Cody, any burning questions? Did I miss anything?
+
+Cody: I think we covered a ton of ground, I'm really appreciative. I guess, where should folks go to learn more, read more? Is your white paper openly available for folks to dive into? Maybe just give listeners pointers on how they can dive in if they wanna double click.
+
+Fred Fournier: The white paper is available on our website. So the website is openforestprotocol in one word .org. You'll find information, other type of informations or you can follow us on Twitter, LinkedIn and all other social media, I don't know. Or you can reach out directly to us. We are very open to discussion. So you find us on LinkedIn. Mike is probably a bit more difficult to find than me [laughs] but I'm pretty sure you-
+
+Michael Kelly: Twitter.
+
+Fred Fournier: ... could get to him. [laughs]
+
+Michael Kelly: Crypto Twitter. Just DM me on crypto Twitter or tweet at me and like Fred said, "Very open," love to kinda just carry the conversation and no background needed. Just hit us up and happy to chat.
+
+Jason Jacobs: Awesome. For Mike and Fred, really interesting and exciting what you're doing and ambitious, I should say. Eager to chat, to progress and wishing you guys and the whole OFP team, every success.
+
+Michael Kelly: Thank you guys. Thanks for your time. Appreciate coming on here today.
+
+Fred Fournier: Thank you so much, Jason. Cody was... very nice to be on the show [inaudible 00:47:08] you.
+
+Jason Jacobs: Hey everyone, Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at myclimatejourney.co. Note that is .co not .com. Someday we'll get the .com but right now .co. You can also find me on Twitter @jjacobs22, where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear. And, before I let you go, if you enjoyed the show please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that, thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

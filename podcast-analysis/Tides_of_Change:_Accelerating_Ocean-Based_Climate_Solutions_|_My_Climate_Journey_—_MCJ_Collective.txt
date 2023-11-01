@@ -1,0 +1,266 @@
+Dr. Julie Pullen is Founding Partner and Chief Scientist at Propeller, an early-stage venture fund focused on the intersection of the oceans and climate change. It recently announced that it had raised $100 million for its first fund. Coincidently, today (June 8) is also World Oceans Day, globally recognized by the UN as a day to foster public interest in the protection of the ocean and the sustainable management of its resources.
+Today's conversation is about the ocean, its critical role in regulating our climate, how humans have been damaging this balance, and what we can do about it. Julie's work is at the intersection of humanity and the oceans, and her expertise spans climate, weather, and hydro science, with a particular focus on high-resolution coastal urban prediction for flooding, heat waves, and other perils.
+Prior to her role at Propeller, Julie was most recently the climate strategist at Jupiter Intelligence, a startup delivering hyper-local projections of climate impact and business risk. And she's an adjunct research scientist at Columbia's Climate School. She was previously an associate professor in civil, environmental, and ocean engineering at Stevens Institute of Technology, where she organized field studies globally to improve our understanding and prediction of the Earth's system. And we could go on further about her amazing credentials at the Naval Research Laboratory and more, but let's jump into learning from her about our oceans.
+Get connected: Dr. Julie Pullen LinkedIn / TwitterCody SimmsMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests. 
+Episode recorded on June 1, 2023.
+In this episode, we cover:
+[2:39] World Ocean Day activities and awareness
+[4:22] An overview of Propeller and Julie's work
+[6:16] The reason behind the firm's ocean focus and its scope
+[8:00] Propeller's ocean investment categories including,  carbon, organics, and industrials
+[10:04] Major challenges and concerns with oceans today
+[13:00] Implications of warming ocean waters
+[15:43] Transition points in ocean health that could lead to cascading effects
+[19:09] The role of venture capital in supporting ocean-based solutions
+[20:53] A brief overview of marine biogeochemistry
+[22:52] Solutions aimed at ocean carbon sequestration
+[25:36] Challenges with measurement and verification
+[28:43] The role of data simulation
+[34:13] Fisheries and food security solutions
+[35:40] Alternative proteins on the market
+[38:44] Julie's time at Jupiter Intelligence
+[41:32] Emissions reductions as a wedge to drive necessary change for our oceans
+[43:30] Ocean-specific pledges like 30x30
+[44:39] The importance of benthic environments and vital ecosystems
+[45:59] What Julie's excited for in the ocean industrials space
+[47:53] How people can get informed and involved in ocean preservation
+Cody Simms (00:00):
+Today's guest on My Climate Journey is Dr. Julie Pullen, founding partner and chief scientist at Propeller, an early stage venture fund focused on the intersection of the oceans and climate change, which recently announced that it has raised $100 million for its first fund. And if we are timing the release of this episode right, then the day this is first airing is World Oceans Day, which is recognized globally by the UN as a day to foster public interest in the protection of the ocean and the sustainable management of its resources.
+(00:33):
+So you can guess that today's conversation is all about the ocean. Its incredibly critical role in regulating our climate, how humans have been damaging this balance, and what we can do about it. Julie's work is right at the intersection of humanity and the oceans, and her expertise spans climate, weather, and hydro science, with a particular focus on high-resolution coastal urban prediction for flooding, heat waves, and other perils.
+(01:03):
+Prior to her role at Propeller, Julie was most recently the climate strategist at Jupiter Intelligence, a startup delivering hyper-local projections of climate impact and business risk. And she's an adjunct research scientist at Columbia's Climate School. She was previously associate professor in civil, environmental, and ocean engineering at Stevens Institute of Technology, where she organized field studies globally to improve our understanding and prediction of the Earth's system. And I could honestly go on further about her amazing credentials at the Naval Research Laboratory and more, but instead, let's jump into learning from her about our oceans. But first, I'm Cody Simms.
+Yin Lu (01:44):
+I'm Yin Lu.
+Jason Jacobs (01:45):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+Yin Lu (01:51):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:57):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change, and all the ways people like you and I can help. And with that, Julie, welcome to the show.
+Julie Pullen (02:12):
+Thank you. It's great to talk with you.
+Cody Simms (02:15):
+Well, thank you for joining us. And if we've timed this appropriately in terms of the release date, we should be releasing this on World Oceans Day in 2023, which is June 8th, I believe. What exactly is World Oceans Day? I assume this is your world. You live in this. So you probably have at least a decent understanding of what the day represents.
+Julie Pullen (02:35):
+Well, in fact, it's expanded to be a whole week.
+Cody Simms (02:39):
+A week?
+Julie Pullen (02:39):
+And we have a ton of activities here in New York, associated with the UN, and they always recognize and draw attention to the ocean and the ocean situation, and the ways that we can help the oceans to heal. There are big gatherings at the UN, as well as the Explorers Club, where I'm a fellow, has a whole week of programming, and it is a really, really special week in New York. I'm very much looking forward to it.
+Cody Simms (03:06):
+Oh, that's awesome. Well, I wish you well with all of the activities involved, and hopefully folks who are listening have time to find an activity or a way to get engaged as well in the time that they have after this comes out, or if not, then maybe next year. But hey, I would guess any day is a good day to try to figure out a way to help our oceans out because they need it, which is why we're having this conversation.
+Julie Pullen (03:25):
+That's exactly right. And just the awareness on that special day, as you said, every day is Oceans Day, but also it's an opportunity to just learn something new, or be able to talk to your friends about what the oceans mean to.
+Cody Simms (03:39):
+So Julie, I'm excited to learn from you all about our oceans, and the intersection of oceans and climate change. It's a topic that is so vast that I was daunted with where to even jump in. And so, where I thought we would jump in is by talking about you. So you're in a current role as the founding partner and chief scientist at Propeller, which is an early-stage venture fund focused on technologies that relate to the ocean. You all recently announced $100 million in the ...
+Julie Pullen (04:10):
+Oh, for that, we're up to 120 million.
+Cody Simms (04:11):
+Hey. All right.
+Julie Pullen (04:13):
+So it's been really extraordinary, this journey.
+Cody Simms (04:16):
+I love it. Well maybe start there. Explain what Propeller is, and how you got involved.
+Julie Pullen (04:22):
+Yeah, so Propeller, it's a brand new venture fund. We launched in the fall, and really based on this premise that science and technology needed to be centered in how we thought about ocean climate solutions. And it was really, as most wonderful things are, a series of conversations that drew a wider group of people into the orbit, and really started with conversations around the centrality of ocean science, and in particular our founding partner, Woods Hole Oceanographic Institution, where the president, Peter de Menocal, who used to be at Columbia, as part of the climate school there, where I also have an adjunct appointment. He came together with investors and drew more of us into the mix to recognize this important rule of catalyzing the research that was going on in these ocean science labs, and then bringing it out into the world as the solutions that the world truly needs.
+(05:19):
+And to me, this really resonated as part of my background, I had led the Port Security Center of Excellence for Department of Homeland Security. So it was a $50-million center working with ocean science institutions to commercialize that technology, and deliver it into the hands of the Coast Guard, and Customs and Border Protection, FEMA, and other agencies. And so I understood, I'd seen up close what it takes to do this work, and how hard it can be, and how intentional it needs to be. And I just felt I was ready and up to the task of doing this work. And in particular, the deep work with scientists. So that is a part of our portfolio, is working with Woods Hole Oceanographic, and really working with high-value labs, and bringing those technologies out. We also have a whole portion of our portfolio that is focused on investing out in the wider market at the pre-seed and seed stage.
+Cody Simms (06:16):
+Fantastic. So then if I understand it, you're saying some of the capital is going toward taking technologies out of Woods Hole Oceanographic Institute and helping them to commercialize. And some of the investing is finding projects that exist in the wild in and of their own, and helping to seed them and provide them with more capital to grow further; is that correct?
+Julie Pullen (06:38):
+That's right. That's exactly right. And the reason this fund came into being is because this legacy of investing in the ocean space is really centered largely on sustainable fisheries and aquaculture, and there's an opportunity to expand beyond that. When I started investing in oceans as an angel, finding those opportunities in the climate arena was new, and it's grown so quickly. And so having a dedicated fund to that just makes a lot of sense in this moment for the investor community, but most especially for where we are with the planet, and what needs to be achieved.
+Cody Simms (07:18):
+And when I look at the things we've seen at MCJ, in the early stage, and we've had a number of them on the podcast, there are technologies that are trying to help the ocean continue to be a carbon sink. There are technologies that are helping to electrify things that go on the ocean, whether it's ships or boats or transport, there are technologies that are helping to create more sustainable ways of using the ocean as a source of food for the growing population on the planet. Are all of these things in scope at Propeller?
+Julie Pullen (07:52):
+You just went through our whole investing thesis right there.
+Cody Simms (07:58):
+Well, at least we're seeing some of the same stuff. That's good to hear actually.
+Julie Pullen (08:00):
+In like a really succinct way. So we call that first one ocean carbon, and we take a broad view of it, and we include the blue carbon nature-based solutions, as well as the ocean CDR as part of that, because we think they have a lot in common in terms of the capabilities, the tech stack that will be required on the monitoring, reporting, and verification side, and being able to deliver those as carbon credits with hopefully learning from some of the experiences on the terrestrial side of the carbon markets.
+(08:32):
+And then that second investing area we call ocean organics, which is the transformations of taking macro algae for instance, and utilizing a lot of different components of it, whether that's replacing packaging from seaweed as an ingredient, or putting as a protein in consumption or in nutraceuticals for higher-value products, but just using that whole all parts of the plant.
+(08:57):
+And then the last is the ocean industrials, which are those industrial processes that really hold a lot of the potential for decarbonization on the planet. It's some number like 20% of emissions reduction can come from the maritime industries. So that's the shipping decarbonization, but it's also the transition to offshore renewables, and marine energy, like our wave and tidal energy. We include also in there the parts of the processes where flows of water are exchanged with the ocean. So whether that's desalination plants or wastewater streams from power plants, how those can be used to improve the waters, or increase efficiencies in the midst of processing. So those are all in scope for us.
+Cody Simms (09:40):
+Fantastic. And mostly in early stage, seed stage, kind of the primary area we are going. So a lot of tech risk in a number of these categories, I'm guessing.
+Julie Pullen (09:49):
+Yeah. There is. And science risk really. And we see ourselves as uniquely-positioned to understand and take account of that risk, and be able to communicate that also to the wider community of what is in the solutions space.
+Cody Simms (10:04):
+And taking a step back from, "Hey, here are some of the solutions we're looking at." What are the biggest risk factors today that our oceans are facing? I think of four, and these are probably not accurate, this is just Cody off the top of his head, but I think of sea level rise and melting ice caps. I think of acidification and the desertification of our coral reefs, and that whole ecosystem. I think of the collapse of our fisheries in general. And I think of plastic as just being this giant, horrible plague on the oceans. When I was preparing for this, those are the four areas I think of. But you live and breathe this, and so I really want to hear from you, let's scare ourselves before we get into solutions. What are the big things we need to be aware of and be worried about with respect to our oceans today?
+Julie Pullen (10:58):
+So just to start off from where you left off with those remarks. So the majority of those risks that you identify are associated with the warming waters. And so most people appreciate that the ocean is absorbing the majority of the heat on the planet. It's been buffering the worst effects of climate change for us, but may not continue to do so because one of the other aspects about our oceans is that as they heat up, they hold less gas. So there may be a point at which they start belching out CO2 back to the atmosphere. We don't know a lot about when and how that might take place.
+(11:37):
+The other thing about the warming of the oceans is it doesn't just proceed in a linear fashion. The oceans have been starting to experience heat waves like the analog of what we experience on the land side. So these are marine heat waves, and they've been growing in magnitude, duration, and frequency. And these have really extreme impacts on the creatures and our ocean.
+Cody Simms (12:01):
+And these are localized, right? Like a localized heat wave?
+Julie Pullen (12:03):
+These are localized. But now, in all our ocean basin, so 20 years ago we didn't even have, as ocean scientists, the term. Marine heat waves didn't exist. And then it started being represented as a topic in our meetings of ocean scientists. We have this every two years. The Ocean Sciences Meeting. I was one of the technical leads for it back in a time when we weren't even seeing sessions on it. And now we are. So it's very much an important topic for understanding what's happening to our oceans, because some of the creatures like coral, they can't get up and move. So they're sitting there experiencing being bathed in the heat. So we have the coral bleaching that's increasing on our planet.
+Cody Simms (12:42):
+And is that caused from changes in currents? Do we know what's causing these heat waves?
+Julie Pullen (12:47):
+It's the warming oceans overall. And when you think about what's causing the heat waves on land, there's various different patterns that sort of conspire together, but increasing over time due to climate change. So there's these more ...
+(13:03):
+But increasing over time due to climate change. So, there's these more like mesoscale, or local processes that are then interacting with the larger scale processes. So, it's similar to that. We have the larger scale, and then the more localized, shorter term processes that are all coming together. So, the fish, some of them can leave their area subject to them finding food somewhere else, but they can't keep migrating forever. And so their extinction risks associated with these novel conditions that are being experienced by our oceans, and not just across heat, but also ocean acidification as you mentioned, and also the plummeting oxygen levels in our ocean. But I want to reframe it in a different way, which is that there was a paper that was published in science back in the fall, and it was identifying the tipping points for climate that we face on our planet as we exceed a 1.5 degree C world. And then all of the near term tipping points. So, in that 1.5 to two degree sea range are localized in our oceans. So, those are the coral loss that we spoke about. It's the polar ice loss, and it's a circulation shifts in our oceans. And these are all interrelated because it's the polar ice loss that is fueling the changes in those deeper submergence at the poles that drives the whole heat conveyor system. Or I like to use the word, the circulatory system of our whole planet. And it's not just the heat that's being transported by this spaghetti map of currents that are on the surface, and then dive down into the deep...
+PART 1 OF 4 ENDS [00:13:04]
+Cody Simms (14:39):
+Which includes wind currents too, right? It's not just underwater currents it's...
+Julie Pullen (14:43):
+That's right.
+Cody Simms (14:44):
+...all of it.
+Julie Pullen (14:44):
+So, we live on a rotating planet, and because of the rotation effects, and the fact that the planet is experiencing the strongest heating in the equatorial band, the rotating planet redistributes the heat. And in the atmosphere it's unconstrained. And so it forms these circulation cells, or these overturning cells that are moving the heat toward the poles. Then the air cools, and then it moves back toward the equator. In the ocean, we have the continents that provide these boundary regions. And so the currents are more complicated as they maneuver around the land masses, but it's fundamentally doing the same thing. It's about the heat transport, and the heat circulation to equilibrate our planet. But that also means that those waters that are submerging in our pristine polar regions are also bringing oxygen. They're oxygen rich waters. So, they're oxygenating the deeper parts of our ocean were it to sustain life.
+(15:43):
+And there was a really important paper that came out last month by colleagues in Australia led by Matthew England's group that has identified in this arena of the circulation shifts, and even relatively near term tipping point, which is the circulation shifts in the Southern Hemisphere, in the Southern Ocean region. So, that overturning circulation could be shut down by 40% as soon as 2050. So, these start to all be in play. And tipping points is a colloquial term. What we mean, and my background is in complex systems, and nonlinear dynamics, and the mathematics, and computational modeling associated with complex systems. And what we mean is that we face state shifts, or transition points where we can't guarantee stability. The stability of the system is not guaranteed going forward, and that could also lead to cascading effects. So, the coral reefs are the nearest term ones. And so at 1.5 degrees C, we face 75% to 90% loss of the coral reefs. At two degrees C, we face almost complete loss of the coral reefs. So, this region, this 1.5 to two degrees C, really is activating for the potential to tip some of these elements. And that's why I want to share with you that the oceans are particularly important, because, yes, there are a litany of abuses that have been sustained by the ocean as the climate warms, but there are really key ways that we can think about how to limit future impacts, and limit things from getting worse. And I think that framing, in terms of these potential state shifts of the whole earth system, and how vital the oceans are for those stability mechanisms really needs to be communicated.
+Cody Simms (17:36):
+So, I'm hearing let's focus less on where issues are with the ocean that need solving specifically, and more about, boy, the oceans are driving global instability, and how do we address all of those by focusing on solutions that can try to stabilize as much as possible within the oceans. That's how I'm hearing you frame it. I don't know if that is the correct articulation.
+Julie Pullen (18:02):
+Well, the ocean, by absorbing 30% of the greenhouse gas emissions has been doing such a vital function for our planet. And so helping it do more of that, and to help us on that whole emissions mitigation side is incredibly important. And ceasing future emissions of course. And then looking at nature-based, and technology, technology-based solutions around carbon dioxide removal. These are all, I think, part of the solution. And I'm really committed to broadening the space of solutions, and who, like you all, I join you in really being focused on helping people see themselves as part of the solution, and casting that net widely.
+Cody Simms (18:49):
+So, let's start to talk about some of the... You mentioned there are a handful of levers that potentially can be pulled. I don't know if in our lifetimes, in decades scale in what sort of scale you are sort of seeing these potentially able to go out, and make a notable difference. But what are some of those levers?
+Julie Pullen (19:09):
+So, what's really wonderful about venture capital is the ability to deploy the capital, and really test out solutions in a rapid manner. It's pretty unique in that way. And when you think across ocean science, there's been a lot of work developed in labs that hasn't been focused on commercialization per se, but is part of the solution space. And so building on that deep well of innovation, and then being able to say, "Okay, how does this match the moment? How do we get this out into the world?" So, we're working with scientists on accelerating their work in carbon flux monitoring so that we get a better handle on the sequestration that's happening in the ocean, and it's really beneficial for the planet, because if you can get the sequestration to happen down in the deeper levels of the ocean, it's essentially permanent on these longer thousand year time horizons. But the ocean is deep, and vast, and there's a lot of chemistry happening in it that's also modified by the biology. So, it's not just the currents, and the warming that are taking place, it's also what we call the bio geochemistry.
+Cody Simms (20:27):
+Let's talk about that for a minute, because at some level it sounds so simple, it's gravity, right? Stuff dies, and sinks to the bottom. And because it's carbon-based light forms, instead of rotting at the surface, and releasing methane, and greenhouse gases, it's sinking to the bottom of the ocean, and it turns into rocks. That's the way I understand it. I don't know if that's the simplest way to think about it, but at scale, at oceanwide scale, that's a big deal.
+Julie Pullen (20:53):
+Yes. And fundamental to this are the transformations that are happening in that life system. So, we have the phytoplankton who were the original oxygenators of our planet about halfway through the history of earth. Two, and a half billion years ago, they started photosynthesizing, and that created oxygen, it created our atmosphere, and it was a way of recycling CO2. And so these phytoplankton, there's this really elegant dance that happens every night as they're photosynthesizing near the surface, and they descend at night, and then the zooplankton in the twilight zone that doesn't see the light of day. So, they're aware that these phytoplankton are coming down. So, they go up closer to the surfaces of the water, and consume the phytoplankton. And then so that detritus, or marine snow, that rains down, and that's delivering a lot of the carbon to deeper parts of the ocean.
+(21:52):
+And just think how many millions of years of evolution it took to achieve that. And so it's beautiful, and it's also... There's ways in which shifts are happening in those systems as well. Phytoplankton, and southern notion. We've always thought of the southern notion as a large sink for CO2, but that's not always been the case in the past as recently as the last deglaciation, it wasn't. And there's signs that it may not be going forward either, and phytoplankton are part of that story as their populations are plummeting in many places. So, that may sound like a lot to pay attention to. And yet at the same time, the story is, how do we find these ways that we can sequester CO2 on longer timescales as much as possible, working with nature, and these elegant systems that have evolved to create this really incredible planet that we live on that's just so well-matched for us.
+Cody Simms (22:52):
+Yeah. So, thank you for unpacking that a little bit further for us. And so knowing that, that cycle exists, you mentioned that was the first solution you were kind of getting at is are there ways to enhance, or increase the amount of deep ocean carbon sequestration that can happen? What are you seeing out there as being some of the solutions that may help with that?
+Julie Pullen (23:13):
+Yeah, so this community will probably be familiar with the National Academy of Sciences report that came out now almost two years ago, that was framing the different areas of sequestration in our ocean. So, those include altering the alkalinity, so counteracting the acidification of the ocean that then allows the ocean to potentially draw down even more CO2 as well as locally having an effect on acidification. There are solutions that go back a little bit longer that relate to changing the amount of iron as a prompt, or a signal for more of those phytoplankton blooms to take place. That is in the basket that's referred to in the National Academy of Sciences report. There's also solutions around the equivalent of direct air capture, but for the ocean directly capture in the CO2, and then doing something with it like sequestering it deeper into rock, for instance. So, those are some of the ones that are more broadly recognized in this space, and I don't think we have fully spanned all of them that will be part of the solution. And so, in some ways, I think that keeping a really open mind to what will constitute a solution, or combination of solutions is really important at this stage.
+Cody Simms (24:36):
+And most of these, at least in an early version of their go-to-market, are banking on some form of carbon credit sale, carbon capture sale through the voluntary, or in the future, maybe compliance markets by corporate buyers. Is that the right way to think about those?
+Julie Pullen (24:53):
+Yeah, that's right. And we're already seeing these advanced market commitments from Frontier Fund, which is a consortium of companies as well as companies on their own. So, it's a growing, and strong signal, which also to your point, is we're a venture fund, and so we're looking for venture backable companies. And venture backable companies are billion dollar companies. Ultimately, these are narwhals, our ocean unicorns, that we're looking to mint. And in the growth of these markets, there is the potential to reach the tens of gigaton a year scale that is required to really achieve that type of stabilization that we see needs to happen.
+Cody Simms (25:36):
+To me, it reminds me of forestry, which is very hard to measure, right? Because let me break these down from my understanding of measurements, and verification. If you're a direct air capture company doing engineered carbon sequestration out of the air, you can measure the number of carbon dioxide molecules that you're capturing through your technology because it's passing through some kind of membrane. If you're out in nature, either avoiding emissions in forestry because you're avoiding cutting down...
+(26:03):
+Either avoiding emissions in forestry because you're avoiding cutting down things and you're measuring what the rot would've been that would've released emissions if those trees were left to rot. Or in the oceans where you're at this vast scale and you're trying to measure how adding some form of minerals into the ocean affects the acidification and thus the ability to capture carbon. You're having to rely on a lot of complicated mathematical models to assume what you probably are doing. Is that correct or am I not thinking about this the right way?
+PART 2 OF 4 ENDS [00:26:04]
+Julie Pullen (26:35):
+Your point is a good one, which is these are fundamentally open systems where we do have exchange with adjacent waters. We do have the ability to look for and choose sites where we can get the maximum impact that we're looking for. My background is as an earth system modeler, and I came at it as an oceanographer and a meteorologist. And my whole career has been improving the representation of the ocean and atmosphere and how they communicate with each other in these earth system models. And going out and capturing observations both in the ocean and atmosphere to help improve the fidelity of these models. And so over time, we've really improved the ability to represent these smaller scale processes, and we really do have a challenge where these models need to meet this moment. And it's not just those physical processes, it's also the biogeochemistry of them. And that has often been a part of the modeling system that has been the least developed, and we have even more impetus to accelerate that work.
+Yin Lu (27:42):
+Hey everyone. I'm Yin a partner at MCJ Collective here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly Women in Climate meetups, Idea Jam sessions for early stage founders, climate book club, or workshops and more.
+(28:28):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+Cody Simms (28:43):
+So maybe putting words in your mouth then I would assume in addition to the companies building the science, there's going to be a whole wave of companies that specifically just focus on the modeling and proving that the science-based companies claims are what they say they are because. Presumably those two would need to be independent from each other, I would think?
+Julie Pullen (29:04):
+Yeah, so there's a whole area of modeling that works in tandem with observations. We call that data simulation where you take observations, you ingest them into the model, you improve the model results, and you have this sort of virtuous cycle of improvement. And so they definitely can work together in order to improve the system. But in terms of looking for the effects of an intervention, you really do want to have some sort of independent evidence, and then be able to verify the results, say with the model. So these can work in tandems is my point. And I think we're going to see a lot more of that as we see more and more companies embrace different modalities and even probabilistic frameworks for understanding what their outcomes are and what the potential of their outcomes could be. To your point, it's really early stages here. And even on the terrestrial side, some of the nature-based solutions, they do still struggle with this, how to represent that and how to parameterize it.
+Cody Simms (30:06):
+And I guess that's specifically in companies that are building a business model on selling some kind of carbon removal credit. But there are companies like Saildrone, for example, that are out there building businesses by simply selling data to data buyers. And I assume that earth observation science in the oceans is a decently sized business and presumably growing.
+Julie Pullen (30:28):
+It is. It is. There are a lot of uses for ocean data, and it's been incredibly under sampled. I was part of a National Academy of Sciences panel on sustaining ocean observations, and we looked at what are the contributions from government, from private sector, from other sources, international, where we can really create a stronger backbone of measurements. I have to say, there's a network of observing systems called Argo floats that has been absolutely transformative for ocean science. And countries around the world have been putting them out into the ocean and they go and sample the waters and send the data back, and there's a whole special suite of them that carry now the biogeochemical sensors. So they're measuring those parameters that matter for the sequestration processes. And that's been a game changer for us, but it still remains, the ocean is under sampled.
+Cody Simms (31:25):
+So that's a public good in some way then, I'm guessing almost like a buoy measurement sort of thing.
+Julie Pullen (31:30):
+Exactly, yeah. It's part of the NOAA portfolio, at least in the US and in the other countries manage it as well. So these are really, really powerful data sets and we will keep seeing uses for them that even extend beyond the topics that we are talking about. I have a whole nother focus of my investigations right now, focused on looking into the intersection of generative AI and climate tech. And how we might think about how to use these types of data in more novel ways as we're training foundation models to help us forge an understanding of the near term climate signal and the potential for us to cross these tipping points. One of my mentors was the climate scientist, Steve Schneider, and I mentioned I started my career in these representing the air and sea processes, and I was doing it at first as an oceanographer with the Navy.
+(32:29):
+And so these are small scale, relatively short space and timescales for prediction. And when I was at Stanford overlapping with him, he encouraged me to broaden my work and to look onto longer space and timescales and the entire earth system. And I started down that path embracing the climate timescales. And one of the things he's known to have spoken a lot about is that we may only recognize these climate tipping points in the rear view mirror. And so when you have that in your mind, how do we avoid crossing these points that we can't potentially go back from and how do we prevent loss on a scale that we can't even imagine? And imagining looking back and thinking, if we had only known, we would've done everything we could possibly do to prevent that loss. And these are some of the things that drive me in my work.
+Cody Simms (33:32):
+Yeah. Well, first of all, I think hearing your points of view on how important modeling and AI and data science is, whether it's for carbon capture sort of credits or whether it's for earth observation and modeling is just a reminder of everyone listening. If you have a background in data science or a background in AI, there are so many roles for you to play in helping with this. Right?
+Julie Pullen (33:58):
+I love you. If you have that background, I love you.
+Cody Simms (34:02):
+And secondly, just a reminder of how mission critical all of this is for all of us in terms of what you said about extinction level events and total loss. Shifting gears a little bit from these sort of carbon sequestration technologies, let's talk about our fisheries. And so the world population is going to continue to grow. We're going to probably exceed 10 billion people around the world in our lifetimes. How in the world, people aren't just going to stop eating fish. How do we do that? What's going to happen?
+Julie Pullen (34:33):
+So when I think about that problem, I also think of the ecosystems where the fish are. And just drawing it back to the coral reef for instance. So over a billion people depend on coral reefs for their protein because they incubate fish. And so it's important to think about where these fish are, and how they're living in their environments, and how the changes that are happening quickly in our oceans are really shifting how these ecosystems function. And they're becoming fundamentally unanchored. And so solving that, it's a food security issue. And in that solution space, I think we have to really think about alternative proteins, but also that can be low cost. I think this is the key when you look at the regions of the world that are most at risk from a food security perspective. And I think that those are the types of solutions we want to be giving attention to. And of course, this whole area of sustainable fisheries and aquaculture, these are areas that are expected to experience pretty strong growth.
+Cody Simms (35:40):
+Interesting. And you mentioned alternative proteins and the ocean can grow many of them, I believe. Whether that's leveraging, I don't know if there are ways you talked about harvesting kelp and whatnot. I don't know if there's ways of leveraging that as an alternative protein, but I'd love to hear some of the things you are seeing out there that can be food alternatives to just straight up even sustainable aquaculture from a fisheries perspective.
+Julie Pullen (36:03):
+So cultured cells, we have Beyond Meat for beef and that kind of company, we're seeing more of that in the seafood space. So they're a biological basis for growing these tissue that then can be for consumption. I tease one of my colleagues that we're all going to be eating jellyfish and he just cringes.
+Cody Simms (36:27):
+It's a good SpongeBob episode with jellyfish sandwiches. So, you know.
+Julie Pullen (36:31):
+I spent time in the Philippines, I was on sabbatical when I was a professor. I was a Fulbright visiting professor and spent time in some of the policy arenas looking at the issues there in the South China Sea, which is already experiencing profound overfishing and it's only meant to get worse. And I think when you experience being in a country that depends so much on the sea, it changes how you think about things. And it no longer feels like they're global solutions. It almost feels like, you need to think about the local solutions. That was also for me, a time that shifted my trajectory. I think we all have these moments that are prompts for us to change how we're operating and what we're doing. And mine was being there in 2018 and my field site where I was studying where this gorgeous river drained through the rugged mountains in northern Luzon, and met this coastal plane and drained into the oceans. And my field site there where I was monitoring flows of water, kept on getting washed away by typhoons.
+(37:42):
+And the Philippines leads the list of countries most exposed to climate impacts. The youth lead the list of the most impacted by worry of climate. So there was a recent paper by Hickman that came out that 75% of the youth in the Philippines are worried about climate to the extent that it impacts their functioning. And that's the most of any country surveyed. So the impacts are just palpable on so many levels. And so for me, that was a prompt for a big transformation. And I came back, I left academia and I joined a startup to lead the early products for climate risk analytics startup to help entities, businesses, governments understand the unfolding climate risk for their operations and beyond. And quantifying the climate perils like droughts, heat waves, flooding.
+Cody Simms (38:39):
+And that was Jupiter Intelligence, yeah?
+Julie Pullen (38:41):
+Yeah, yeah, it was.
+Cody Simms (38:42):
+Maybe go in a little bit more into your journey there.
+Julie Pullen (38:44):
+Yeah. So I had a PhD student at the time and we were taking the code that we were running for these coupled R Systems into the cloud. Because quite honestly, I was writing so many proposals and kept on having to build in money to support high performance computers-
+(39:03):
+... money to support high-performance computers, the care and feeding of these supercomputers, and I was like, "Ah, there's got to be another way." So I was like, "Let's just do this in the cloud." And so we started doing that.
+(39:12):
+My PhD student and I were moving the code and came across like-minded people doing the same and thought this could be a really nice way to accelerate that work is to do it through a venture-backed company. And so yeah, came together with a colleague at the university. We moved our labs over and set up the first office in New York. And I was really dedicated to working with the engineering team on setting up the cloud native tooling and pipelines at inception. And the company had always envisioned itself as functioning this way. And then being able to make sure that that played across all the different products was really important in the early days of the company.
+PART 3 OF 4 ENDS [00:39:04]
+Cody Simms (39:53):
+Wow. And so all sort of initially prompted by this time in the Philippines and sort of witnessing what was happening in real life, sort of prompting you to go try to drive change at the big money corporate level around how these large companies were managing their risk relative to climate.
+Julie Pullen (40:13):
+And here's what I thought, here's what I thought this could achieve is that a flywheel where companies would start quantifying their exposure to climate risk and then recognize different ways to take action. And that would be being able to go back to governments and advocate for changes and regulations and so forth, but also really taking responsibility for their own emissions. And we've seen that. We've seen so many commitments to net zero by 2050. We've seen the science-based target initiatives to go even more granular than that and to say, "Let's make incremental progress on those commitments." We've seen frameworks like the TCFD, the Taskforce on Climate-related Disclosures, as well as the TNFD, Taskforce and Nature-related Financial Disclosures, which I think is going to be a huge boost for biodiversity markets as companies really quantify how much they rely on the benefits of nature.
+(41:14):
+So these are really twin frameworks that really give companies a scaffolding to approach all of this. And of course, there's shareholder interest in this. And that whole flywheel is in motion, and yet it's not enough. And that for me was that prompt to move into the solution space.
+Cody Simms (41:32):
+The emissions factor has become the thing that have gotten corporates to take environmental action in a way that really almost hasn't ever happened before. A commercial lever around it. Do you see that as being enough when it comes to the oceans? Can climate change and emissions reduction be enough of a wedge to drive the necessary changes in the oceans that are so challenged today, given you said three of the key tipping points for climate change right now are oceans-related?
+Julie Pullen (42:05):
+So from the framework of this tipping points analysis, all evidence suggests we need to be going much more quickly, and that even the incremental steps on emissions reductions so that we're doing things before 2050. To some extent, the emissions trajectory is sort of baked in over that time horizon. And so that really brings to light that solution that we've talked about earlier around carbon dioxide removal and to really get the technologies to a point where we can consider how to deploy them and what that means on a societal basis for us to do large-scale carbon dioxide removal.
+(42:46):
+So to your question, we're at a point now where the emissions reductions will not be enough to meet the Paris Accords. And overshoot beyond 1.5 is discussed as well as the potential to cross that threshold as soon as 2030. So there's a lot in play and there's a lot of reason for moving up the timeline of action. And everyone has a role in this, and the companies who have stepped up and made these commitments and committed to the follow through about it are really important as we go to a zero-emissions world.
+Cody Simms (43:21):
+Do you see there needing to be any corporate, much like we are measuring net zero pledges now and emissions pledges, even if they're not moving fast enough, are there any oceans-specific sort of pledges or actions, whether it's biodiversity related or other things that you would like to see the broader community rally around pushing? Or do you feel like, "Hey, if we get emissions under control, that's going to solve the vast majority of problems in general?"
+Julie Pullen (43:49):
+Well, so that's the main driver. I mean, one of the other things we've seen on the part of the majority of countries now have declared the 30x30, which is 30% protection of land and oceans by 2030, which is really a huge deal. And some countries have already exceeded that target.
+(44:06):
+And that's a really important one for your point about the fisheries for taking the pressure off the marine ecosystems to have those protected areas. And even so, the conditions, the water conditions in those protected areas are shifting as well. These are novel parameter ranges that are being experienced, and yet the protection is all the more important.
+Cody Simms (44:28):
+Okay. The last kind of big theme of propeller that we haven't really talked a lot about yet is the, I think you called it ocean industrialization, right? Or I'm not sure if I'm using that term right.
+Julie Pullen (44:37):
+Ocean industrials. Yeah. Yeah. That's all right.
+Cody Simms (44:39):
+Ocean industrials.
+Julie Pullen (44:39):
+Yeah.
+Cody Simms (44:39):
+So shipping, transport, energy generation, all of that. One sort of controversial topic that we waded into here on the podcast is the notion of deep-sea metals harvesting for EV batteries. And we just talked about how critical the carbon that sunk to the bottom of the ocean is. And so the risk of potentially disrupting that could be awful. But there's also the notion of, wow, there's a lot of resource down there that could also wean us off fossil fuels. How do you view those? Are there trade-offs to be made there or not? Is this a no-fly zone kind of thing from your perspective?
+Julie Pullen (45:19):
+Yeah, the deep sea, the benthic environment is really very special. And there's more interest in countries sort of understanding what's in their exclusive economic zone and what are some of those really vital ecosystems that they may have in their area that they want to protect. And I think those are really important efforts to support. I think disrupting benthic environments where not a lot is known about what is living down there and the uniqueness of it is very much an area that is, it's hard to imagine heading in that direction with technologies.
+Cody Simms (45:59):
+Yeah. Interesting. And so what has you the most excited in the ocean industrial space right now?
+Julie Pullen (46:06):
+So decarbonization of shipping and ways to just support that industry and doing that from my time working at leading the Port Security Center of Excellence, I was in and around that industry, and operating on the water it's really rough conditions. It's really a taxing environment, and it's also, there aren't a lot of easy ways to make changes in that area. So technologies that are modular adaptable, that can really help shipping companies accomplish their goals and measure their emissions, I think these are all really promising technologies, to first measure in order to manage and then take those first steps.
+Cody Simms (46:51):
+Interesting. So that whole space to me, to some extent is just in line with the broader sort of move to EV, move to electrification or maybe other alternative non-fossil-fuel-based mechanisms. There's nothing necessarily highly specific about ocean science or whatnot other than just doing things on the ocean is different than doing things on land. But it's a critical part of the story of how our oceans impact everything around us, I guess, because all of our goods are traveling all over the place all the time.
+Julie Pullen (47:23):
+Yeah, that's true. And so we see electric boat companies and there's a lot of promise in technologies that have parallels on land as well, as well as just improvements around port operations to use less energy. Yeah, there's a lot of transformation that will be happening in that sector. It's quite exciting.
+Cody Simms (47:42):
+Yeah, for sure. Okay. Anything that we should know about our oceans, the state of the world, technologies you're excited about that we haven't talked about?
+Julie Pullen (47:53):
+I really encourage people to connect with their experiences with the ocean. I mean, I think so many people just have a really deep-seated appreciation for our oceans. I'm a scuba diver, recently got my kids certified. And I always ask other scuba dives, "Why do you do it? What do you like about it?" And they always come up with really different answers, but a lot of them center on just the calmness and the serenity of just being in an other worldly environment.
+(48:28):
+And I love that feeling of submergence. It's something I come back to again and again. And I think that also can be really centering for us in all the sort of chaos of what may be unfolding and how that might feel destabilizing. They're environments that are really settling and calming. And the oceans remain that for us. And it's important that we appreciate that and we really recognize how vital they are for the planet.
+Cody Simms (48:56):
+Oh, that's such an amazing thought. And I love scuba diving and I don't do it enough, so thanks for putting me in that mindset. The other thing I don't do enough of that I love to do is surfing. And your partner, Reese, he's a huge surfer and he and I talk about it all the time. But when you are in that mindset of being out on the water, it does, it completely alters your perspective and just helps you appreciate things in a different way.
+Julie Pullen (49:19):
+Yes, yes. We need to honor our waters.
+Cody Simms (49:23):
+Well, Julie, I'm so grateful for you for coming on today. We probably could have gone for another two hours talking about...
+Julie Pullen (49:30):
+I feel the same.
+Cody Simms (49:30):
+I mean, this is your life's work. We probably could have gone on for days talking about all of this stuff, but thanks for spending a little bit of time with us and helping us understand how you see the world and how you see the solutions potentially unfolding in front of us.
+Julie Pullen (49:42):
+Thank you. It's been wonderful to be with you.
+Jason Jacobs (49:44):
+Thanks again for joining us on the My Climate Journey podcast.
+Cody Simms (49:49):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+Jason Jacobs (49:58):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter @mcjpod.
+Yin Lu (50:11):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ Venture Funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (50:20):
+Thanks. And see you next episode.
+PART 4 OF 4 ENDS [00:50:31]
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

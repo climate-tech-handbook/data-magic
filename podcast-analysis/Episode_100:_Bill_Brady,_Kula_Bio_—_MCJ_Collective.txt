@@ -1,0 +1,312 @@
+Today's guest is Bill Brady, Co-Founder & CEO of Kula Bio. 
+Kula Bio is a company producing biologically derived nitrogen fertilizer, produced by microbes, that addresses not only agricultural needs, but also serves to sequester carbon into the soil. By rewiring the energy flow from sun to soil, Kula Bio is disrupting synthetic fertilizer to eliminate the division between affordable practices and stewardship of our land, sea, and air. 
+Prior to Kula Bio, Bill was a Co-Founder of Monolith Materials where he remains on the board of directors and, before that, he spent 23 years at Cabot Corporation, the world's largest carbon black company. In that latter role, he held numerous roles in the U.S. and abroad, including president of the $2 billion carbon black business. 
+We have a great discussion in this episode. I found Bill's perspective particularly insightful, as he has a mix of big company and startup cleantech experience, and he has been through the startup ringer (and the cleantech ringer!) several times over.
+Enjoy the show! 
+You can find me on Twitter @jjacobs22 (me), @mcjpod (podcast) or @mcjcollective (company). You can reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+In today's episode, we cover:
+What is Kula Bio, its mission, and what it has developed
+The importance of nitrogen as an ingredient in fertilizer and agriculture
+The drawbacks and consequences of the Haber-Bosch process
+Kula Bio’s unique fertilizer and how it addresses carbon emissions
+The microbial process of developing the proprietary fertilizer
+Profile of customers, to which Kula Bio is catering
+Kula Bio’s value proposition to farmers
+Benefits of organic nitrogen-based fertilizer vs. synthetic
+Origins of Kula Bio’s technology in the Harvard Labs
+Kula Bio’s commercial traction and milestones
+The adjacent opportunities and long-term vision of the company
+Bill’s perspective on scaling and financing Kula Bio
+Insights and learnings derived from speaking with hundreds of farmers
+The impact on climate change of Kula Bio’s technology
+Bill’s reflection on his long-career as an entrepreneur and operator
+Bill’s view on making impact vs. profits
+How the economic viability of a climate solution is critical
+Why impact is an important motivation for entrepreneurs
+Bill’s retrospective on “Cleantech 1.0” and where it stumbled
+The role of family offices as a source of long-term financing for clean tech ventures
+How investor attention now focuses on specific milestones and pragmatic considerations
+The importance of education and the need to improve STEM as a solution to address climate change
+Bill’s perspective on nuclear as an important solution that should be scaled
+Bill’s recommendation on finding purpose-driven opportunities, regardless of your background or stage of life
+Jason Jacobs: Hello everyone. This is Jason Jacobs, and welcome to My Climate Journey . 
+This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change and try to figure out how people like you and I can help . Today's guest is Bill Brady.
+CEO of Kula Bio, which champions sustainable biological solutions for modern agriculture. They energize nitrogen, fixing microbes to produce organic fertilizer. And by rewiring the energy flow from sun to soil, they're disrupting synthetic fertilizer to eliminate the division between affordable practices and stewardship of our land, sea, and air.
+Prior to Kula Bio, Bill was a cofounder of Monolith Materials where he remains on the board of directors and spent 23 years at Cabot Corporation, before that, the world's largest carbon black company, where he held numerous roles in the U S. and abroad, including president of the $2 billion carbon black business.
+We have a great discussion in this episode, and I found Bill's perspective really insightful because he's done the big company hard tech thing. He's done the startup hard tech thing multiple times over. And he's also been working on climate focused companies for a while now. And so his perspective on the formation process of these companies and the capital stack and where the gaps are, what some of the hurdles are that these companies face, and also just how to accelerate and make this clean transition happen faster.
+I really enjoyed it and I hope you do as well. Bill Brady, welcome to the show. 
+Bill Brady: Great to be here. 
+Jason Jacobs: It's great to be here. Well, so we're here at Greentown Labs in Somerville, Massachusetts, and I feel like I'm with a bit of a quiet legend as I researched this episode in your background, or I think. Yeah. The way I initially got to you is that I did an episode with Rob Hanson from Monolith and you were a cofounder there.
+But as I look into it, you've done a lot more than that. So it's an honor to be here with you. 
+Bill Brady: Well, thank you. Same here. I'm really excited to be here and I'm excited and thankful for the work you're doing cause I think it's really important. 
+Jason Jacobs: Thanks. Yeah, I wouldn't call it work yet, so it has some type of business model associated with it, but it's been really fun and purposeful and intellectually stimulating to learn about this stuff and I'm not going anywhere.
+I'm definitely going to keep doing this for a long time. So let's jump into it. What is Kula Bio?
+Bill Brady: Kula Bio is a biologically derived nitrogen fertilizer, and it replaces chemically derived nitrogen fertilizer. And the reason this is important is first and foremost, the world needs nitrogen. So nitrogen is the fundamental building block of amino acids, which are the building block of proteins.
+So we needed to grow. Plants needed to grow, animals needed to grow. Unfortunately, the way we get nitrogen today is one of two ways. One, you can get it synthetically or made chemically, and it's made by a 100 year old process called the Haber Bosch process invented by Haber and Bosch in 1900
+Jason Jacobs:  I want a process named after me.
+Bill Brady: These guys won the Nobel prize for the invention twice, because it allowed humanity, the population to grow based on their invention. The problem is in the Haber Bosch process, for every pound of nitrogen you make with that process, you make four pounds of CO2, number one. Number two, when you put  granular nitrogen on the ground, if it rains, it runs off and it ends up in our waterways.
+Creates algae blooms really toxic for Marine life or contaminates the drinking water. So you can get it synthetically, which is cheap. But, really bad environmental footprint, or you can get it organically, which is better environmentally, but super expensive to do, can contain pathogens. Many of the lettuce recalls we've had in the past had pathogen issues from the fertilizer.
+Jason Jacobs: Is that specific to organic lettuce? 
+Bill Brady: Yes. 
+Jason Jacobs: Had to ask, cause we always buy organic because it's quote unquote healthier. 
+Bill Brady: And it is, if it's all done properly. But if you're putting manure and compost on the soil, which is taken up by the plant, there's a chance you got pathogens if you don't do the washing right. So that's an issue. And the other issue with organic is you can't put organic nitrogen down and have the plant get nitrogen right away. You've got to do it nine to 12 months prior and let it decompose to the right level. So we need nitrogen. There are all kinds of problems with how we get it today.
+And to make it worse, as the population goes from 7 billion to 10 billion, we're going to need even more nitrogen fertilizer. So this is where we come in. We have a micro based, it's a bacteria, a micro based product, which is organic. It's sequesters carbon, and is as effective from a performance and cost point of view as synthetic nitrogen.
+So that's our product. 
+Jason Jacobs: And so help me understand, so how is it that yours sequesters carbon, whereas other kinds of fertilizer emit so much, what are the differences that make that possible? 
+It sounds too good to be true, or it's like, wow, of course we should do that, but how does that work. 
+Bill Brady: In the Haber Bosch process, nitrogen exists in the air we breathe.
+80% of the air is nitrogen. It exists in these nitrogen, nitrogen triple bonds, which are unbelievably stable. So there's two ways to break that bond and make the nitrogen useful. One is under extremely high temperature, extremely high pressure. Which is the Haber Bosch process. So unbelievably energy intensive.
+That's where you get to carbon footprint. 
+Jason Jacobs: Yeah. It's the work to get it to that much pressure and heat. 
+Bill Brady: Correct. The other ways to do it biologically, these microbes naturally grab nitrogen from the air and can make it useful. So the way we sequester carbon, you have to go back to, I have to tell you how we make it.
+So what we do, these microbes by themselves, we'll fix nitrogen from the air. The problem is they only live for a matter of hours, maybe up to a day by themselves, because they have to compete with other microbes for energy and food, or they have to borrow from the plant. They can only last for hours. What we've done is we've injected these microbes with their own independent source of energy such that when they get into the soil, they draw on that energy and the current products lasts for two to two and a half weeks, and they draw on that energy to do their job of fixing nitrogen and delivering it to the soil for two, two and a half weeks rather than hours, and all of a sudden you've got a meaningful quantity of nitrogen.
+And a meaningful cost per pound of nitrogen. 
+Jason Jacobs: Where does that energy come from that you're injecting? 
+Bill Brady: So we have these proprietary bio-reactors where think of a big tank into the tank goes microbes, water and a nutrition mix. And the first phase of our reaction is we build up these microbes to a high density, so they multiply like crazy.
+And then at some point the nutrition mix is cut off. And what we then do is we split the water hydrogen and oxygen, and we pump in air. Including CO2 from the air, and at this point under stress, the microbes start to aggressively consume hydrogen from the water CO2 from the air in store within itself structure what is called poly hydroxyl butyrate. It's basically a bioplastic, so it stores this bioplastic. We put a bit of energy into the reactor through a solar panel on top of the reactor, and the microbe stores that energy in the bioplastic within its cell structure. And then as I mentioned, when it's sprayed on the soil, it draws on that energy to continue to do its job of fixing nitrogen.
+Jason Jacobs: So as the real innovation here, the energy that you're putting into it? 
+Bill Brady: It is. It's the energy management system through the microbe. And the reason we sequester carbon, to go back to your original question, is think about that reactor microbes nutrition goes in and then water in air and CO2 from the air.
+Which is what the microbe uses when it's in the soil. When the microbe is finished using up that energy, it simply dies and is a source of carbon in the soil, and so that carbon is then sequestered in the soil. 
+Jason Jacobs: So are you a fertilizer company?
+Bill Brady:  Yes. 
+Jason Jacobs: And this competes with the existing fertilizers that are on the market?
+Bill Brady: That's right. 
+Jason Jacobs: And who buys it? 
+Bill Brady: Well, ultimately farmers would buy it. So you're a farmer producing corn or soybean and row crops, or if you're a farmer producing organic lettuce or organic berries or tomatoes. You would use our product. The fact that we deposit nitrogen in the soil makes us plant agnostic.
+So if you're a farmer and you need nitrogen, you can use our product. 
+Jason Jacobs: And what's the pitch to that farmer relative to what they're doing today? 
+Bill Brady: Well, if you're an organic farmer, there's an extremely strong value proposition. We're much cheaper. We don't have the pathogen risk and you can get the nitrogen right now. You spray our microbes on the soil, they start fixing nitrogen. Whereas there are other organic sources you've got to put on the soil nine or 12 months prior to get your nitrogen. If you're using organic sources of nitrogen, really strong. If you're using synthetic, we don't run off like synthetic fertilizer runs off, so you don't have the runoff and reapplying problem.
+And then you don't have the environmental footprint. So it's a much, much more sustainable source. 
+Jason Jacobs: Is there some new, uh, breakthrough or innovation that occurred that makes it possible to do this? I guess what I'm trying to ask more succinctly is why now? 
+Bill Brady: So we took this technology out of Harvard, out of Dr. Dan Nocera's Lab at Harvard. And Dan is famous for inventing what he called the bionic leaf, which was a very efficient way to get sunlight and CO2 to make fuels and chemicals. And we took that same sort of basic principle, but instead of making fuels and chemicals, we're making this energy storing bioplastic and storing it in the cell structure so that the microbe can then go do its job.
+And Dan did this, I think 10 years ago. He did the bionic leaf 10 years ago. So the innovation was around the application of it to fertilizer rather than to fuels and chemicals. 
+Jason Jacobs: Where are you in your development today? 
+Bill Brady: We have been on six farms and or greenhouses so far. And in each case, we have replaced between 50 and 100% of the synthetic fertilizer with the microbe.
+We're in the middle now of six more trials. We have one going in Salinas Valley, California, one in Yuma, Arizona, and then we'll have six more before the end of 2020 so from a trial perspective, we're building up, farm by farm, to get the experience and to give the farmers the confidence to use it. 
+And is this something that you can iterate on like you can with software?
+Jason Jacobs: Like how does the development process look like for a new kind of fertilizer? 
+Bill Brady: You actually can. So a couple of interesting things. One is we can continue to increase the amount of energy storing bioplastic in the micro. So right now it's at 10% of the microbe cell weight and that gives you two, two and a half weeks of life.
+You go to 20% you get five weeks life and twice as much nitrogen. So in that sense, you can keep coming with new iterations. Also, it can be applied to other microbes. We've already done work on phosphorus producing microbes with the same technology. Even further than that, you can think about this whole microbe life extension idea for microbes that do other things as well.
+Pesticides, fungicides, herbicides. So there are a lot of iterations, I think, off of this broad platform, but like any other technology, you've got to get started somewhere. And so we're focused on nitrogen first because it has, in my opinion, the biggest problem 
+Jason Jacobs: In terms of scaling, assuming these trials go well, what does that next phase look like or even look further out than that? What are the next few phases look like? Does this require like plants and infrastructure and hundreds of millions of dollars to scale, or how does that work? 
+Bill Brady: So the idea would be we continue to scale up the bio-reactors until we get them to an industrial size, which we're on that curve currently.
+And then you would build in our vision, it would be regional sites. So regional would be maybe a hundred farms draw off of this regional site and you would have a series of bioreactors to make the product and deliver it to the farm. One of the other really interesting aspects of the technology is that the way it's made today in the Haber Baush system, you have humongous multibillion-dollar, centralized plants.
+With our technology, you can actually decentralize nitrogen production and not lose the economics. And so we will have these sites, but they'll all be closer to the farms. And by the way, another interesting thing about this, you mentioned the hundreds of millions, which is a general problem in clean tech, is you get to a certain point and then you need tremendous amounts of capital to deploy.
+Jason Jacobs: And you've built those kinds of businesses multiple times.
+Bill Brady:  I have, and it's not easy. Our bio-reactors here for this are elegant in their simplicity and much, much less capital intensive. So we're quite excited about this decentralized model, and we'll go region by region, crop by crop and build it out.
+But our view is to wipe out all the synthetic forms of nitrogen today. 
+Jason Jacobs: And you've been pretty capital efficient so far it seems. How much have you raised total to date? 
+Bill Brady: 5 million to date. 
+Jason Jacobs: And how far do you think that will take you? And if you are gonna go raise more, what type of capital do you think is the right type of capital?
+I don't necessarily mean a dollar amount, but more, you know, as a traditional venture. Is it project finance? How do you scale this kind of company in terms of the capital structure. 
+Bill Brady: So one thing I mentioned, we bought the technology from Harvard and Dan, Nocera did arguably the first five years of research that this company would have otherwise done with the idea.
+So that was a great advantage to us. But I think there's tens of millions of dollars to get us to a point where we're cash flow break even. And I think that tens of millions is probably a mixture of traditional venture capital and corporate or strategic venture capital. Some of the bigger ag players who have really shown tremendous interest in the idea.
+I think at some point would be excellent partners for us as we get towards deployment. 
+Jason Jacobs: I mean, you mentioned the big ag players, I mean, I don't come from ag, but when you think about bringing a new kind of fertilizer like this to market, what are the key components of the ag industry that are most strategic for this?
+Or said another way? What are the key components of the ag industry that would find most strategic value in you? 
+Bill Brady: The biggest risk I think in this company is how do we get the farmer to say yes. And the farmers. As we learned, we went out, by the way this past summer and contacted 600 farmers. We had meaningful conversations, multiple with 100 of them.
+Jason Jacobs: How do you contact a farmer? 
+Bill Brady: We did it through co-ops. We did it directly. There are some big farms and we found some unbelievably smart, forward-looking, innovative, interested people. Among the community, so they're ready to take a call and have a discussion for anything that'll help their farm. But one of the things that was interesting, they all have people they trust.
+It's an agronomist. It's their co-op people, it's their retail supplier. And so that part of the value chain, which is where your product goes before it goes the last mile to the farmer is critical. And that's where I think that'd be really important strategic partnerships for Kula Bio. 
+Jason Jacobs: Interesting. And it sounds like the next big milestone then is proving out these trials?
+Bill Brady: Yeah. 
+Jason Jacobs: And what does that mean? What does success look like? 
+Bill Brady: You know, it was interesting when we spoke to all these farmers, they told us a few things. They said, look, we love this idea. Really love it, but let me just tell you a few things. Number one, I'm not going to pay you any more money. Number two, I'm not going to change what I do today, and number three, I'm not going to buy any new capital equipment.
+So you got to fit into those constraints. And the fourth thing is I want to see it working and not in a university setting, but I want to see it working on my neighbor's farm so I can go over there and eyeball it myself. So that's why these trials that we're doing through 2020 are so important because they're out in the communities where our first market is likely to be.
+Jason Jacobs: And you mentioned there's a bunch of different benefits to this product. There's some benefits in terms of toxicity, if that's a word. There's some benefits in terms of enabling the farmers to have stronger businesses, et cetera. What's the overarching mission of the company? What drives you in the team every day to do what you do?
+Bill Brady: Well, nitrogen fertilizer by itself accounts for 5% of the world's greenhouse gases. So one of the reasons I was drawn to this company and to the idea is the potential impact. I'm proud to have done some pretty impactful things over time, but this one is big. This one can really be big. So that's really what we're trying to do, is to get that 5% wiped out with a biologically based solution versus the way we're doing it today.
+Jason Jacobs: And I want to come back around to talk about that impact and motivation further. But before I do, I mean, you've done so many things in your career, you've done from zero things, you've done big operating executive and big company type of things, et cetera. And I definitely don't want to go through like a resume, but just how do you summarize, I guess looking backwards.
+Your career and who you are as an entrepreneur and an operator. 
+Bill Brady: I had the great fortune. I worked for a public company headquartered here in Boston called Cabot Corporation for 22 years. No one does that. No one does that anymore. 22 years. And I had the great fortune while I was there. I ran a $2 billion carbon black business, which had it all: 23 plants in 17 countries. You know, it had all the complexities you could ever imagine. And I was lucky to work for a man named Sam Bodman. And if that name rings a bell, Sam had an unbelievable career. He was the youngest tenured professor at MIT. He went on to work for George Dorio.
+Jason Jacobs: Does he have a process named after him though? 
+Bill Brady: No, he doesn't, but he ran Cabot. He was CEO of Cabot for a while, and then after that, 
+Jason Jacobs: I guess that's highly impressive. 
+Bill Brady: And then you went on to be secretary of energy for President Bush. And Sam taught me a couple of things. One was he taught me, and I saw it sort of play out. The only thing in all my years at Cabot, we tried everything to move value for the shareholders. The only thing that ever moved the needle was technology, and Sam really drove that home in us. The other thing he drove home and us is you should have more than one career. You should do multiple things and you should do impactful things.
+And I didn't quite get it when he used to say it when I was in my twenties and thirties but when I look back on his career and now that I'm 58 I know exactly what he meant. And so that had a really big impact on me early on, so that was great. After that, I went on to run a company called Mascoma, which was a biofuels company, and we had genetically modified yeast that were quite impactful in that company. Still used today. And then after that, I cofounded Mmonolith Materials with Rob. 
+Jason Jacobs: I heard his telling of the events, so we could do a whole episode on your side of the story. 
+Bill Brady: Well, Rob Hanson and Pete Johnson, two young entrepreneurs out of Stanford. Uh, I think they were probably 35 when I first met them, and they kept calling my office when I was at Mascoma trying to get an appointment with me.
+And I had a really tough administrative assistant who you couldn't get through. Jason Jacobs would never have gotten through Dotti. 
+Jason Jacobs: I wish you were still there. So now I can give it a go. That competitive streak is kicking in. You gotta turn on the charm. 
+Bill Brady: So these guys kept calling. So Dottie came back. She said, these guys keep calling.
+I said, well, just set up a phone call for Friday. I'll talk to them on the phone. She said, okay. So Friday comes at 10 o'clock the phone call, about five minutes to 10 she comes back to my office. And Dottie, by the way, had the thickest Boston accent you could ever imagine. Fiery red hair. Really great, tough person.
+She came back to my house. She goes, these kids are here.  No, no, Dottie. It's a phone call. She goes, no, they hear that they're packing the car, but they came here to see you. So I come out and here's Rob and Pete. They had bed head, they were looking really bad, wrinkled clothes, and I'm like, what are you guys doing?
+And they said, well, we thought if we could get the guy who ran the biggest carbon black company in the world to talk to us, we should come and see him. So they took the red eye out and the rest is history. 
+Jason Jacobs: I remember when Rob told that story on his episode, and that's such a  key entrepreneurial lesson, and it's not something that can be taught either.
+You've, you have the killer instinct and you're going to do whatever it takes and move. Maybe it's just a question of how bad you want it, or, I dunno, but it's like, that's probably more of a tell of success than any pedigree on a resume. 
+Bill Brady: I think you're right. I mean, there's just no way to say no to it. And thankfully I didn't because they've become very, very close friends. 
+Jason Jacobs: Amazing. So now that we have that context out of the way, coming back around to this concept of impact and motivation, one of the things that I, and I know that a number of listeners wrestle with as we try to figure out how to, to Sam's point, have multiple careers and make the next career.
+About climate change. I think that's what we aspire to do. But when you look at that, you want to have the biggest impact you can, but it's not obvious that impact and profit are always correlated. So how do you think about that? Because you found a for profit entity that is swinging big from a capitalist standpoint, but that also can have a big impact.
+I mean, do those always go together in your view? Is that something that you wrestle with? How do you think about that tension? 
+Bill Brady: I really think that they go together more often than they do not. I think the world, and I think any entrepreneur or person who wants to get involved in climate change has got to think about it from impact, but has got to be honest that if things are not economically competitive or economically advantageous, you may be working to get tired because at some point that's going to come into play on the impact side. So I don't think they're mutually exclusive, and I've always looked for opportunities when they fed off of each other. I just think you got to focus on it. One thing I will mention on the way I first heard about the Kula Bio idea was from Russ Wilcox. 
+Jason Jacobs: I know Russ. 
+Bill Brady: Great Boston entrepreneur, any of your listeners out there who have ever used a Kindle or an electronic reader, Russ is the guy who was the entrepreneur who brought that to market. So Russ and I had the first look at this out of Harvard, and the first thing we did was cost. You know, it's unbelievably interesting, but could it be cost competitive? And so we've spent the first couple of months along with a couple of other colleagues on cost.
+And when we got comfortable with that, then we got to the application and deployment. But I think you got to do that. It's not always as fun or as sexy to talk about, but it's critical for some of these things to have a climate impact is for them to be economically viable. 
+Jason Jacobs: How important do you think it is for a founder that is working on a concept in one of these areas that could have a big impact to be driven by impact?
+Bill Brady: Again, I'm 58 so I think my perspective definitely changes over time, but I think if... 
+Jason Jacobs: And I'm also not asking for you specifically, I'm more asking for like, is it a key of success in a general way? Or is it not necessarily, or could it even be inversely correlated where you want like a glass chewing capitalists to come in and just point them at this opportunity that happens to have a side effect that has a halo to it?
+Bill Brady: I think you have to be driven by impact because anytime you're trying to disrupt a entrenched infrastructure, and many of the ones we talk about disrupting and clean tech have been there, not for years or decades, but for centuries you will get so many nos about your idea. You could never even imagine.
+And so if you were just driven by money, you would get off of it quickly and get onto something which was more lucrative. So you've gotta be driven by the impact. But my point is you've got to have your feet on the ground about the economics of things. But I think definitely driven by impact. 
+Jason Jacobs: Okay. So here's another question. So I've talked to some entrepreneurs along the way that have told me that if you're looking at an initial market, for example, there could be a market that has strong economic potential. And there could be a market that has strong impact potential and that sometimes those are both there and sometimes they're not.
+And the advice that one person in particular gave to me was even if you have impact motivations, pick the market that is going to be the one that's the strongest from a profit standpoint without factoring in impact, and then expand into the impact area over time from a position of strength. How do you think about that?
+Do you agree or disagree with that advice. 
+Bill Brady: I think I would agree with that. And I would say not only on an individual level, but I would even say on a governmental level or on a policy level, we've got to focus on the things that are going to be sustainable, not only environmentally, but sustainable from an economic point of view.
+So I would agree with that. 
+Jason Jacobs: Would you worry though? I mean, I guess I would worry that it's kinda like, I mean, it's a weird analogy, but. I had talked about taking a gap year in between high school and college till I get my head screwed on straight and in concept it's like, Oh, you take a gap year and you go, you get real world experience, and then you come back around and you know why you're there and you go back.
+That's all well and good unless you just get off the track and never get back on. Right. That was my mom's fear and so I guess I would worry about that. The correlation here is you pick a market that's profitable without impact. You start strong and then expand, but then once you get a bite of the poison apple, you never look back and focus is so paramount and it's hard enough to get traction anywhere that you end up just focusing on that market for the next decade plus and build a wildly profitable company.
+It isn't making an impact at all. Maybe it's even doing harm. 
+Bill Brady: Well, that's definitely a danger. One thing though, Jason, I've done this in each of my companies and it has not been comfortable, but I think has been largely effective, which is the following. If we have a particularly opportunity or a market, I like to get about half the room filled with idealistic dreamers who want to do things that are going to impact the world and the other half of the room with grizzly, seasoned scars on the back veterans who know how things get done. And then over a period of time as you try to sort out the balance between impact and profit, you have these intellectual collisions between those two groups in the company and out of it usually comes much, much better answers. 
+Jason Jacobs: I like that. It's like checks and balances. Right brain, left brain. 
+Bill Brady: I mean, maybe governments could even work that way, right? But I think the point is for any given initiative, I think if you get surrounded with the right types of people in the right types of thinking. You'll either get it to the right place or you'll abandon it or whatever. I focus a little bit more on that.
+I think it's consistent with the idea of be careful not to try to pick winners out of 10 brand new ideas because it's incredibly hard to do. Sprinkle a little bit of love over all 10 of them and see which ones rise over time. It's the same type of thinking. 
+Jason Jacobs: And given how long you've been operating in these domains, and you've built some biofuels and carbon black and some really kind of infrastructure intensive businesses and  science risk and things like that.
+So you've lived it with the benefit of hindsight how do you think back to like, would you call clean tech 1.0 a bubble? What lessons do you think we can take away from that era? Like I guess looking back, how do you characterize it in your own mind and what are the key learnings that you take away. 
+Bill Brady: In some ways. I think clean point, 1.0 while painful was probably necessary to get to where we are today, but I think there were really two big things in 1.0. The first one was, I think we had a series of investors who had just come off of having a lot of success in software based businesses. I think the expectation was that superior brain power in some of these clean tech segments, I.E. brilliant university professors. Just surrounded with great technical minds was going to equal success and the realization of the infrastructure you were trying to break, how entrenched it was, how tough these businesses are, I think was underestimated in a big way. So that's number one. The other thing, and I see this time and time again in companies, is these new companies focus on the technology and wait way too long before they put the customer in the middle of the company.
+What I mean by that is getting early prototypes, early thoughts out to the market. Getting the painful feedback about why it's good or not good, and then doing your innovation around things that are going to matter to that ultimate customer. But a lot of what happened in 1.0 was these technologies were developed for a long time, I mean, five, six years before any consideration of what the market wanted.
+And then they had to redo it once they got to the market.
+Jason Jacobs: Why? Why did that happen? I means that seems like back to basics. So like where do we go astray? 
+Bill Brady: I think it is back to basics, but I think it went back to that fundamental assumption that if you just surrounded these good technical ideas with really good technical minds, good things were gonna happen.
+Jason Jacobs: Has that ever worked out? 
+Bill Brady: I don't think so. It may have worked a little bit in the software game, but yeah, it didn't work in the industrial markets. 
+Jason Jacobs: Got it. And so it almost seems like to borrow, I think it was Gwyneth Paltrow that says like conscious uncoupling or whatever, where it's like you had the software money that then kind of stepped in to start funding this clean tech stuff and then lost a bunch of money and then they kind of decoupled where it was like clean tech carried on.
+And so people like the rock port alarms and the like, some of those names that we talked about, they kind of stuck it out, but it was like a small incestuous group for a number of years. And now the traditional tech is starting to open up their eyes again and start to kind of flirt in this area. So what's going through your head as you're seeing that start to occur?
+Is it PTSD or is it optimism? Excitement? Like how are you feeling about that? What's going through your head as you see things start to pick up again. 
+Bill Brady: One thing I would say, you alluded to it, I think the family offices really carried the day since the fall of 1.0 up until now. And they deserve a lot of credit to do that.
+Jason Jacobs: Well, is it profitable for them to do so? 
+Bill Brady: Not yet, but I mean, they set their time horizon on decades rather than years. 
+Jason Jacobs: So it could be, but it's just because his stuff takes longer and is more capital intensive. It's too early to tell. 
+Bill Brady: That's right. 
+Jason Jacobs: Was it a profit motive that was driving these family offices to carry the day for the last decade?
+Bill Brady: No, it was much more impact motivated. 
+Jason Jacobs: So it was an almost like investment philanthropy. Could you call it? 
+Bill Brady: A little bit? I mean, they did their diligence, they took shares, they focused on valuations, but they were not looking at IRR. So let's put it that way, because they knew it was going to take. 
+Jason Jacobs: And was it just a handful of these family offices that are doing the lion's share this or is there a big long tail?
+Bill Brady: There's a fairly long tail and the size. Of these offices of course vary, but there's a fairly long tail. 
+Jason Jacobs: You know, the bulk of these operating in the shadows, or are there listings of the firms that do this work? And such? 
+Bill Brady: No, there's definitely listings of them. I mean, the Gates foundation, yeah, everyone knows about, but yeah, no, there's listings of them.
+There are people who specialize in helping them, connecting them to companies. So that was that. But I would say the other thing, I spend a tremendous... 
+Jason Jacobs: You were saying the family offices carried the day. 
+Bill Brady: Yes.
+Jason Jacobs:  And then I was asking if that was a profitable endeavor. And then I think we were starting to talk about what's changing now. Is that right? 
+Bill Brady: Yeah. And some of the tech and venture money coming back, which it is, but the conversations, I mean, I spend a tremendous amount of time with potential investors. The conversations are a lot different. There are a lot more practical, and there are a lot less about the fluff of big ideas. And they are much more interested in our case here at Kula Bio, they're much more interested, for example, not only in the big idea, but in the farm trials, whereas maybe in 2006 the big idea was enough, you could raise tremendous money.
+And so that's been a definite change that I've seen. I think it's been a healthy thing. 
+Jason Jacobs: So the first time around they were coming in. It was more about, is it a big story and are there great technologists to work on it? Whereas now it's like, is there a big story and where the rubber meets the road? Like what are the customers saying? What are the business model look like? What are the margins look like? How much risk is there? How much capital is going to take to get this thing off the ground? What type of capital will be needed? What's the reception from those providers and appetite to be doing this kind of work? Are there recent comps we can look at of other things with similar characteristics so that they're familiar with it and not just capable of it, et cetera?
+Bill Brady: That's right. Yeah. And with a real emphasis on it. So what's it going to take to get the end user to say yes, and tell me about your cost competitiveness without technical miracles, your cost competitiveness versus the incumbents. The real questions that clean tech 1.0. took five, six, eight years to get to I think those questions are being asked really early now. 
+Jason Jacobs: How important, so I mean from a investor standpoint, I mean the investors skill set is very different than the operator skill set, especially as you get further along in these companies that require real kinds of eight digit, nine digit capital and for that type of investment, or even at the seed level for that matter in these domains, how important is domain experience to properly diligence these investments as an investor?
+Bill Brady: I think they're really important. So I think the investors, they want people who have seen the movie before and they want people who know, not only know intellectually the answers about what's it going to take for the end customer to say yes and those things, but people who have done it before. I think that more than anything. 
+Jason Jacobs: So domain expansion, the operating team is important.
+Bill Brady: Yes. 
+Jason Jacobs: What about in the investors of evaluating these deals? 
+Bill Brady: I think it's really hard for those investors to cover the gamut unless they're really, really specialized. We have found here at Kula Bio a number of bigger investors who have done some things in ag who have a small network of farmers and former ag tech execs who will see after an initial call, who then will see to really sort out the industry details.
+Yeah, so I think that's their way of doing it from the company's point of view, that's a really healthy thing. 
+Jason Jacobs: When you think about impact, there is some of the more capital intensive, more infrastructure centric stuff that we've been talking about. And then increasingly as VC firms come in, it seems like that's not the stuff that they're going for.
+Even if it's good business opportunities, they're going for the stuff they know, which is the stuff that is more capital efficient and software oriented. And high margins and fast timelines and things like that. So can that type of business and impact coexist or is the impactful stuff exclusively moving atoms?
+Bill Brady: I think it's moving atoms. I mean, I do think there's tremendous leverage in internet of things, sensor technologies, things like that. I think they're huge enablers, but at the end of the day, from a climate change point of view, we've got to replace the infrastructure that exists today. With a new way to do it.
+There's just no way around that. I think there's a technology enablement, but you need bricks and mortar and steel to really move the needle. 
+Jason Jacobs: Well, let me ask you this. In order to move those bricks and mortar and steel and swap out this infrastructure that's so desperately needed, how do we get there? In other words, like to bring back around to the example of the technologists that don't have a pulse on the customer. If we only focus on the one degree of just the infrastructure itself, like, well, in order to get there, you know, we the large enterprises to awaken and we needed mission-driven CEOs to take accountability. And that's going to come partially from kind of heart or duty and partially from stick from the government and then in order to get stick from the government, we, so like is all this stuff interconnected and like what are the bottlenecks or is it more about like for Vinod Khosla would say there's four or five key innovations that need to happen and nothing else matters. So like where do you come out in that spectrum?
+Bill Brady: I think there's a couple of really big things we can do in that regard. I think companies have to be responsible for advancing the technology to a point that customers care about the product. And that the technology is cost competitive. That's the job of the company. I think the government can help in two big ways. The first thing is to put a price on carbon. 
+Jason Jacobs: A single price? 
+Bill Brady: I mean, we could do it in any number of ways. Do a cap and trade system, do a single price. 
+Jason Jacobs: But just somehow price the externality? 
+Bill Brady: Somehow price it and let it reflect the real cost of it. Really. And that will drive the consumers of it or the emitters of it to have a business case to do something different. Without it, it's really hard. That's one. 
+Is that 
+Jason Jacobs: a sector specific point or is that across every sector? 
+Bill Brady: That's across every sector for me. The second thing is that point, I mean, I guess some people call it the Valley of Death, but it's this point where you get the company to a really good spot and you need that big capital to build that first plant.
+Which from a general project finance point of view is just too risky because it's the first of its kind. That is another point where I think the government can step in and make things happen. 
+Jason Jacobs: In what way? What does that look like? 
+Bill Brady: The DOE, for example, has had attempts at this with their loan guarantee program.
+I think by and large, though, it's not been very impactful, but some type of program like that because the big companies. They'll react to a manufacturing plant. They won't react to a small pilot plant or something out of the lab. So I think the companies need help in getting that capital because that's... 
+Jason Jacobs: Well, that is an acute need. That first plan, which I've heard a lot, by the way, you don't think that that's a profitable business opportunity for a different type of fund structure to step in and capitalize on. You think it looks more either like a government thing out of taxpayer dollars or some type of family office style, philanthropic endeavor?
+Bill Brady: Yes. I think that those would be the two main sources, and maybe there's some way for those two to operate together. 
+Jason Jacobs: I wish the pitch was more financially compelling in that. 
+Bill Brady: Me too. That's the fundamental problem because I think if I sit back in my seat at Cabot and I'm presented with that type of opportunity I look at it and I go, wow, that's really interesting, but holy smokes, look at the risk. Can I really put shareholder capital at risk with maybe there's a reasonable return, but not a home run return on the first plant. It's a hard thing to do. It's a really hard thing to do. They're not bad people. It's just they're doing their job. So that's the problem. 
+Jason Jacobs: So you said price on carbon, you said. Filling that first plant gap, are those the two key things or were there others? 
+Bill Brady: I mean, I have another, maybe on the softer side here, I think we can do a much better job in the general area of education. 
+Jason Jacobs: Education of whom? On what? 
+Bill Brady: There are two key parts to the Brady education plan.
+One is a familiar theme, but I think we've got to do more about STEM and we've got to do it earlier in students' lives for sure. The other one is...
+Jason Jacobs:  What makes you say that? 
+Bill Brady: I just looked at the numbers on our science, engineering and mathematics students, and it's declining. And I just think of the people I know, family, friends, kids, and there were a lot more who are interested in communications and arts type of degrees than they are in STEM.
+Jason Jacobs: Do you think? Because moving atoms is such a big piece of the problem, we just need more people that are equipped to move atoms. 
+Bill Brady: Yeah. And I think we need to ignite those minds younger than before they're picking a major in college. I think if someone's not excited about science before they get to high school, even, it's really hard.
+Jason Jacobs: I think I killed way more brain cells in college then were stimulated, unfortunately. 
+Yeah, so that's why my tuition, like each dollar versus knowledge accumulated, I don't know that that ratio would have been great. That's not on the school. That's my fault. I think about that of just the system of just making kids think they have four years to park and like have fun and it's like four years of vacation versus like going in with more of a purpose.
+Bill Brady: I agree. The other part of my education piece, I really, you know, we should have sort of a Peace Corps of executives in the clean tech industry who you can immediately match with the super talented, super smart students coming out of MIT and Harvard. With new ideas. 
+Jason Jacobs: Yeah, we should talk more about that. I've been thinking about that as well, actually. 
+Bill Brady: Yeah, because it's so hard to do. 
+Jason Jacobs: Like teach for America or code for climate or Kauffman fellow program or MIT Sloan fellow program, like something for people that have high horsepower and motivation, but don't really have the domain expertise, and maybe they even need a salary or at least a stipend to feed themselves, but how do they free up their time to devote to this area and be given tools and resources and matching and connective tissue, et cetera, to make sure that their skill set gets put to maximum use.
+Bill Brady: Yeah. We have some of this done with very... 
+Jason Jacobs: That might be different than your vision though, so I should let you ...
+Bill Brady: It's very similar. I have the same idea. I mean, I think we have some incredibly generous, smart people who are finished working, who come back and do that work, which is very valuable. We should keep encouraging that.
+I think we should pluck sort of people who are in the middle of the battle out and match them up with entrepreneurs as well on the side, or maybe it's gotta be funded in a way where they can step away, sort of like a sabbatical type of thing. 
+Jason Jacobs: That's fun to think about it. I don't know that I'm the right person to see something like that through, but I do you think it matters? And I've love to see somebody do it, so I don't know, just, and I keep tune on it.
+Bill Brady:  I'm here to help you on that one. You're passionate about that one. 
+Jason Jacobs: Tuck that one away and we'll have to revisit that offline. So two final questions. One is just if you had a big pot of money, let's call it $100 billion, and you could put it towards anything.
+You kinda just answered this, but to maximize its impact on getting this stuff done. You know, this clean energy transition, where would you put it and how do you allocate that money? 
+Bill Brady: Two, I mentioned the main price of carbon in my education ideas. They would definitely be two. 
+Jason Jacobs: But within that though, like I mean, any thoughts on what you would actually do with the money to facilitate those things?
+So like price of carbon. Okay, but how, how do we, is it like canvassing door to door? Is it like lobbying? Is it like. I certainly don't have the skill sets and know what I would do that money, but I get a lot of that type of thing. And then it's like, but yeah, but how, and I haven't made much headway. 
+Bill Brady: I think you have to go sector by sector.
+I'll give you one of my ideas on the fertilizer piece. If we put a cap on the amount of nitrogen fertilizer that a farmer could put on the ground because of the co two footprint, then they would have to come up with ways to solve, and that would drive the innovation between the and the innovators. But I think to be fair and to get a farmer to do that, you'd have to have an insurance fund there such that if he did it and he lost some yield.
+There would be a pile of money there for him, which it's kind of funding a cap in trade type of scheme, and it's those type of things. I think if you go to the big emitters, I think you'll find opportunities like that in each one. 
+Jason Jacobs: Okay. So you said price on carbon and education, 
+Bill Brady: the education system, and as we mentioned, paying for these sabbaticals.
+I think we should double ARPA E. This is the DOE early stage grant funding to students for energy. That's right. And then the last one, this is a little bit out of the blue off topic and probably a little bit controversial, but I think nuclear is a hugely...
+Finally,we 
+Jason Jacobs: get to something controversial. 
+Bill Brady: No, I think nuclear is a big part of solving the climate change equation.
+Jason Jacobs: When you say nuclear, does that mean keeping the existing reactors up and running? Does that mean advanced nuclear? Does that mean fusion? How do you mean? 
+Bill Brady: I think keeping the existing up and running. And I think building more, 
+Jason Jacobs: but more of the big fleet or advanced nuclear, small, modular, all the above? 
+Bill Brady: I think all the above, but I just think more money towards nuclear. It's here. I mean, it's got its risks, but it's here and it's super impactful on climate change. 
+Jason Jacobs: Do you think that it will ever be cost competitive with renewables? 
+Bill Brady: Yeah, I think it can be. 
+Jason Jacobs: Why do you say nuclear? Given that clarifying question, how far do you think renewables can get us? 
+Bill Brady: I think that's the issue. I think renewables can make an impact.
+Jason Jacobs:  But is that like 10% 20% ?
+Bill Brady: I think it's in that range. 
+Jason Jacobs: Oh wow. Cause a lot of people say that renewables can get us 80% but we need to find the other 20% you actually think it looks more like 20? 
+Bill Brady: I'm not sure it's down around 10 but I think 20, 30, 40% something like that.
+Jason Jacobs: Got it. So not very far. 
+Bill Brady: I'm not sure you'll get all the way to 80%. 
+Jason Jacobs: And is that because things like  storage aren't solved or why?
+Bill Brady:  Storage is a big part of it. Yeah. 
+Jason Jacobs: And you're not confident that that's going to get solved in any reasonable timeframe. 
+Bill Brady: Storage has been worked on for a long time with some really super smart people, and it's a tough, tough material science problem.
+Jason Jacobs: There's some people in this building, MIT that may take issue with that. 
+Bill Brady: I am fully behind them. I've personally invested in many of these too. 
+Jason Jacobs: Got it. So, you said nuclear and what would you put it towards as it relates to nuclear, that money? 
+Bill Brady: I think if there was a fun there to deal with some of the advanced ideas and then some of the safety ideas around nuclear specifically. 
+Jason Jacobs: For profit vehicle or from the government?
+Bill Brady: From the government. You got it. 
+Jason Jacobs: So again, back to the kind of grant like vehicle right. Got it. Okay. Last question is just a bunch of people listen to the show. Are people like me that are kind of coming in that are trying to figure out where to anchor. They're trying to understand all this stuff that are driven by impacts, but then also need to find a way to make a living.
+So for those people, I guess just speak to them for a minute, what advice would you give for them? Especially given that you said earlier that domain expertise is important, which they don't have in terms of figuring out where to anchor and what to do. 
+Bill Brady: I get asked that often. Yeah. I think if you're a relatively young person, you're in the middle of your career.
+I think you've got to go find purpose driven companies to work for. They're there. And I think whether you are an accountant or a human resources person who's doesn't have domain expertise, you can still work for a purpose driven company. So. For young people. I would say that I would say find the purpose driven companies and spend your time there.
+Jason Jacobs: What if you're a founder that can never work for anybody? 
+Bill Brady: I think if you're a founder who can never work for anybody, you should have the self realization that that's what you are and you should start things, get them going, hand them off and go back and start the next thing. 
+Jason Jacobs: But what about as it relates to wanting to have an impact in this area without having domain expertise? Should she just go back and keep building more ad networks? 
+Bill Brady: I guess. 
+Jason Jacobs: Or pet social networks? No, it does anything wrong with those. 
+Bill Brady: I think if you want to have impact and you want to have a purposeful job in the area of climate change, you know, I think you can get in front of a whiteboard and think through what you're good at and where the credible crossover is and go there and work on it there.
+You know, I would say if you're older or you're at a different stage of your life, you ought to think about your investment portfolio and make that purpose-driven. 
+Jason Jacobs: Any council, they're just, it's kind of double click on that. Like how or through what form? 
+Bill Brady: There are more and more ESG funds now that we'll sort through that for you.
+And rather than being in a general energy fund, you put yourself in any ESG fund. I think if people just do one more layer of investigation, they're going to find interesting places to put their money in support. 
+Jason Jacobs: And did you have another thought? 
+Bill Brady: My other thought was for everyone to get involved in the political process.
+I don't like spending a lot of time in policy, but policy matters here, and not enough people, particularly in the U S are involved in the political process. So I think that's another really key thing that people can do, is to understand who stands for what, and then support the candidates who can make a difference.
+Jason Jacobs: And is that the biggest thing that people should do to be involved in your view is vote, or are there other things that they should also consider as part of that? 
+Bill Brady: There's voting and then there are other organizations, you know, the environmental defense fund and others who do a heck of a lot of good work in this area.
+They are always looking for people to be impactful, and so that's another way to get involved as well. 
+Jason Jacobs: Great. Anything I didn't ask that I should have or any parting words for our listeners? 
+Bill Brady: I think we exploited pretty well. I would just say, I think this is the defining issue of our time. It's an existential threat and you've got to find a way, one way or another to get educated about it, and if you can in any way get involved in it, I'd encourage all your listeners to do that. 
+Jason Jacobs: Awesome. Well, you're an inspiration. I learned a ton, so thank you. 
+Bill Brady: Thanks. I did too. Appreciate it very much. 
+Jason Jacobs: Hey everyone, Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey.
+You can visit us at My Climate Journey dot C. O note that is dot C O not dot com. Someday we'll get the.com but right now got C O you can also find me on Twitter @jjacobs22 where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear.
+And before I let you go, if you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made ,e say that. Thank you. 
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

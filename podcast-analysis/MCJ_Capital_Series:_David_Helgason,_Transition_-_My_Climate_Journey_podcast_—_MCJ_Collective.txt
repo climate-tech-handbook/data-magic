@@ -1,0 +1,247 @@
+This episode is part of our Capital Series hosted by MCJ partner, Jason Jacobs. This series explores a diverse range of capital sources and the individuals who drive them. From family offices and institutional LPs to private equity, government funding, and more, we take a deep dive into the world of capital and its critical role in driving innovation and progress.
+David Helgason is a partner at Transition. Transition is a venture firm that partners with Seed and Series A founders to accelerate the climate transition. They've come together as founders, investors, operators, engineers, and scientists from across the world with a single mission: building an abundant and resilient society that can thrive within our finite planet.
+Prior to starting Transition, David was Co-founder of Unity Technologies, and served as the CEO until 2014. He's still on their board of directors. With his background in the gaming industry, David took interest in green gaming, before stretching that interest into mitigating and adapting to climate change and the transition to a low-carbon economy. We have a great discussion in this episode about David's journey, the work that he's doing at Transition, how he got started in climate, what types of companies and projects are most interesting to him and his team, and how he sees transition evolving and playing out for all of us. 
+Get connected: David Helgason LinkedInJason Jacobs X / LinkedInMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on Sept 28, 2023 (aired on Oct 11, 2023) 
+In this episode, we cover:
+[02:43]: Introduction to Transition
+[05:07]: David's background in the video game industry 
+[07:01]: His journey into climate tech investments, starting with angel investments
+[10:47]: His decision to focus on climate, and the choice of venture for climate impact
+[14:07]: Challenges faced by generalist venture firms when investing in climate tech
+[17:03]: Transition's approach to impact measurement using the Planetary Boundaries framework
+[19:08]: Risk assessment and capital intensity in Transition's investment process
+[23:10]: Exploration of the future of climate tech and the potential for every company to be a climate company
+[26:54]: The role of incumbents and collaboration in the energy transition
+[28:50]: The challenges and opportunities of working with oil majors
+[31:59]: The role of individuals in the transition 
+[33:15]: Advice for those interested in working on climate tech problems.
+
+Resource Mentioned: Planetary boundaries - Stockholm Resilience Centre
+Jason Jacobs (00:00):
+Today, on the MCJ Capital Series, our guest is David Helgason, who's a partner at Transition. Transition partners with seed and series A founders to make the climate transition a reality. They've come together as founders, investors, operators, engineers, and scientists from across the world with a single mission: building an abundant and resilient society that can thrive within our finite planet.
+(00:25):
+Prior to starting Transition, David was co-founder of Unity Technologies, and served as the CEO until 2014. He's still on their board of directors. With his background in the gaming industry, David took interest in green gaming, before stretching that interest into mitigating and adapting to climate change and the transition to a low-carbon economy. We have a great discussion in this episode about David's journey, the work that he's doing at transition, how he got started in climate, what types of companies and projects are most interesting to him and his team, and how he sees transition evolving, and the energy transition overall playing out for all of us. It's a great discussion and I hope you enjoy it. But before we start...
+Cody Simms (01:15):
+I'm Cody Simms.
+Yin Liu (01:17):
+I'm Yin Liu.
+Jason Jacobs (01:18):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+Yin Liu (01:24):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:30):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change, and all the ways people like you and I can help.
+Jason Jacobs (01:43):
+David Helgason, welcome to the show.
+David Helgason (01:45):
+Thanks, Jason.
+Jason Jacobs (01:46):
+I'm so excited to have you. I think this might be the first time that we're speaking live, although-
+David Helgason (01:51):
+I think so, yeah.
+Jason Jacobs (01:52):
+... I've spoken with your brother and with some of your colleagues, and I think we share a whole bunch of portfolio companies.
+David Helgason (02:00):
+I believe we do.
+Jason Jacobs (02:00):
+Yeah, and we also have some similarities in our journeys with the caveat that Runkeeper was not anywhere even of a smidge as much of a success as Unity.
+David Helgason (02:09):
+It's still a great company, it's a really cool company.
+Jason Jacobs (02:11):
+It was fun to build. I love running and building a company at the intersection of fitness and technology, and combine some passions, which I'm sure you can relate. But yes, psyched just to hear the story right from you and to learn more about what you're doing, as well as educate our audience on what you're doing because it's important work. And it's just a great example of how someone that wasn't working in the space can come into the space and find a way to have an outsized impact, which you are.
+David Helgason (02:35):
+That's very kind words, and we're definitely trying. I can tell you how we got to it. That's interesting.
+Jason Jacobs (02:41):
+Well, first tell me what it is. Maybe talk about Transition.
+David Helgason (02:44):
+That's a fair point. It's all jumbled in my mind. Anyway, so Transition is a venture firm that I've been building for the last three years, almost from the sketching, scheming phase it that is homed in London, but partners with companies from both sides of the Atlantic. We have four partners, a couple of junior people, and then an incredible group of venture partners around us who are our superpower, and having people who are building the playbooks for climate tech, for scaling climate tech companies currently. So people in finance part, people in the regulatory part, people in the engineering, leading engineering teams and building infrastructure part, carbon sequestration, batteries, and a few other topics. So it's [inaudible 00:03:32], and then we called it Transition, [inaudible 00:03:34] Transition.vc. And yeah, that's pretty much it... Oh, partnering at seed and series A level in particular, this stage in particular.
+Jason Jacobs (03:42):
+And typical check size, sectors, criteria do you lead?
+David Helgason (03:47):
+Yeah, so very happy to lead collaborative obviously also, but our inclination is to lead deals to $6 million initial check, and of course being able to follow on from that. We like hardware and software. We come from software, some of us, so we have strengths there, but then have been building our capabilities in hardware where we actually quite a lot of different things. We have a lot of expertise in batteries and battery-related technologies, synthetic biology, industrial tech. We have a few companies we've already partnered with in those areas.
+Jason Jacobs (04:19):
+And so, I know it's structured like a typical vehicle, and I'm choosing my words carefully, but from a sources of capital standpoint, is it single LP outside LPs? What types of folks you have around the table?
+David Helgason (04:33):
+I've been lucky in life having built something before, but so I was able to start without asking permission, which is a luxury. So, we got started with first deployment a year and a half ago, but then knew that we wanted to build a real firm, not a family office, offshoot something, something, and we wanted extremely talented partners and we didn't think the best people would want to work in a single LP situation. So, we went out and partnered with some very good LPs across the world, a lot of founders of great companies, but also more professional institutional investors and foundations and [inaudible 00:05:07].
+Jason Jacobs (05:07):
+I know some of this, but for sake of listeners, maybe talk a bit about what you were doing prior and also how you found yourself moving in the direction of working on the energy transition.
+David Helgason (05:19):
+Yeah, in the distant past, I founded the software company Unity, which did exceedingly well, and I'm very proud of the work we did there. I was one of the founders and I was the CEO for the first 12 years. I then found myself having found my replacement.
+Jason Jacobs (05:33):
+You're being humble, so give a sense of what does it mean to do extremely well: by what metric are you measuring? And also, just give a little more color because I will if you won't.
+David Helgason (05:40):
+Sure. Well, the core of it's a piece of software for making video games, and video games as an industry has been growing extremely rapidly for the last 40 years. And when we started 20 years ago, we stepped into that field giving small developers, individual developers, but also sometimes larger teams, superpowers in terms of great software that they could use to build their games. And around that, we then built the whole infrastructure of cloud services and advertising analytics and so on, into a big, all-singing, all-dancing solution.
+(06:14):
+Started three people, currently around 6,000 people, we took it public three years ago. We've had days when the stock market thought we were worth $40 billion, we've had days when the stock market thought we were worth $10 billion. It's closer to $10 billion right now, but yeah, it's a cool company. There's some cool metrics like roughly half the video games in the world are built with our software, and actually more on mobile, a higher percentage on mobile. So that's pretty cool: I'm very proud of having built a company that provides critical infrastructure to an industry that I really came to love over the years. It's a lot of fantastic people.
+Jason Jacobs (06:45):
+And I heard you say when I was prepping for this discussion, David, another interview that you did that you were quite concerned about climate a ways back, but you were too busy trying to land the plane in terms of helping build Unity into the success that it has now become.
+David Helgason (07:01):
+At least that's my excuse, right? But you're right: I was worried about climate, but I did basically nothing about it. And I take no pride in that. So like most people, I didn't do anything about it. But when I freed up from running Unity, which is like nine years ago, I did the thing that a lot of founders do: I'd already been spending time with other founders. I love startups, I love technology, I love people who are building things, so I became an angel investor initially with tiny checks into friends and so on, and then a bit more. And I was able to sell some shares along the way, so I became quite prolific. So I have a brother, I have a wealth of brothers actually, but one of my brothers was seven years ago about to start a synthetic biology company now called VitroLabs, it's a growing leather from in cell culture. It basically looks like vertical farming for leather. It's a really cool company.
+(07:47):
+And he brought me into this area, I invested in his company because he's my brother, but then I learned about it and became fascinated. I ended up investing in other synthetic biology companies. I invested in other deep tech companies, nuclear fission and fusion, and in these journeys I really came to realize that there was these people that identified themselves as climate tech founders or were thinking about the world in that way. And I'm a failed scientist: I love hanging out with these people that are doing difficult things, and I found some of the same passion and intelligence as in the games industry, only here, people were working on really important problems. So I became a very prolific angel investor into these companies because I knew what to do with them: I can invest, I can advise, and maybe help them sometimes.
+(08:27):
+And then, as I became more liquid from my old company, I also became an LP into a lot of venture funds that were focused on climate, either wholly or partially. I shouldn't claim this, I don't know if it's true, but I suspect I might be the broadest invested LP, limited partner, into climate tech funds in the world. I could be wrong, but I suspect so: not by magnitude of the checks, but by the number of engagements. So, I had these two lenses: as an LP into venture funds, and as an angel, and I had positive and negative learnings I could say. On the positive side, incredible founders, great technologies, and for various reasons-
+PART 1 OF 4 ENDS [00:09:04]
+David Helgason (09:03):
+...founders, great technologies. And for various reasons it became possible to imagine and see how some of these new processes, techniques, products, would be able to out compete existing old industrial system companies and products in the capitalistic market. And if you believe that to be possible, then you can see how some of these problems might be solved. So that was really exciting.
+(09:25):
+On the negative side, as an angel, I was kind of applying myself in the wrong place, almost like lifting badly with your back bent or something. Because my angel checks were not really the swing checks. These early stage companies were getting funded. And while I love hanging out with the scientists, I'm not maybe helping them actually solve their real problems when they're figuring out their initial thing. My experience is more on the later stage and actually growing companies to a large scale. So I was kind of doing the wrong thing. It was really fun and I learned a lot, but it became a little frustrated with it. And so three years ago basically started realizing, "Okay, yeah, no, I should be inside a venture firm."
+(10:01):
+I didn't think people were having the right approach to core venture, late seed Series A in Europe. There wasn't not enough capital by far. So that seems like the right place to step into. So that's what I did. I'm so lucky. I have another brother, Ari, is trained in venture. He's been doing venture for 10 years now, last at Index Ventures where he pretty much got the best training that Europe has to offer in this space. He also wanted to work in climate. He also believed that it would be hard to do this from a generalist firm. There's so much depth and breadth and expertise required in climate that if you're not living it all day, all night, but if you're spreading yourself into all kinds of other things, as you have to do at generalist venture firms, it would be hard to do it really well. So yeah, the conclusion was specialist firm in Europe, but investing across the Atlantic.
+Jason Jacobs (10:47):
+When you think about your decision to focus on climate and when you think about your decision to focus on venture, what led you to choose each of those things,
+David Helgason (10:54):
+Like all these decisions?
+Jason Jacobs (10:56):
+Why climate relative to anything else you could focus on? So why not gaming again, as an example, and then same question about why venture versus starting another company or building an accelerator or running for office or doing anything that you could have done?
+David Helgason (11:10):
+I have a really dumb framework for why people do things or why I should do things, at least. It's because you can and it's because you can't not, and because somebody else can't and because nobody else can. And you won't find things that fit all these [inaudible 00:11:26] criteria. If there's a task that answers many of those or several of those positively, maybe that's the thing you do. There's a lot of big problems in the world that I care about, like democracy and poverty and health, and they would all be interesting to tackle or work on.
+(11:42):
+I have concluded I'm not the only person to think that, that climate change is the nexus role of them. Or none of these other things will work if the climate keeps getting worse. And there's a lot of, how to say, one has to limit oneself. So I just decided to ignore all the other problems. And there's really important problems that I'm just not going to work on and I hope other people do. And then this became my task and I basically decided the rest of my career should be focused on this.
+Jason Jacobs (12:08):
+And why venture?
+David Helgason (12:10):
+It's applying ourselves, right? I've been investing for a long time. It's something we know how to do and we can add quite a lot of value to these companies we partner with. Yeah, it's kind of where we exert ourselves best. It's where our skills I think are best applied. I don't think I have another startup in me. It's been tempting a few times. I even kind of started some companies that I was able to not get engaged with. At least not so much. But no, this feels like the right place to put my efforts. It's not really more scientific than that.
+Jason Jacobs (12:39):
+So you talked about why climate, and you talked about why venture and you talked about how you like a mix of hardware and software and you talked about stage and check size, et cetera. What about returns? How do you think about financial returns and how do you think about impact? And how do those intersect?
+David Helgason (12:56):
+Personally, I'm quite skeptical of capitalism, but it's like the absolute only game in town. And so there's a lot of problems we could solve if we had one world government and yada yada. We'd probably have other problems, by the way. But if we accept that capitalism is pretty much the only game in town, then we have to find solutions to that genuinely outcompete existing solutions.
+(13:17):
+And the old industrial system, fortunately, well unfortunately depending on how you look at it, is unbelievably inefficient and dirty and polluting and ugly and noisy and unhealthy. So it turns out that quite a lot of these tens of thousands of processes can't be outcompeted with new solutions, new technologies, new approaches. And then our job is to find those that we think we can accelerate with venture and with partnering with companies and working with them and helping them grow much faster than they would otherwise, and then therefore replace some of the old processes. And if we can do that some tens of times, hundreds of times, maybe over the next couple of decades, we'll have done a good base work. And it's not solving all the problems, it's just like solving individual little problems. But there's only a few tens of thousands of problems to solve.
+Jason Jacobs (14:07):
+You mentioned earlier in this discussion that you came to the conclusion that it would be difficult for a generalist venture firm to invest in climate tech. There's lots of generalist technology venture firms that invest across hardware and software. What is it about climate tech that makes it difficult for generalist firms to invest in? And I guess specifically, how is it different than the generalist firms that invest across [inaudible 00:14:34] already?
+David Helgason (14:34):
+They do invest in climate tech companies, sometimes quite well. So there's nothing wrong with that. There's a brain trust, there's an expertise that you can build up around you if you focus on climate as the circle you work inside. By the way, our circle is slightly differently defined. We'll get back to that maybe in a second. But if you make a circle like that, then the question becomes these are the companies or the types of companies we want to work with, what are their needs? What are the commonalities? What kind of expertise do we have to have to be able to partner with the right ones and then help them a lot? By framing that, we were able to come to some answers that we like, which is quite a lot of expertise in the investor group and of course growing as we look at more and more things.
+(15:13):
+And then a network, pretty tightly-knit network of operators from climate tech who are developing the playbooks right now for how to do these things. And as I alluded to in finance and in engineering, in carbon circumstration, in batteries, the regulatory frameworks, the IRA and the CHIPS Act and so on. And having that kind of network of people that work with us on understanding the sectors, looking for the right companies, and then helping the companies a lot after we partner with them, having that kind of group, the tight-knit group that is really high of people who are doing really important things, it's something you couldn't really do from a generalist firm.
+(15:48):
+We think we have a real advantage there and we see that the people in our space are true believers. They're fighting fights they really believe in, and they want to partner with somebody who shares their beliefs and is clearly willing to roll up their sleeves and work on these problems.
+Yin Lu (16:03):
+Hey everyone. I'm Yin, a partner at MCJ Collective. Here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(16:29):
+Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important.
+(16:55):
+If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+Jason Jacobs (17:03):
+If you find a company that looks like, financially, it fits the profile of what would make a good venture investment as you define it for transition through what lens do you determine if it checks the impact box? Or where does impact fit into your criteria and process?
+David Helgason (17:21):
+So when we got started, or were getting started few years ago or thinking about this space, again, I've been an angel investor into a bunch of companies, but not very systematically initially, it's just like falling for founders and technologies on my journeys. We were thinking, what's a good definition here? Of course, focusing on carbon entering or leaving the system was really important and it's kind of the core of a lot of these problems. But when you look at the planet, there's a lot of other problems, in biodiversity and freshwater and mining and soil health and a bunch of others. And we came across this framework called the Planetary Boundaries developed in the Stockholm Resilience Center, and it's a really neat science-based framework that defines or describes nine systems, nine boundaries that are-
+PART 2 OF 4 ENDS [00:18:04]
+David Helgason (18:03):
+So it describes nine systems, nine boundaries that are, by the way, all under immense pressure except the ozone layer, which is roughly okay after having been managed quite well. So that became our selected framework to invest in inside of. The definition for what we do is, we'll partner with companies that, by growing large and being successful, will significantly impact one or several of these boundaries, and not significantly hurt the others. And since these are early stage companies, going overboard on exact measurements doesn't feel right. It feels onerous to put on them, but we do reason about these boundaries. The companies generally do too. And then we work with them on defining impact metrics that we then track with them. That's the circle we ended up drawing for ourselves. It feels coherent. Like the founders we work with, they like the framework, they see how they fit inside of it. Most of them know it. Others enjoy getting to know it. And then we work with Stockholm Resilience Center on an ongoing basis to learn more and give feedback on how it works as an investment framework.
+Jason Jacobs (18:59):
+When you are evaluating companies, of course, across this hardware and software spectrum, there's vastly different risk profiles for these companies. What type of risk are you okay with? What type of risk are showstoppers for you? And also, is it stage dependent or is it pretty consistent as you look across categories and business models?
+David Helgason (19:19):
+We think that a firm like this can and should have really top venture returns. And we look around and we find companies, enough good companies that we believe we can do that. And it sort of goes back to this idea that when there's alignment between being successful and having the positive impact, that's when they fit with what we want to work with. When we enter at, let's say, naught to early seed and series A, we look for companies where the science part has been de-risked quite heavily or mostly. There will be remaining engineering scale of risk. There'll be market risk and execution risk of course, and we're willing to take those. And that means unfortunately there's some projects that are still sort of science-based that we will not work with, but of course excited to stay close and give advice as they go.
+(20:04):
+And when they exit that science, we're not smart enough to invest in the science-based projects. And we think other people are probably better at that. But when they come into the space, when they can start scaling and need to start scaling, that's where I think we're really good at partnering with them. So that's where we go.
+Jason Jacobs (20:19):
+Great. And how do you think about capital intensity sources of capital, and to what degree does that factor into your diligence process?
+David Helgason (20:31):
+Quite heavily. So I mean, there's a bunch of companies that are not capital intensive and they're easy to partner with. Doesn't mean we partner with all of them, but those are the easier ones to work on. When it comes to capital intensivity, we try to look for companies that while they may be capital intensive in some big picture, their journey doesn't have to be capital intensive. Somebody else may be carrying their capital costs, carrying whatever things they need to build on other companies, balance sheets, companies that are IP strong and in a position where they can license the tech instead of building all of it. That's what we like, and simply, we're operating at seed series A stage. We can't guarantee hundreds of millions of dollars for later stages. When we think there's quite a lot of financing risk later, we have to pass or not go there.
+(21:14):
+It's kind of sad because there's really cool things that you could do with a billion or 10 billion or 100 billion, and we just don't have that, so we have to be very selective and look for companies that, whether it's a realistic path. Well, the visual I always try to get is, is there a path all the way down the mountain where you can gain speed all the way down as a skier and not have to be lifted up along the way? And those companies exist, and some companies have to be very deliberate about finding ways of being that type of company by offloading some of their financing to others, to their partners, et cetera. And we're pretty good at helping with that. Otherwise, there's just too much risk to assume. And again, that's unfortunately not the type of risk we want to take.
+Jason Jacobs (21:52):
+I could keep firing questions to learn more about the intricacies of your strategy and we could spend the whole episode on that, but I'm going to ask one more and then I want to pull it back up bigger picture, because I don't want to miss the opportunity to look inside your brand on some of the bigger picture stuff that's so important. On the transition side, how do you think about reserves, follow on, bridges, down rounds?
+David Helgason (22:13):
+The fund model is 60% initial deployment, 40% reserves. Every firm will end up having slightly different definition of these things. We think that's the right one for us. I mean, on down rounds, they'll probably happen. We've been lucky so far, or good or whatever it is. But yeah, it'll happen. And then we have to roll up your sleeves and find ways of supporting the companies through these phases.
+Jason Jacobs (22:34):
+So pulling it a bit higher level, when you think about the transition, I think about when, with Runkeeper, we ended up being lucky enough to be in the app store right at launch, and I remember-
+David Helgason (22:47):
+Were you there at the beginning?
+Jason Jacobs (22:48):
+We were there at the very beginning. Yeah.
+David Helgason (22:50):
+Wow, very cool.
+Jason Jacobs (22:50):
+We were building the app before, just for the simulator because the devices weren't available yet.
+David Helgason (22:54):
+Wow.
+Jason Jacobs (22:55):
+I camped out at an Apple Store overnight. There's a picture of me in the Boston Globe doing that to get my hands on a testing device because our app was ready to ship, but we couldn't test it with real GPS because there wasn't GPS in the simulators. Anyways.
+David Helgason (23:06):
+Wow, that's awesome.
+Jason Jacobs (23:07):
+Yeah.
+David Helgason (23:08):
+I didn't realize that.
+Jason Jacobs (23:09):
+Luck and a bunch of others. Anyways, that story for another day, but the reason I bring it up is that I remember Kleiner had this I-fund that was focused on mobile applications, and if you think today, you wouldn't have a fund dedicated to mobile applications, because mobile is part of the fabric. Every company's a mobile company. And so bringing that back around today, you've got firms and investment firms and companies that are climate tech funds, et cetera. How do you think the space is going to evolve? Is it going to happen the way it did with mobile where ultimately every company is a climate company and you don't need to distinguish? Or do you think this is not a sector of vertical, but this special label in 10 years, will we still have it?
+David Helgason (23:49):
+That's a really good question. Maybe I hope not, but I suspect we will. Will we one day just look at this as companies that are building the new industrial system? Obviously they have to be clean and obviously they have to not pollute or use resources in good ways and so on. That would be nice.
+Jason Jacobs (24:05):
+It's hard to say, because ultimately, inevitably, it seems like we will just, like, the big tanker ship will turn, where we will be... The flywheel will get cleaner and cleaner over time just due to Darwinism. But whether we're years away from that, decades away from that, generations away from that, and how much unnecessary suffering will happen in between, these are things that I don't know the answer to. But on a similar lines, you mentioned that you are a capitalism skeptic, but it's the best game we've got.
+David Helgason (24:38):
+I didn't even say best. Actually, just like the only, though. I mean, no other system has real representation anywhere, right?
+Jason Jacobs (24:45):
+Well, that's like saying, it's like best sister, only sister. If it's your only sister, it's also your best, right?
+David Helgason (24:52):
+And worse than yada yada yada.
+Jason Jacobs (24:54):
+And your worst, and your worst. But when you think about what is going to incentivize the system to get there faster, I guess when I look at it, I think that you can go anywhere with innovation, but there's certain pockets where the fruit's going to ripen faster, and so you need to go, as a picker, you need to go and pluck where the fruit is ripe, and leave it alone to grow where it's not. But how do you think about what's a good fit for venture versus not? And also, whether the green premium is something that would ever fly? Is there ever a place for it?
+David Helgason (25:26):
+Maybe I lost track of the question.
+Jason Jacobs (25:28):
+The question is, when you're deploying capital into climate tech, how do you know where the fruit is ripe? And is the role making these decisions to help the fruit ripen, or is it to pick the fruit that is ripening on its own and ready to be picked?
+David Helgason (25:44):
+The picking metaphor sounds horrible because it's somehow like the fruit stops growing when you... I don't know. When sort of operating in this core venture stage, you're looking for companies that have developed something that seems to work and now has to be brought into the world at a rapidly accelerating pace. A lot of it is understanding where the world is going. And that can be as simple as, is somebody ready to buy this right now or very soon, or would they buy it if it existed? A lot of it is just going out and actually talking to the would be customers, the people who should be buying the solutions. Are they ready? How does it fit into their supply chains and how fast can they flip the supply chain, or which inputs they use and so on. And that's fortunately something that you can sort of reason about sometimes, somewhat easily.
+(26:28):
+So yeah, there's a lot of that low level work of just going out to find is the world ready for it. There's a lot of cool solutions that if we could dictate that everyone would do that, we'd solve the problems fairly easily. And nobody has that power, so we have to find things that can ski downhill and grow by themselves. On the positive side, as I mentioned, the old industrial system is expletive inefficient, right? So there's quite a lot of opportunity to replace the old processes.
+Jason Jacobs (26:54):
+Do you have any bias? A couple areas that I'm curious if you have any bias. One is, helping incumbents evolve versus displacing incumbents. And similarly, on...
+PART 3 OF 4 ENDS [00:27:04]
+Jason Jacobs (27:03):
+... versus displacing incumbents. And similarly on team, there's many different flavors of team, but there's also many different flavors of technology. Do you look for different types of team makeups for different types of companies, or are there certain criteria that are consistent across any company that transition would look to partner with?
+David Helgason (27:18):
+That's a good point that different types of companies, industries, sectors will call for different founders, different leadership teams. When I was in software or all in software, I sometimes defined three types of problems that you could have to solve in software. There's problems you can solve if you're just reasonably smart. There's problems where you have to be really, really smart. And then there's problems where you also have to have wisdom. And that is especially when there's complex, difficult trade-offs in what you're doing, like networking computers and high-speed for instance is something you can't just be smart. There's just a lot of wisdom in which trade-offs make sense and the field for where the world is moving and which trade-offs will stop making sense or how they flip over time.
+(28:01):
+And I think you get a lot of need for wisdom in some of the more difficult industries where we're building something expensive and complicated and you don't have a lot of shots on goal, so you have to get it right reasonably fast. I think that's at least the framework I use. Is it enough to be extremely smart or do you have to have something more than that? And you see that in different teams because there are generally problems where if you're just really, really smart, you can crack them, and then yeah, other problems where that's not the case.
+Jason Jacobs (28:29):
+And what does that imply in terms of a partner versus a compete approach? If you look at the big incumbents, is it one size fits all? Any bias there or is it case by case?
+David Helgason (28:39):
+You probably find examples of both in the companies we partner with. Companies that want to go out and be full stack, and then companies that obviously have to fit into a refined infrastructure that already exists.
+Jason Jacobs (28:50):
+How do you think about the oil majors and the future?
+David Helgason (28:54):
+I thought less about that than some smarts friends of mine. So I don't have a lot of independent thinking on that as far as I can tell they'll hold on because big organizations just tend to hold on. I'm not the most optimistic, but of course it's been pointed out there's a lot of talent, there's a lot of institutional knowledge in how to move a lot of molecules around and so on that can probably be used. I'm just skeptical because I see companies just holding on to whatever they've achieved and so on. I'm probably less optimistic than some friends of mine, but what do you think?
+Jason Jacobs (29:26):
+It's tough because I'm a pragmatist and believe that we need them at the table and need their help. But the doublespeak and the saying one thing publicly and then having their trade groups do other stuff or investing a little bit of marketing, spending some green stuff and then holding it up like it's your whole business while continuing to do everything you used to do and plan to for as long as you can. I think there's reasons to be skeptical and there's reasons why they need to be at the table, so what do you do with that? I think checks and balances is good, but I'm of a mindset that collaboration is essential.
+David Helgason (29:55):
+Yeah, and I think some of the worst aspects of capitalism sometimes is what are referred to as functionarial capitalism, like big organizations or big institutions, companies, whatever, but then task a whole bunch of people, who are not little people, but they are forced to act like little people. They're given very narrow goals of optimizing something. And then you have a bunch of people who act like little people optimizing without a big-picture view of what they're doing. And you get that in finance, you get it in oil, you get it everywhere. It brings out the worst in capitalism.
+Jason Jacobs (30:26):
+Well, I have a whole lot of other things I want to ask you. We are at least getting close to time, so I want to choose my final questions carefully. One question is just when you think about the future post-transition, I guess there's no end date. The world will always transition forever.
+David Helgason (30:40):
+My favorite question from a potential LP I was talking to at one point was, "What do really do when the transition is done?" Yes, I'll go to the beach.
+Jason Jacobs (30:50):
+But when you envision at least operating more in harmony with the planet that we and so many other forms of life rely on, how much of that is the infrastructure being swapped out invisibly under the hood while we go about living our lives as we do versus the way that we as humans live our lives on the planet? How dramatically do you see that shifting over time, and is winning the hearts and minds of billions of people essential to complete the transition effectively?
+David Helgason (31:19):
+The transition to a sustainable industrial system and to civilization, if it gets done at all, it gets done so piecemeal because there's so many processes, so many things that get replaced, that for everything we replace, it's pretty subtle. So I think that it doesn't happen all at once and there's no big-picture change that happens right away. Now, we look up in 10 years, how much has changed? It's changed enough that it feels like everything has changed. I don't know. That's a really interesting question. Do we look up one day and it looks like people were in this era making renderings of solar pump visions? That'd be awesome. My imagination is strong enough to see that happening, but maybe we'll look up and it has happened already.
+Jason Jacobs (31:59):
+Here's some specific examples. There's so much benefit that comes from travel, seeing new places, experiencing new parts of the world, meeting new people, building bridges, building empathy, et cetera. Do we have a duty to travel less? Or my kid and I, we spend a large amount of our personal time in hockey rinks. Should hockey go away? If things get as bad as the scientists say, then drastic measures need to be taken. But is abundance negotiable?
+David Helgason (32:25):
+When I look at what's the new technologies that are being developed, new methods, these are methods that can genuinely create abundance. So yeah, I'm a believer in abundance. I think that's the only path almost. So if we don't find a way to create abundance, then I'm not sure we get the transition done. I'm not sure if that's an optimistic or pessimistic view, but I have to believe that there'll be abundance. And I can see that in the things that are being created. There is abundance. Energy will be extremely cheap, too cheap to meter or whatever. Nothing's too cheap to meter, but that has to happen and that can happen and we might get it done. The opposite view is what's called de-growth, and it's really cool and it's a beautiful idea, and it has no political representation of any significance anywhere in the world. So if that's required, that'll be a very painful process, and I'm not sure who can achieve that out there. I mean who as in politicians.
+Jason Jacobs (33:15):
+Speak for a moment to the David Helgasons of the world who maybe had built a Unity equivalent but are maybe just dabbling in a bunch of different things and haven't found where to anchor for the next phase, and are concerned about this problem but don't know what to do or where to start. What advice would you have for that person?
+David Helgason (33:31):
+Working on this transition is so damn fun, and it's almost embarrassing how fun it is because it's also gruesome and there's real problems out there that will ramp and a lot of pain will be had in the world, but it's really fun. So I think other systems thinkers who enjoy looking at big problems can also enjoy it, but I'm not sure anyone can tell anyone what to do. And then you look at all the talent that is going to working on climate tech problems, and there's no world in which some of these people are not going to build world-changing companies because they're so smart and they're so driven. Just for capitalist reasons, I think this is a big opportunity right now. AI, sure. But we're going to rebuild the whole industrial system of the planet and that's trillions of dollars of value that gets moved around, and we can accelerate some of it and we can work on some of it, own little pieces of it here and there. That's super exciting.
+Jason Jacobs (34:20):
+David, anything I didn't ask that you wish I did? Or any parting words for listeners?
+David Helgason (34:25):
+No, I think maybe next time we need to talk about the companies a bit that we partnered with, but I got to run within a minute or so, so we'll have to pump that. Thank you so much for the work you're doing. You and the network you're building is inspiring a lot of people and me included. You've got started ahead of me, so I'm just really thankful for that.
+Jason Jacobs (34:42):
+Well, thank you, David, and thanks for coming on the show.
+David Helgason (34:45):
+Thank you.
+Cody Simms (34:45):
+Thanks again for joining us on My Climate Journey podcast. At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity. If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter @mcjpod.
+Yin Lu (35:12):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (35:21):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

@@ -1,0 +1,304 @@
+Today's guests are Dr. Etosha Cave, Co-Founder & Chief Science Officer, Dr. Kendra Kuhl, Co-Founder & CTO, and Nicholas Flanders, Co-Founder & CEO of Twelve.
+Twelve is the carbon transformation company, a new kind of chemical company built for the climate era. They make essential products from air, not oil. Twelve's groundbreaking technology eliminates emissions by transforming CO2 into critical chemicals, materials, and fuels currently made from fossil fuels. The startup calls it carbon transformation, and it fundamentally changes how we can address climate change, reduce emissions and reverse the carbon imbalance. Reinventing what it means to be a chemical company, we're on a mission to create a positive climate world and a fossil-free future through the power of chemistry. 
+Founded in 2016, Twelve was part of Lawrence Berkeley National Laboratory's first Cyclotron Road cohort, an incubator program that aids in the creation of environmentally beneficial companies.
+In this episode, the founders walk me through their roles at Twelve, the company's mission, and the process of bringing technology from the lab to the market. We also explored their recent capital raise, customer base, and why carbon transformation is essential in the clean and carbon-free future. Etosha, Kendra, and Nicholas are fantastic guests, and it was exciting to learn more about Twelve.
+Enjoy the show!
+You can find me on twitter @jjacobs22 or @mcjpod and email at info@myclimatejourney.co, where I encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded October 14th, 2021
+In Today's episode, we cover:
+An overview of Twelve and the mission of the company
+The three co-founders climate journeys and what brought them together to found Twelve
+What made the team realize their technology should and could be commercialized
+The existing landscape for carbon capture and converting carbon to viable products before Twelve was founded
+The three founders roles and responsibilities at Twelve
+The process of bringing tech from the lab to the market
+How to balance building the technology and creating a customer base
+Twelve's target customers
+What motivates companies to utilize Twelve's services
+How Twelve is working to develop cost-effective and scalable products
+The different classes of carbon, which type Twelve is transforming, and why the company focuses on CO2
+A discussion about why it matters that the companies have emissions when Twelve can take carbon from anywhere
+Twelve's previous sources of capital and what the future raises look like for the startup
+How policy affects Twelve's success and their customers
+What success looks like for Twelve, long-term and over the next 12 months
+Links to topics discussed in this episode:
+Twelve is hiring! Check out the career page here: http://www.twelve.co/careers
+Twelve, Formerly Opus 12, Secures $57 Million in Series A Funding Led by Capricorn and Carbon Direct
+Jason: Hey, everyone, Jason here. I am the My Climate Journey show host. Before we get going, I wanted to take a minute and tell you about the My Climate Journey, or MCJ as we call it, membership option. Membership came to be because there were a bunch of people that were, listened to the show that weren't just looking for education, but they were longing for a peer group as well. So, we set up a Slack community for those people that's now mushroomed into more than 1,300 members. There is an application to become a member. It's not an exclusive thing. There's four criteria we screen for: determination to tackle the problem of climate change, ambition to work on the most impactful solution areas, optimism that we can make a dent and we're not wasting our time for trying, and a collaborative spirit. Beyond that, the more diversity, the better.
+
+There's a bunch of great things that have come out of that community, a number of founding teams that have met in there, a number of nonprofits that have been established, a bunch of hiring that's been done, a bunch of companies that have raised capital in there, a bunch of funds that have gotten limited partners or investors for their funds in there, as well as a bunch of events and programming by members and for members, and some open-source projects that are getting actively worked on that hatched in there as well. At any rate, if you wanna learn more, you can go to myclimatejourney.co, the website, and click the Become A Member tab at the top. Enjoy the show.
+
+Hello everyone. This is Jason Jacobs, and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change, and try to figure out how people like you and I can help. Today's guests are the co-founders of Twelve, Nicholas Flanders, Dr. Kendra Kuhl and Dr. Etosha Cave. Twelve is a new kind of chemical company built for the climate era. Their break-through technology eliminates emissions by turning CO2 into a central products. They call it carbon transformation.
+
+Now, I was excited for this one because there's a lotta talk about how there's too much carbon in the atmosphere, way too much. And there's also talk about the fact that, yes, we need to reduce our emissions going forward, but we also need to find a way to pull carbon out of the atmosphere. Now, we can store it in the ground and that can work, although not easy, but there's some business model challenges around who will pay. With Twelve, they are taking that carbon that gets pulled out of the air and they're converting it into valuable products.
+
+We cover a lot in this episode, including the origin story of the company, how it came about, the process of spinning out the technology from the lab into a company, the skill sets that were required, the lessons that were learned along the way, the best sources of capital for this effort, both the decisions that the team has made with Twelve, but also their advice for anyone else following down a similar path. We talk about the technical barriers and some of the big proof points that the team is focused on over the next 12 to 24 months. We talk about the recent round of capital that they raised. We talk about their ideal customer profiles and some of the traction that they've got with customers so far. We talk about the business model and we also just have a great discussion about carbon removal in general and climate change, where it fits in, what it will take to make it successful, and what we can do, if anything, to help it happen faster.
+
+Nicholas, Kendra, Etosha, welcome to the show.
+
+Nicholas: Thanks for having us.
+
+Kendra: Thank you.
+
+Etosha: Yeah, thanks for having us.
+
+Jason: Thank you for coming. Now this, this might be the first time I've had three co-founders at once on one podcast, so this is some kind of grand experiment. It, it feels a little bit like I'm over my skis here, so I don't know. We'll, we'll see what happens, but I feel so honored to have not just the company representative, but all three of you, and it should make for a really fascinating discussion, so thank you.
+
+Nicholas: Looking forward to it.
+
+Jason: Well, just taking things from the top, and I'll just kind of throw this out there as a jump ball and whoever wants to take it can take it, but what is Twelve?
+
+Etosha: So, I think maybe starting off with our kind of origin story really helps to tell you what, what it's about. So, myself and Kendra, we were in a PhD lab at Stanford University studying metal catalysts that can convert CO2 into one of 16 new molecules.
+
+Jason: And what, when was this, Etosha?
+
+Etosha: Oh, [laughs] circa 2010 to 2015, 2106 time frame.
+
+Jason: And what, what led you to be doing that research in the first place?
+
+Etosha: Yeah, I think for both of us, we have a really strong interest in clean tech and sort of greenhouse gas emissions reduction, climate mitigation and concern for building that future that we all want, that, you know, we can get energy from a clean source, we can have, you know, the planes and the trains and the skyscrapers that we want, but do it in a very clean way and, and protect our planet.
+
+Jason: And I'm, I'm cutting you off before I let you actually let you answer the question, but where did that come from? I mean, have you cared about climate your whole life, or did you hit your head in the shower as a young girl or, I mean, what made you interested in, concerned about whatever, whatever descriptor you wanna use about this category in the first place?
+
+Etosha: Yeah, well I, I can give my, my reasoning and then I'll let Kendra and Nicholas chime in there. So for me, I mean, I, I grew up in a neighborhood that was adjacent to an abandoned oil and gas waste site. And when I was a teenager, we were made aware of the, the fact that this, these toxic chemicals were basically there and had leached into the water supply. And there was a, you know, a lot of national press around it and the EPA was involved in these types of things. And so, it was just really personal for me to see the effects of waste from an energy and oil and gas process, and what happens when you don't properly treat that and clean it up and, and do something about it.
+
+So, I had an inclination towards science and math, and so went on and became an engineer with the focus of, you know, creating a world in which no other community really had to deal with something like this. So that, when I heard about CO2 as a huge waste problem and something we haven't really fully addressed, and so it really drew me to it as a way to deal with the waste CO2 that we are currently putting out into the atmosphere.
+
+Jason: Well, I wanna hear about the what is Twelve part, but before we do, Kendra, what about you? What's your personal origin story for caring about and, and leading you to work in this area?
+
+Kendra: Yeah, I grew up in Montana and just in a family that was outside all the time. And it was right next to Glacier National Park so, literally, like, we could go and see the glaciers melting, right? And so, I, I just, you know, really wanted to do something to help the environment from a young age, and just also gravitated towards, like, science and math and, and technology. So, pursued chemistry, kind of with the idea of doing something sustainable. And then, was super excited when I got to grad school and there was this CO2 transformation project to work on. That's where I met Etosha.
+
+Jason: Awesome, and then what about you, Nicholas?
+
+Nicholas: So, I grew up in upstate New York, and kinda similar to Kendra, it was spending so much time outdoors that really led to my passion about the environment. And then, I was always drawn to, it was kinda the intersection of that with science fiction and kind of loving big machines as a kid. So, I think the intersection between energy, environment and infrastructure was just a, a natural place for me to intersect. And I, I originally met Etosha at the Stanford Space Club when I was there for, for grad school.
+
+Jason: Nice. So now, Etosha, back to you. So, you're doing this research alongside Kendra in the lab. Am I-
+
+Etosha: Yeah. So, yeah, the three of us formed the founding team of Twelve with a mission to transform CO2. Right now, you know, if you're emitting CO2, you're, you're throwing it into the atmosphere and we're saying, what if we could take that CO2 and actually make some of the products that we use and love today, such as jet fuel and clothing and lenses in sunglasses, and products in Procter & Gamble, such as Tide? What if we can actually make those components? And so that's, that's the whole mission of the company, is to build these reactors that use electricity and metal catalysts to take CO2 in and, as well as water, and break down those molecules into smaller atomic bits, and then reform those atomic bits into new molecules.
+
+Jason: Now, when you were doing this research in the lab, were you looking to start a company?
+
+Etosha: No, not initially. Our lab was, as most academic labs are, focused on basic science and publishing. And we've published several papers. Between the two of us, we have five first author papers and then several, many, many papers that we're co-authors on. So we were, you know, as your kind of typical kind of graduate students, focused on getting that publication in Nature and those top journals. And it wasn't toward the end of my PhD, when actually Kendra was doing a post-doc at SLAC, which is the national lab that's adjacent to Stanford, that we started to think about, okay, maybe this technology can be transferred out.
+
+And it was actually a conversation with Brian Bartholomew, who's in the TomKat Center at Stanford, and they do technology transfer. They support Stanford research being transferred into industry. You know, having a conversation with him was the first time, at least in, in my role, that I was starting to think about, okay, yeah, maybe this could become commercial and we could actually scale it up and bring it to industry.
+
+Jason: And at that point, was it technology and trying to figure out where to apply it, or did you start with a problem first? What was it at that moment in time that made you think that not just that this could be commercialized, but that it should?
+
+Etosha: Well, I'll pass it on to Nicholas, like I've been talking a bit more in this. Nicholas, you wanna take this one?
+
+Nicholas: Sure. I mean, for me, what really caught my attention was when I started to talk to Etosha about the research that she and Kendra were doing, it really closed a gap for me, because in that previous job, I'd written, actually I'd been an author on a report on carbon capture and storage. Because at the time, that was kinda the main thing that people could come up with to do with captured CO2 emissions, is injecting it and storing it underground.
+
+And the thing that didn't add up for me is, what is the market-driving force behind that, who's gonna pay for it? It really relied on policy. And so, the idea that you could take captured CO2 and turn it into something of value, that made a lot of sense, because then you have a pathway to scale through market forces. And I think the three of us all have that thesis, that that's the fastest way to scale impact, is if you have people de-demanding the product and service.
+
+Jason: And so, prior to Twelve forming, was any CO2 getting captured and converted into viable products and, if so, what did that landscape look like and, if not, why not?
+
+Nicholas: It was not a crowded field. There were a couple of small projects, think things like baking soda, that were out there. But, the hurdle had really been the cost of doing this, both on an operating side, the, the amount of energy that you would need, and on the capital sides, the investment needed and the type of equipment to do this transformation. And so, what's different about what we're doing is that these catalysts are really efficient. Our system itself can turn on and off really quickly, so you can integrate directly with renewable electricity, which has been falling in cost. And the systems themselves are modular, kinda like a solar farm, so that addresses the, the capital constraint. You don't need to build a giant plant to get started. And then, over time, through mass manufacturing, the cost really comes down. So, you can actually have a CO2-based product that can go toe to toe with a fossil fuel-based product. And that's, that's the big difference.
+
+Jason: I shoulda started out the discussion with this, but can you each just quickly talk about how you divvy up responsibilities within the company and who's thinking about what? Kendra, do you wanna start?
+
+Kendra: Sure, yeah. So, I'm the CTO, primarily responsible for developing the V1 of the technology.
+
+Nicholas: I'm CEO, so I'm focused on customer development and fundraising.
+
+Etosha: My title is Chief Science Officer but, in reality, I do a little bit of everything else to kind of keep the company running. So right now, I'm focused on looking at our early kind of deployments and working with a team of cost engineers' design, what our first kinda set of systems would look like. So, we are gonna be one component in a larger ecosystem of CO2 to jet fuel or our final product, and so what are the other aspects of that product that come together to make that ecosystem.
+
+Jason: Great, and the, I mean, there's so many different ways we could go here in terms of threads we could pull on and areas for exploration, but I think where it'd be fun to start is, so you have this technology and you look at the landscape and you think that just capturing carbon from the air and storing it in the ground, while it can help, isn't gonna have the market forces behind it to do so in a sustainable way at the scale we need. And if you could convert into valuable products, you would fix that and, hey, we think we might have a technology that can do so in a way that could be more cost-effective than what's existed previously.
+
+So, for anyone listening to the show that might be sitting in those similar shoes, maybe in a current PhD program and cares about climate and is working on technology, like, you know, kind of in that moment but maybe with a different application? Like, what do you do? Where do you go, what are the steps? Like, how do you make it out of a lab and I guess, it'd be interesting to understand your journey, but it would also be interesting to understand if your journey is a path you would recommend to others, given all these years later, how much you've learned along the way.
+
+Kendra: I think it is hard to move things from the lab, right? When we started, we had [inaudible 00:14:25] an idea for, like, taking what we learned in grad school and putting it into, you know, a system that was industrially relevant, scalable, efficient. Which is not, you know, typically what you're working with in academia, but it was really early-stage, getting funding to, like, kind of do that proof of concept is very difficult. And so, we were really lucky to connect with this Activate Fellowship Program through the Cyclotron Road Program at Lawrence Berkeley National Lab. And that gave us, you know, some initial, you know, salary and lab space and funding just for lab supplies and things so that we could really build that, that first prototype device.
+
+That's, that's a program Activate has expanded a lot. We were in Cohort 1. They've expanded, you know, pretty rapidly, and I think there's similar programs like that, that are starting up. So that, that could be a path that people could, could try to take from kinda that grad school to, to entrepreneurship.
+
+Jason: Now, I understand that Activate got you the equipment and Activate got you at least a modest salary so that you could eat, and Activate gave you a peer group of others to compare notes with and stuff. But how do you balance when you working on this kinda detect technology, the fact that there's so much to develop before it's ready for customers, but also if you develop without customer input along the way, then who's to say that by the time you finish developing it that anyone's gonna want it? Like, how did you navigate that chicken and egg, and what did you learn from the way that you went about it at the time?
+
+Etosha: Yeah, I can chime in here to add some context to the early days. So, we, we did a lot of customer discovery interviews. In fact, we were part of the, National Science Foundation has an I-Corps Program, where they kind of structure and require a hundred customer interviews. And, well, we did that program in kinda the early days. And what came outta those customer interviews was validation of, like, okay, this is something that's interesting. This is a pain point here that, if you guys develop the technology, and here are some constraints at which you should think in developing it. Most of the techno-economics side of, you know, cost and [inaudible 00:16:23] capital expenditure and operational expenses. And that really gave us boundaries and context to work within.
+
+I should also say, too, that the National Science Foundation and NASA and, and Department of Energy, they had these small business innovation research grants as well. And they're, they have, the fund some of the research to build proof of concept and then the prototypes and then the scaling up. They also have a commercialization section, where they, you know, pair you with mentors who can give you some thoughts in helping navigate the commercial space and understand where your technology will fit within existing industry or kinda creating a new market.
+
+Jason: And Nicholas, maybe this one is for you, but when you were out having those initial customer discussions, what kinds of customers were you targeting and what were you hearing from them that gave you the conviction to plow forward?
+
+Nicholas: We were talking to customers who had CO2 emissions, and also talking to customers who needed the products that we could make from CO2, and sometimes those were the same customers. So, a lot of big industrial plants have emissions, and then they need ingredients to make the products that they're making today. So, things like syngas or ethylene, which are some of the things that we can make from CO2. And so, understanding which products were most relevant to them and understanding the economic targets that we would need to hit in order for it to be something that could be integrated into their process, were the types of things that we were talking to them about.
+
+And I think along the way we found some surprising applications. Like, we pivoted a bit. We thought our first product was going to be ethanol, for example. And this was at the time, like, the idea was, we'll go to a corn ethanol plant, we'll take their CO2 and we'll turn it into more ethanol, 'cause that process, the traditional corn ethanol process, actually emits a lot of CO2. And that was a good idea at the time, when oil was $95 to $100 a barrel, but then, in a much lower-price environment, looking not at fuels but actually looking at materials or ingredients for products that people are buying was a more attractive application. And so, it was kinda coincidental. The timing of us starting the company also coincided with a collapse in oil prices, which I think was ultimately a good thing for our business because it helped us refocus where our applications were.
+
+Jason: Now, I have to imagine that these companies that, I mean, had emissions, but what was it that made them care about the fact that they had these emissions? And then, yeah, they need products to run their business, but I have to imagine they have other sources for these products. So, what was it that they were hearing that was making them interested in potentially getting those products from you?
+
+Nicholas: Ultimately, this all bubbles up from consumer demand, and the closer you are to the customer, the more relevant the sustainability as a differentiation is. So, if you're, that's why if you see some of the, the initial customers, we have, like, Mercedes Benz, for example. Last year we introduced the world's first car parts made from CO2 and it, it was for the Mercedes A Class. They can differentiate and then, our technology itself actually gets integrated at their supplier, who's a bit further from the customer but their customer is Mercedes, who's hearing the, the input.
+
+So, I think it's a change in consumer preference, ultimately, that's driving the push towards sustainability within these supply chains. They wanna serve customers, they wanna grow. And so, having a differentiation that is economically efficient is ultimately the driver of this. And that wouldn't have been the case, that's something, maybe a decade ago if we'd started this company, we'd have had a much larger challenge, because I think there has been an evolution in consumer awareness around sustainability in the last, especially in the last five years and even in the last one or two years. It's really changing.
+
+Jason: So, I think what I'm hearing from you and, correct me if I'm wrong, is that they were looking to incorporate more green activities into their storytelling? And that was the primary motivator of some of these early customers on the emissions side? And, correspondingly, they can tell the story that more of their parts, for example, are made from, you know, recycled CO2 that goes along with, is it about the, the brand narrative and playing into what consumers want to hear?
+
+Nicholas: It's less about a narrative and actually doing it. And, I think what differentiates our process is this idea of no trade-offs. So, when you make parts or materials or fuels using our process, they're molecularly identical to what is currently made from petroleum or other fossil fuels that they're making today. So, I think what consumers don't appreciate is if there's a trade-off between do I pick the sustainable option or do I pick the high-performing option? And if you don't have to make that trade-off, you can get the products from the brands that you love, but with a better environmental footprint. That's the winning formulation and that's what has attracted our customers to our solution.
+
+Jason: Uh-huh [affirmative], and Kendra, I think this one is for you. So, Nicholas was saying before that previously there were some, a handful of alternatives, but that they were way too expensive. What is about the Twelve process that enables you to do it more cost affordably and also, is that where you've started, and where are you kind of on the cost curve now and then, it'd be great to understand some of the drivers of how you'll continue to climb the cost curve, lower the cost curve, but make it more affordable over time.
+
+Kendra: Yeah, I mean, I think our technology at its core has a lot of analogies with photosynthesis, right? So, plants use the energy in sunlight to turn carbon dioxide into sugar, which is their food. Our technology uses energy from electricity and carbon dioxide to turn that carbon dioxide into something humans can use, materials that we care about. The, I think kind of the core innovation that we recognize coming out of kind of the academic world was that the catalysts, which are kinda the key piece where that carbon dioxide transformation takes place, were actually pretty good, but the devices, like the, everything around the catalyst being used in academia wasn't very efficient. And so, our, kind of what we realized is we could take those catalysts and put them into much more efficient devices, and that was a way that we could significantly lower the cost and the risk of scaling up the technology.
+
+Today, we're still, you know, at a relatively small scale in our lab. We have, you know, a prototype that can do kilograms per day of carbon dioxide conversion. I think a lot of the cost savings do come from getting to much larger scale, and that's where we're headed.
+
+Jason: So, I get that it's small scale but, from a cost standpoint today, how do the costs compare of making parts from Twelve carbon versus from fossil fuels or however these companies have been making their products before they started doing business with you?
+
+Nicholas: So, at scale, we can be cost competitive with the way that they're making it today, and the variable cost is already the same, so the kind of energy and CO2 input cost. The thing that's more expensive today is that because we're at low manufacturing volume, you know, the box itself is more expensive. So, that's when, when we're talking about the cost curve, it's about really ramping up the manufacturing of the unit itself and our core technology, this membrane and catalyst layer.
+
+Jason: So, are you doing both the capture and the conversion yourselves, or are you partnering on the capture piece? Like, what's the core competency of the company?
+
+Etosha: Our core competency is the transformation. So ultimately, like, we're pretty agnostic to where we can get the CO2 from. We take, you know, different sources of CO2. We can even take dilute stream. Oftentimes with the economics, it makes sense to concentrate that stream of CO2 into, you know, something that's 99 percent or more, close to 100 percent of CO2. And so, right now we look at partnering with other companies that have developed these CO2 concentrations and capture systems. We also, depending again on the application and the environment of the product that we're making, we can just, again, take the CO2 directly into our system. And so, even though it's technically not what you consider capture, it is sort of skipping that capture step and just going straight to transformation.
+
+Jason: Now, I've heard before that there's almost different classes of carbon. And I, I don't know if I'm using the right word but, you know, some carbon is suitable for these applications and some carbon is suitable for those applications. Can anyone just kinda lay out a quick primer of the caliber of the carbon, if you will, and what the difference is of one type of carbon versus the next, and how you think about where it can be applied? Am I making that up, or did I get that right?
+
+Etosha: I would say, at least for our system, we focus on CO2. And that, that CO2 can vary, just basically like how dilute it is, like, what other molecules are surrounding it that have to be separated out. And so, you know, for us, like, we've looked at, like, doing that separation so that we can eventually take all sources of CO2, even directly capturing it out of the air, uh, coupling with a company that does that and using that directly captured CO2 from the air, that 400 parts per million CO2, and using that to make different processes.
+
+But the carbon itself as molecule is pretty stable as, as far as physics goes, so it's really, like, what other molecules and atoms are surrounding it and what environment is it in? And so, we wanna just capture it and bring it into the industry environment and, and utilize it from either the air, from a point source emission.
+
+Jason: Can you use that same process that you're using for car parts, for example, for beverage production or other uses of CO2 or, or do the needs vary a lot from application to application?
+
+Nicholas: The carbon itself, so you could think of it as we're just switching where the carbon comes from in all of these different products. So the thing is, so many things in your daily life are made from carbon and today, that carbon comes from fossil fuels. So, whether it's the insulation in your wall or the parts on your car, and so, our process just replaces that carbon. Instead of coming from ancient carbon from the ground in the form of a fossil fuel, it's coming from CO2 from the air. But the material itself will be the same, even though it's coming from a new place. And that, that's the whole idea, is that you can kinda switch the source of carbon without changing anything about the end product.
+
+Jason: And you, you mentioned that there were two criteria when targeting customers. One is that they have emissions and, two, is that they need these products. Why is the first one relevant if you can get the CO2 from anywhere and they need these products and it will ultimately be cost competitive at scale? Why does it matter what their emissions footprint is?
+
+Nicholas: So today, the low-hanging fruit is point source emissions in terms of cost. As the cost of direct air capture comes down, then it'll be, we'll have even more flexible sources of where the CO2 comes from. But industrial sources of CO2 are quite abundant today, and that's the place that we're addressing by co-locating with those emissions sources.
+
+Jason: Got it. So, you're actually finding customers who have emissions as part of their industrial processes, for example. You're capturing the emissions from their processes and then you're utilizing that carbon to make products that they then utilize in their production.
+
+Nicholas: That's correct.
+
+Jason: Awesome. So, what are the key steps as you go from the lab to significant scale? I mean, how do you kind of climb that ladder, and are there a lot of choices, or is it, is it kind of a playbook at this point for companies that are, that are trying to go through those stages?
+
+Kendra: Yeah. I think, you know, making a first of a kind part or system is always more expensive. You have a lot of non-recurring engineering that you have to do to make that part, and you haven't optimized, like, your supply chain or where you're gonna get it from. And then even, you know, the second one and the third one, right? you're still making changes, you're, you're still improving. But once you have that thing that you can just make over and over again and turn the crank on, then your cost, you know, per part goes down significantly because you don't have any more kind of design engineering you need to do, and it's all about just, you know, making it in the cheapest possible way.
+
+And that, that's, I think, a path that a lot of, you know, technologies like this have already gone down, and so we're kind of following in those footsteps.
+
+Jason: And where are you on that journey today?
+
+Kendra: We are definitely in the, you know, at the, as we're scaling up, building the first, you know, kind of large-scale industrial unit.
+
+Jason: And how have you thought about capital sources? So, what choices have you made as it relates to equity versus debt versus grants or other kinds of financing, and what recommendations do you have for, you know, others building these kinds of technologies as they walk down their path to funding their efforts?
+
+Nicholas: At the beginning, we were entirely funded by grants. And I would say in the form of advice, this'll, this'll depend on kinda where you are in your stage of technology development. We've gone from original science and just pure invention to a product that we're now scaling. If, for example, your technology is more just kind of putting pieces together that already work and your, your IP is more around integration, maybe it's a different pathway. But for us, we were actually creating something that had never existed before, and it's difficult to raise venture capital to do that. And so, that's why it was really important for us to get these different Department of Energy or NASA or National Science Foundation programs at the beginning, because that allowed us to build the prototype, get that early customer validation through that, to then attract private sector funding.
+
+And so, the kind of ratio over time between government funding and venture funding has evolved, and now we're primarily, uh, majority funded by investors. And then, the next stage for us as we start to deploy systems out into the field. That's where you get into project finance and more, uh, debt-oriented funding. So there's, there's a journey, depending on where you are in the life cycle.
+
+Jason: Uh-huh [affirmative]. And I know the landscape has evolved a lot, even in the last few years, but do you feel like the asset classes that are necessary for this kind of technology to go through those phases and reach full scale are mature and can support these efforts, or are there gaps and chicken and eggs, and you know, is there anything particularly acute that stands out that you wish was otherwise for companies like Twelve?
+
+Nicholas: The space has evolved so much in the last one year to 18 months. I think that the environment, if you're gonna raise, like, a seed round for example, for a deep tech approach to climate, to addressing something in the climate space, there's much better sources of funding for that, including your fund. And that's really exciting for entrepreneurs. I think there's still a gap when you're getting into this, the kind of large series A to series B round, before you have millions and millions in recurring revenue, where you have to be scaling this technology but there's still engineering work to do and limited proof points on recurring revenue.
+
+Most investors who write bigger checks wanna just do a spreadsheet analysis of what you already have in the field. And, for a deep tech company, it's a bit different from software in terms of being able to have that proof point, even with a very early beta. So, I'd say there's still a gap there at that kind of middle phase, although that's also getting a bit better as more and more funds start to have a, you know, an ESG mandate.
+
+Jason: Uh-huh [affirmative]. And I'm curious. I mean, I, I wasn't focused on clean tech back in the last clean tech wave, but it seems like a lot of, let's say traditional software equity investors, that maybe got enticed to wade into those waters back then ended up backing technologies that they really didn't understand and, in some cases, a lot of money got set on fire. And, I mean, I get how this type of technology needs to exist and I get the pickle we're in as it relates to climate change, but as a profit-driven investor, what lessons do you think that they should take away from the first wave, and how should they look at things differently, if at all, as companies like Twelve start to mature and require the kind of capital that they'll need to scale?
+
+Etosha: I think you're right that we, in some ways, had the advantage, like, of seeing the first wave of clean tech and kind of coming on before this, like, new wave is starting, which is exciting. And, but it was a very different landscape when we were, we were starting out. And, what we saw with the first wave was that there was this challenge in getting your financing. If your first plant, your first commercial system was gonna be a hundred million dollars plus and you had this technology risk that investors didn't know how to deal with, and banks certainly didn't know how to deal with, you know, a lot of companies were just sorta dead in the water. Like that, kind of almost cliché now, in a valley of death that many couldn't get past. And so, you know, when we were first starting out, we kind of saw them, so that, okay, how can we kind of, you know, build a bridge through that valley and make sure that we can get through with kind of bringing commercial revenue early. Which is why we're doing some of these pilots that we've announced.
+
+You know, we mentioned the car part with Daimler and, and then the, uh, we made a component in Tide. And so that can, those are much smaller markets, where we can, one, show the technology works and reduce the technical risk, and also bring in some commercial revenue to the company that we can use to build to our, uh, much larger systems.
+
+And then, beyond that, I think there's just a lot of high-risk tolerance kind of financing that's becoming available that I think as we, we grow and start to, do start to make our way to that hundred-million-dollar plant, which won't be our first, it'll, you know, hopefully be our sort of, we'll have smaller plants along the way that we'll, we'll have developed, including one we're working on now.
+
+That, when we get that, we'll have the data to show that, you know, we've de-risked the technology, we have a customer relationship where we've done these smaller pilots, and now we're doing this larger deployment and they, they have the product market fit clarified on their end. And so now, you know, you bring those, all these, like contractual, you know, agreements and these relationships to project financing table and then you have a much better chance of getting your cost of capital to be reasonable and within kind of market standards, which it was not, even in the first wave.
+
+Jason: And Nicholas, you talked about how the nice thing about what you're working on at Twelve is that, unlike storing carbon by putting it to use, it can be market-driven and, you know, there can actually be a market for your product, which is great. Given that, where do policy fit in to your efforts? Is it something you think about, is it something you care about? Is it something that's important to the success of the company? Or, is it someone else's game to play, and it's mostly just kind of heads down and spending time with the product and customers?
+
+Nicholas: So, we see policy as an accelerant, but not a determinate. And accelerant is an important factor, 'cause we don't have much time to solve climate change. And so, the way it can accelerate is by improving the economics, even when we're earlier in the cost curve that we've been referring to. And, one of our main cost drivers, because we're using electricity to split apart the CO2, is the electricity itself. And so, policy that underpins deployment of renewable energy or other clean energy sources generally helps to accelerate not just our pathway, but a lot of new clean energy technologies where power underlies their success.
+
+Jason: Uh-huh [affirmative]. And so, how much time do you spend with policymakers, with advocacy groups? I mean, is policy something that you invest in with your portfolio of resources and time as a company and, if so, how does that manifest?
+
+Etosha: We don't have a earmarked strategy and have the power to direct resources to it. We do leverage existing entities that are focused on policy, so Carbon180 is one example of that, where we work very closely with some of the programs that they're developing and, and supported their work and have started to take their, uh, leading by example in doing some of our own kind of reaching out to policymakers and letting them know, hey, we, we're here, so as you make these policies such as 45Q and these other things that, that we are, and not just us, really. In some ways we kind of represent the whole ecosystem of CO2 utilization. But that, you know, these technologies are being developed and like, you know, don't write policy that'll eliminate us and hopefully write policy that'll at least bring us to the table and help accelerate the, the mission.
+
+Jason: If Twelve is successful beyond your wildest dreams, what have you achieved?
+
+Nicholas: So, if you look at the potential CO2 impact just of the first couple of products that we're focused on, it would be about three gigatons per year, which is almost 10 percent of global emissions. And so, our vision is to capture a big chunk of that, so we wanna get to at least half a gigaton converted per year within the next decade. That's why we started this company, was to put a dent in climate change by turning CO2 into a valuable product. So, success for us, the revenue model of our company is directly linked to the impact, and so that feels very satisfying, I think, for everybody on the team. You know that when you're coming to work, everything you're doing is marching toward a larger impact.
+
+Jason: I know you recently raised a big equity round, so how much of that is going towards the large-scale plant that you mentioned and, and then what are the other uses of funds as you think about scaling your operation?
+
+Kendra: Well, a lot of, I think a lot of the funding has gone towards that large-scale plant. It just, you know, there's building a large-scale system, but we have to scale up, you know, lots of other parts of the technology to get there. The catalyst, how we coat the catalyst, our supply chain, I need a lot more people to do that. So, we're expanding really rapidly right now. We were, you know, maybe 35, 40 people and now we're at 80 people headed towards, you know, over 100 early next year. Yeah, so, so that's a primary use of funds that, you know.
+
+Nicholas: I would say it's an exciting point at the company, because we are at this [inflex 00:38:21]. The last few years, we've been in invention mode, and now we're getting into scaling mode. And, what's always been true about what we're doing is that no single person could invent this technology. We're bringing together multiple disciplines and multiple technologies for the first time, so it's a very collaborative culture. And, as we're expanding, we're bringing in new types of roles that we haven't before, so, uh, you know, it's been very chemistry and electric chemistry-focused. But now, we're bringing in folks who maybe have experience from industry, either in the oil and gas or chemicals industry, thinking, who know how to build big plants and deploy things. There's a layer of software engineering now at our company as we develop products that can be operated remotely. So, it's pretty cool to be expanding all of the roles that we have at the team.
+
+Jason: And as you expand, I mean, how, how much of your process and capabilities and skill sets required, etc. are consistent and carry over from category to category, industry to industry, company to company, and how much of it is just a different sport?
+
+Kendra: I think there's, there's lots of relevant experience from other industries around, you know, chemical engineering, what does the balance of plant look like? I mean, just kind of like a chemicals plant, only a su-sustainable one. I think there are some very specific skill sets around the electric chemistry and, and of the CO2 transformation. And that's not a skill set that a lot of people have, because that's a relatively new area of investigation. So, there's a lot of kind of younger folks that have backgrounds like Etosha and myself coming out of, out of school and, and wanting to apply what they learned.
+
+Jason: And, as you go from industry to industry from a client standpoint and serve different types of products as well, is it pretty boilerplate as you go from one industry and one type of product to the next, or do you have to revamp a lot of what you do?
+
+Nicholas: Our products has a really low level of customization required. It's basically one box that turns CO2 into a particular ingredient, and then the customization is just how many of those boxes do you need to achieve the product output that you need?
+
+Jason: Uh-huh [affirmative], and so what are the most important objectives for the company over the next, say 12 months?
+
+Nicholas: I'll make an analogy to explain where we're going. So, if you think about a solar farm, it's made up of multiple panels. And so, we're building our final sized panel. We have a small panel today that we've been using for customer pilots, and now we're building a final sized one, and then after that, it's all about mass manufacturing those panels and building farms for different customers. So, in the next 12 months, we'll have our first panel and have our first kind of manufacturing floor to start producing a number of those. And then, the next step will be to really ramp up that production as we deploy the farms in the field the following year.
+
+Jason: And are, are the customers buying the panel, or are they buying a service and you provide the panel as part of a service and it's bundled in, or what is the business model?
+
+Nicholas: It's CO2 conversion as a service. So, we try to make it as easy as possible for customers. They just can continue buying the ingredients that they do today, but they'll be made from CO2.
+
+Jason: Uh-huh [affirmative]. And so, if you look back, in hindsight, and Twelve, for whatever reason, was not successful, what happened? What are the biggest risks, what keep you up at night?
+
+Kendra: I think, uh, from a technology perspective, there's still risk. Scaling is, uh, you know, a risk in and of itself. Can we reproduce the performance that we had at the small scale at the larger scale? And then, from there is can we, you know, as we go to this mass manufacturing, really reduce the cost to where it needs to be? That's what I'm worried about from a, I guess from the technical standpoint.
+
+Jason: And what are the biggest levers in lowering that cost over time?
+
+Kendra: When we get to that mass manufacturing, you know, there's a lot of kind of known ways to reduce the cost. Some of it's finding cheaper materials, you know, instead of titanium, can we use stainless steel? Can we use less of the expensive materials? Can we lower the catalyst loadings? And then, can we, like, push the performance higher and higher over time so that we need the smaller devices for, you know, the same amount of output?
+
+Jason: Do you have to care about climate change to have being a Twelve customer make sense?
+
+Etosha: I mean, technically, no, because, I mean, I think a lot of our customers are feeling the regulatory pressure of being a CO2 emitter or they're feeling the pressure from their customers, who are saying, hey, I want a lower carbon material. I do care about climate and I, if you want me to continue buying [laughs] products from you, I, I need some options that will allow me to, you know, reach my values.
+
+So, when we were first kind of starting out, we, we were told a lot about this and, and it, in some ways, rings true that, like, companies won't pay a premium for being green. And we have to be cost competitive, because that's why we definitely set the company up to be cost competitive with petroleum. But, as more and more, we see there is these economic pressures from both policy side and the customer side that we do see that there is more of an appetite to, you know, at least as a, as we are, you know, lowering our costs, to have these early evangelists come in and say, okay, yes, please give us this, 'cause we really, we really need it to, to meet our business goals.
+
+Jason: For anyone listening that's inspired about what you're doing, where do you need help, who do you want to hear from, and if it's okay, maybe do a quick round robin here from each of you for that question, since you might not have the same answers? Etosha, do you wanna start?
+
+Etosha: So, I mean, we want, are looking to hire lots of people, lots of great folks. So, if you have experience in, you know, like chemistry, electrolyzers, definitely let us know. We also are looking for other folks outside of the tech team as well. So, you know, wanna hire, you know, folks who are really passionate about the mission and also have, you know, a lot of experience and skills to bear to bring to the team. I'll stop there and let Kendra and Nicholas chime in.
+
+Nicholas: Yeah. We just launched a new careers page, so I would definitely encourage anybody who's looking to join our mission to check out twelve.co/careers.
+
+Jason: We can put a link in the show notes, too, by the way.
+
+Nicholas: Love it. And then, beyond that, on the customer side, we're talking to customers who can benefit from having CO2-made materials, and we actually are about to announce that we just made the world's first jet fuel from CO2 electrolysis, so that's a, a new area that we're starting conversations in with both airlines and aircraft manufacturers. So that's a, a new area of expansion for us as well.
+
+Jason: Nice, and last but not least, Kendra.
+
+Kendra: You know, we're growing really rapidly right now and I think that requires us also to kind of grow as an, organizationally as a company. So, I'd say, like, kinda project management, program management, like, more organizational expertise, I'll say, is an area that, that we have openings in.
+
+Jason: Great, and my last question is just outside of the scope of your control or purview, if there's one thing that you could change that would most dramatically accelerate your efforts and improve your probability of success, what would you change and how would you change it?
+
+Etosha: Yeah, this may seem a little random, but I would have government procurement requirements for CO2-made products with, like, daily or weekly payments.
+
+Jason: What do you mean by that, the daily and weekly payments part?
+
+Etosha: Well, so you don't have to wait 'til the end of the year, or like, end of a quarter to, like, submit the paperwork and get payments. Like, if you can verifiably show that you prevented X number of tons of CO2 hitting the atmosphere and you make, you utilize that CO2, that you would get, you would get cleared and get like a transfer.
+
+Jason: Oh, and you think it would incentivize a lot more to have the ongoing cash coming in, and then it went to your bonus that you can't really factor in to you business management. Is that right?
+
+Etosha: Yeah. I mean, you can factor in yearly. I don't wanna, you definitely can factor that in and, like, especially for larger companies, you can do the, like having a tax credit and, it's, like, that can be really helpful. But, I think it would incentivize a lot of smaller markets, smaller players, to have that day of cash transfer, or week of, you know, having a really rapid turnover. It just, it, I think it would make the economics just that much more attractive, without having to, you know, just that having the time be a factor in the, in the transfer.
+
+Jason: And Nicholas or Kendra, either of you have a different one to add, of a, something you would change outside of the scope of your control?
+
+Nicholas: So, I think this would apply broadly to not just carbon transformation, but a lot of clean technologies, but if I could wave a magic wand and have really cheap, clean electricity globally, that's gonna underpin the electrification of everything. And, if you think about our process, we're kind of electrifying carbon in order to create all of these new products, whether it's a fuel or a material. But that's gonna support a lot of different technologies as well, so cheap, clean power, I think, is the underpinning of the sustainable, uh, economy of the future.
+
+Jason: And how would that come about? What could we change to bring that about most effectively?
+
+Nicholas: I think continuing to support research in those areas, so renewable energy plus storage, high-efficiency grid transmission. And then, one area that I always keep an eye on is the latest innovations in nuclear power, you know, safer approaches that are lower cost. I think that could be an interesting part of the mix in the future as well.
+
+Jason: Great. Well, is there anything I didn't ask that I should have, or any parting words from any of you that you want to leave with listeners?
+
+Nicholas: I have one for listeners who are thinking of starting a deep tech climate-oriented company, is that you should do it. You should also make sure that when you're doing it, you're enjoying the process. Inventing something from the ground up, that requires chemistry and physics, it takes some fortitude along the way, because progress is not an upward linear trend. It's a, when you're doing experiments like this, there's a lot of trying things that don't work, so that you've got this flat line for a long time, but you're learning stuff each time something doesn't. And then, you put it all together and you get this big jump, and then you have to make sure you can reproduce it. But that's kind of what the progress looks and feels like, so it's more of stair step than a linear. So, don't get discouraged along the way. Just understand that that's part of the deal and part of the satisfaction at the end when you do get those big jumps.
+
+Etosha: One thing to add in there that you didn't mention is the kind of role of philanthropy in kind of our early days, so I would encourage any family [inaudible 00:48:35] out there and philanthropic sources that are, are kind of wondering, like, what can I do to support climate? I think we're a good example of, like, our first funding in was philanthropic through the TomKat Center, and then throughout the years of the, the [inaudible 00:48:49] Foundation and other groups have supported us. And so, that's been really key in, like, getting us [inaudible 00:48:54] there is that long tale of, you know, getting the proof of concept and prototyping and being technology-ready before you get to the scale. And so, like, having that support that's basically willing to take a lot more risk in coming in, you know, beyond just kind of public funds that we mentioned, and there's also philanthropic funding that happened.
+
+Jason: Thanks, Etosha. And Kendra, any parting words?
+
+Kendra: Yeah, just, I think, feeding off of what, like, Nicholas said, you don't necessarily have to start your own company. There's a growing number of jobs where you can have an impact. We're one example, but I think there's, there's starting to be a whole ecosystem and, you know, more opportunities for people who are looking to jump into a, a climate-related job.
+
+Jason: Awesome. Well, this was such a fascinating discussion. And also, it just brings a different flavor having the three of you on here with such different skill sets and expertise. So, thank you all so much for coming on the show, and best of luck to you and the whole growing Twelve team.
+
+Etosha: Thanks, Jason.
+
+Nicholas: Thank you, Jason.
+
+Kendra: Thank you.
+
+Jason: Hey, everyone, Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at myclimatejourney.co. No, that is .co, not .com. Someday, we'll get the .com, but right now, .co. You can also find me on Twitter, @jjacobs22, where I would encourage you to share your feedback on the episode, or suggestions for future guests you'd like to hear. And before I let you go, if you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that. Thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

@@ -1,0 +1,283 @@
+Today's guest is Tim Freundlich, CEO of ImpactAssets.
+Tim is a long-time innovator in new financial instruments in the social enterprise sector, which he now applies as the head of ImpactAssets, the $1 billion boutique donor advised fund and investment note offerer for impact investments. While previously at Calvert Foundation for 12 years, he conceived of and launched the donor advised fund. He was also instrumental in building the $250mm Community Investment Note with more than $1 billion invested into 300-plus nonprofits and for profits globally.
+He co-founded and serves as Managing Partner for Good Capital that, in addition to its flagship Social Enterprise Expansion Fund LP, founded the 2,500-person annual Social Capital Markets (SOCAP) conferences in San Francisco and four Impact Hubs in the US; co-working, meeting and community space serving approximately 2,000 social innovators.
+Tim is a sought-out industry speaker and regularly featured and quoted in media such as ThinkAdvisor and WealthManagement and has appeared on TheStreet and Forbes. He received a BA from Wesleyan University and an MBA from the University of San Francisco. Tim and his wife, Julie, live in San Francisco with their sons, Milo and Gus.
+Enjoy the show!
+You can find me on Twitter @jjacobs22 (me), @mcjpod (podcast) or @mcjcollective (company). You can reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+In today's episode, we cover:
+Overview of ImpactAssets
+Origin story and how the model works
+How it is different than a typical institutional asset allocation
+Who the target customers are
+Traction and progress to date
+Some example success stories
+Long vision
+Impact, if successful
+What comes next
+Barriers holding them back
+What could change to help them move faster
+Advice for people looking to allocate their philanthropic capital to maximize its impact
+Jason Jacobs: Hello, everyone. This is Jason Jacobs, and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests, to better understand and make sense of the formidable problem of climate change and try to figure out how people like you and I can help. Today's guest is Tim Fruendlich, CEO of ImpactAssets. ImpactAssets is a nonprofit financial services firm that increases the flow of capital into investments that deliver financial, social, and environmental returns.
+
+Jason Jacobs: Since its inception, ImpactAssets has become the leading facilitator of direct impact investing within donor advised funds. Their portfolio represents more than 568 impact investment positions and a billion dollars in assets. They connect donors to a rotating offering of private impact funds as well as a broader asset platform all fully aligned to the UN Sustainable Development Goal framework. This is a different kind of episode and that Tim and his team identified that if you have donor-advised funds or other philanthropic vehicles, it's not just about the grants that you make when thinking about impact, but where the assets are invested in the meantime. And that by having more transparency, visibility and control into how those assets are invested, you can make sure that those dollars are most fully aligned with your values.
+
+Jason Jacobs: This is a great discussion and that we dig deep into the origin story for how ImpactAssets came about, the role that they're playing, their progress to date, their long vision, how they measure success, and some of the specifics about how the model works and who sees most value from it. Tim Fruendlich, welcome to the show.
+
+Tim Freundlich: Hey, thanks for having me.
+
+Jason Jacobs: I use this joke every time, but I'm at your place so you're actually having me.
+
+Tim Freundlich: Enjoy the water bottle that you brought.
+
+Jason Jacobs: Never gets old. This is jet lag o'clock. It's about 4:15 Pacific. So it's right about the time that us East Coasters that got on a plane late last night start to turn into a pumpkin. I'm excited to be here. You bring a very different perspective than we've had represented. We've had some clients of yours like prime coalition, some folks that you collaborate with have come on the pod and I think some folks that are in a bunch of adjacent areas, but not your area specifically with ImpactAssets, and I'm really excited both to get it represented to listeners, but also selfishly just to learn more about it because it's not an area I know a ton about and I think it's important.
+
+Tim Freundlich: Great. Well, let's get into it. What do you want to know?
+
+Jason Jacobs: Take it from the top, what's ImpactAssets.
+
+Tim Freundlich: So ImpactAssets is technically organized as a nonprofit because it is a donor-advised fund, which means people and institutions put their money onto a common philanthropic endowment basically like a foundation, but it's all commingled and then what we do which was kind of special is we organized impact investments for 100% of the asset base or we enable that possibility in a customized way so that each of those people or those institutions who adds money into, that's common platform for their endowment gets their tax break up front, but also then can customize whole range of mostly private debt and equity investing.
+
+Tim Freundlich: So real venture and debt investing into stuff that they care about and then they can give away the money later to their favorite charity, to Amnesty International or their alma mater or their synagogue or what have you. So highly customized individual. We have about 1,250 different people and families, and companies, and institutions who maintain little to quite large accounts, all on one public charity and that adds up to a bit over a billion dollars in assets.
+
+Jason Jacobs: That's a lot more. I read some articles even fairly recently where the assets were a lot smaller than that so you guys have been growing quite well.
+
+Tim Freundlich: That's because we doubled in the first six months this year. We finished 2018 with about 484 million. Not that I'm counting.
+
+Jason Jacobs: I feel like if I didn't bring that up and you weren't going to tell the audience that, and that's pertinent information that people should know/
+
+Tim Freundlich: This is why you're here to make this actually cogent. It's amazing and I think it's a testament not just to, if you stick around long enough you become credible and you build network connectivity and people start talking you up. There's a little bit of that, but I'd say at a meta or macro level more that the idea of really effectively integrating value and values into endowment assets has come of age to some extent or at least it's not a black sheep fringe idea anymore. It is something people are talking about and I think we're benefiting from that so it's the combination of being credible, building track record, getting some decent scale with half a billion dollars and then as the floodgates open and people are really moving in this direction or companies are really moving in this direction you're in the right place at the right time.
+
+Jason Jacobs: So I'm going to take a stab at explaining back to you what I think you do to make sure I understand it and for you to tell me all the things that I got wrong and then I have some other questions about maybe some of the origin story and things like that. Well, first of all, donor-advised fund is if you have money that you'd like to be philanthropic with rather than doing a full grant in one shot, you can essentially earmark that money to be granted at a later date and then because you're the donor you then advise how those assets are granted but you take the tax break as if you donated it all upfront the full amount and then whenever you feel like it there's no expiration date you can allocate that money to tax-exempt places of your choosing. Is that right?
+
+Tim Freundlich: That's basically right, and in the meantime we've got a pool of capital that needs to be invested ideally to create. In our case we attract people and work with people who want to create social and environmental good while they're also making some interesting financial investments and then they grant it out eventually to charities.
+
+Jason Jacobs: So the majority of these donor advised funds or if it's not the majority then tell me it's not the majority, but either the majority today is still allocated this way or certainly in a world, say pre-impact assets.
+
+Tim Freundlich: I'm not painting this as mainstream. We are a vanguard firm. We are doing stuff that the market is not doing.
+
+Jason Jacobs: So in a world without ImpactAssets, you can make grant into causes you care about, but the actual assets themselves are invested through ETF or a mutual fund or something like that where it could be allocated to fossil fuel or some other companies that aren't aligned with your values. Is that the issue that you're trying to address?
+
+Tim Freundlich: That's it. I mean, this is the classic dissonance or sort of the false dichotomy between all these endowment assets and the mission that they're supposed to exist to serve which is these foundations around the... There's a trillion dollars of philanthropic endowment capital in the United States give or take a 100 million in a given day or 500 million even. So a trillion dollars that's been tax advantaged. Everybody got their tax break when they put the money in that pocket whether it be Mr. Gates or Buffett or the schoolteacher down the road using a fidelity charitable donor-advised fund or that wonderful, more thoughtful, perhaps innovative person using an impact assets donor-advised fund.
+
+Tim Freundlich: So there's a trillion dollars that have been placed there and generally speaking the conventional wisdom is the history of investment management in the United States today, it is invested for risk adjusted return without necessarily a thought or care given to its impact in the world for own environmental or social causes even though the context of that trillion dollars is totally about creating a public good, a people and planet good. That's why we gave them the charitable deduction. That's why whether it be the school teacher or Bill Gates, they got that dollar of tax deductibility when they put the money in there. So generally speaking that trillion dollars is not invested with an iota of thought regarding the social or environmental impact.
+
+Jason Jacobs: Are their norms in terms of how that money is typically allocated pre-grant? So for example is it equity Y, fixed income Z alternative assets? Or does it range wildly from institution to institution.
+
+Tim Freundlich: There tends to be kind of a norm of banded ranges where people are doing dock and bond and alternative allocations that are maybe a little bit more long-term than your average family might or your average retirement account because these institutions are measuring their investment time horizon, maybe not like pension funds but in decades and decades and decades and decades, because they're engines of perpetuity. At least that's the case in a Ford Foundation's case.
+
+Tim Freundlich: The more you get to that schoolteachers donor-advised fund sitting at ImpactAssets, I'm going to stop saying the other people's name, you might find a lot more variability and people might go, and we of 1,250 accounts. One of those accounts might be 100% microfinance debt in sub-Saharan Africa, period. 100% of the assets they could have a million dollars in that account, it could all be microfinance. Another one right next to them could be all in environmental ETFs in the stock market.
+
+Tim Freundlich: So each one of those in a customized way can be radically divergent from maybe your average institutional asset allocation. But when you look at all the impact assets, put together this billion plus dollars, it tends to be a lot more smoothed out. It makes sense.
+
+Jason Jacobs: Does your typical customer tend to be people who already have one of these funds set up somewhere else and you're educating them on why they might want to reallocate it in this direction or is it getting people to establish them that had no history of this type of deal?
+
+Tim Freundlich: At least 10 or 12 answers to that question. I mean, there's the carve out where somebody has a more conventional situation going on with their philanthropic assets either because it's a family foundation or a donor advised fund at a conventional place that doesn't do this or doesn't enable it. It's not built for it and they decide because they have this great dinner with some social entrepreneur starting a venture or because their friend who they trust lets them in on an idea that they want to start doing this. And so we'll get the carve out. The funds will flow to start working on our platform because they want our capability set and the community and sort of the resource rich environment of a pure play, that's it.
+
+Tim Freundlich: But other people actually get this in their head before they ever approached the concept and rather than setting up a family foundation or a donor advised fund in a conventional way, they just come to us because they know they want to go all-in with 100% of their resources in this way.
+
+Jason Jacobs: Is it typically that they know they want to have more control but they don't have specific causes or companies in mind or is it typically that there's a specific cause or company they want to allocate to and they aren't enabled to do it through the vehicles that they currently have their donor-advised assets?
+
+Tim Freundlich: We definitely have a range. I mean, we actually have archetypes that we've done work on internally about pattern recognition of different kinds of client profiles. So you've got the Seth Goldman profile right who's the honesty founder, who's an actual referenceable collaborator client of ours.
+
+Jason Jacobs: I hope so because you just referenced him.
+
+Tim Freundlich: I know, otherwise this would be bad and I'd have to grab the recording device and do the thing that they do in Mission Impossible. They'd light it on fire. So basically somebody like a Seth Goldman who is a known entrepreneur, who is out and about in the world. He's the executive chairman of Beyond Meat. He's the ex-CEO of Honest Tea. He's out there. He will identify a range of high quality entrepreneurs in the impact space because they're searching him out for mentorship and for investment, because they know he had this big liquidity event. Then he sold to Coca-Cola, that's founders stock is what funded his impact assets, donor-advised fund and he's made a series of investments into companies like Beyond Meat and Happy Planet that was bought by then on.
+
+Tim Freundlich: And he's very much in the driver's seat of identifying those opportunities in that case, but on the other hand in terms of liquidity management and microfinance, and the holding tank for his assets while he's looking for companies, he's using an ala carte menu or a dim sum menu if you will that we arrange of really high quality funds in the private debt inequity impact space that allow him to really customize and match his passion in the world around the stuff that he cares about and his, quote-unquote, "idle assets".
+
+Tim Freundlich: So they're not idle at all. They actually have a good matched mission and risk return liquidity profile so that it can be a staging ground for these amazing series of investments that he's going on and making. And in fact, he was the lead on our Beyond Meat investment. We had multiple accounts invest in Beyond Meat back in the very beginning of that company and they were hottest IPO of the year.
+
+Jason Jacobs: Are you almost like an AngelList syndicate for donor-advised funds?
+
+Tim Freundlich: That's the modality. We're like an idea market place of a smart mob within a synthetic balance. A capital market that we control the movement of because it's all actually one foundation. So we've got 1,250 Seth Goldman's. Well, there's only one but 1,250 variably smart, and connected, and passionate people and institutions sometimes. Sometimes whole teams or networks are just one, and they are out there coming up with ideas, bringing stuff over the threshold, getting excited about it and then the question is how do we share or not share those ideas amongst our mob, our charitable elaborative mob and then also how do we organize these dim sum menus of different fund options too, because a lot of people, not everybody can go and find deals or even has the bandwidth to look at other people's deals.
+
+Tim Freundlich: So for every one of those, there's three or four more people who just are like, "You know what, this is wonderful. I want 100% of my assets doing good in the world, environmentally and socially and making a return in whatever geographies I care about and themes I care about until I give away the money. But I don't want to think a lot about it. Give me a couple boxes to check and just make it simple. So we got a lot of people like that too. Many more people like that than the Seth Goldman's.
+
+Jason Jacobs: You have the equivalent of in-house wealth managers or portfolio managers or whatever the term is that you call it?
+
+Tim Freundlich: No. We are more like a 401k platform is the analogy I would use without having anything to do with the 401k platform. So forget I said it, but think about it, it's a series of menus where it's all highly quality controlled and organized, but the individual employee in the case of a 401k has the responsibility with educational materials and access to information, and briefings, and meet the manager breakfasts and things like that to allocate amongst the menus, and then add that to a little bit of the AngelList idea where you've got these customized deal activity, and deal sharing, and light syndication going on.
+
+Tim Freundlich: So it's those two. Now, that said for larger more involved clients, we do have in-house expertise to create customized portfolios. We do, do that but that's got to be at a lot of scale for it to make sense. We're not a financial adviser. These are not our client's money anymore. Once they put it into the charitable, it's actually all the charity's money. So we're not actually financial advising anybody other than ourselves. I know that probably makes some people's heads hurt a little bit, but if you really think about what's going on in a donor advised fund, it's people are donating the money, getting the tax break, losing the personal control, technical control of it and putting it into a common public charity that then has the responsibility of managing those assets.
+
+Tim Freundlich: What a donor-advised fund does is take the recommendations and the advice, hence the advised in the term of the donor to program the money over time within best practices and its own fiduciaries, set of controls and what we've done is add to that this very, very audacious integration of impact investing in a customized way.
+
+Jason Jacobs: So do you have your own products?
+
+Tim Freundlich: So we've played around with sustainable agriculture and microfinance in emerging markets and constructed some portfolios, but even then we're using outside expert sub-advisors. So generally, we're a manager of managers. We're a picker of good deal pickers. We're not really fund managing ourselves. But what we do is we construct them into interesting pools and asset allocations so that people can have a wide degree of bandwidth to get done what they need to get done in the world.
+
+Tim Freundlich:The extreme end of the pool is a Seth Goldman who's got a lot of bandwidth to do a lot of very specific activity and deal pick and then at the other end somebody who's just like, "Honestly, I want to do some good. And I want to be able to give the money away in three to five years to my favorite charities and so I'm going to check this box and it's going to be multi-asset class already figured out for me. Just tell me what the box is checking."
+
+Jason Jacobs: I'm not looking for specific figures nor do I expect you to know them off the top of your head, but just order of magnitude, I'm thinking about this menu, how many categories on the menu and how many products within those categories? I mean, is it just like a handful of categories and a handful of products in each one or is it like thousands of products long?
+
+Tim Freundlich: It's like that old consumer choice thing and so you get people more than three to five choices, they clam up and they stop buying. It's not that much different. We found although if you think about all the geographic and I mean heavens, there's 17 sustainable development goals alone. All the different thematics overlay with stage, debt and equity, different geographies. You did the math and you'd have a chart of a bingo card with 84 squares on it that you'd have to check the box on and you probably want multiple products in each for multiple funds or deals in each one, and nobody would be able to do anything.
+
+Tim Freundlich: So what we found is that... And this is evolving. We're growing a lot. We've doubled in the last six months. So our scale and appetite for, I don't know, more options is going up quickly. So where we've been versus where we're going are usually two different things in life and companies, but we've found that people like well-composed multi-asset allocation pools, things that have a very specific thematic and time horizon, and where they really understand it but they don't have to think too much. So we maintain a few of those and they have multiple things in them depending on what the pool is, but you don't have to really worry about that because really what you're taking is an overall thesis. For example, I should probably give you an example.
+
+Jason Jacobs: Yeah, I was just going to ask. You're like a mind reader.
+
+Tim Freundlich: A lot of donor-advised some money is really a staging ground either to do Seth Goldman's next deal, which is to go very illiquid for a long period of time in an early-stage venture in three months or six months or nine months when he finds it, or to be given away to that soup kitchen down the road or Amnesty International or what have you. So there's a big use case for relatively low risk, not too volatile and liquid impact investing. Because so much of why donor-advised funds exists for a lot of those 1,250 clients in our case is to be some sort of a staging ground for the intermediate to short term.
+
+Tim Freundlich:So we have a community investment strategy which is a well diversified set of managers and funds on product that are doing relatively low risk community development microfinance, sustainable agriculture, et cetera debt loans. And we manage that. There's at any given point, I mean, there may be four or five or six or seven different funds or management strategies within that. People don't have to really think about it. They just are buying the fact that, "Oh, I can get in now to this on a weekly basis or at least a monthly basis. Even if I have quite a lot of money in it, I'm getting a reasonable yield way better than a money market fund, and I'm creating all this really great impact."
+
+Tim Freundlich: "Tell me about the impact again?" "Yeah, okay. Let's talk about the impact." So that's an example of something that's a pretty narrow asset class if you will but it is a pool that's got multiple things in it that people use a lot of. We also have an environmentally tilted diversified strategy for long term where it's stock and bond ETF or other iShares and then also a little bit of private debt and equity mixed in, and it's all taken care of.
+
+Tim Freundlich: So we have six, seven of those kinds of pools, and then we also maintain a very specific venture fund platform. So mostly private debt and private equity, private funds that people can pick off of and back to my consumer choice issue in the beginning of the answer to this question is that at some point educating and given your staff much less your clients over too many options, the diminishing return thing kicks in. So we found like a baker's dozen checks off enough of the boxes in terms of some emerging markets, some domestic, some debt, some equity. A little bit of early stage, a little bit of later stage and a couple different thematics, people plan it and a couple specialty options. So we'll have another twelve funds in that platform and then we're doing a lot of one-off deals and small syndications of deals and we're doing three of those a week.
+
+Jason Jacobs: How do these vehicles perform versus if they were invested in the more typical not mission aligned way?
+
+Tim Freundlich: I think at this point I try not to be too card-carrying hyperbolic about the whole thing, but I think the [inaudible 00:22:24] on the fact that you can integrate environmental and social considerations into investment decisions whether they be public market stuff or private market stuff, and do just as well or better. In some cases, there's indexes that are well documented with 20-year track records now, Domini Social Index and things like that that have outperformed the S&P 500 which is this benchmark over all these years by a material amount, like a material amount. Not tons but generation Al, Blood and Gore's thing.
+
+Tim Freundlich: They were up like 10%. They were like outperforming their benchmark by literally 10% a year or something like that. So there's lots of different places you can look. There's been some studies on venture funds in the impact space and sort of how they've done GIIN, Global Impact Investing Network was sponsoring recently which also gave some nice robust numbers as sort of said, "Look, if you really want to go after risk adjusted returns with an impact lens you can expect to if you do it's smart with discipline and diversification get competitive returns."
+
+Tim Freundlich: So I think that that's there. What we find is that a lot of people say, "Okay, that's nice." and maybe that I'm interested in that or maybe I'm not for some or all of my asset base at ImpactAssets, but I'm also interested in going where the market won't go. And I don't want to make grants if I don't have to, to get something done in the world that matters. If I can make a low-interest loan that's concessionary to a nonprofit that is not market rate return under any stretch of the definition of such, but I get the money back plus 2% return and they get done, the build that they were going to build with that money instead of me giving it away, I think that's great.
+
+Tim Freundlich: We're pluralist at ImpactAssets that we have to have 1,250 answers to the question about what is market rate and should you go after it or not go after it, but we certainly do see lots of really well-documented track records that indicate to us that you can get good returns.
+
+Jason Jacobs: So are you thematic in terms of the types of impact that you provide?
+
+Tim Freundlich: We're not limited, if that's what you mean to specific thematics. We tend to be very environmental and climate solutions oriented and sort of poverty alleviation economic development. Those are two really big chunks, but then we've identified a lot of interest around sustainable agriculture. So we've developed product and opportunities there and there's these sub themes, there's a lot of appetite and we've been developing pipeline around gender and race equity within the impact investing lens. So there are buckets if you will or sort of areas where we are aware of and have a taxonomy and are taking concerted action to develop, but then there's 17 other SDGs. There's a whole bunch of other stuff that is going on or is weaving through some of the stuff we're doing that's not like a well-articulated vein of work that we're doing.
+
+Jason Jacobs: Is any of the stuff that you guys offer stuff that is also offered on one of the big players like Schwab?
+
+Tim Freundlich: Not really. I mean, you will find that... And we'll see more of this, and I'm really excited about it because honestly we did this to try to move the market and move culture.
+
+Jason Jacobs: Yeah, we haven't talked about the why. And we will and we absolutely will.
+
+Tim Freundlich: We'll end with the why after we get lost in the how and what. The reality is that the market is waking up, the donor-advised fund market and the foundation market. This 110, $150 billion asset base and donor advised funds nationally and this 850 something billion dollar foundation market which adds up to roughly a trillion dollars. There's bright spots of integration. I've heard little experiments at unnamed firms where they're doing a little bit of microfinance or a little bit of this or a little bit of that and I think that's wonderful.
+
+Jason Jacobs: But you can actually do direct investing out of these donor advised funds into startups. Is that what I'm hearing?
+
+Tim Freundlich: At ImpactAssets you can. I mean you could anywhere, theoretically.
+
+Jason Jacobs: Could I invest in like Uber?
+
+Tim Freundlich: We apply an impact screen, and the reason why we do that is not because technically you couldn't invest in a non-impact company, but we don't exist to subsidize. We're a public charity. We're in some more cases subsidizing this whole machine for our clients.
+
+Jason Jacobs: If I'm a fan of a startup that's out thinking about how I capitalize a company, how would I ever come across ImpactAssets in my roadshow, if you will? How do you come to invest in these company?
+
+Tim Freundlich: Generally speaking a particular company is brought to us by one of our 1,250 clients. Back to your AngelList terminology a little bit. Somebody gets their radar up on it and looks at a deal and it brings it in to the inside the corral, then we do our work up on it, and they basically make an investment. They recommend an investment technically from their donor-advised fund and then we elect to, or elect not to introduce it to anybody else in our system, based on the characteristics of the deal and our evolving capacity to do such. Meaning we do it anecdotally, historically. We're starting to get it much more systematized, but we syndicate deals.
+
+Jason Jacobs: And what's the range of check sizes on those investments and what about stage?
+
+Tim Freundlich: It's all over the place on stage. The range is $25,000 checks to multi-million dollar checks. And the stage, our early seed to A to sometimes B.
+
+Jason Jacobs: And to fully pass an investment. It's basically just behind whoever the sponsor is that has the donor-advised fund that wants to do the grant.
+
+Tim Freundlich: Generally although not necessarily like people can get our donors as investors through their endowment with us do get variably quite engaged with entrepreneurs that are in their portfolio at ImpactAssets. I mean, Seth is a great example. He ended up as the vice executive chairman of the board of Beyond Meat which is now publicly traded company.
+
+Jason Jacobs: What stage was the company and what size was the check when ImpactAssets made that investment?
+
+Tim Freundlich: It wasn't just his money, he was the lead but we put in $1.1 million into their Series B and I honestly don't remember what the valuation or the revenues were, but it was pretty small.
+
+Jason Jacobs: Why did that founder make room for ImpactAssets?
+
+Tim Freundlich: Partially because I think of Seth as an actor, as somebody that they were interested in having at the table, partially because we have positive brand, and they were really a mission based company. It was primarily motivated as a climate solution. And then there's the issues around killing mammals and eating them, and things like that too, but mostly climate. And so they were really interested in being affiliated with investors that actually had some social and environmental credibility.
+
+Jason Jacobs: And what is the business model of ImpactAssets and how does that compare to the big commercial players? I know you mention you're a nonprofit.
+
+Tim Freundlich: And so were they, the arms that are running the donor-advised fund, but the difference is they're affiliated and all bound up in a brand and a system of economics that includes a for-profit which we do not or are not. Business model is pretty sort of standard. We get a basic donor-advised fund administrative fee that has to do with how many assets are in the philanthropy account, in the endowment account and on average we earn about 60 basis points on assets so that's six tenths of 1% of our asset base is our recurring revenue stream as a social enterprise. And the difference there to others is they're probably not doing the customized investment portion.
+
+Jason Jacobs: Does this model only work as a nonprofit?
+
+Tim Freundlich: Effectively you can't give a tax deduction unless you have a recipient non-profit. So there has to be nonprofits somewhere in there. Now, there have been experiments and we are not one of them, but there have been with setting up a for-profit management company to effectively run the technology in certain processes like marketing and sales for the nonprofit component, but those haven't seem to work out so well and they're really fraught with lots of complexities that would probably be on the scope of this conversation around, it's very hard to maintain truly sacrosanct and separate institutions from a non-profit and for-profit perspective without creating a lot of complexity.
+
+Jason Jacobs: So now can we switch gears and talk about the why and the origin story?
+
+Tim Freundlich: There was a little practical why. There was a motivation which is not the why. The motivation was which is also the origin story is I was hanging out at Calvert, initially at the mutual funds for a little bit but mostly at the nonprofit arm of the Calvert Foundation. At the time, it was called now Calvert Impact Capital building up a bunch of impact investment stuff before there was a word for it. And I'd been there for a few years and was getting a bunch of inbound requests from financial advisers and people, investors like, "Hey, I want to buy the stuff you've already built. But my community foundation or this fidelity thing, I want to have this donor-advised fund and I want to do all this cool impactful investing and they won't let me do it." This was a long time ago. They didn't pass their screens, people haven't been validated.
+
+Tim Freundlich: There was all sorts of reasons. They didn't have the will, and it was to counter-cultural. I was like, "Well, okay. We don't have a donor advised fund. I don't even know what they are. And so I'm sorry I can't help you out." Well, this went on for like years and years. And finally I was like, "Hey, why don't we just... Lets prototype this. Let's just test this out. It can't be that complicated. You've got hundreds of these little community foundations with no financial services chops or systems whatsoever all over the country running these little donor advised funds. We should as a financial services company be able to figure this out and let's just do this because...
+
+Tim Freundlich: And actually first I went to some of them and I said, "Would you integrate this? We're getting lots of people asking and I'd love to be able to send them to you. Would you put impact investing stuff in your donor-fund?" And they're no, just like no. I won't name names, but I went to a lot of them. So then I was like, "Okay. Let's just try this out." And so we just did it and turn around. There was like $25 million and a hundred accounts that opened up in the first year which was not a lot, but it was something and there was no marketing. There was no dedicated staff. It was supposed to be my pet project.
+
+Jason Jacobs: What year is this?
+
+Tim Freundlich: This is back in '01.
+
+Jason Jacobs: And this was on the side while you were still at Calvert full-time?
+
+Tim Freundlich: It was like a little special R&D project just to try to test something out.
+
+Jason Jacobs: Like a podcast.
+
+Tim Freundlich: It was like a podcast. A podcast for the impact investor set. Yeah, exactly.
+
+Jason Jacobs: I have to insert at least one podcast joke in a self-deprecating way in every interview.
+
+Tim Freundlich: Yeah, it was a podcast. And so that was fine and it was just sitting there and people would show up, and we said, "Yeah, you can go into this thing." And we had a nice little very simplistic menu, and it really wasn't that hard." It wasn't that easy to do it exceptionally well with a high degree of institutional integrity. It wasn't easy to do that. It was easy to prototype it at a relatively skunkworks level. And so what happened was sort of turn around and we were like whoa, A, it seems like donor-advised funds are taking off. This is a really cool idea to build a donor advised fund from the ground up. This gets to the why like the world deserves, and will be at some point ready for a pure-play impact investment based donor advised fund.
+
+Tim Freundlich: We should build this from the ground up of by and for impact investors. What should a donor-advised fund be? It should allow you to be first and somewhat fearless and to move really, really audaciously into the pursuit of your passion, but with good institutional integrity and professional support and enablement. It should allow you to collaborate with other funders who want to go in on deals. It should do this thing. It should be responsive to the evolving marketplace or landscape of available options and it deserves to be its own machine so we spun it out, and I went with it as its only employee and the only difference was I took a cost center experiment from Calvert and turned it into now officially raised my own salary for the startup.
+
+Tim Freundlich: But that was how it got started and we got a couple spin-out grants and hired somebody, and then hired somebody else and been basically 10 years since we spun it out and really eight years of full operations where we took that prototype and have scaled it now to this billion dollar. By the end of the year will be about 30 people. We're hiring a bunch of people right now.
+
+Jason Jacobs: And it's great that you're getting to a place where things are starting to inflect. I mean, we touched on a little bit before but why do you think that is? What changed if anything?
+
+Tim Freundlich: Part of it is that I think there's a heightened sense of immediacy around climate and social justice that's here now in a different way than it was maybe before 2016, maybe before recent history. It's concretized into a couple major sets of momentum in terms of people's willingness to start acting maybe past their experience a little bit. So there's sort of a quickening of concern around environment and social justice. I think that the validation and the scale that's been best overnight success that took the Quaker started social investing back 150 years ago or whatever. It took a while. It mean look at BlackRock, Bain, TPG.
+
+Tim Freundlich: Every major investment house has got environmental social screens kind of kicking in. They're starting their private equity fund, KKR. Just all the big names are doing stuff and they're scale, and there's track record and there's validation, and there's studies, and there's this, and there's that. And so you put that plus a sense of immediacy that's gotten a little more honed recently and then you add that in our case they're just what's going on with us, as I mentioned. And being an authentic brand that's been around long enough at enough scale with enough people that you actually are credible. This is sort of the combination of factors that I think is speeding up ImpactAssets, but in general the first two have to do with the field, a general there's something in the air.
+
+Jason Jacobs: I mean, obviously you can look at assets under management and then as a corresponding metric you can look at revenue because the more asset you have on a management revenue now coming which means you can put that back into growth. But if you put aside financials and assets under management kind of the obvious metrics, how do you measure success from an impact standpoint, let's say?
+
+Tim Freundlich: Well, you develop hopefully a cogent sort of pre-deployment, pre-investment screen because you're not accidentally and retrospectively trying to figure out if you even had the chance of creating impact much less did, also known as have a point of view about what kind of impact you're creating before you do it and actually develop that and codify it. And we have the impact screen and impact risk assessment that we do before every single deal including those three custom deals a week. We actually do a quick... It's very down and dirty because for a $50,000 investment that's done in two days or three days, or it takes a couple weeks but every two or three days you're doing one, obviously you can't be too deep on it.
+
+Tim Freundlich: But that said, we do it so I think that's part of the answer, tracking stuff, requiring your fund managers that you're putting up on your menus to actually have a commitment to an impact thesis and the integration into their management information systems, and reporting on it like having a point of view all the way through and out the backend and being able to think. Even if you can't quite say, "This is the only way to define it or each category or area or company needs to have a customized version of it." Even if that's the case, you still need to, I think if you don't want it to be sort of an accidental maybe at the back end of the story, you have to have these screens and these commitments to systems and reporting.
+
+Tim Freundlich: And we do that. And then building that and knowing that we're only at a jumping-off point up, we all admit, it's like figuring out how to integrate and make that better and more compelling and excellent over time is a big to-do for us. And I think it's a big to-do for the field. I think that's one answer to that.
+
+Jason Jacobs: In your wildest dreams at in-state if impact assets over achieves on your most audacious goals, what has occurred? What have you built with ImpactAssets.
+
+Tim Freundlich: We just finished strategic planning this year, the first half of the year while we were doubling in size. It's a fun time to be doing strategic planning. It actually is a fun time but it's a little noisy. And where I came out with it is it's not a numbers thing. It's not scale for scale sake or AUM numbers or even number of clients, it's about fulfilling a value proposition, being able to behave a certain way. And so for us what I feel really committed to as a success mountaintop or set of mountaintops is that we have enough scale in plurality.
+
+Tim Freundlich: So that's numbers and dollars, numbers of people, dollars that we can act as a dynamic and synthetic social capital market. The capital market system that has enough scale and different points of view that you throw a wide range of stuff in there and you really materially can test it out, get it funded in a meaningful way. But we don't to provide all the funds. That's why everybody else is out there. So it's more about the fact that we want to be able to throw that deal or that fund in there and raise a material amount of money from enough people that it's worth the energy and that we hand a check to that entrepreneur or that fund manager, that's really, really, really helpful, that can be catalytic early so that we can move first and more fearlessly.
+
+Tim Freundlich: And that's one kind of a set of future states. And we're not there yet. With the 1,250 people, that's not enough people or points of view. That's not a market system. It's a lot. It's more than a thousand. I don't know exactly how much that is, but when we get there, we'll know it because of the qualitative sort of the action. And a billion dollars not quite enough. I don't think it needs to be tens of billions though as long as it's high-quality, highly engaged and has enough points of view.
+
+Tim Freundlich: I mean, the second thing I would say is I feel like we as a society and as a taxpaying system need to really push the best practice of all this endowment money. If we're going to give tax breaks to a trillion dollars and let it sit there then and be invested tax-free into the future and demand not much to very little grant making throughput from it. Foundations have a 5% payout requirement a year for example that includes their expenses. Lincoln Town Cars to go to the airport to get the business class tickets to fly to a board meeting in a foreign country. That's included in the 5%.
+
+Tim Freundlich: Donor-advised funds actually don't have a payout requirement at all at a federal or state level. So if that's the case, I think that some of us need to step up into a leadership role and really influence that whole landscape to move much more all in to impact, with all of the assets all along the way and create pressure and best practice around that. And that's high leverage, and that's about being a demonstration project. It's about influencing and enabling our peers to taking away that you can't do that thing.
+
+Tim Freundlich: People always say, you can't do that. Well, because nobody's done it credibly. As soon as somebody does, you could point to and say, yeah, you can. That's us. Billion dollars, 10 years, doing it every day. So, yeah, you can do it even if you're a scrappy little social enterprise like we were coming from nothing and building something. So I think that that combination of well on the path, but we really need to build out that kind of at scale internal capital market that can be super dynamic and collaborative with these syndicates and with a lot of different kinds of deals and funds are getting funded at a material level and also moving the field more broadly for a trillion dollars to follow in our footsteps.
+
+Jason Jacobs: So this is usually the time in the episode where I ask guest things like if you had a hundred billion dollars to put towards the climate fight, where would you put it and how would you allocate it? And I asked guests, what advice they have to people who are concerned about the problem of climate change and looking to find their lean for how to help most impactful. I think given that your focus is a little different, maybe I'll ask you a different question which is for listeners out there whether they're listeners with a little bit of assets or listeners with a lot of assets who care about climate change or other social issues for that matter and are looking to figure out how to allocate their philanthropic capital and some sort of donor advised way in this direction to maximize its impact, what advice do you have for them?
+
+Tim Freundlich: I would say don't wait to figure it all out until you start doing it. I see a lot of paralysis of lack of clarity and comfort find ways to get your feet shallow into the pool even if you're not ready to build your own portfolio of early-stage ventures and source of those deals yourself and make sure that you've really got a good vetting process and have diversification and blah, blah, blah, blah. Don't let that stop you from finding ways to move towards your passion and integrate it into your philanthropic asset base. And honestly your personalized base too.
+
+Tim Freundlich: I'm not limiting impact investing as a use case to philanthropic assets. I'm a full-on, put it everywhere including your retirement accounts as aggressively as appropriate. Just that the contexts are different and the definition of audacity should be quite a bit different potentially of which pocket you're talking about. But that said, I think that donor-advised funds which gets to that last point where I got a little off track, but donor-advised funds or in foundations if you have some family foundation at scale or whatever have the characteristics that are somewhat ideal to incorporate impact into your asset basis, because you've already give it away to charity. It's all supposed to exist for the common good eventually. It's all going to charity. It's not coming back to you. So what's the big hang-up here.
+
+Tim Freundlich: You care about the environment and climate solutions, and innovation because you know the world is falling off a cliff. So let's get to it. Don't put the money there for years invested in coal while you make some grants to the carbon drawdown project or whatever floats your boat. So get that generally cleaned first and then find partners and collaborators like Prime or other experts who are running funds to slowly deploy more and more affirmatively into a direct passionate alignment with what you want to get done in the world with that account. And because it's the kind of asset pool that it is, you should be able to be a little more audacious and integrative than you might be able to in your 401k.
+
+Jason Jacobs: So is there an impact asset equivalent for people's personal family assets? So not donor-advised but actually instead of investing in a mutual fund or a Vanguard ETF?
+
+Tim Freundlich: Not at all in one place regrettably. I mean, certainly the question has been asked like what's the private pocket version of ImpactAssets, the thing that works. And we work with literally 400 wealth advisors across the United States who are attached to 60 different investment firms large and small. Some of them the largest in the world and some of them the smallest in the world that have variably some expertise in the integration of social and environmental value into people's investment portfolios.
+
+Tim Freundlich: My advice would be, find a couple referrals to the ones that fit your appetites and characteristics the most and link up with a wealth advisor or a family financial planner that has the deepest capability set that you desire around this and some of them do. Some of them are quite end-to-end. They tend to be at the higher end of the market though. That's one thing. And the other thing is if you have some means is join a group like Toniic.
+
+Jason Jacobs: What's Toniic?
+
+Tim Freundlich: A group of angel investors who care about impact who come together in community and look at deals. It's called T-O-N-I-I-C .org.
+
+Jason Jacobs: Is it like CREO. You know CREO, C-R-E-O?
+
+Tim Freundlich: Yeah. Or get involved in a group like Prime and find a way to really get involved in some crazy end of the pool deep impact stuff that you're passionate about depending on what you're passionate about. So combination of a good philanthropy endowment partner like ImpactAssets that can manage that part and fully do the end to end stuff. A good wealth advisor who actually cares a lot about impact that's well suited to your needs as a family or an institution that can do impact, and then a community and sort of deal sourcing angel network.
+
+Jason Jacobs: Are there good ETF's for this? I mean, we could go down a whole ESG rat hole but is ESG... Are you skeptical of ESG or do you think it's an important category?
+
+Tim Freundlich: I think it's an important category. I think it's an important because if nothing else, and that the returns and the track records look fine. I think economically it holds together. Risk-return wise it holds together. We need to signal to society and the powers that be, and to ourselves that we're actually going to start putting one foot after another and walking in the right direction as a planet and the people, and for planet and people.
+
+Tim Freundlich: So almost it's sort of like yeah, it looks like it performs, but we just need to signal the market. It's sort of like buying an electric car in some ways. Some instances, there's a lot of critique around the supply chain, in the building of the car and then you can pick it apart and be like, "Actually, if you don't drive too much you're better off just buying this little gas car because you'll actually have less impact." Whatever, but that signal to the market has its own impact irregardless of the footprint of the actual thing that I think is really important. So I put a little bit of ESG in that category, but generally speaking I think there's credible managers and track records out there, and we've gotten good returns, and not invested in coal.
+
+Jason Jacobs: Anything else I didn't ask you or any parting words for listeners?
+
+Tim Freundlich: I feel like we covered a lot of it. I do think that the hardest thing is maintaining the will when there's not a lot of support around you to really push towards this kind of experimentation and integration into stuff that people actually feel a little bit embarrassed about/nervous about or impostory about like their investment capital wealth and how its managed, and why they have it. In America anyway kind of a dirty topic, right? And I really think that as a culture and as a generation, all the generations including the ones coming up, it's like we have a chance to really lift this wealth conversation up into the light.
+
+Tim Freundlich: And if we're going to be stewards of it let's examine it and be intentional about it, and put it to use towards the better outcomes that we care about and otherwise give it all the way. Get out of the wealth ownership business. We don't deserve to be the stewards of so much especially when many have so little, if we're not willing to really, really be intentional and thoughtful about it, and not have a bunch of unintended consequences.
+
+Jason Jacobs: Well, I think that's a great point to end on, but we covered a lot of ground, I learned a lot and thank you so much, Tim for all the work that you do and for coming on the show.
+
+Tim Freundlich: Sure. Thanks for having me.
+
+Jason Jacobs: Hey, everyone. Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at myclimatejourney.co. Note that is dot co, not dot com. Someday we'll get the dot com but right now dot co. You can also find me on Twitter @jjacobs22 where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear. And before I let you go, if you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that. Thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

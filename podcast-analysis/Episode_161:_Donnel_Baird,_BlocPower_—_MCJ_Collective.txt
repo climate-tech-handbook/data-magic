@@ -1,0 +1,364 @@
+Today's guest is Donnel Baird, Founder & CEO of BlocPower.
+BlocPower is a Brooklyn-based climate technology startup that is making American cities greener, smarter, and healthier. BlocPower analyzes, finances, and constructs renewable energy and energy-efficient projects on a building by building, block by block basis. BlocPower focuses on buildings in low-income communities and underserved neighborhoods throughout New York City.
+Donnel has a passion for climate solutions that serve low-income communities. After graduating from Duke University, he became a community organizer and advocate for job growth that also addresses climate change. In 2007, Donnel joined the Obama For America campaign as a Regional Field Director and Constituency Vote Director. After President Obama took office, Donnel continued to work on green job creation as a consultant for the Administration and several labor unions, including Change to Win Federation and Service Employees International Union (SEIU). Donnel left the public sector in 2011 with the idea that eventually became BlocPower. He has an MBA from Columbia University and sits on the board at many New York institutes, The Sunrise Movement, and The Sierra Club.
+I was looking forward to this conversation because Donnel has been on our wishlist for a while. Donnel explains his climate journey, how he started BlocPower, and the company's mission to serve low-income communities. We talk about how best to accelerate the rapid adoption of green buildings and the psychology of paying bills. We also touch on what holds back the industry, why BlocPower's solution is unique, and the role the US plays in the climate emergency. Donnel is an incredible guest with a wealth of knowledge. This episode is a must-listen.
+Enjoy the show!
+You can find me on twitter @jjacobs22 or @mcjpod and email at info@mcjcollective.com, where I encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded May 25th, 2021
+In Today's episode we cover:
+An overview of BlocPower and how the company hopes to become the Tesla of sustainable buildings
+Donnel's climate journey and how working in politics and social justice impacted BlocPower
+The economic and political environment in 2009 that sparked Donnel's idea for BlocPower and why he knew it was worth pursuing
+Why Donnel thinks green job creation is more successful in the private sector than the public sector
+How individual unit use affects building health, efficiency, and climate impact
+The problem with the existing building assessment system and the significant barriers that stem from this problem (cost and software barrier)
+The psychology of how bills get paid
+The underwriting framework BlocPower created for low-income energy assessments and why the current financial model doesn't translate to energy bills
+BlocPower's customer base, product offering, and value proposition
+The most significant differences when serving a neglected community versus a wealthy one
+The COVID-19's effect on energy-efficient and green updates for buildings
+A discussion about whether climate advocates should spend time getting individuals to care about climate change or drive the price of sustainable solutions down and price out fossil fuels
+The American view of the climate crisis and why the US is far behind the rest of the world
+The most significant barriers holding back widespread green building adoption and what is the one thing that could accelerate that transition
+Links to topics discussed in this episode:
+Block by block, he aims to fight injustice and save the planet
+MaC Ventures
+ARPA-E Summit
+Jason:  Hey everyone, Jason here. I am the My Climate Journey show host. Before we get going, I wanted to take a minute and tell you about the My Climate Journey or MCJ, as we call it, membership option. Membership came to be because there were a bunch people that were listening to the show that weren't just looking for education, but they were longing for a peer group as well. So we set up a slack community for those people that's now mushroomed into more than 1300 members. There is an application to become a member. It's not an exclusive thing. There's four criteria we screen for, determination to tackle the problem of climate change, ambition to work on the most impactful solution areas, optimism that we can make a dent and we're not wasting our time for trying, and a collaborative spirit. Beyond that, the more diversity, the better.
+
+There's a bunch of great things that have come out of that community. A number of founding teams that have met in there. A number of nonprofits that have been established. A bunch of hiring that's been done. A bunch of companies that have raised capital in there. A bunch of funds that have gotten limited partners or investors for their funds in there. As well as a bunch of events and programming by members and for members and some open source projects that are getting actively worked on that hatched in there as well. At any rate, if you wanna learn more, you can go to myclimatejourney.co the website and click the Become A Member tab at the top. Enjoy the show.
+
+Hello everyone, this is Jason Jacobs and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change and try to figure out how people like you and I can help. Today's guest is Donnel Baird, founder and CEO of BlocPower. BlocPower's an early stage startup that markets, finances, and installs solar and energy efficiency retrofits in churches, synagogues, nonprofits, and small businesses in financially underserved neighborhoods. BlocPower connects portfolios of these clean tech installation opportunities to impact investors via an online marketplace. Donnel grew up in Brooklyn, sharing a one bedroom apartment with his family of four that was heated in the winter with a gas cooking stove. As an adult, Donnel has dedicated his career to addressing the inequities he saw and experienced as a child, including as an organizer on Barack Obama's presidential campaign and in the Obama administration where he worked to expand access to green energy jobs.
+
+We have a great discussion in this episode about Donnel's journey to starting BlocPower. They why behind what they're doing. The big vision. Some of their progress to date. The path forwards. Some of the key levers that would unlock a faster transition as it relates to greening buildings. And we also talk about the intersection of social and environmental justice and decarbonization, which is such an important topic and one that I've learned about in the last few years focused on this problem. Donnel, welcome to show.
+
+Donnel Baird:  Super excited to be here.
+
+Jason:  Excited to have you. Yeah, you, you're one of these people, we've never spoken live, but I've followed you on Twitter for enough time that in a weird way, I feel like I already know you.
+
+Donnel Baird:  The same. Super excited about all the progress you're making on the fund and for real enjoy your social media. A lot of fun.
+
+Jason:  Oh man, I don't know if my wife would agree,-
+
+Donnel Baird:  [laughs].
+
+Jason:  ... but I do appreciate that. [laughing].
+
+Donnel Baird:  I don't know if my wife would agree. [laughing]. She wants me to get, like, a burner account where I, like, tweet all my crazy stuff-
+
+Jason:  Yeah.
+
+Donnel Baird:  ... from a different Twitter account and then I have my corporate account. So we'll see. Our wives should talk, come up with a plan.
+
+Jason:  Yeah, she, she's a lot more quiet, private, I should say. She just likes to kinda do her thing and, and lay low. And I, I rarely have a thought that doesn't get broadcast. [laughs].
+
+Donnel Baird:  Doesn't get shared. [laughing]. You compliment each other. You're complimentary. That's good.
+
+Jason:  Yeah, I know, w- we make a great match. I'm very lucky. S- so tell me what BlocPower is and how'd it get going?
+
+Donnel Baird:  Yeah, so we're, we're a platform to analyze and finance and construct sustainability projects on a building by building basis or a block by block basis. Hint, hint, BlocPower.
+
+Jason:  I see that, a little branding there. Like it.
+
+Donnel Baird:  Uh-huh. Yeah. Yeah, yeah. So, building by building, block by block. We analyze and finance and construct renewable energy and energy efficiency projects. And we do that in buildings in low income communities and financially underserved neighborhoods. And, you know, fundamentally we're trying to turn buildings into Teslas, man, we wanna move the buildings off of fossil fuels. The same way that Tesla has taken fossil fuels out of the automobile engine, we wanna take fossil fuels totally out of buildings. So, we can now do that, so we should.
+
+Jason:  And tell me a little bit about the, the origin story. So, not only how did the company get going, but maybe, back in the way back machine, you know, how and when and why did you start caring about this stuff and what was your journey that led to BlocPower getting started?
+
+Donnel Baird:  Yeah, so there's two main pieces. There's the part of the origin story around why I care about low income communities and refuse to, to stop serving them, as much as my... Some of my venture capitalists would prefer that we serve, you know, people with more money, more budgets, who can move faster, make faster decisions. You know, I grew up in a low income community. My parents are immigrants. They had to start over. So even though they were well-educated professionals when they came to the United States, their credentials didn't allow them to access the white collar workforce, so they had to kind of start over as blue collar folks. My mom started cleaning bedpans as a nurse, nurse's aid. My dad was a mechanical engineer who ran his home country's [inaudible 00:06:15] industry, but here he had to start over cleaning boilers for the New York City Subway system.
+
+And so we lived in a one bedroom apartment with no functioning heat in the building. So, us and our neighbors would heat our apartment building with the oven. We would turn the oven on, heat up the apartment. Open up the oven door, open up the windows to release carbon monoxide 'cause we didn't have a functioning heating system. And so, you know, just came up in difficult circumstances in a low income community, but with a, with a pretty well-educated family that always had an eye towards, you know, pushing us towards educational opportunities. So, I went to prep school. I went to Duke. Graduated, moved back to New York after college. Became a community organizer to try and organize low income families to push for better housing, improvements in the public education system.
+
+I had my own Black Lives Matter moment. I mean, this was 21 years ago, but there was an immigrant named Amadou Diallo, who was shot 40, 41 times by the New York, four New York City policemen. They thought he was resembled somebody they were looking for. He pulled out his wallet to show them, "No, no, no. My name's Amadou. I'm, I'm not the guy you're looking for." And, you know, it got really confused. Thought he was pulling out a gun. They shot him a bunch of times. So, when I was 19, the cops were exonerated and that was the moment where it felt like very unfair to be a young Black man. And you, you couldn't figure out, was there a place for you in the society that was gonna be safe and fair?
+
+So, graduated from college after that experience. Became a community organizer. Very focused on how do you get low income Black, brown, low income white communities, how do you create some economic opportunity and some jobs for them and their kids. So that's one part of it, then the other part of it is the climate part. Which is, while I was at Duke my best friend Mariana, she's now a professor at MIT, but she was just a very... She was the first climate activist and advocate that I met, sat me down, you know, explained climate change to me. I'd never, you know, in Georgia, they weren't teaching climate change in, in the high schools and so, she really walked me through it. She forced me to take some classes at Duke on climate change so I could understand the science, and by the time I graduated she had turned me into a climate activist where I was, you know, attending protests against the World Economic Forum, et cetera, et cetera.
+
+So when I became a community organizer, it was important to like A] put people back to work in low income communities, but any job that we created needed to be good for the planet, right? It needed to add value from a sustainability perspective. So, those are like the two major themes of kinda how we get to BlocPower. If you fast forward, I worked on the Obama campaign as a senior staffer. He had been trained by the same, you know, community organizing team that I had worked for in New York, like, they trained him in Chicago 25 years before.
+
+So when he announced that he was running for the presidency I joined his campaign. We won. Wanted to continue job creation for green and sustainability jobs in low income communities, so took a job as an outside consultant and partner with the Obama administration and a bunch of labor unions to figure out how to create green construction jobs. Did that for three years. Some of it worked, some of it didn't. And that's when I decided to go to B-School and create BlocPower.
+
+So if you read my business school application it's like, "I wanna come to business school to start a company that's gonna green buildings in low income communities. That's why you should let me into Columbia." It's the only school I applied to. They let me in and so the professors there coached me up on how to start a company and how to start a startup. So halfway through B-School started BlocPower and been working on it ever since.
+
+Jason:  So when you applied to business school you already knew that BlocPower was what you were planning to build?
+
+Donnel Baird:  Yeah, literally. I mean, it's, it wasn't named BlocPower. I thought at the time it might be like a nonprofit because it was focused on low income communities and green energy. And at the time, I mean, you remember, I mean, green energy was, like, not popular. In Silicon Valley by the time, you know, 2010, 2011, rolled around people were already starting to lose money and so we thought it might have to be a nonprofit because no one wanted to invest in green energy and no one wanted to invest in low income communities. But, in B-School, the professors, particularly Dave Werner, who is head of entrepreneurship over at Columbia University now, just really mentored me and we ultimately decided it was a tech startup and there was a massive market with no competitors since everyone else wanted to ignore, you know, the millions and millions of low income buildings across America. It's just this huge white space and, you know, you could take a VC approach to building a massive business if you can move first. So, we ultimately landed on launching a startup and so halfway through school that's what we did.
+
+Jason:  So, I mean, we talked about the awakening, the racial awakening when you were 19. And, and we talked about the climate awakening when you were in college, and then we talked about the community organizing that you did, but when you went to apply to business school and you had the conviction that BlocPower should exist, what was the germ or the nugget there that, that gave you the conviction and the excitement to anchor?
+
+Donnel Baird:  Yeah, it actually was, I mean, and we can talk about this bluntly now, but, you know, I was, I was a senior staffer from the Obama campaign and then, you know, an outside consultant and advisor to the administration once all my buddies took power in the White House and at the Department of Energy. I didn't wanna move to D.C., 'cause I met my wife, who's amazing. She's in New York. I wanted to be in New York. So I took this job where I could commute from New York into D.C. a couple days a week on Amtrak. And I flew around the country talking to governors, majors, universities, labor unions, Wall Street banks, you know, utility companies like Duke Energy, from across multiple states to figure out, what was it gonna take to create a robust green buildings industry?
+
+So if you think back to 2009, you know, Van Jones is in the White House. We have the stimulus. Billions and billions of dollars, but there was, like, one hundred billion dollars that they were investing in different climate initiatives. Elon Musk got a five hundred million dollar loan to get rolling from a manufacturing perspective. They were investing in Solyndra and other solar manufacturers. And so you see the seeds of the modern solar industry that were funded by the government at that time. And they were trying to do the same thing for energy efficiency in buildings.
+
+The solar stuff worked out, the electric vehicle stuff worked out, the green building stuff did not work out, despite, you know, ninety billion dollars in pension fund assets and participation from Citibank and Barclays and support from the administration with six billion dollars. We weren't able to figure out how to create, like a freestanding, sustainable, green buildings industry where you're lowing energy waste by 10, 15, 20%.
+
+We were not able to get that to work in the same way that we were able to get, like, manufacturing for solar or electric vehicles. We were able to get that stuff to work, but we couldn't do it for green buildings. But I just saw this massive opportunity in the green buildings industry, it's like, "Holy crap, if we could get this to work, like, we would create a million jobs." Right? Back to job creation for low income people that I care about.
+
+The jobs would be construction jobs, going building to building across the country blowing organic insulation into people's attics, replacing windows, replacing old antiquated fuel, fossil fuel wasting heating and cooling equipment in their buildings. So, you know, you train and hire a bunch of people to go door-to-door and upgrade people's homes, save 'em money, make the buildings healthier, reduce greenhouse gas emissions. You know, move away from foreign oil, right? 'Cause at the time we were in Iraq and Afghanistan. What's not to like about making this industry work at scale to green a hundred million buildings across America. So, massive opportunity and I just couldn't let go of the, like, social and environmental impact that would be unlocked if we could figure out how to make the green buildings thing work.
+
+So, after spending three years working on it and having some triumphs, but having some disappointments decided you know what, I gotta do the worse thing in the world for me, which is go to business school so that I can learn enough about business and finance to figure out, is there a way to save this industry and make it work? So I applied to business school with that plan. They let me in. They snuck me in the back door. And was able to graduate and launch the company on the way out.
+
+Jason:  So, what's the postmortem on why it didn't work during your time in government and what led you to believe that business and innovation was the answer?
+
+Donnel Baird:  Well, at the time the software wasn't ready to go. I mean, we didn't, you know, cloud computing wasn't where it is. Mobile computing, I mean, the iPhone came out in '07, right? Or at least when I got my first one. It wasn't [crosstalk 00:15:45]-
+
+Jason:  You said, "in '07." The App Store was '08. But, but,-
+
+Donnel Baird:  Yeah, yeah, yeah.
+
+Jason:  '07, was the first iPhone. Yeah.
+
+Donnel Baird:  So, they weren't widely distributed, right? I mean, mobile computing... Machine learning was still like super expensive, right? And like really, really niche. And the internet of things was like an idea, super expensive, super early. Right? So, if you go back t- to 2009, 2010, you don't have these advances that allow you to collect the data that you need to analyze what is the appropriate size and brand and type of equipment to put into a specific building, right?
+
+So, in your house, right where you are now, you could have the building next door that was built by the same developer, right? Same material, same blueprints and the two buildings get constructed the same way, same developer, same blueprints, 30 years ago. But now there's 30 years of usage and utilization of those buildings. The ownership and maintenance and behavior patterns of the two users of that building changed the physics of that building over time. So even though the buildings start out the same, 30 years later if you show up and you're like, "Yo, I wanna green your building." We'll blow insulation into your attic and into the attic of the similar building next door, and in your building we'll trap carbon monoxide and kill everybody in the building, and next door will save 11%.
+
+So, you've gotta now account for the variability in these buildings and you've gotta do that across a hundred million buildings which costs a lot money. You've gotta hire a green buildings engineer, a consultant to do an assessment. They've gotta measure the equipment. They gotta build a spreadsheet model that takes six weeks of thermodynamic calculations. So the upfront costs of analyzing which equipment should go into which building, and how much money is it gonna save, and is it financeable from a Wall Street perspective. That soft cost is an upfront cost that, like, no one wants to pay. Right? And that's what prevented the industry from taking off, but now, right, 10 years later because we've had the advances in software, like you can throw some $5 temperature sensors in the building and understand what's going on and make a recommendation using m- machine learning and boom, you're off to the races.
+
+So, you no longer need to spend 5, 10, $50,000 upfront to analyze the building to figure out what to do for a green buildings upgrade. Now we can digitize and automate it in a way that we simply couldn't in 2009. I think that's where we are and I think that's why it's such a massive opportunity.
+
+Jason:  So, was that the initial kernel that basically, in order to know what each building needed, there was so much work and friction and cost associated with it and so many blind spots in the data and you were gonna set out to use technology to gather more data to inform that decision-making, automate things that used to be manual and labor intensive, and make it more practical to figure out what each building needed and connect the dots?
+
+Donnel Baird:  Yeah. So there, there are two significant problems that flow from this building assessment problem. One is the high cost and then two, Goldman Sachs and Wall Street do not wanna finance buildings with faulty assessments or unreliable assessments. So, like, literally, you know, some of the assessors will walk into the building with this thing called a smoke pen or a smoke plume. And what it is, it's like a pen that releases a plume of smoke from its tip and then you watch which way the smoke blows around the building, right? And then you determine, "Oh, there's a draft coming in from the north side of the building because it's blowing the plume of smoke." This is how we were assessing buildings back in 2009. Wall Street is not gonna finance, like, your smoke signals, right? And, you know, even if you write it up in a 40 page white paper.
+
+So, so there's a financing problem that emerges for our industry in that the $20,000 or the $50,000 that it costs to replace your heating system or air conditioning system and make it green, like, Wall Street is not willing to finance that project because the assessment process is so bad. So when we started BlocPower we knew that we had this engineering assessment problem and we knew that we had a financing problem that flowed from the engineering assessment problem. So, yeah, we wanted to, to launch and try to solve both problems.
+
+To be fair, it wasn't till I got to Silicon Valley and was in a meeting, it was actually my pitch meeting over at Andreessen Horowitz with Ben. And he was like, he was like, "Donnel, you seem very focused on financing and bringing financial solutions to the table. That's seems right, but I think you gotta take a look at the software side of this, right? And, and think about the way that software can really disrupt these assessment processes."
+
+And so, you know, in an Andreessen pitch meeting sometimes they, they punch you in the face just to see how you react. So I couldn't tell, was this like real advice or were they just, like, giving me a stress test? But, no, it was real advice. And so, after they and Kapor Capital invested, they really mentored and coached us up on how software and technology can really truly disrupt the industry and then feed into a fintech solution that could be disruptive.
+
+Jason:  And was the hypothesis at that time that by fixing the assessment process that it would build a bridge with existing capital sources or was it more about opening up new capital sources?
+
+Donnel Baird:  We thought that we would build a bridge with existing capital sources. And as we start to move forward and build out the company, we realized that we were gonna have to create a new financial product basically and God bless the team at Goldman Sachs for working with us for three years to develop that new financial product. And so, you know, in December of 2020, in the middle of the pandemic, we closed this facility with Goldman, which is the new financial product that we co-developed with them to finance these projects according to the assessment tech that we've developed over the last few years.
+
+Jason:  Mm-hmm [affirmative]. And where did the existing financial products miss the mark? How's your product different?
+
+Donnel Baird:  What we had to create is, in effect, like a green mortgage which spreads out the risk of potential default amongst a pool of borrowers. And so traditional lenders, they go, "Oh, low income. That's subprime. I don't care if it's clean energy or whatever." Like, "I don't wanna lose my money investing in a quote, unquote 'subprime' financially underserved community." But because I was a former community organizer, I know that even in very poor communities in America there is, like, millions and millions of dollars that transact in these communities, whether into like McDonald's, or like payday lending, or their local Rent-A-Center, or the local health care clinic and the utility companies. Of course, everybody pays their electricity bills or else the electricity gets shut off.
+
+And so, one of my B-School classmates... 'Cause I went to school, you know, right after the 2008-2009, financial crises. So, a lot of us who were in B-School at that time were people who worked at investment banks. And so I remember being in class and they were like, "Yo," you know, "we know at our bank..." I think they were like Capital One or something like that. Wells Fargo, they were Wells Fargo.
+
+They were like, "We know that when we have a default on a mortgage from a low income borrower where we stand in the hierarchy of payments." When a low income person who owns a home got cash in the 2008, 2009 crisis, first thing they do is buy groceries to feed their family. Second thing they do is, you know, they wanna pay for like cable, they wanna pay for internet, they wanna stay connected. They pay their utility bills, right? So then their top three payments are, like, food and utilities, right? Then way down the list they make their car payment, they pay their car note. They pay their credit cards after that. And then way down at the bottom of the list, they make their mortgage payment.
+
+And I was like, "Well, why do, why do low income people make their car payment before they make their home payment?" And it's because you can't drive to work if your car gets towed because you haven't made the payment. So all of your income stops, right? So understanding the, like, details of the psychology of how payments get made by low income people.
+
+We're not, you know, a credit card financing company. We're financing energy. If energy gets paid second, maybe third, and energy payments get made. And so, it just has a different risk profile than someone's FICO score may suggest. Because energy payments are not included in FICO scores, you have to come up with a new and different financial underwriting framework in order to understand what is the risk that an individual low income person will default on an energy payment versus a credit card bill, where it stands in the hierarchy of payments. And so that's, that's where they missed the mark.
+
+Jason:  And can you talk a bit about the BlocPower product offerings and also the customers that you're serving?
+
+Donnel Baird:  Yeah, yeah, yeah. So we're working with apartment buildings all over the country. Single family homes all over the country. So building owners. Early adopters, they wanna go green. Or their buildings are incredibly unhealthy or their heating system no longer works or their cooling system no longer works. They find their way to us. We've got a, a quick online quiz that people can fill out and answer, you know, 10 minutes worth of questions about their building. And that, the output of that quiz gives us data that we're able to analyze. We have an internal product that is our building science algorithm and it analyzes the rates at which energy is, like, produced, transmitted, distributed and emitted through the walls or windows of a particular building. So based on the buildings age, use case, you know, typology, we've created a bunch of archetypes, you know, its geography, what climate zone is it, is it in across America.
+
+We have a bunch of building archetypes and so we will run a simulation of that building's energy use. So the thermodynamics of the energy use or waste in a particular building by geography, by type, by age. We run that simulation using the information we've collected from the quiz. Using data we've scraped from the government or from the local utility company and then we generate an automated digital recommendation as to how to green that building.
+
+If the building owner wants to move forward, they've decided they're gonna sign an agreement with us. Then we'll move into sending over a local certified construction firm and then we will finance that project. So we will pay the contractor. Order the equipment and make sure it's properly installed and that it's reducing greenhouse gases, that it's saving money. We want those contractors to be, you know, women, veterans, minority-owned. And so we partner with people to get that set up. We, we have a cohort of contractors in Oakland that, you know, a lot of low income, minority-owned contractors in Oakland, who we've trained on how to install green equipment and so they're greening low income buildings that we're financing.
+
+And so over time, the equipment that we install is saving the building so much money that the building is more profitable, the energy costs are lower, the building's healthier, it's more valuable now if you resell it. And so those building owners repay us over time. So, it's a fancy-pants lease of green equipment that is the product and service that we offer. Total turnkey. Totally full stack, wall-to-wall service from the moment you fill out our online quiz to the moment the equipment is installed in your home. We want this to be a seamless, like, frictionless experience.
+
+And so, in a larger way, we're having to like, disrupt the way that construction is done fundamentally. So how can we use, like, augmented reality and interesting construction management workflows to scale up green construction practices across the country. That's like the final frontier for us. But those, that's our core set of products.
+
+Jason:  Mm-hmm [affirmative]. And does it matter if a building is small or big or if it is renters or condos?
+
+Donnel Baird:  Nah, it doesn't matter. We do all of it. The only thing we don't do, is we don't do giant skyscrapers. We think there's enough competitors running around trying to serve skyscrapers that we don't wanna compete. We'd rather serve the buildings that no one else wants to serve because they're low income or because it's a co-op and there is like a co-op board and it's a giant pain in the ass. We wanna serve those buildings. If people have skyscrapers, they have a chief sustainability officer, they have triple-A credit, like, they don't need us, they can go work with 500 different competitors. We want the other a hundred million buildings that no one else wants to serve. So that's what we do.
+
+Jason:  Mm-hmm [affirmative]. And what do you think are the biggest differences in terms of delivery or expertise between serving the lower income communities versus serving say, a skyscraper or even just a similar type of building, maybe in a more affluent area with more expensive prices?
+
+Donnel Baird:  Yeah. And this is where we didn't understand that we were, like, developing a little bit of a competitive advantage. So, in a community that's been neglected, it may even have a history of redlining where banks refuse to lend into that community. Which unfortunately happened all over the country, where banks wouldn't lend into certain communities. They would pull out a map and draw like a giant redline around the neighborhood and tell the staff like, "Hey, don't lend in these communities."
+
+So, these communities have had limited access to capital for decades, right, 'cause they can't borrow from banks. They can't upgrade the buildings. Hard to refinance, hard to sell. They have had poor maintenance and a lot of neglect over time and so you'll see things like lead, a ton of asbestos, a ton of mold, that make the buildings incredibly unhealthy. So even if a utility company or solar company shows up and says, "Hey, we wanna green your building." You gotta spend a bunch of money to remove the lead, the asbestos, the mold and all the unhealthy factors even before you can do a clean energy upgrade of the building.
+
+Now, we're in a situation in 2021, we're coming out of a pandemic. We have 30 million Americans that have been unemployed recently. Lots of folks who haven't been paying rent. And so apartment building owners haven't been making upgrades to the buildings as well and so there's like a backlog of accumulated maintenance needs that have been neglected over the last year. But again, in many cases, for several years, since the last recession.
+
+And so the additional and incremental cost of extra construction work and engineering analysis to remove, like, the legacy of neglect in, in the building's category, lead, asbestos, mold. To try to bring the building up to code, you know, and making sure it complies with the city of San Francisco's, you know, permitting and green construction ordinances and all that stuff. All of that stuff has a set of costs that traditional clean energy engineering firms don't know how to deal with, because they haven't been working in the crappiest buildings. But we do.
+
+Now we're in a situation where the Biden-Harris administration has indicated that 40% of all their infrastructure dollars are gonna be invested in low income communities that have been neglected. And so, 40% of however many trillion dollars are gonna be invested, it's gonna have to engage with mold, and asbestos, and lead, and terrible things that are in buildings that are making our communities sick. And so our view is, how do you then start to price the return on investment or how do you use data to analyze the removal of something like mold, right? Or lead or asbestos?
+
+How to use property tax payment histories and mortgage turnovers and volatilities to figure out, "Hey, this building is actually more likely to have lead." Therefore, we gotta send out a hazardous materials construction crew to resolve some of these lead removal issues before we even get started with solar and energy efficiency. That kind of thing is a speciality that we've been able to develop over the last seven years that we think is gonna be a critical competitive advantage as we try to deploy and distribute clean energy across the country, including tens of millions of buildings that have lots of health care needs.
+
+Jason:  And what's the pitch to the building owner? And is it a different pitch depending on if, for example, it's condos or it is rentals, or if the heating and cooling costs are baked into rent, let's say, or if it's covered the inhabitants of each unit?
+
+Donnel Baird:  Yeah. All of those will require different pitches. And so the beauty of it is our software system allows us to say, "Okay, you're this archetype of building." Like, you're an owner-occupied apartment building, which is different from an apartment building where the owner does not live there, right? Different decision-making process. You are a co-op, right, where there are multiple owners and a board that has to make a decision.
+
+So, the pitches are gonna be a little bit different. The fundamental mechanical engineering. The analysis that we're gonna do of all those buildings is the same, but we know that that sales process to a co-op, to a building where the owner lives there versus not. Those are three different sales processes and three different pitches. And so our team has to develop the capability and maintain the capability and the ability to train new salespeople on how you sell into these different categories of buildings. And so that's one of the, the capabilities that we've had to develop over the years, is how do you pitch the same mechanical engineering project and sustainability upgrade, but how do you pitch it to different kinds of decision makers?
+
+'Cause, you know, some places your decision maker is your facilities manager, right? And so, they don't own the building, but they manage it and, you know, they're the ultimate decider on, on what happens in the building. So, so there's different pitches, so there's different materials, there's different language that we'll use, right? Like a facilities manager doesn't really care about ROI. They don't care about tax credits, but a, a building owner does, right? Or a CFO does.
+
+So, that's part of the challenge of the green building space is the multitude of decision makers that have to be in- involved in like... You know, a traditional VC might say, "Well, you know, narrow your focus and focus on all the co-ops in New England," or whatever, but we embrace the challenge, man. We like the complexity. And we wanna build a micro-monopoly across the whole building space. So, we're selling to all the building owners we can.
+
+Jason:  I mean, you brought up the, the Tesla analogy earlier on and, I mean, while some might be purchasing Teslas because they're good for the planet, it seems like a lot of people just purchase it because it's a really cool car and it performs well. So, so I'm curious, if to the extent that there is a consistent value proposition across, I know you said the pitch is different, but it'd be helpful to understand what that is. Or, or if not, you know, what are the three, or the four of the most common value propositions that are driving people to move forward with these projects?
+
+Donnel Baird:  Our projects are gonna save you money. We're gonna save you money on your annual energy bills. Your building will use less energy and therefore pay less than it currently does for energy. So you're gonna save money. Since you're saving money, your building is more profitable. Now you're green. You're in compliance with all the new green buildings laws. So, your building is more valuable, if you choose to resell it.
+
+So, we make a pure economic argument when we go into buildings. And, "Oh, by the way, we're gonna save you all this money. Oh, by the way, you're gonna be a green and healthy building." We can help you track and apply for carbon credits and carbon offsets in your, if you're into that kind of thing. But we're gonna save you money first and foremost, and if you're the kind of person that cares about being green, it's nice, you know, frosting on the cake. And so the value prop is saving building owner's money.
+
+Jason:  Mm-hmm [affirmative]. Well, given how mission oriented you are, I'm really curious to ask you this next question. I've been, I don't know if facilitating is the right word, but maybe engaged in some debates on Twitter recently about, how important it is to get people to care about climate change. 'Cause you, as you just mentioned, you know, saving the world, saving the planet, the collective good, like, you know, these people have, have much more near term concerns that they're worried about. Like how do they put food on the table for their families and keep the heat on. And, you just said, you, you lead with cost, and, "Oh, by the way..." But it's an aside that they either care about or oftentimes it sounds like they don't. Do you think it's more important to get more people to care or should we just be driving forward these solutions and, and making the cost so attractive that people can't say no?
+
+Donnel Baird:  Well, I, I think the latter. But what, what do, what do you think? I mean, where did you land on this argument? How are you thinking about it?
+
+Jason:  Well, I try to keep an open mind because my perspective is always evolving as I have more discussions, but I want to get more people to care. I'm glad people are focused on it, but when I think about w- where I think the highest leverage point, I... Well, I think the more you can just make the math work, the less you're gonna need people to care. And yes, we should make more people care, but if, if I had a finite amount of resources to allocate that is not where I would put my chips. Yeah.
+
+Donnel Baird:  Yeah. Yeah. [laughing]. Yeah. That's how I feel about it. And, and you know, what's been interesting for me is like, back to origin story, it's like, "Okay, well what's the origin story of someone who cares about climate?" Right? If you don't care about climate now, how do we get you into caring about climate?
+
+One of the things I did learn while I was, like, being an outside consultant to the Obama administration is, you know, we got Mayor Adrian Fenty, he was mayor of D.C. at the time. Now he's one of our investors out of his venture capital firm, MaC Venture, which is an amazing firm with him and Marlon Nichols and Michael Palank-
+
+Jason:  I've been following that, that firm's doings on Twitter as well.
+
+Donnel Baird:  Yeah, yeah, yeah. They just raised like a hundred million bucks, doing amazing stuff.
+
+Jason:  Yeah, awesome story.
+
+Donnel Baird:  Yeah, yeah, yeah. So they're, they're an early investor. But before he was an investor, he was mayor of D.C. And he invested a hundred million dollars in training and hiring low income people in D.C., like ex-offenders who had returned to the community. People who had aged out of foster care. Like vulnerable, you know, D.C. residents. He doesn't get credit for it. And, you know, he's like a humble guy, but it was amazing that he did this. I'm not just saying that 'cause he's my investor, it's like, awesome on it's face. He invested a hundred million dollars in like, training and hiring poor people in D.C. to green low income buildings in D.C., which is one of the like most massive accomplishments in the stimulus in terms of workforce development.
+
+So we trained and hired a couple cohorts of, like, low income people who are not, like, climate activists. Like, they were not in the gosh darn Sierra Club at the time. But what was interesting is, like, after six months of being on the job, they got way into it. So you'd come into the office and they'd be like, "Yo Donnel, I was watching CSPAN. This republican senator was out there talking crazy about the climate infrastructure bill, everything he was saying was trash."
+
+And I'm like, "Yo, are you watching CSPAN at night?"
+
+They're like, "Yeah, yeah, yeah." Like, you know, they really get into it and they become climate activists because the climate movement has nurtured them. It has given them a, a good job, health care, right? Dignity, right? So that they can take care of their family and be proud of themselves. And they're, they're working every day on removing fossil fuels from buildings. So even though they're an ex-offender, right? Now, over six months of training to do their job they have developed an affinity for climate and now they are a climate activist. And that is the thing that people miss about how you broaden and deepen the climate movement.
+
+You know, we're working on an op-ed about how, you know, climate philanthropists are worse than VCs when it comes to investing in Black and brown people and women. VC is like 3%, goes to Black people or something like that, or Black, brown and women. Horrible. But the climate philanthropists are worse. They invest less money than venture capital. The reason that it's a shame is not ethical, right? I mean, it's horrible that they're doing this. It's racist and sexist and whatever.
+
+The problem is, we're losing the opportunity to convert millions of Americans to being climate activists and advocates who can push the Senate, right, to passing the massive climate infrastructure bills that we need, because their life and their family and their future is now connected to climate. Of course, they're gonna call Mitch McConnell and try to persuade him to support climate infrastructure. So that's, that's the thing that's a shame. It's not just the, like, the moral and ethical crap, which is horrible. But it's also just, from a pure political strategy standpoint, when you invest in people, when you invest communities, when you develop a workforce, that workforce cares and that's how you create climate activists.
+
+Same thing with customers. If you give a customer a piece of equipment that's cheaper and it's better and it's higher performing, right, and it's just 10 times better than the old crappy natural gas boiler that they have in their basement. And you're like, "I'm gonna save you money and I'm gonna reduce the amount of asthma attacks that your kid has in this building, and here's some carbon credits for the next time you fly to Hawaii." That's just better. Of course, they're gonna become a, an interested climate consumer and advocate. They're gonna be looking for more opportunities to duplicate that.
+
+So, that's my whole philosophy, and yeah, that's how we approach selling to our customers. That's how we approach our workers and partnerships with stakeholders. Sorry for my rant. I feel-
+
+Jason:  No, no.
+
+Donnel Baird:  ... very strongly about that.
+
+Jason:  No. I mean it's, I think, one of the things that I didn't understand as much as I should have coming into focus on climate was just how intertwined social and racial justice are with decarbonization. 'Cause in order to transition every sector of our economy there needs to be a critical mass of people. Whether it's just people voters, or it's people politicians, or it's people employees, or it's people employers, or it's people funders, or it's people activists or it's... You know, you need people to be aligned around the fact that this needs to happen and if there's large groups of people that are unhappy with the current system, and then the people who are re-architecting for the next system are the same ones that have been the beneficiaries of the current system and are gonna be just as un-inclusive in the new system as they were in the old system, why would people ever sign up for that?
+
+Donnel Baird:  That's right.
+
+Jason:  Yeah.
+
+Donnel Baird:  That's right. Well, you, you, you get it. I'll tell ya. I mean, I'm on the board of Sierra Club, I've been in meetings with people who've been part of Sierra Club for years and they don't get it. And so, even though you're, you're a newcomer to climate, you understand this in a way that a lot of people who care about these issues don't. And I think it's really important-
+
+Jason:  I didn't though. I didn't. It's not that I didn't think it was important, I didn't understand how interconnected they were.
+
+Donnel Baird:  Yeah, that they're intertwined.
+
+Jason:  Yeah, yeah.
+
+Donnel Baird:  That's right. That's right. So, yeah, the future economy has to have a place that's accessible and clear. There has to be clarity about where everyone fits into it so that we... It's tangible and people can embrace it and that's just gonna make it that much easier for us to address climate at scale and to do the infrastructure upgrades across the country that we need.
+
+Jason:  So, going back to what you asked me about the Twitter thing, I, I told you where I came out, but there's one criticism of my perspective on Twitter that I don't really have an answer for yet and I'm curious to get your thoughts. And that is the people outside of the US that say, that say, "Hey, your, your cynical perspective about how no one's ever gonna care, like, that's an American perspective." Like, "Maybe that's true in America, but the rest of the world's already there, bro." So, [laughs], what do you think about that? Are we, like, where, where's the truth, at least from your seat?
+
+Donnel Baird:  Yo, I got something even crazier than that. The consultant who's been helping us with some of our video content is, like, an award-winning producer, right, [Genella 00:45:49]. And she is making a movie about this, like, Harvard scientist and this, like, Bangladesh-y activist, and they're into geoengineering, right? And they're just like, "We should shoot salt or whatever into the sky and geoengineer the ozone layer." You, you know, to trap sunlight and, like, deal with global warming, right, like that's where they are. And you're like, "Well, how do people feel about this?" Everybody in the United States hates geoengineering, except for this, like, one Harvard professor, right, [crosstalk 00:46:21].
+
+Jason:  David Keith.
+
+Donnel Baird:  Yeah, David.
+
+Jason:  He came on the show. [laughs].
+
+Donnel Baird:  Right. And like, but then you're, like, talking to the, to folks in Bangladesh and they're like, "Climate change is not some, like, far off thing. It's here." Like, "We're having droughts right now." Like, "We didn't do the industrial revolution that led to climate change." Like, "We absolutely are gonna shoot these chemicals into space. Who's gonna stop us?" So, you got these-
+
+Jason:  That's what he says. That's what he says. It's like, "Yo, we need to research this, not because I wanna do it. But because other people are gonna do it whether we like it or not and we need to know how to regulate it."
+
+Donnel Baird:  It's like the James Bond super villain level stuff, right? They're like, "We are gonna shoot these chemicals into space." Like, "How are you gonna stop us from doing this?" And so, I don't know if you can. And I don't, you know, there's lots of obviously social and political and, you know, human and ecological implications for geoengineering so I'm... I don't have a position on that. I do think it's interesting, this question of the morality and the ethics around who gets to decide what path we're all gonna take.
+
+And what I'm saying is, in the meantime, let's make all this stuff like dirt cheap for people and, like, get the best marketing and advertising so that we can sell people green infrastructure door-to-door across the country. So that, hopefully, we can avoid these kinds of dilemmas and signal to the rest of the world, "Yo, the US is taking this seriously. We've got some businesses that are gonna scale up and help us reduce greenhouse gas at scale."
+
+Jason:  But does the US population care particularly little about the collective good relative to the rest of the world?
+
+Donnel Baird:  The United States is an individualist... We're an individualist society, I mean, you know, the Marlboro Man and that, that iconic, you know, individualistic male identity is part of who we are. We're, we're rugged individualists as a country and we don't, you know, we sublimate the kinds of, you know, class and racial, and you know, identities. We pretend that they don't exist. That's our culture. And, and so, we're, we're not a collectivist society in the least, and so, yeah, we, bluntly we do care less.
+
+And so part of, uh, uh, from a policy perspective is like, how do you make regular Americans care? So, like, there's a consumer standpoint, like, what kind of marketing can we do? What kind of tech can we do? And can we save people money, so that it impacts them in their pocket?
+
+Jason:  But I feel the rest of the world though, 'cause when I'm out saying, you know, "We need to do this, we need to that." Right? I mean, admittedly, I'm in America. I grew up here. I spent my whole life here. Most of the people I interact with are... I mean, I try to have a global focus, but, like, we have a tiny team and, and there's, you know, there's only... We do the best we can, but we end up spending a lot, a high percentage of our content, for example, at least today is US focused.
+
+And so, so then, I'll say, "We need to do this, we need to do that," and they say, "Look, like, that might work in America." And I say, "But America is, you know, has been one of the biggest emitters and, you know, we're one of the biggest countries and we, you know, look at our GDP and we, and it, and it..."
+
+And they say, "Yeah, but the rest of the world is, is moving on with or without you guys." So, like, all you're saying is, is that, but that set of things, like it just matters less on the global stage than it does for America and if you guys get left behind, like, I don't care I just want this problem addressed. [laughs].
+
+Donnel Baird:  Right, right, right, right.
+
+Jason:  And I, I don't have a lot to say.
+
+Donnel Baird:  Right, right, right.
+
+Jason:  [laughs].
+
+Donnel Baird:  So, I was talking to a brother from Google, who's an Indian brother, you know, we were trying to learn from him. He had installed Wi-Fi networks at, like, 200 train stations across the, like, country and continent of India, right? And so, during the pandemic my company, BlocPower, we've been providing internet, free and low cost internet to low income communities in the Bronx and we're gonna take a look at Oakland over the next few weeks. And I was talking with him, and I was like, "Yo man, we appreciate all the help. We appreciate you making time to give us advice."
+
+And he was like, "Look, the rest of the world, we need you guys to get it together. Like on internet, on climate." Like we just, you know, Trump was still president. He was like, "We cannot really move forward in the way that we need to unless you guys are doing greenhouse gas reduction at scale. Unless the engines of innovation out of Silicon Valley are pumping and out of the government, frankly, even though Silicon Valley doesn't like to admit it. Like, we need all that innovation pumping." And he was like, "As your friendly representative of India, like, we need you guys at the top of your game."
+
+So I think it's a mix, right? I think, like, they're gonna move forward and do what they do, but like, we are one of the largest emitters. We are the largest economy. We've got the largest military and so we should lead. We can lead and we should lead as best we can.
+
+And so, all of your work in terms of moving America forward, like I think it's important and, you know, so does he. That said, if someone's gonna shoot some chemicals into the ozone. [laughs]. I don't know what we're gonna do to stop 'em. So hopefully we don't get to that point.
+
+Jason:  So bring it back around to BlocPower and to green buildings. If you think about maybe more systemic factors that are outside of the scope of control or responsibility for BlocPower, what are some of the biggest barriers that are holding back these green buildings becoming more pervasive? And if you could only change one thing to accelerate the transition, what would you change and how would you change it?
+
+Donnel Baird:  Now that's a complicated question. The overall construction industry in America millennials are not entering it. Baby boomers are aging out and retiring and millennials are not replacing them. So we have an undersupply of highly skilled construction workers, which is a problem in construction and a problem for green infrastructure generally because we need construction prices to be low to keep our costs down. So that's one major problem. I would say the major opportunity is crypto. And I know, [crosstalk 00:52:12]-
+
+Jason:  Wow, I would not have predicted that. It's not where my money would have been.
+
+Donnel Baird:  Yeah.
+
+Jason:  My fiat, that's not where my fiat money would have been. [laughs].
+
+Donnel Baird:  Yeah, yeah, yeah, yeah, yeah. We need, [laughing], we need, we need the global community, right, of brilliant innovators to be aligned and I believe the way that we do that is through an internet of buildings that is open source. That is free or freemium. Where building owners across America are connected to it. Their data is collected. It's available. It's anonymized. And that a community of global developers can interrogate that data and start to optimize and analyze the performance of how best to green buildings at scale across the country.
+
+So, we got tens of millions of buildings, all of them are custom. We need incentivize a community of brilliant people globally who are gonna help to build the open source software that is not on- only gonna help us to analyze and assess. You know, we, we talked early in the podcast about this assessment problem, right, on a building by building basis that's all custom. So we can use machine learning and statistics and predictive modeling to do some of that stuff, but at that end of the day, we wanna be accurate when it comes to investing the, like, three to five trillion dollars of capital that it's gonna take to green tens of millions of buildings. And so we need to incentivize an open source community to work on this problem. The best way I can see how to do that, is crypto.
+
+Jason:  Is anyone working on that?
+
+Donnel Baird:  We are gonna launch, I don't know when you're going live, but we're gonna launch a protocol tomorrow at ARPA-E. ARPA, like, invented the internet and then the Department of Energy has a, they have their own internal ARPA that's focused on energy and so tomorrow Secretary of Energy, Secretary of Transportation, Bill Gates, myself are all gonna give, like, 15 minute talks. And we are gonna launch this blockchain protocol focused on incentivizing people to work on greening buildings.
+
+Jason:  Well, we're already long in this podcast, but I can't listen to that without then asking you what your thoughts are on the energy usage of Bitcoin?
+
+Donnel Baird:  I think that Elon Musk is right. As folks know, he recently said that Tesla isn't gonna, you know, accept Bitcoin. I'm very proud of what Vitalik and all the folks at Ethereum are doing to move away from proof of work to proof of stake. I think that's really important and I think it's really responsible and our kids and grandkids will be glad that that happened.
+
+Jason:  Mm-hmm [affirmative]. And bring it back around to BlocPower, just to wrap up for anyone listening that's inspired by you. And you're a pretty inspirational guy and, and what you're doing, which is also pretty inspirational. Where do you need help? Who do you wanna hear from?
+
+Donnel Baird:  We wanna hear from a community of data engineers, data scientists, product marketing, people who have insights on how to structure data for a hundred million buildings. Or how to market to a hundred million consumers and really get to an amazing brand that communicates trustworthiness, reliability, innovation and affordability. That's kind of a complicated brand to launch. So we're figuring that out. So we need help in both of those areas.
+
+And, you know, like I said, we wanna build a community of people who are all working on these problems and are earning some crypto while they're working on these problems with us. And so, you know, you can come to blocpower.io and sign up. We have our newsletter that goes out and tell you about our protocol for crypto and all that stuff. So we're very excited to be in community with you and with your listeners and with others so we can all work on this, solving this problem together.
+
+Jason:  Donnel, anything that I didn't ask you that I should have or any parting words for listeners?
+
+Donnel Baird:  No, but I wanted to ask you how you keep your beard looking so smooth and suave? Looks great.
+
+Jason:  Oh, I put nothing, nothing. It's all, all natural. Although-
+
+Donnel Baird:  It's natural.
+
+Jason:  ... again, like we started with you saying something very controversial to my wife and then we can end-
+
+Donnel Baird:  [laughs].
+
+Jason:  ... with s- you saying something very controversial to my wife because she does not like... Those are, like, the two things she hates most about me-
+
+Donnel Baird:  [laughs].
+
+Jason:  ... is I, I'm a public sharer,-
+
+Donnel Baird:  Twitter. [laughs].
+
+Jason:  ... right? And this beard. Right. She wants me clean-shaven all the time. Yeah.
+
+Donnel Baird:  Oh, [laughing], we got, we got our own,-
+
+Jason:  [laughs].
+
+Donnel Baird:  ... we got our own bro culture going here with the beards and the oversharing publicly.
+
+Jason:  [laughs].
+
+Donnel Baird:  No. I just, I love the ecosystem that you're building, man. I love the community. I love the transparency and vulnerability that you're bringing to the space. You know, as you're, I'm sure you're learning in the clean energy space, there's a lot of, like, intellectualism and policy wonks and engineers who are kinda know-it-all. If everybody was so fucking smart why are we still in this mess?
+
+So I love, [laughs], I love this openness that you're bringing to the space and I think that you're creating a dialogue that's like really, really, really important. And these are the kind of conversations that are gonna help us, like, build the community to get massive climate infrastructure deployed across the country. And so I'm, I'm really excited to be on the pod with you and, you know, continue to grow our relationship and find ways to work together. It's gonna be, it's gonna be good. It's gonna be fun.
+
+Jason:  That's great. Well, this discussion was awesome. So, thanks so much. If we had three more hours we, we could talk three hours more.
+
+Donnel Baird:  Yeah, yeah, yeah, yeah, yeah.
+
+Jason:  Yeah, but best of luck to you and the, and the BlocPower team and I, I know we will be keeping in touch.
+
+Donnel Baird:  Awesome. Thanks, man. Great to...
+
+Jason:  Hey everyone, Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at myclimatejourney.co. Note that is .co, not .com. Someday we'll get to .com, but right now .co.
+
+You can also find me on Twitter, at jjacobs22, where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear. And before I let you go, if you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that. Thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

@@ -1,0 +1,430 @@
+Today’s guest is Todd Allen, Chair and Professor, Nuclear Engineering and Radiological Sciences at University of Michigan.
+An offer to skip history class in high school to listen to a Navy ROTC recruiter sent Todd Allen on a serendipitous journey that led to him becoming one of the top U.S. experts in nuclear energy, with focus on the material science of nuclear systems.
+Todd began his professional career as a submarine officer in the U.S. Navy where he learned the practical applications of operating a nuclear power plant as well as how to take a submarine to periscope depth. Following active duty, he built on that practical Navy experience by earning a Ph.D. in nuclear engineering with specific focus on how radiation changes the physical properties of metals.
+His first post-Ph.D. position was as a staff scientist at Argonne National Laboratory. While at Argonne, he joined the leadership team tasked with developing the Generation IV Roadmap, the document that framed the resurgence of the nuclear research programs early in the 21st Century.
+Following Argonne, he joined the faculty at the University of Wisconsin. While there, he split his time between establishing a premier material science program at the university and supporting the Idaho National Laboratory. At INL, he led the transition of the Advanced Test Reactor into a national user facility, creating a unique distributed network of national research facilities working together to support novel research ideas brought by universities and private industry. He also ran a six-institution Energy Frontier Research Center focused on answering fundamental questions about heat transfer in nuclear fuel.
+From 2013-2016, he helped lead the Idaho National Laboratory as the Deputy Laboratory Director for Science & Technology, including being an important contributor to the development of the Gateway for Accelerated Innovation in Nuclear (GAIN) initiative announced at the White House in November 2015.
+He is the author of over 200 technical publications, many of which are readable.
+Enjoy the show!
+You can find me on Twitter @jjacobs22 (me), @mcjpod (podcast) or @mcjcollective (company). You can reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+In today's episode, we cover:
+Todd’s history, the history of the nuclear industry, and how those have intersected over his career
+Some of the opportunities of nuclear energy
+Some of the misconceptions about it
+Some of the risks and downsides
+The impact nuclear can have in the climate fight
+What else can be impactful in the climate fight
+Todd’s advice for others looking to find their lane in the climate fight
+Links to topics discussed in this episode: 
+Enriched Uranium
+International Atomic Energy Agency
+Yucca Mountain nuclear waste repository
+Blue Ribbon Commission
+Three Mile Island
+Jesse Jenkins
+Jason Jacobs:                Hello everyone. This is Jason Jacobs and welcome to My Climate Journey. This show follows my journey to interview a wide range of guests to better understand and make sense of the formidable problem of climate change and try to figure out how people like you and I can help.
+
+Jason Jacobs:                Today's guest is Todd Allen, sharer and professor of nuclear engineering and radiological sciences at University of Michigan. Todd is one of the top US experts in nuclear energy with a focus on material science of nuclear systems. Todd began his professional career as a submarine officer in the US Navy. Following active duty, Todd earned a PhD in nuclear engineering, then joined Argon National Laboratory, initially as a staff scientist, and ultimately on the leadership team tasked with developing the Generation Four roadmap.
+
+Jason Jacobs:                Following Argon, Todd joined the faculty at University of Wisconsin where he split his time between establishing a premier material science program and supporting the Idaho National Laboratory, where he held a number of roles, ultimately leading the organization as deputy laboratory director for science and technology.
+
+Jason Jacobs:                Todd is the offer of over 200 technical publications and given that I still had a bunch of questions about nuclear, I thought there was no better guest to bring on the show. We cover a lot in this episode, including Todd's background, how he got into nuclear, the twists and turns of the nuclear industry over the last several decades and those of Todd's career and how those have intersected. We then go on to have a really pragmatic discussion looking at each of the key areas where people typically have concerns about nuclear and digging deep into each one of them, getting Todd's candid and honest thoughts. I think his answers are really thoughtful, so I definitely learned a lot.
+
+Jason Jacobs:                Finally, we talk about other factors like deregulation, when and why we did that and whether it was a mistake, the importance of a portfolio approach and how it's detrimental to have religion about any one specific technology in the climate fight. Probably my favorite part is when I asked Todd if he was given the keys of the kingdom federally to help nuclear deployed at scale more effectively, what would he do? Because I thought he really gave a dynamite answer.
+
+Jason Jacobs:                Without further ado, here is Todd. Todd Allen, welcome to the show.
+
+Todd Allen:                   Thanks. Thanks for inviting me. Welcome to Third Way.
+
+Jason Jacobs:                It's a Third Way kind of day. I just recorded an episode with Josh Freed and no rest for the weary. Now I'm going right into this one, but I'm excited for it.
+
+Todd Allen:                   Good, good.
+
+Jason Jacobs:                So I've talked to some people in the nuclear world. Notably, Bret came on the podcast who I know you know, Bret Kugelmass. But nobody that is anywhere near as experienced in nuclear as you.
+
+Todd Allen:                   Okay, all right. First time.
+
+Jason Jacobs:                Yeah. And it's an area where I've been spending some time. I mean, a fair bit of time. However much time with part of my time for seven months. So I know that's probably not much time in the grand scheme of things, but a meaningful percentage of the portfolio, looking at it, because as I've investigated deep decarbonization and what it'll take, it seems like we're sure going to need it and it's a thorny one, because there appears to be consumer sentiment is against it and there's some political headwinds and things like that and some concerns that seem like there might be some validity, but at the same time, it still seems like we're going to need it and that if you dig in relative to some of the consequences that come from burning a zillion tons of coal or things like that, or even car accidents or things that we put up with every day, right?
+
+Jason Jacobs:                Then you have to ask why is it held to a higher standard? Right? So I'm not up to ... You know, and I have tons of questions, but I'm really excited to learn more about it and it's an important topic.
+
+Todd Allen:                   Yeah, absolutely. We can go through as much of it as you want and you're spot on in the sense that the fact we're having more and more serious discussions around climate change has brought a lot of people back into a nuclear discussion. I think there are some people who will always feel there's no need. Sort of tech evangelists that believe their technology is good enough. There are lots of people that haven't thought about it for years, right? Or may not even know how much nuclear we actually use in the US who are sort of agnostic or just unaware.
+
+Todd Allen:                   I find that especially with students, younger generation. I meet tons of them that are like, "We never get taught anything about nuclear in school. I understand it may be relevant to climate. Let's talk about it." Then you of course have some folks who are in nuclear and they love it and they'll be just as tech evangelist as the people on the renewables side and I think they're also off base, right? But you get that whole spectrum. I actually think there's a large group in the middle that are willing to have a conversation that might not have 10 years ago.
+
+Jason Jacobs:                You seem like an unflappable diehard. You've just been heads down doing your thing all the way through and still going strong.
+
+Todd Allen:                   Well, you know what's funny about it, I think it's ... Sometimes you just make decisions when you're young and they work out, right? I got into nuclear, not because I had some strong connection to the technology. It was the Navy gave me an ROTC scholarship that's going to pay for my college. Couldn't have gone to Northwestern without it. Once you get-
+
+Jason Jacobs:                Belated congrats on that.
+
+Todd Allen:                   Yeah, thanks. But once you do that, right, they explain to you, once you graduate your going to have to either be an airplane pilot, a marine corps officer, drive surface ships or be on a submarine. For whatever reason, being on a submarine seemed like the most interesting thing. But now that I've done that, right, I now start to understand that these things get driven around by nuclear power, right? So I need to learn something about it.
+
+Todd Allen:                   I actually had applied to college saying I wanted to be a computer science major and then got convinced as a freshman that I should be a nuclear engineer in the end. In some ways, it was a bad decision, right? Because so many interesting things have gone on in computer science over the years and who knows, I may have been a rich computer science guy. But at the same time, the interest in nuclear sort of comes and goes. I've actually dropped into some pretty cool opportunities because there wasn't that many of me around, right?
+
+Todd Allen:                   As an example, when I got my first faculty job at Wisconsin, when I was doing my PhD, this was the mid-'90s. Bill Clinton was the president. His administration did not like nuclear. As a matter of fact, they took the federal funding for research to zero. Lots of people that were getting their degrees about the same time as me just basically left the field, but either through luck or stubbornness, I stayed in. Now when faculty positions started to open up in the 2000s, and faculty positions are normally pretty competitive, there weren't that many people in my age group.
+
+Todd Allen:                   Now I'm in a position where universities, national labs, companies, they're all desperate for mid-careers, because we lost most of a generation. So now I get lots of opportunities because I hung around in nuclear. Sometimes it's smart. Sometimes it's luck. Sometimes it just works out.
+
+Jason Jacobs:                What was the state of nuclear when you entered the field?
+
+Todd Allen:                   So I started as an undergrad in 1980 and so this was probably a transition point. We were towards the end of this big build, right? So we went through three decades where we were building 30 commercial nuclear plants a year. A pretty rapid rate of expansion. '78 is when Three Mile Island happened. A little bit before that, you started to get pushback against commercial nuclear for various reasons and so it was sort of at the beginning of the plateau.
+
+Jason Jacobs:                Before Three Mile Island was nuclear celebrated? Glorified? A point of national pride?
+
+Todd Allen:                   I think if you go back to sort of the '50s and '60s, it was the it technology. Right? It was the sexy thing to go in to. Cutting edge technology. A lot of people were excited about it. I think the further you went on, it started to lose some of it's luster and by the time you got sort of into the 1990s, you had built all the plants that we were going to build or that we had built so far. That's 100-ish, slightly more than 100. It's 20% of the US electricity system is nuclear, which is more than a lot of people realize ... 100 plants is the most that any country has built.
+
+Todd Allen:                   We're not the largest percentage of electricity by nuclear, but most plants. I think of it as the product had met it's market and so it stabilized. I think in the beginning, it was very, very exciting. People liked it and I think over time you started to get pushback from people who were worried a lot about connectivity to weapons programs. So the India exploding their nuclear weapons in the '70s and they did not separate their weapons complex from their commercial. Made a lot of people very nervous.
+
+Todd Allen:                   That environment brought some political pushback. That's around the time we decided we were not going to pursue commercial recycling or recycling of commercial fuel.
+
+Jason Jacobs:                And when you say exploded their weapons, so like they ran a test?
+
+Todd Allen:                   They ran a test. Underground test, yeah. Right? So it was clear now that they had developed a nuclear weapons program and in the US, we're very careful to separate weapons stuff from civilians stuff.
+
+Jason Jacobs:                Is it just like a figurative wall or what does that mean to separate?
+
+Todd Allen:                   Meaning you, for instance, in the US and actually it's an international standard now for commercial reactors that you design a nuclear power plant where you limit the enrichment, right? And if I need to explain enrichment, I can. But you keep the uranium fuel in a state that is not weapons usable. You do not design commercial plans to run on material that's weapons usable. You control who has the ability to do enrichment.
+
+Todd Allen:                   So as an example, when the United Arab Emirates decided they were going to build four nuclear plants, they're in the end of the construction phase of that. They actually hired South Korean firms to build those. They agreed up front that they did not want enriched fuel and they would not enrich their own. They agreed to a set of standards that are set by the International Atomic Energy Agency that make it clear that this is a civilian only program.
+
+Jason Jacobs:                So I understand there might be regulations that prohibit them or they agree as one of the requirements to not enrich, but what about the actual task of enriching? Is it hard?
+
+Todd Allen:                   So it is complex technology. In the early days, it was a diffusion process. So you would create a gas phase with uranium in it. Uranium, there's different types of it that have different masses. Some of them are fissionable, we can use them for fuel, and some aren't, and you run them through these very long columns. Depending on how heavy they are, they'll drift with a different speed. That allows you to separate things as you go through filters. Then in time, people changed it to a centrifuge type. Same thing with centrifuges, you spin them, the heavier stuff goes to the edge faster and you go through a series of these and you can eventually enrich. So it's technologically challenging, but people have figured it out.
+
+Todd Allen:                   When you read things about the Iranians and the concern there is they have centrifuges, right? They have the ability to enrich. What you would want, well, first you would hope that they didn't have their own enrichment capability, but the agreements and things, we're trying to keep them. Keep them so that they were only enriching at levels that were useful for commercial plants, but not for weapons. When you read in the paper recently that they have started to enrich above certain levels, people are worried that they're enriching up to higher levels.
+
+Todd Allen:                   So once you have the technology, it's possible. It's harder to go to very high levels, but once you have that technology you can do it.
+
+Jason Jacobs:                I've heard that if you take exporting, for example, that one of the arguments for not exporting is because people are afraid that the uranium will get into the wrong hands, but I've heard counter-arguments that say that if you export, you can have more control over the stipulations within which one can operate if they get the technology and if they're not going to get it from us, they're going to get it from someone else and who knows what the stipulations will be, if any, from the person that they get it from.
+
+Todd Allen:                   Yeah. Right, and so in the early days, there were very few countries that understood nuclear technology, right? So back when we made a lot of the rules about exports and non-proliferation norms and things, we were the vendor of choice. The country that could supply nuclear technology to others, but now it's not the case, right? The Russians certainly have the ability to do it. The Chinese have the ability to do it. The Koreans, I said, are building other plants, although they're very tied to Western standards so we trust them.
+
+Todd Allen:                   But that is the issue, so in the past we would say, "Okay, if you want nuclear technology, we'll work with you, but we don't want you to enrich." Meaning we'll sell you the fuel, for instance, but we do lose that control if they're going to go buy from the Russians or the Chinese. It's true. It's a different world.
+
+Jason Jacobs:                Do you worry about the risk of uranium if gotten into the wrong hands being weaponized?
+
+Todd Allen:                   Well, certainly. It's not the fact that you have uranium, it's whether you have the ability to enrich it or produce weapons usable material. There's two ways to do that. One is enriching, which we've talked about. The other is there is a way to put nuclear fuel into a reactor and transform it into plutonium, then chemically separate that out and create a weapon. So there's two pathways, enrichment and chemical separations of fuel. So you try to make sure that countries don't use that. Our agreements over the years have been to try to say we'll let you have nuclear technology, but we don't want you doing either of those two things.
+
+Todd Allen:                   The Iranians, if I recall right, sort of developed it indigenously or with some help from Pakistan and once they had the centrifuges, right? Now they're in the position to enrich their own fuel.
+
+Jason Jacobs:                Should we be more concerned about the state actors or the non-state actors?
+
+Todd Allen:                   Well, I think up to now, relative to enriching or making weapons material that way, it's been state actors, because it's a big, complicated technological process. It's not something you pull off in your backyard. With the non-state actors, more of the concern has been people who would do something like a ... Either somehow steal or buy on a black market somehow weapons usable material.
+
+Todd Allen:                   When the Soviet Union fell apart, that was a big concern is that as the country was breaking into little pieces, that the security would be lost and you'd get sort of black market materials out there. That's one concern and the other is just people who want to do a radiological device.
+
+Jason Jacobs:                Like a dirty bomb?
+
+Todd Allen:                   A dirty bomb and you want to, yeah, do it that way rather than a weapon.
+
+Jason Jacobs:                So that was a tangent. It was a great one, but it was a tangent. So you were starting to say that the first thing people started to become concerned with was the risk of the blending of the source of energy and source of weapons?
+
+Todd Allen:                   Yep. So that was one concern, right? I think there's been a long term discussion on do we have a disposable pathway for the used fuel when it comes out of the reactor?
+
+Jason Jacobs:                So waste.
+
+Todd Allen:                   Waste, yep.
+
+Jason Jacobs:                Which is a word, apparently, that is debatable about whether it's actually waste, right?
+
+Todd Allen:                   Right. So there's actually and there's multiple classifications of waste also. So the fuel, right, is one classification and in the US our pathway for many years was a place called Yucca Mountain. It's in Nevada. The Department of Energy spent many tens of millions of dollars, hundreds of millions of dollars studying this. It's never opened. As they were studying it and submitting the case to the regulators, this thing has to be approved by the Nuclear Regulatory Commission, independent regulator, because the US government decided that they were going to be responsible for spent fuel, so industry is not responsible for it's own waste.
+
+Todd Allen:                   The government said they would take it on. The Department of Energy became essentially the customer who is trying to get this repository approved.
+
+Jason Jacobs:                Why did they say that, do you think? The government?
+
+Todd Allen:                   Well, so you go back to the early days of nuclear power and people were convinced that uranium, right, the starting point for all this, was a very rare, hard to find mineral and that there was no way you were going to be able to do commercial nuclear power if you didn't recycle. When you build a fuel pin for a reactor, it's just uranium dioxide pellets inside a metal tube. You run it through the reactor in two year cycles. Each fuel rod is in there for about six years. At the end of that time when you pull it out, you still have approximately 97.5% of the energy left in the rod. You're not pulling it out because you've used all the fuel, it's because the fuel gets contaminated with things that make it less useful and the tube that it's held in starts to degrade.
+
+Todd Allen:                   So in the early days, people though, well, uranium is scarce. We'll have to take these fuel rods, recycle them, and then blend them into new fuel rods and then go forward. We had a lot of programs in the US that were looking at recycling, commercial sized demonstrations starting up. But then around late 1970s, soon after this Indian atomic weapon explosion that I mentioned, we had at this point figured out that there's a lot of uranium out there, right? Mining companies and stuff had gone out, they'd found it. So scarceness of fuel resources is not an issue.
+
+Todd Allen:                   People were worried that as part of recycling that people would alter the chemical process to pull out weapons usable material and therefore create a weapons program or possibility for weapons program only because of recycling. So at that point, the government said, "Well, we don't want commercial recycling, because we're worried. We want to set an example for other countries that you don't tie anything that might lead to weapons to a commercial process. Uranium is not scarce, so we the government will now take on the responsibility to get rid of the waste." And they did.
+
+Todd Allen:                   Then from that point on, they're now trying to license this underground repository. Every step they made or as far as they had gotten, the regulator had said so far that it looks like you are making the technical case for using this mountain to dispose of the fuel. They never got to the end. There were still questions that they had to answer, but they were making progress. The state of Nevada always hated, felt that the decision to use their mountain had been forced on them. That at the time it was made, they didn't have a strong delegation in the federal government and so when they got to the beginning of the Obama administration, at this point Harry Reid is very powerful, senator from Nevada, and he and the administration worked together and they said we are not going to pursue that pathway anymore.
+
+Todd Allen:                   They stopped giving the Department of Energy any money to study this, so now you've got no one pursuing a repository in the US and the regulator itself, they're a safety regulator, so they can't do anything with this. They have to wait for somebody to come to them with a product.
+
+Jason Jacobs:                So where had the waste been going all the time before that?
+
+Todd Allen:                   So it sits at every one of the plants.
+
+Jason Jacobs:                So it's just been in casks?
+
+Todd Allen:                   Right, so what you do is when you take it out of the reactor, it sits in big water pools for awhile until it cools down enough and then you put it into a big concrete and steel cask that sits on a pad outside of the reactor. That's where it sits in the US.
+
+Jason Jacobs:                Now, when we were doing that in the US before Yucca Mountain, what was the thought in terms of the long term solution before the Yucca Mountain discussions started?
+
+Todd Allen:                   Well, the thought in the beginning was that you would recycle, although I should say even when you recycle, you do still have a nuclear waste stream that would have needed an underground repository like Yucca Mountain. So we are going to need one no matter what, it's just a question of how much. If you recycle, it takes a lot longer to fill up the repository than if you don't. So there was always the thought that the fuel would come out of the reactor, cool down in these pools and then in the beginning get recycled, but once we even stopped planning to do that, it was it would go to Yucca Mountain once it opened. Originally people thought it would open in the '80s and it kept getting delayed.
+
+Jason Jacobs:                Wow, so this played out over like decades.
+
+Todd Allen:                   Decades, yeah, it's a decade long discussion, right. It's not impossible to site a repository. If you go over to Finland, Finland has a nuclear power program and they have a repository or they're building a repository, but they have approved it and they know the pathway. I think in the US it is as much a political process problem as a technology one, right? So you look now, Finland solved it. That's one end of the spectrum. The Canadians were sort of following the US model and not having much success at getting a repository located and they backed off and said let's change the approach. Let's go for what they call a consent based process. Let's go out and ask communities is there anyone that would be willing to be the host for this thing?
+
+Todd Allen:                   I mean, you get financial reimbursement and there are benefits and the community has to decide whatever risk of hosting a repository, is it worth us being the host? Interestingly, in that process, the Canadians still have communities that are in the discussion and they appear to be on a pathway to opening a repository.
+
+Todd Allen:                   One of the things the Obama administration did when they stopped funding the Yucca Mountain studies is they commissioned something called the Blue Ribbon Commission and one of their recommendations was try a consent based approach, but we are still sort of stuck in the US. We have certain members of Congress that feel, "Look, we've spent, whatever, $30 billion on this thing. We need to finish that site." And don't want to have a conversation about anything else. You have others that feel, "Well, why don't we try this consent based process?" You've got communities in New Mexico and Texas right now who have raised their hands essentially and said we'll be an interim storage site. It's not underground, but we'll take all this stuff from the 100 sites.
+
+Jason Jacobs:                What's motivating them to do that?
+
+Todd Allen:                   I think it's financial. Right? We were talking about repositories and everything with Yucca Mountain, it's the repository for the used fuel. Right? There is other kinds of nuclear related waste. Defense waste, right? And this is like gloves, clothing that you'd wear, wrenches. We have a repository in New Mexico that's been taking this stuff for years, so it's not impossible to open a repository, we've just never done one for the fuel.
+
+Jason Jacobs:                So waste is essentially now, at least in the US, an unsolved problem?
+
+Todd Allen:                   That's what I was saying, there's different classifications of waste. The fuel is an unsolved problem. Defensed waste, lower levels of radioactivity, those types of waste we do have places where we're sending the waste and those lower levels include things like the radioactive waste that comes out of hospitals, for instance. So it's just the spent fuel.
+
+Jason Jacobs:                And the spent fuel, what's the situation there with the water and the cask? How long do we have?
+
+Todd Allen:                   So the casks are licensed for I think it's about 80 or 100 year periods. I don't remember. So it's multiple decades and if you have to, you could go back and ask the regulator to re-evaluate the technical stability of your cask and they might let you extend the life or you might have to take it out of the cask and put it in a new one. You could do this. The cask is perfectly safe, it's just not a very great longterm solution.
+
+Jason Jacobs:                Why not?
+
+Todd Allen:                   Well, because you, A, the communities, for instance, that have no reactor have just this fuel just sitting there and they're getting no economic value. They can't use the land. They'd like it gone and they were promised that it'd be gone. I think that's one.
+
+Jason Jacobs:                It doesn't use much land though, right?
+
+Todd Allen:                   It doesn't use much land at all. Yeah, as a simple, mental metric, if you took all of the spent fuel from all of the 100 plants for the 40-ish years that we've been running them and you stacked it all in one place, which we wouldn't do, but if you did, it would fit in a football field. Which if you think of that compared to watching rail cars of coal go down the tracks, it's a very, very small volume, right? It's actually the beauty and the difficulty with nuclear power, right? You get ... If you compare one nuclear fission, the energy you get from fission, to burning of one coal atom, what you do in a fossil plant, nuclear, you're getting millions of times more energy from that single reaction. The nice thing about that is you need way less fuel to get the same amount of power. So the total amount of mining, the total amount of waste associated with it, volume, is very small. But it is highly radioactive and it will be for years.
+
+Todd Allen:                   You need to find out engineered ways to control that and make sure that the radioactivity does not spread where you don't want it to be.
+
+Jason Jacobs:                So if political will were no issue and you were just looking at the optimal solution and you could get whatever solution, you know, you could wave a magic wand and get whatever solution implemented that you wanted, what is the right solution with those idyllic circumstances for waste?
+
+Todd Allen:                   Well, I'll use the finished one as an example, right? One of the things when you're putting waste into an underground repository is you need to answer some questions. Does water flow through that part of the mountain? You would prefer not to have water coming through, because then you have the potential for rust. Right? So there's a big geology question. The waste that I mentioned, we have a repository in New Mexico that takes care of defense waste, it essentially is a salt cavern and salt has this property that it creeps, slowly deforms. So you put waste in there and over time, the salt slowly compresses around and surrounds the waste. It doesn't allow water to come through. It's very stable.
+
+Todd Allen:                   That's sort of the approach in Finland. They've got the right geography. They've got the right canister things and so it's possible for them to have designed a repository that makes sense and they've got a ... The Finnish seem to be very good at having these community-wide discussions. It's a smaller country where they sort of get together and make decisions and figure out a pathway to do this.
+
+Jason Jacobs:                Given the political landscape, what's the right solution?
+
+Todd Allen:                   I firmly believe you have to go consent based. You have to go out and figure out a community that wants to be the host of this, that finds value in it. That's the only approach that I've seen that works. It worked in Finland, seems to be working in Canada, seems to be working in Sweden.
+
+Jason Jacobs:                For the community that wants value, would that be in casks or what would that be in? How would that be implemented?
+
+Todd Allen:                   Yeah. Well, the idea is it would show up in a cask that you've designed that makes sense for the conditions underground and then it would be placed there and they would be reimbursed somehow. The government owns this problem, so they would pay the community to be the hosts to continually monitor it over time. So long term it's helping with ... I don't know that I've seen the details in Canada and exactly what they're talking about, but the assumption is that there's something that helps your tax base, that helps your schools, but I don't want to pretend I know all those details.
+
+Jason Jacobs:                Mm-hmm (affirmative). If that program were rolled out, would you advocate that your town be part of it?
+
+Todd Allen:                   If I was in a place that had the right geology for it, yeah, sure. As an example, the casks that we're talking about, you and I could walk right up to them. We do know how to shield radiation, fuel that's a solid. It's not green, flowing goo. We know where it is. We can keep track of it. It's just you're talking about a thousand year-ish problem and it's easier to conceptualize finding an underground scenario that's very stable geologically compared to those time frames and putting it there rather than having to keep paying attention to it above the ground the way we're doing it right now.
+
+Jason Jacobs:                Okay, so nuclear was the belle at the ball and then people started getting concerned about the potential for it to get into the wrong hands and be weaponized and then people started getting concerned about, well, what are we going to do with the waste and this Yucca Mountain played out in this torturous, frustrating debilitating decades long thing that's still not resolved. What else?
+
+Todd Allen:                   I think beyond that, the energy demand in the US leveled off. We weren't even in a position where we need to build a lot of new plants. I think in recent years, us figuring out how to frack has made natural gas extraction and therefore production of electricity with natural gas really cheap.
+
+Jason Jacobs:                Got it. So it's not necessarily that nuclear became less attractive, it's just that natural gas got a lot more attractive?
+
+Todd Allen:                   Yeah.
+
+Jason Jacobs:                Which then made nuclear look less attractive relative to natural gas?
+
+Todd Allen:                   Correct.
+
+Jason Jacobs:                Strictly from a cost standpoint.
+
+Todd Allen:                   Right, yep.
+
+Jason Jacobs:                Yeah.
+
+Todd Allen:                   And then in renewable space ... So when I'm young, the story is wind and solar will never be cost effective. The sort of common thought was, "Well, that'll never work. That'll never happen." Right? But over the course of the Obama administration, they did some things that I think were really smart, right? They've continued to do research to sort of build a better product. They also pushed things like renewable portfolio standards where you said we're going to buy a minimum amount of we're going to insist that a minimum amount of these new products get purchased.
+
+Todd Allen:                   I think that encourages commercial competition, drives costs down. So in the last 10 years or so, the cost of solar panels, right, the cost of wind, really dropped a lot. So you've got cheap natural gas. You've got renewables that are cost competitive. In some cases, with subsidies, in some cases without. It's totally changed the electricity markets. So and the other thing is for years in a regulated utility, you could build a big nuclear plant and you've agreed ahead of time with the Public Service Commission that you're going to get X rate or return on your investment. Right? So you knew. You're not going to get a huge return, but you're going to get steady returns and therefore building a big nuclear plant made sense.
+
+Todd Allen:                   In that environment, you can take five years, 10 years to build your plant, because you're going to make money over 80. We started deregulating markets in the US starting around the 1990s. In some places, the competitive pressures were very different. So I mean, all these things I think have effected the economics of nuclear and we've actually started to lose a few of the first generation plants. So we had 104, I think we're about 98-ish now or so. Depending on where they are and how the local market determines how you make money, some of those plants have been threatened. Some of them have shut down.
+
+Jason Jacobs:                Was deregulation a mistake?
+
+Todd Allen:                   I don't think so. I think that the ... In some ways, it has definitely driven prices down. We never really actually fully deregulated, right? I mean, that's part of the problem, right? We still have lots of preferential treatment for things. You see that all the time, but in general we've dropped prices in a lot of places. That's good for the consumer. But it has made cost sort of the sole metric and I think that's why the climate change discussion is important, is sort of help bring nuclear back into it because people are saying if cost is the only issue, we can just go 100% natural gas, but then is that good for the climate? Is it good for resilience of the system? What if you were to get rid of all your coal plants, all your nuclear plants and you're just running on gas and then gas gets expensive for some reason, right? Fracking gets hard or we decide we want to make fracking harder because we discover something about it that we don't like.
+
+Todd Allen:                   I worry about any system where you think that a single energy-producing technology is going to be sufficient on it's own, because I don't think any of them is perfect.
+
+Jason Jacobs:                So when nuclear was the belle at the ball, way back when, were people concerned about safety at that time?
+
+Todd Allen:                   I think in the early days, they didn't know much about it. I think as time went on, you have an event like Three Mile Island, you have an event like Chernobyl, people get more concerned about safety of the plants. We actually ... I mean, if you look in the US, we've had one major accident in all that time. Three Mile Island. They destroyed a plant and there wasn't much radiological consequences outside of it. I think people naturally worry much more about a low frequency potentially high effect event like a nuclear accident even though you talk to risk specialists and they'll say if you calculate the risks, nuclear plants are very, very safe.
+
+Todd Allen:                   I think they still make people nervous even though when you look at the numbers and you're more likely to die by getting in your car and driving to work.
+
+Jason Jacobs:                Mm-hmm (affirmative), because although it might happen incredibly infrequently, especially relative to other kinds of safety things, if it ever happens it's really horrific.
+
+Todd Allen:                   Yeah or it could be, right? I mean, if you look at Chernobyl, if you happened to watch Chernobyl?
+
+Jason Jacobs:                I'm three episodes in.
+
+Todd Allen:                   Three episodes in? Okay, but you get the point, right? In this case the combination of the reactor design and the way they operated it and the way they responded to the emergency were horrible. We've never really done something like that in the US, but that's the kind of thing people worry about.
+
+Jason Jacobs:                But the sense I'm getting from you is that that worry statistically is overblown?
+
+Todd Allen:                   Yeah. I think that's true. I've seen tons of calculations that say nuclear plants are actually safe. And for somebody who grew up in it too and understands the technology, right? My first job, I was in a nuclear submarine. Right? So sort of learned it as a first job and so I'm pretty comfortable with the technology.
+
+Jason Jacobs:                I haven't had a chance to talk to him to get specifics, but I said basically what you just said to a friend of mine who is not in nuclear, but does work elsewhere in the climate fight and he said, "Well, you wouldn't feel that way if you grew up in southern California around-" I don't know the details. There was like a plant there and so the nimbyism and I mean, nimbyism in itself was a loaded term because it sounds derogatory, right? But the people that feel that way, I mean, is there something that either is specific to nuclear or that's specific to southern California that I don't know about that is valid or where does that come from?
+
+Todd Allen:                   Yeah. I think there's a certain amount of local culture to it. So some of the people that like nuclear plants the best are the ones that live next to them and operate them.
+
+Jason Jacobs:                In the US?
+
+Todd Allen:                   In the US, yeah. So if you go visit these communities, most of the nuclear plants we've placed are more out in the country rather than next to a city, but I think it's very cultural and I'll use the example of Finland and Germany. Right? They're right next to each other. The Fins are very comfortable with nuclear power. They use it routinely and the Germans have decided to get rid of every single plant. So I don't think that there's this natural, "If I live near it, I'm nervous about it," because some of the biggest advocates are the ones that live near these plants.
+
+Todd Allen:                   Now, it's where they work. They know it. It's where their family and friends work. So I think it's not ... There's not this ... I don't think there's a single distance from the plant argument that says if you're close to it, you're more nervous than not. I think there's other local factors that drive it and my guess is in California more of the discussions are around, "Well, we could just use solar and wind and things like this," right? And that's when you get comfortable with that discussion, but I think it's more community history and culture.
+
+Jason Jacobs:                And it seems like in some parts of the world, there's actually been meaningful progress on nuclear from a cost standpoint in terms of deploying multiple plants and the economics getting more favorable as more plants get built and things like that whereas in the US, seems like things have gone the opposite way. Is that true? And if so, why?
+
+Todd Allen:                   It's true recently. So like anything, if you build the same thing over and over again, you get better at it. So for instance, when I mentioned that the Koreans won the contract to build the four plants in the United Arab Emirates, if you look at the Korean history the cost per plant has dropped. In the US, if you look in the early days, we did a lot of one off plants. Each utility would say, "Oh, here's what I want." And they'd get a custom-built nuclear plant from Westinghouse, from combustion engineering, whoever it was. So we, unlike the French who limited their designs and built a whole bunch of plants repetitively over time and they drove their cost curve down. So Jessica Levering from the Breakthrough Institute did a really nice paper a couple years ago that basically showed in those cases where you were building one-offs, you weren't learning from the experience of building, you never got the construction costs under control and the plants we're building in Georgia right now, the Volvo plants, first ones we've tried to build in decades and we're doing horribly at it, right?
+
+Todd Allen:                   We clearly have lost the ability to do it quickly, but I look at other countries that have had continuous build processes and they've been able to bring the costs down. Right? Chinese are figuring out how to do it right now and they're the ones that are building the most plants in the world.
+
+Jason Jacobs:                Do you think it's a requirement that if we want nuclear to be a meaningful contributor to our energy composition in the US, that we bring the cost down significantly?
+
+Todd Allen:                   Well, I do think we need to, just to be competitive. Now, where that bar is depends on things like will we start to put a cost on carbon?
+
+Jason Jacobs:                Do we need one for nuclear to be competitive?
+
+Todd Allen:                   I think it depends on the local market and the way you do it, but it certainly seems right now ... The reason I hedge a little bit is because we've got all these entrepreneurs all thinking they've got a new type of nuclear product they're going to build, but they're going to have to be cost competitive with gas, right, right now and right now we're not putting a cost on carbon, which makes gas really cheap. So I do think that the entire nuclear community does need to be working on bringing the costs down. Whether that's different designs, whether that's better construction processes. I'm not convinced we're going to build ... That we need to or will build a ton of gigawatt size plants like we did in the '70s. We just don't have the demand curve for it.
+
+Todd Allen:                   If you're going to build a bunch, it's maybe a different product that's either aimed at high temperature heat, it's smaller electricity generation, but ones that you can build multiple units of. But certainly bringing the costs down are going to be important, but as I said, where the bar is depends on how far you can bring down the cost of renewables and what we do with carbon prices and does gas stay cheap forever? But it certainly looks right now it's going to be cheap for a long time.
+
+Jason Jacobs:                If the phone rang and it was the President of the United States, except one that actually cared about the planet and believed in science, and he or she said, "Hey Todd, we've got a job for you. We've looked at the math every which way and we don't see any scenario where we're not going to need nuclear to be a meaningful contributor," like, "We don't think it can run the table. Nothing can run the table, but it's all hands on deck and we're going to need it so your job is to do what it takes to right the ship and get nuclear deployed at scale in America and you've got three skeleton keys that can change anything in the system to make that happen most effectively. What would you do?
+
+Todd Allen:                   So this is the President, I'm going to assume that you're asking me for what I would do as a federal response, okay? That's a good question. The first thing I would do is I would re-balance the way the federal government spends money on nuclear technology. I read this thing that was eye opening for me a few years back. It was a 65-year history of where the federal government spends money in all sorts of energy technologies and what is fascinating from nuclear compared to the others is the nuclear bin was almost all R&D. Right? Every other bin, it was a combination of R&D and then things that would incentivize commercial competition. It's tax credits. It's portfolio standards. It's things where you're saying we are going to buy electricity using this system, and nuclear never did that.
+
+Todd Allen:                   If you look at the history of nuclear, the original plants came out of designs that the Navy created. We sort of transitioned those to commercial and then there's this long period where we did lots of R&D led by the Department of Energy National Lab system. Great researchers, but they're not business people, right? We never really created a new commercial product. So the first thing I'd do is I'd look at the way we spend money in the federal government and say it's not going to be all R&D. The second thing I'd do, as I'd look at all the things we did to bring the cost of wind and solar down and I would try to replicate a nuclear version. Right?
+
+Todd Allen:                   So I would say, "We're going to buy nuclear to use in federal facilities." Right? Places where the government is already spending money on electricity. But I'm not going to pick. I'm not going to say, "Here is the government chosen design." I'm going to take advantage of the fact that starting five-ish years ago, we've suddenly got now 75 or so privately funded entrepreneurial nuclear companies all have got their own design. Let them compete. Let them compete for these fixed purchases, right, that the government says it's going to do. Try to drive the prices down just like we did with wind and solar. Since I'm somebody that thinks we do need to control carbon, I'd push to get a carbon tax or a combination of carbon tax and clean energy portfolio standards or things that push us towards less use of fossil fuels unless you can figure out how to do carbon capture economically.
+
+Jason Jacobs:                I was going to ask you about that, because I've talked to some guests that have come on and they've said that, "Hey, natural gas in itself, it emits, yeah, but with carbon capture, not only can it be an effective bridge, but it could be an effective long term solution."
+
+Todd Allen:                   It could, right? It could. But the problem is, like a lot of things, it's how do you economically capture all that carbon? Because we burn a lot of fossil fuels, right? This is why I'm a ... I think you used the term all hands on deck. I just think it's going to be a combination of things, because I can mentally project for energy, any energetic technology, why it's impossible to do. Right?
+
+Jason Jacobs:                Is this your pep talk?
+
+Todd Allen:                   Yeah, it kind of is, right?
+
+Jason Jacobs:                It's a pretty depressing pep talk.
+
+Todd Allen:                   And, you know, maybe I'm just a pragmatic, Midwestern engineer, but it's like people will say, "Nuclear, it's impossible for X, X, X reasons," right? But they all are. If you really look at the numbers involved in driving carbon down to the extent that we want, and you mentioned Bret Kugelmass at the beginning and he points out very readily you kind of want to get the stuff that you already put up there out too, without adding new carbon to it, right? There's this huge challenge. And I'd look at anything, so I've seen calculations that Jesse Jenkins, he's up at Harvard switching to Princeton, he's got a new faculty position, these calculations that show with intermittent resources like wind and solar, at a certain point, because they're variable, you try to exceed X percent and the cost starts going up, right? Because you're paying for a lot of unused capacity.
+
+Todd Allen:                   You look at that and you say, "Well, that or maybe it's just the amount of transmission lines you're going to have to build to do 100% wind and solar," and you're like, "How could I ever do that?" Right? Same thing. You'd say, "How could you possibly build nuclear? No one will ever do that. There's a waste problem. People are worried about these plants." And you just project every one of them to the endpoint and it makes it impossible, but if we're going to have a serious conversation about climate and clean energy, then you have to figure out how to sort of use the best of each. So that's why I'm fairly convinced that there will be some nuclear future.
+
+Todd Allen:                   Now, what it looks like, I think, depends on how these entrepreneurial nuclear companies do, because I'm a big fan of letting them compete sort of in commercial space, which is very different from what we've done in the past, which was the government picking something and saying, "This is what we're going to do." Partly because the government changes it's mind with each election and then we stop doing that thing and we never actually make any progress, and second because I'm a researcher. I'm not good at figuring out how to drive a commercial product, right? I don't know how to do.
+
+Jason Jacobs:                What are your thoughts on what we should do with the existing light water fleet?
+
+Todd Allen:                   So run them as long as you can. There is a process with the regulator where you can go in and you can make the argument that the material condition of the plant is fine. There's no safety issues associated with it or that component could be a problem, but I know that and I'm going to replace it, so it'll be brand new. As long as you can do that economically, you can keep running the plant. There's only a couple components in a plant that are so big that they're not replaceable. So they're already in existence. They're already just short of the 60% of the clean electricity we use right now, so I'd say keep them going as long as you can.
+
+Jason Jacobs:                And you said as long as you can do them economically. What if you can't do them economically?
+
+Todd Allen:                   Well, then we're going to get into this whole debate about how much zero carbon are we going to shut down? Right? I mean, and there's good examples of doing it right and doing it wrong. Right? I don't know if you've ever found it, there's an online map that'll show you the CO2 emissions for every country in Europe real time and then they've extended the map to North America also. You look at that map and green means low carbon and the carbon heroes are France, Sweden and Norway.
+
+Todd Allen:                   Why? It's a combination of nuclear and hydro. Germany, which everyone thinks is a carbon hero, because they've done sort of dramatic things to put as much wind and solar on the grid as they can, but at the same time, they decided to shut down their nuclear plants and they don't show up as green. They flat lined their carbon and they're actually using more coal than they did before. The metric has to be carbon, not how much nuclear or how much wind or how much solar. So I actually just forgot why I got off on that speech.
+
+Jason Jacobs:                Oh, yeah, you got ... We'll see if I remember. I asked you what shall we do with the light water plants that are not economical?
+
+Todd Allen:                   Yeah and I think that we've already lost a few and I think people are recognizing that and you see states like New Jersey, Illinois that are saying for purposes of clean energy, in the same way that we had portfolio standards and other things for renewables, we're going to take specific policy-based approaches to keep them running.
+
+Jason Jacobs:                Where does advanced nuclear fit into all of this?
+
+Todd Allen:                   I think we're at this inflection point, right? Where you try to keep the existing light water [inaudible 00:45:38] running as long as you possible can. With advanced, there are so many possibilities, all right? Because some of these plants are still thinking big electricity. Some of them are thinking big electricity, but in a different way. So new scale says instead of me selling you one big plant that's going to take me five to 10 years to build, I'm going to sell you almost the same amount of electricity, but I'm going to bid it into smaller modules. All right? So the business case there is you build the first module, now you start selling electricity and making some money while you're building the incremental ones. You can add them as you need them, whereas with the other plant, you're going to have to wait until it's online before you start selling anything, right? So if interest rates change or construction gets delayed, you're paying the bank back, but you're not making any money.
+
+Todd Allen:                   So there's a business model that [New Scale 00:46:25] has tried to create. That's different. And there's other possible advantages to it, right? Their plant, they say, "Well, if you're trying to load follow, you're not now necessarily taking one giant plant up and down, but you could maybe divide it in your modules." They don't have to shut down the entire plant to refuel, because they can refuel by module. Now, whether New Scale ... I mean, I use that as an example, because they put a lot of thought into this. Whether they're the winner, I don't know.
+
+Todd Allen:                   There are other companies that are just saying, "I think the right thing is something that's about one five-hundredth the size of a commercial plant." The small ones matter. They'll be easier to deploy, because people won't be as intimidated by them. They will make sense for a defense base that just wants to secure power in case they lose the grid. They make sense in northern communities. They may make sense in northern communities that have no grid, have no pipeline, truck in diesel before winter hits and don't want diesel.
+
+Todd Allen:                   You've got all these different ideas out there, all sort of competing. Now, which one wins? I don't know. It's the one that sort of comes up with the best business case and figures out where the customers are and who they can sell them to. That's why I have some hope for Advanced Nuclear, because it's not a single thing. It's driven by, hopefully, if we don't interfere with it, it's driven by allowing commercial competition to happen, right? To let some of the best ideas rise up.
+
+Jason Jacobs:                And in terms of driving costs out of what we've got and making it more small and modular versus science risk when it comes to molten salt or things like that, is it one or the other? Is it both?
+
+Todd Allen:                   Yeah. I think anything that drives the cost down works. Right? Here's another example where I think the companies are being smart in a commercial sense. So if you had gone back and talked to somebody in the National Labs about molten salt reactors, they would say they're very research-y, very hard to deploy, because in most reactors you hold everything in a metallic component and when they touch the coolant, they oxidize. Right? You get a little bit of corrosion on the surface, but if your corrosion is stable and non-penetrable, then you get that little bit and it protects the metal and you're fine. That's not what happens in salt.
+
+Todd Allen:                   Salt, the chemistry is that you cannot form an oxide. The fluorine that the salt is primarily composed of, it will actually cause elements of the metal to want to dissolve into it. So people have said, "Well, it's a 60-year corrosion problem." Right? That's super hard. But some of the companies out there are like, "Let's not think of it as a 60-year corrosion problem. Let's try to design modules and we'll only run them for seven to 10 years." Right? So instead of trying to solve what seems to be an unmanageable problem, from a research standpoint. This is the difference between like researchers trying to figure this out and business people trying to figure it out.
+
+Todd Allen:                   The researchers say, "Okay, I need money to research to figure out how to control corrosion for 60 years in fluorine conditions." Business people say, "I'm going to figure out how to try to do this economically where I don't worry about that." Right? "I'm just going to build modules that I take out of commission. Maybe I refurbish them. I don't know where they're going to end up." But it's a different approach and a lot of it is not just technology, but it's technology and business models. I don't think that the nuclear community was doing that before.
+
+Jason Jacobs:                How big a role do you think culture plays if you think about the culture of the nuclear industry today? Is it healthy? Is it where it needs to be? If so, what makes you think that way? If not, where is it missing the mark?
+
+Todd Allen:                   I think the culture of the industry itself is good. I mean, we have learned how to run nuclear plants. We're very disciplined about it. As example, I forget who I was talking to, but I read a book. It's a great author, by the way, his name is Atul Gawande. He's a surgeon. He wrote this book called The Checklist Manifesto. He was basically saying, "Look, we make mistakes as surgeons. We leave gauze in people, we forget to do steps because we're relying just on people's memory and their smartness," and he was making the argument they really need checklists. Be disciplined, right? You count in and you count out every single piece of gauze. These kind of things.
+
+Todd Allen:                   Well, his inspiration was the nuclear community, because that's what nukes have learned to do, because you're trying to operate big, complex machines and you want to do them in a disciplined way. I can't remember where it happened in Chernobyl, but I think by episode three those guys were running a test on a piece of marked up paper. They weren't sure which steps were valid, which weren't. That's not the way the nuclear industry works in the West.
+
+Todd Allen:                   I think we're very disciplined. I think we've gotten very good at running the plants. We have like 90+% availability. We don't shut them down because we've got a problem with the plant. You go back 20, 30 years and we were operating them two-thirds of the time. We've extended the life of fuel and so we run the plants really well and we run them in a disciplined way. I think that's a positive with the nuclear community. I think some of the things that the nuclear community does wrong is I don't think they tout their product very well, as an example. It's weird, because I ... It never occurred me, as a nuclear technologist, that we were doing this until somebody from the outside pointed it out to me.
+
+Todd Allen:                   But like nukes got convinced that the things that people worried about and the reason they might not want to buy nuclear were safety, waste, and so every time they would talk about a new nuclear product they would say, "Well, look, we've made it safer," or maybe less waste, but they drove the cost up and by constantly talking about it, it just made people more nervous. It was like, "Why are you guys talking about it all the time?" So now my sort of way to try to get my colleagues to think about this is like imagine that we are set up on a blind date, all right? The way it's going to work is we can talk to each other on the phone once a night, but the date is one week away. Okay?
+
+Todd Allen:                   So each night, I call you on the phone and I say, at the end of the call, "And I just want to assure you that the acne has cleared up." Right? Like by the time we meet each other, what are you imagining? You're going to imagine [inaudible 00:52:41] the worst acne. But we did that, right? And no other industry does that. Boeing certainly thinks about, or Airbus, they think about safety and how to make the plane run, but you never hear a Boeing advertisement that says Boeing 737, buy it because we're 10% less likely to crash than the old version, right? But we got in the habit of doing that and so I think part of the thing that the community has to learn is lead with your advantages. Be ready to talk about safety. Be ready to talk about how disciplined you run the plants.
+
+Todd Allen:                   But why would somebody want to buy these? It's clean electricity. It's jobs in your community, right? I think that's the things we don't do, but I think this is becoming more visible to the nuclear community that if you're going to expect people to buy your product, you have to talk about the advantages of the products and not just how you're fixing the things that they worry about.
+
+Jason Jacobs:                Yeah, I mean, the two things that I've heard a bunch as I've just kind of made the rounds, I mean, I've heard a number of other things, but many of them we've already covered. But I mean, I hear things like it'll never be cost competitive with renewables and I hear that rationally there's a case, but the public has spoken. Like people don't want it. There's too much headwind, it'll never happen.
+
+Todd Allen:                   Yeah. So I would say if I go back 20 years, everyone would say renewables, they'll never, ever be cost competitive with the stuff that we were using then. With coal, with gas, with nuclear and it was wrong. We figured out ways to drive the cost down and the technology and I think we've never gone through that same exercise with nuclear. Right? It grew up in a time when it was publicly regulated utilities. You could get permission to build this plant. You knew you were going to make money back on it. You never had to compete. But as we de-regulated with those existing light water reactors, they've gotten much, much better at running those plants, right? So there is a way to bring the cost down. We've proved it. We haven't proved it with new construction.
+
+Todd Allen:                   I don't buy the argument that nuclear could never be cost competitive. It just makes no sense to me. I'm not even sure on the public, right? Because I know communities that host nuclear and they're fine with it. They're quite comfortable with it. The other thing I've noticed is that as you're starting to have this conversation around advanced nuclear, people are willing to get into a conversation, because they think it might be different in some way. They might not know why, but they're willing to think that-
+
+Jason Jacobs:                It's like new Coke.
+
+Todd Allen:                   Yeah. Yeah. That's a bad example. That's a bad example. I still remember when that came out. I should have saved some, because it became a collector's item so fast.
+
+Jason Jacobs:                So for anyone out there that's listening, I mean, they might be a nuclear insider or some other area of climate or something totally different, but after hearing this, they're intrigued and want to see nuclear get it's fair shake. What should they do? How can they help?
+
+Todd Allen:                   Yeah, so I think a few things. I think the bigger argument is not nuclear or not nuclear. The bigger argument is climate and so I would hope folks would, in a way that you have sort of dug in, is to go out and figure out what that means and how hard it is to actually do something about it and sort of learn to count how we make carbon and how we can avoid carbon. I think that's as big as anything.
+
+Todd Allen:                   I think if you do that, you'll come into the conversation about nuclear at least a little more believing that you need to consider it. So I think that's one. I think if you don't know much about nuclear technology, I would recommend you not start by talking to a nuclear engineer, all right? Because they will bog you down in so many details right away that you'll be lost. But I do think that you're here visiting Third Way today. Third Way has put out a lot of things to try to simplify the narrative around it. Start somewhere there, the people that are trying to get at it from a very non-technologist level.
+
+Todd Allen:                   Then I think in the US, at least, many things are not controlled at the federal level right now. A lot of energy decisions are at the state or regional level and so you can get involved. I think ... It's interesting, I know a guy from TVA and I was at a meeting and he was sort of talking and he said one of the reasons why we end up deploying a lot of renewables in TVA is because our customers come and demand it. Right? They don't come and say, "Dear TVA, please give us X gigawatts." They say, "Give us X gigawatts of solar." That's what we want or X gigawatts of wind.
+
+Todd Allen:                   Another thing is I think there are not people demanding from the utilities a certain component of nuclear. That might take awhile to happen, but if people were really interested, you could. They will respond to what customers want.
+
+Jason Jacobs:                This is a random thought, but I talked to someone this morning who is a recently graduated PhD who's part of ... I'm going to get the acronym wrong, but I think it's like AAAS or something. It's a fellowship program where they deploy the ... It's almost like a substitute for a post-doc where they take these PhD's and put them like in congressional offices or in NGOs or in places where they can essentially be a translator between the science. Is there anything like that for nuclear or do they participate in that program?
+
+Todd Allen:                   They do. So the American Nuclear Society, a lot of other societies then partner with AAAS, right, to put the fellows in.
+
+Jason Jacobs:                I did get the acronym right, AAAS.
+
+Todd Allen:                   Yeah, you did.
+
+Jason Jacobs:                That's what I said.
+
+Todd Allen:                   Yeah. So the nukes do, but it's one a year. It's not a lot of people and some of those people have been ... Have parlayed that into very successful careers in politics and policy. It's not a ton, but-
+
+Jason Jacobs:                But I mean, it seems like it's really needed, because to your point about communication, I mean, one of the things with the AAS fellows, I'm told, is that communication is a top priority. They're looking for people who can speak well with the outsiders. Right?
+
+Todd Allen:                   Yep, right.
+
+Jason Jacobs:                And so roaming the halls of Congress talking to legislators and translating in ways that they can understand seems like it's really important. To my outsider, uneducated ... You know, from the cheap seats.
+
+Todd Allen:                   Yeah. Well, the other way ... I think you're right, right? So one thing that I noticed, so I was at the University of Wisconsin on the faculty for a little over 10 years. Then I got an opportunity to go back to be the deputy lab director at Idaho. Spent a year here at Third Way. So now I go back to Wisconsin, so there's a four year gap and I notice right away there was a difference in the students.
+
+Todd Allen:                   They used to come in, you'd ask them, "Why do you want to go to grad school? Why do you want a PhD?" And it was always a very technical thing, "I want to be a professor," or, "I want to be a professor," or "I want to go work in a national lab." Come back four years later, they all want to do a technical degree, but almost to a person and they'd say, "But I also want to learn something about entrepreneurship," or, "I want to learn something about public policy." There's a generation that is like demanding that the thing they do matter. I think there's a ... If we're smart about this, we figure out how to get people into these positions like AAAS where they have a technical degree and they want to figure out how to leverage that. It's something bigger than just research or bigger than just the science and technology component of it.
+
+Todd Allen:                   I mean, I think there's a ... And I think they come at it partly from climate change too. It's like they want to address it. I've been in lots of public meetings where you start to get ... Nuclear meetings, you get questions from the audience. Older people, people of my age, they will come in with a very strong point of view. Sometimes anti-nuclear, sometimes not. Young people are much more like, "I care about climate change. No one teaches us much about nuclear in high school, so I don't know much about it, but I really want to learn." So I think there's an intergenerational thing going on here.
+
+Jason Jacobs:                I must be young at heart.
+
+Todd Allen:                   Yeah. You know, it's kind of a weird thing to say, but I think one of my goals in my career is to try, to the extent I can, to have less times when people like me are the public face of nuclear. I think that's actually good for nuclear.
+
+Jason Jacobs:                For a nuclear guy, you're an exceptional communicator.
+
+Todd Allen:                   Thanks.
+
+Jason Jacobs:                To a non-technical audience like me.
+
+Todd Allen:                   Yeah, thanks. Yeah. This is my third podcast in three weeks, so hopefully I'm doing all right.
+
+Jason Jacobs:                So you're all warmed up coming in.
+
+Todd Allen:                   Yeah, yeah, yeah.
+
+Jason Jacobs:                Yeah. So Todd, anything I didn't as you that I should have or any parting words for listeners?
+
+Todd Allen:                   No, I mean, I think it's a good set of questions. A good discussion. Yeah, I think it's ... For folks that don't know about nuclear, but care about climate, I think that's springing them into a conversation. I think that's great. I think the fact that entrepreneurial nuclear is a thing now and it never was, gives me hope where I might not have been as positive about the ability to get new products. Yeah, I think it's getting as many people into this conversation so that you are less and less likely to have governments, whether it's federal, whether it's state and local, that don't want to address this issue.
+
+Todd Allen:                   I think that's the key. The more you bring people into the discussion, it's better. Some things that you see is like nukes that bad mouth solar and wind frustrate the heck out of me, right? Because people like solar and wind and you may ultimately have a limit on how much you can use, but we're going to use it, right? So figure out how to partner, because it's about zero carbon and stop having silly arguments that are unnecessary. Sort of focus on the prize.
+
+Jason Jacobs:                Yeah. From my ... Again, from the cheap seats over here, I agree with you.
+
+Todd Allen:                   Yeah.
+
+Jason Jacobs:                Yeah. Todd Allen, thanks so much for coming on the show.
+
+Todd Allen:                   Yeah. No, thanks for taking the time. Appreciate you coming by.
+
+Jason Jacobs:                Hey everyone. Jason here. Thanks again for joining me on My Climate Journey. If you'd like to learn more about the journey, you can visit us at myclimatejourney.co. Note, that is .co, not .com. Someday we'll get the .com, but right now, .co. You can also find me on Twitter at @JJacobs22 where I would encourage you to share your feedback on the episode or suggestions for future guests you'd like to hear. Before I let you go, if you enjoyed the show, please share an episode with a friend or consider leaving a review on iTunes. The lawyers made me say that. Thank you.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

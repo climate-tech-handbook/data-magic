@@ -1,0 +1,363 @@
+Eric Goff, President at Goff Policy
+Jaden Crawford, Director of Policy at David Energy
+Today's topic is ERCOT (the Electric Reliability Council of Texas), and we have two guests. 
+Eric Goff is President at Goff Policy, an infrastructure consulting firm focusing on ERCOT market energy transition issues. Eric serves as the sole representative for residential consumers in the ERCOT stakeholder process. 
+Jaden Crawford is director of policy at David Energy, a modern energy retailer that operates in multiple markets, including Texas. David Energy is also an MCJ Collective portfolio company. 
+From an electrons perspective, the Texas energy grid is unique because it's relatively isolated from the rest of North America. It's also a deregulated market, which means that energy retail or selling power to end consumers is separate from energy generation or the act of creating power. Therefore, there's a robust B2B market between retailers and generators in addition to a direct-to-consumer retailer market. All of this has created a vibrant entrepreneurial energy ecosystem in Texas.
+Companies in Texas are relatively free to experiment with new models and technologies, and the open market rules the day. But when Texas suffered wide-scale energy outages after Winter Storm Uri in 2021, the governor of Texas, Greg Abbott, declared that ERCOT reform would be an emergency priority for the state legislature. In late January of this year, news about some of the ERCOT reform proposals brought Eric and Jaden to our attention, and we’re so grateful for their time in shedding light on this topic. Enjoy! 
+Get connected: Cody Simms Twitter / LinkedInEric GoffJaden CrawfordMCJ Podcast /Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests. 
+Episode recorded on February 17, 2023.
+In this episode, we cover:
+Eric's background in ERCOT
+Jaden's experience and transition to focusing on energy
+An overview of ERCOT and its members
+How it fits into the broader energy and electricity picture in the U.S.
+How Texas deregulated its energy market
+Deregulation's influence on driving the adoption of renewables, entrepreneurialism, and innovation
+Energy failures during Winter Storm Uri and changes that are being made
+Pricing caps and market dynamics
+An overview of the Performance Credit Mechanism (PCM) and ancillary services
+The role of gentailers
+Does Texas need more energy generation?
+How people living in Texas can get involved
+Jason Jacobs:
+Hello everyone, this is Jason Jacobs.
+Cody Simms:
+And I'm Cody Simms.
+Jason Jacobs:
+And welcome to My Climate Journey. This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms:
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help.
+Jason Jacobs:
+We appreciate you tuning in, sharing this episode, and if you feel like it, leaving us a review to help more people find out about us so they can figure out where they fit in addressing the problem of climate change.
+Cody Simms:
+Today's topic is ERCOT. The Electric Reliability Council of Texas. And today we have two guests. Eric Goff is President at Goff Policy, which is an infrastructure consulting firm with focus on ERCOT market energy transition issues. Eric serves as the sole representative for residential consumers in the ERCOT stakeholder process. And Jaden Crawford is director of policy at David Energy, a modern energy retailer that operates in multiple markets, including Texas. David Energy is also an MCJ Collective portfolio company. The Texas Energy grid is unique because from an electrons perspective, it's fairly isolated from the rest of North America. It's also a deregulated market, which means that energy retail or selling power to end consumers is separate from energy generation or the act of creating power. And therefore there's a robust B2B market between retailers and generators in addition to a direct to consumer retailer market. All of this has created a vibrant entrepreneurial energy ecosystem in Texas.
+Companies in Texas are relatively free to experiment with new models and new technologies and the open market kind of rules the day. But after Texas suffered wide scale energy outages after severe winter storm in 2021, the governor of Texas, Greg Abbott, declared that ERCOT reform would be an emergency priority for the state legislature. In late January of this year, I started to see news show up about some of the ERCOT reform proposals. And I took to Twitter to ask who could help me understand them. Eric and Jaden were recommended by multiple people I know and trust, so I invited them on to help me learn more. Eric, Jaden, welcome to the show.
+Jaden Crawford:
+Thank you
+Eric Goff:
+Thank you.
+Cody Simms:
+So we are going to talk about ERCOT, and I have to be very upfront that I know next to nothing about ERCOT, and so I am going to be learning alongside all of us and I'm super excited to do so. Another little disclaimer I'll give upfront is, even though I live in California and I grew up in Kansas, I was born in San Antonio, Texas. So ribs and ERCOT, I guess are speaking my language, though I don't know what I don't know for sure.
+Eric Goff:
+About ribs or about ERCOT?
+Cody Simms:
+Oh, boy. I know enough about ribs for sure. So I think we'll dive right into the ERCOT ignorance. But Eric, Jaden, great to have you. Since we have two of you on the show, let's each of you introduce yourself briefly. Normally MCJ is all about the climate journey and hearing about your stories, but because we have a meaty topic, we'll probably keep your stories a little bit short today. But Eric, describe what you're working on and how this topic is close to home for you.
+Eric Goff:
+Sure. So I live in Austin, Texas, and I am a consultant on the ERCOT energy market. I've been doing that since 2019, and before that I worked for Citibank, I worked for NRG, I worked for Constellation, helping them with ERCOT issues. And I got a very generous severance in 2019 and was trying to figure out what I wanted to do, and Greta Thunberg said, "How dare you?" To the UN. And I decided I wanted to focus on energy transition issues, so I try to pick my clients in that space.
+Cody Simms:
+Fantastic. And I saw you even previously owned a composting business in Austin. Is that correct?
+Eric Goff:
+Yeah, I used to own a company that was called the Compost Peddlers. Just like a bicycle pedal, because we picked up people's waste bicycles from their homes and then delivered it to community gardens and urban farms to be turned back into food. It didn't make much money, but it was a lot of fun.
+Cody Simms:
+So you've had the climate oriented bug or the environmental oriented bug for a while, it sounds like. Even if it's only recently that you turned your professional focus in that regard.
+Eric Goff:
+Exactly. Exactly.
+Cody Simms:
+Well, thanks for joining us today, and I am super excited to learn from you. How about you, Jaden?
+Jaden Crawford:
+Yeah, thanks. It's great to be here. I started in this weird world of electricity in about 2006. I was working in finance. More specifically as a financial advisor, and I hated every second of it. It was awful for me. For those of you who do it and love it, bless you. But I ended up stumbling into the world of biodiesel and then further stumbling into the world of generation, building and operating some power plants that ran on biodiesel in the Houston area. And at that point, I was just hooked. This is just such a weird space that it worked well for me.
+Started doing consulting and also really working with demand response, figuring out how to get resources into wholesale electricity markets like ERCOT, in really an effort to reduce the need to build more fossil fueled power plants. And I've really been doing that for about 17 years now. Currently with David Energy, director of policy. So I do our policy regulatory affairs and lead our market development efforts.
+Cody Simms:
+And yeah, I think you were at LEAP before that too. Is that right, Jaden?
+Jaden Crawford:
+I was at LEAP before that. Absolutely. Yeah,
+Cody Simms:
+So both David Energy and LEAP actually are MCJ portfolio companies. Though I have to say, going into this conversation, I saw some stuff going on Twitter in late January about changes happening at ERCOT and proposed plans and regulatory updates. And I thought, "I don't know anything about this. I should know about this. Seems like a good topic for MCJ."
+And I threw out on Twitter, "Who should I talk to about ERCOT and the changes that are happening right now?" And your two names both came back to me by multiple people that I know and trust. And so Jaden, love that you work at one of our portfolio companies and that you worked at another portfolio company previously. But you're not on here because of that. You two are both on here because the internet has at large said you're the two to talk to. So I'm excited to learn from both of you and to understand what is going on. So maybe let's start with the highest level of question. Eric, I'll send to you. What is ERCOT?
+Eric Goff:
+Yeah, so ERCOT is what's called an independent system operator that is supposed to manage the electric grid for Texas. And there are other independent system operators around the country and around the world. In Texas we do things for ourselves. We're very independent minded state, and so we have our own grid and also therefore our own ISO. And so ERCOT manages the wholesale market, the retail market, and also reliability of the Texas grid.
+Cody Simms:
+And it stands for, I believe, the Electric Reliability Council of Texas. Just the acronym soup for all of us who love that. And who are members of ERCOT? What does it look like to be part of ERCOT?
+Eric Goff:
+So primarily ERCOT is a stakeholder membership nonprofit corporation that has been granted or delegated authority for the public utility commission to manage the grid and help to write rules. And so its members are the people in the industry. And in order to get anything past the ERCOT, you need two thirds of people to agree to it. And with a mix of buyers and sellers that's designed to force compromise. I'm actually a member of ERCOT. I'm, I think the only individual member of ERCOT because I'm appointed to help residential consumers have a voice at ERCOT.
+Cody Simms:
+Oh, fascinating. And Jaden, how does ERCOT fit into the broader picture of electricity and energy across the United States?
+Jaden Crawford:
+Awkwardly. In the sense that most of the independent system operators and retail transmission organizations, those two are different names for effectively the same thing. The folks who manage the grid run the markets to make sure that things happen on time scales of 20 years down to 200 milliseconds. Most of them are interconnected to other places. So that you have these connections that make the country's grid basically one big thing. The big exception though is ERCOT.
+ERCOT is kind of an electrical island. There are some direct current or DC energized, but for the most part it's not connected to the rest of the system. And that has some very interesting implications. It means that when you have excess generation, none of it's being exported to your neighbors, which would normally happen in other places. And it also means that when you've got problems, nothing's coming in to help. And I think one of the things that resonates a lot with Texans is that it also means that they're not regulated by the Federal Energy Regulatory Commission or FERC.
+Cody Simms:
+Got it. Eric, you were going to weigh in there.
+Eric Goff:
+Sure. We like to do things our own way in Texas and have for a long time. And the reason we're physically separated is because FDR wanted to pass a utility regulatory act during the New Deal, and the Texan utilities went out and physically disconnected from the rest of the grid. So there wouldn't be any interstate commerce. And so we're still living through the legacy of that history here.
+Cody Simms:
+Wow, super fascinating. And also in Texas, in terms of doing things a Texas way, this is an aside, but I always see every few years there's sort of a big to-do around the Texas Railroad Commission. And I always sort of wonder, who cares who runs the railroads? But it turns out the Texas Railroad Commission oversees oil and gas in Texas, which is also just as an aside, a very Texas thing, right?
+Eric Goff:
+And the Texas Railroad Commission used to be, essentially manage the cartel to keep the oil prices where Texas wanted it to be and was the initial model for OPEC.
+Cody Simms:
+Oh, fascinating. So if ERCOT is sort of its own thing, are prices anywhere similar from a megawatt hour perspective or kilowatt hour perspective? Do they have any bearing on what's happening in terms of price anywhere else in the world or in the United States at least from that perspective?
+Jaden Crawford:
+Definitely. Yeah. And the reason being is that the price of electricity is determined by a number of factors. One of the primary factors though is whatever the fuel source is for the marginal generator. And in most places that's natural gas. And so electricity prices most of the time are mostly a function of what the cost of natural gas is doing, in ERCOT as well as in many other places in the US.
+Cody Simms:
+Super interesting. And from an energy mixed perspective, natural gas is somewhere around half of Texas's energy, is that about right?
+Eric Goff:
+A little bit more than half, but Texas has a lot of natural gas, a lot of coal, and has the most wind and the fastest growing solar penetration despite not much state level support for renewables. It's growing anyway because there's demand and federal incentives.
+Cody Simms:
+And Eric, you were starting to talk about how Texas kind of turned into its own energy region. Let's talk about deregulation. So part of what I think makes Texas unique is that it is a deregulated energy market. A lot of that happened in the 1990s as I understand it. Can you explain a little bit about what that means?
+Eric Goff:
+Yeah, so the story goes that Governor George W. Bush was convinced that competition was good for consumers and good for the industry. And so he went to his utility commissioner, a guy named Pat Wood who's still in the business, and according to legend, put his arm around him and said, "Pat, go get me a market." And so Pat did. And what it's led to is a wholesale competition where anyone can enter the market with very few barriers to sell generation. And then also retail competition where anyone that meets financial standards can be a retail provider and you can choose your electric company the way people are used to choosing their phone company.
+Cody Simms:
+And there are other deregulated markets in the United States aren't there? I mean, in my mind I feel like it's about half and half, roughly.
+Eric Goff:
+There are but, and this could be the Texas in me coming out, but none of them did it quite right. In Texas, the retailer has full control over the customer interaction. And so the bill comes out with a retailer name. Your point of contact is your retailer. If you don't like it, you leave your retailer. And other places have retail competition, but the retailer is a line item on your utility bill rather than its own separate relationship. And here the utility is in the background and sometimes it doesn't even know who the customer is, they just know they're providing power to a particular retail.
+Cody Simms:
+And utilities in Texas still can be private or they can be municipal owned. The deregulatory nature doesn't impact that. Is that correct?
+Eric Goff:
+There's some overlap in the large cities in the state, in Dallas and Houston. Other parts of the state, you can choose your retail provider. I live in Austin where the city owns our own retail provider, and that's Austin Energy. And so if you don't like what Austin Energy is doing, you vote for a different city council or what happened actually this week, city council fired the city manager because he did a bad job with the recent winter storm.
+Cody Simms:
+And do I have a choice as a consumer in Texas then on who I want to actually provide electrons to my house and are the delivery of those electrons actually different depending on who I might choose? Or is it just who's kind of managing the bill?
+Eric Goff:
+So physics is still physics. The power flows where the power flows based on the resistance of the transmission distribution lines. But who pays for it is a choice if you're in the retail choice areas of the state. If you live in electric cooperative or municipally owned utility, you don't for the most part have a choice of electric provider, but instead you can have a democratic control over your council or your co-op board.
+Cody Simms:
+Got it. So it sounds like it depends on each local jurisdiction to figure out what that setup should look like as opposed to it being standard across the board through anyone who lives in ERCOT. Not all of Texas is in ERCOT, is that right? There are some portions of the state that are on the Western transmission,
+Eric Goff:
+Yeah. West and East. So El Paso, parts of the Panhandle on the western grid, and then parts of the East Texas Piney Woods are on the eastern grid. And recently... I say recently, over the last 10 or 15 years, we've had a bunch of wind development in West Texas, including the Panhandle. And so the city of Lubbock and the panhandle left the western grid and switched to interconnect to the Texas grid because they wanted retail choice.
+Cody Simms:
+And can utilities themselves also have a retailer?
+Eric Goff:
+No, they're not allowed to provide what is called in the law, competitive energy services. And so that means they can't have a retail relationship and they can't own generation, and there's some small exceptions on the generation side.
+Cody Simms:
+Interesting. And Jaden, at David Energy, you guys work as an energy retailer, as I understand it. And how does operating in a deregulated market versus a regulated market different for you all? Can you even operate? You probably can't even operate in a regulated energy market, is that correct?
+Jaden Crawford:
+No, we can't operate in a fully regulated market, so we need at least some level of deregulation to operate.
+Cody Simms:
+Got it. But then that means someone could presumably then work with you. Are you all active in Texas today?
+Jaden Crawford:
+We are, yes.
+Cody Simms:
+Yeah. So then a business could say, "Hey, I want David Energy to be my electricity retailer, my provider." Which means they would sign up for you, pay their bills through you, and you all would broker, essentially purchase the power that's coming to their facility. Is that how that works?
+Jaden Crawford:
+Yeah, that's basically how it works. So we purchase power in bulk. So we'll have contracts to buy power to deliver to a certain place, certain quantity, certain time. And then one of the things that ERCOT actually does is runs markets, right? Day ahead markets, real-time markets. So we're never going to buy all of our power on a contract. Because the reality is we don't know how much everybody's going to consume at any given point in time. And so we want to cover the bulk of that, and that helps us manage risk. And outside of that, we will buy power on the day ahead market. Day ahead just means like we're buying power in certain hours, in certain quantities for tomorrow. And then in real time we're buying it in real time, in like 15 minute increments.
+Cody Simms:
+And I'm curious, as deregulation now exists, obviously in Texas, and has for a couple decades, as renewables have come down the cost curve, has deregulation helped drive adoption of renewables?
+Jaden Crawford:
+Absolutely, yeah. I think deregulation has in... Not just deregulation, but also ERCOT's energy only market construct has helped drive the adoption of renewables. And I think the latter even more so than the former. Even though they really are part and parcel.
+Eric Goff:
+Yeah. There are two big ways that the Texas market has contributed to the growth of retail. One is the ease of entry into the wholesale market. Anyone can build a generator, you don't need approval, you just need to do it. And the other is consumers that want green energy can buy it without any significant barrier to entry. So we actually have companies that will do a renewable PPA in Texas for their requirements in another state.
+And then they're long ERCOT and short in the other state with the hopes that that can balance out financially. But they're not even getting the power sometimes in Texas, but they're just... It's the easiest place to create a new generator in many cases.
+Cody Simms:
+Create a new generator, meaning a new solar farm or a new wind farm or the like.
+Eric Goff:
+Exactly.
+Cody Simms:
+And how have you seen storage grow in adoption? I would presume to be fully cost competitive renewables not only need to compete on just cost of generation, but on essentially cost of generation plus storage relative to gas, for example. Is that accurate?
+Eric Goff:
+Well, not necessarily. There's a growing amount of solar in particular, but solar and wind that is pairing with batteries. But there's not an obligation to have a battery. And so batteries are also growing. Exponentially is not a strong enough word to describe the growth in batteries. And many times they're separate because there's not enough solar or wind that is being curtailed to justify co-location.
+And so instead a battery is going where the highest value is in the grid based on the price. So we're seeing a lot of that. Policy makers, I think intuitively feel that renewable should be paired with batteries or it can be dispatchable, but right now the market is not demanding that substantially. Although about 20% of the solar in the queue is paired with storage.
+Cody Simms:
+What I'm really picking up on from you in kind of reading between the lines of everything you're saying is that, I mean it kind of seems obvious in retrospect, but this deregulated market allows for a lot of entrepreneurialism. It allows for a lot of people to look for opportunity and go build something where they see a gap in the market without having to go through a ton of... I mean, I'm sure there's compliance and sort of permitting hoops, but not a ton of permission to do so. Is that correct?
+Eric Goff:
+100%.
+Jaden Crawford:
+Yeah. And I would say it even goes beyond generation. This entrepreneurial capability is not just when we're talking about supply. It's not just talking about batteries. It's also talking about demand and capabilities of demand. And when we're talking about demand, we're just talking about using electricity. What we see in Texas is people really finding ways to avoid some of the price volatility that we see in Texas. We're seeing what's called demand response, people using various technologies to very strategically reduce demand at certain points in time.
+That can be batteries behind a meter, like some of the big companies that we're all familiar with. That can be smart thermostats. That can be throttling EV chargers. But this market structure really lends itself to people being able to find all kinds of ways to capitalize on the market, even if that capitalization is by avoiding exposure to it. And so we really see innovation on both sides of this Texas market.
+Eric Goff:
+And I just want to add to that, that because it's a competitive market, much of that demand response happens organically. And the government has no idea exactly how it's working or why. And so it's just inherent to risk avoidance that companies will want to manage their cost of energy and they can do that through markets. And there's no government program for demand response for the most part. There is one, but that's an asterisks. It's just, what is the best way that this particular company can minimize their energy costs.
+Cody Simms:
+Got it. So at a highest of level what I'm hearing is, power that is generated in Texas stays in Texas. Entrepreneurs are free to come in and experiment with new ways of generating power, new models of delivering power, new models of selling that power to buyers, whether they're consumers, whether they're businesses, and even arbitration markets between Texas and other parts of the grid, purely from a financial instrument perspective. Even though again, electrons generated in Texas stay in ERCOT. Am I understanding correctly?
+Jaden Crawford:
+You are.
+Cody Simms:
+Great. Okay. And so then in 2021, horrible disaster struck, right? There was this winter storm, hundreds of people died because they didn't have access to heat. And there was this sort of emergency declaration by the governor of Texas that ERCOT needed to reform, and it was a huge priority for the state legislature. I think they found out that a third of the board of ERCOT didn't even live in Texas, including the chairman of the board. So what was wrong? Where were the cracks here that sort of spread open widely?
+Jaden Crawford:
+Yeah, I would say that the cracks weren't where the patches are being applied. And so what really happened in 2021 was not dissimilar to things that happened before. It's been known for quite some time that the Texas system, not just the electric grid, but upstream of that, the gas system that feeds the electric grid is not capable of handling cold weather. And we're seeing increased instances of extreme cold weather in Texas. This is a thing that we know happens with climate change. It's a thing that we've seen happening for years and it's happened in Texas before. Not to this level, granted.
+But what really happened wasn't that we didn't have enough generators to be able to supply. It's the generation of all types failed in the cold. There was a lot of talk from politicians and from oil and gas folks that the problem was that this is because we relied on wind and solar and we had a storm and the windmills and the solar couldn't do what gas could do, and that's really not true.
+It is true that a lot of the wind generation failed because the turbines iced over and stopped spinning, but that was because they weren't winterized. We have turbines operating in Canada, in the Arctic, they operate in cold places all the time. This is something that can happen. We saw a lot of mostly gas go offline, from a combination of the cooling infrastructure freezing over, but mainly because the gas infrastructure froze and there wasn't enough gas to supply the gas plants and the homes. And so you had a lot of curtailment where these gas plants couldn't operate.
+And when I say curtailment, I just mean there's a decision made to decide who gets to use gas and who doesn't get to use gas in this point. So we had gas plants went down, we had nuclear plants go down because the cooling infrastructure froze. Coal plants froze. The problem wasn't so much that we didn't have enough generators, it's that everything that we had in Texas couldn't handle the cold, and so it didn't handle the cold.
+Cody Simms:
+We're going to take a short break right now so our partner Yin can share more about the MCJ membership option.
+Yin Lu:
+Hey folks, Yin here. A partner at MCJ Collective. Want to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have since then grown to 2000 members globally. Each week we're inspired by people who join with differing backgrounds and perspectives. And while those perspectives are different, what we all share in common is a deep curiosity to learn and bias to action around ways to accelerate solutions to climate change.
+Some awesome initiatives have come out of the community. A number of founding teams have met, nonprofits have been established, a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. So whether you've been in climate for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks, and enjoy the rest of the show.
+Cody Simms:
+All right, back to the show.
+So when we talk about deregulation, we talk about it from a business model deregulation perspective. It sounds to me like in addition maybe there actually needed to be more regulation on the safety protocol side of things that was maybe missing. Is that a fair question to ask?
+Jaden Crawford:
+It is a fair question. I think when we talk about deregulation, we're not talking about, it's the Wild West and you can do whatever you want. That's not what we really mean when we're talking about deregulation. When we're talking about deregulation we're saying that we're not using a regulated monopoly structure to deliver power. And I think, Eric, you were going to say something and I probably just talked over you because I love this topic so much.
+Eric Goff:
+No worries. Yeah, I was just going to say that there was a failure across all industries in Texas too. It wasn't just the power industry. Just Texans are not used to the severity of the winter weather that happened. And we have had extreme weather weather in the past, but it's occurring for whatever reason more frequently than it used to. And it just hadn't been built into the expectations for anyone. So there were water utilities that failed. There is a big refinery that had products that congealed in their pipelines inside the refinery and led them to be shut down for weeks and increased the national price of gasoline. And so I bring those up just to point out that there wasn't a particular failure in the electric market, but rather there's a failure in Texas for expectations about weather.
+Cody Simms:
+And so with that background, you mentioned that the patches are being applied to the wrong cracks or in the wrong place. What patches are currently being applied to ERCOT now in light of this winter storm?
+Jaden Crawford:
+So there were a few things that happened early on. Some of them I am in full support of, some of them I think were a little bit performative. One of the things that happened was that the maximum offer price, so the maximum amount that a generating unit can offer used to be $9,000 a megawatt hour. That is admittedly very high, but that's by design. That's not a bug. That's a feature. That was reduced to $5,000. And then in addition to that, Texas has what's called the operating reserve demand curve.
+That was really put in place to help kind of solve this kind of missing money problem where you have renewables that are keeping prices low most of the time kind of suppressing the incentive for these dispatchable types of generators like gas to be built, which means that you can run into a problem where you can have some resiliency issues. And so the operating reserve demand curve was put into place to create these adders onto the price of energy when what's called the minimum contingency level shrunk to, I think it was 2000 megawatts, Eric. Is that right?
+Eric Goff:
+It was smaller, but yeah. It changed over time.
+Jaden Crawford:
+The other thing they did, they said, "Yeah, we should make these things kick in a little bit sooner." And so they did that. And even though they reduced that maximum offer price by changing when the operating reserves demand curve came into play, in 2022 it added $5 billion of market benefit to generators. And so that I fully support, in terms of in Texas when you have an energy only market, and when I say energy only, what that means, some markets have what's called a capacity market. Meaning, we're going to pay you to build generators based on what we think demand is going to be X number of years in the future, and you're going to bid on that. And if you win, you are obligated to build that generation or create those demand response portfolios, whatever it happens to be, on a forward basis. In Texas, they said, "No, we're going to do this kind of on a free market type basis. We're going to do energy only. Where the energy price is the signal that you need need to build generation."
+And so what we've seen since those changes were made is generation starting to enter what's called the queue. And so we're seeing these generators being built now on the basis that it's now profitable again for them to do it. And so some of the patches that are being talked about now, again, these are mostly performative. The big one that's being talked about right now is called the performance credit mechanism or PCM. And this is this really strange, convoluted concept where it's kind of the mirror image of a forward capacity market. But it's kind of capacity in the rear view mirror market. Where the idea of this is that if you have generation that was available to be dispatched in hours, where after the fact it was determined were critical, you are going to get paid some amount of money for having been available.
+So it's not a forward capacity market. It's kind of like... Think about a forward capacity market is getting insurance. You're buying insurance to ensure that you have enough supply there when you need it. But this is kind of like if you had an accident and you then went to the market and said, "I am going to pick a policy based on who would've served me had I got insurance before I had the accident." It's really, really weird and it doesn't really incentivize new build generation.
+What it does do and why a lot of the generators really love it, is it kind of just pads the pocketbooks of existing generation. They're there already. If they were either delivering or if they were offering, even if they weren't dispatched, they're going to get some additional revenue. They don't know what because nobody knows which hours are going to be the right hours. We don't know exactly how much is going to be transacted in any given year, but if they're there, they're going to get extra money for basically just having already existed.
+Cody Simms:
+Okay. So I'm hearing two things. One, there was a cap on the max price, which seems reasonable, right? Hey, let's not let price gouging happen when we're in an emergency. And then two is this sort of new market mechanism that is rewarding people who may have excess capacity at a given moment, but that you're not encouraging them to have it available upfront. You're more rewarding them in the past because they did have it at the time when it might have been needed, now looking backward. So that's the performance credit mechanism that I'm hearing you describe.
+Eric Goff:
+That's right. And this may be an aside, so I'll try to limit it, but I want to push back on the price gouging comment. Just because that's the way a lot of people perceive those high prices. And so it's a natural reaction to those high prices. But there's an intention behind it, which is to discourage large consumers from continuing to consume electricity. Many large industrials have complex and sophisticated contracts that expose them to that real-time price. So that when the price gets high, they can turn off and reduce their consumption and then sell back the supply they bought in advance. Something that is worth more to them than making a widget.
+Cody Simms:
+I mean, that is demand response. That's what that market mechanism is.
+Eric Goff:
+And so it's just encouraging them, if electricity is worth more than somebody else than it is to them, they won't consume the electricity so someone else can. And it's designed to figure out the value of electricity when we don't have enough of it.
+Cody Simms:
+But what it sounds like maybe, is there an assumption that what was happening was, when consumers couldn't get power in their own homes residentially because the retailers didn't want to pay that high price all of a sudden, but industry was, creating price to go even higher and higher and higher and thus was hurting residential consumers. Is that the theory behind that change?
+Jaden Crawford:
+Retailers don't have a choice. We have to serve the demand. We don't get to decide to do that or not do that. We have to do it. And so I think the reason that the offer cap was lowered was because in addition to people losing power, the wholesale price of electricity was $9,000 for days. And so ultimately that means that this filters down to consumers. Consumers ultimately end up footing the bill for that.
+Cody Simms:
+Yeah, I saw these stories back in 2020, of people who were like, "My electricity bill for the last month was $3,000." Or something crazy, right?
+Eric Goff:
+Yeah. There were some retailers that had taken... This is an example of when we needed more regulation. You asked that question earlier. So there were some retailers that took those complex products that were for industrial customers and large commercial customers and applied those to residential customers. And the public utility commission has customer protection rules that apply to small customers that didn't have that prohibited.
+Cody Simms:
+Let me make sure I understand that. So they were trying to apply demand response mechanisms to consumers. And for residential customers who didn't shut off their power usage, they allowed them to continue to buy it at extremely high prices.
+Eric Goff:
+Yes.
+Cody Simms:
+Versus I know in California, we get these text messages that say, "Hey, it's time to shut off." We actually get money back if we shut off.
+Eric Goff:
+Exactly. [inaudible].
+Cody Simms:
+As opposed... Okay.
+Eric Goff:
+Yeah. And so now a retailer like David or others, can still give customers the benefit of those high prices by paying them for selling something back that they bought in advance. Whereas these retailers that went out of business because they couldn't pay their bills, were just passing through the wholesale price to the end use customer without having any sort of program in place to help them curtail. And so that was where the state stepped in to disallow that and that maybe should have been done beforehand.
+Jaden Crawford:
+Maybe. I'm actually going to defend some of those companies for a second, in the sense that when they set those up, it wasn't really imagined that there would be a Uri type scenario. And I think the idea was, yeah, there are going to be some intervals where the price is going to be $9,000 a megawatt hour. But for the most part, on average you're going to pay less. And that was true until it wasn't. And so I'm going to agree with Eric that there probably should have been some guardrails on that for customers who aren't sophisticated enough to know what that kind of fat tail risk is, right?
+And so I think there probably should have been some excess regulation there. I do think the thing I liked about what they were doing though was they were really trying to directly incentivize customers to do the right thing at the right time, both from a wholesale prices scenario, which directly correlates to a carbon scenario as well. And I liked the idea of it. I think it went horribly wrong and I'm very glad that there are some guardrails in place now that protect customers. But I do think that they were coming from a good place when they set these up. It just went really wrong.
+Cody Simms:
+And then moving on to the performance credit mechanism, Jaden described it a bit, Eric, I'd love to hear your take on it. Again, Jaden described it as this reverse insurance sort of scheme. I'm curious what you think about it and also what you think a better alternative would be if you don't like this as a plan either.
+Eric Goff:
+Yeah. So I appreciate one thing about the performance credit mechanism, which is better than the idea that it killed. So there was an idea on the table that we don't need get into because it's dead, called the LSE obligation. And it was bad for many, many other reasons. And the PCM, part of the compromise was to kill that idea. So I very much appreciate that that even worse idea is no longer on the table. However, the PCM has many flaws in it because you don't know the value of what you're going to do until after it happens.
+So a rational actor should be able to enter into a situation and say, "Okay, here are my expectations based on what I know and here's the value of my actions." In this case, you don't know whether or not the next hour will be one of these worst case hours until the next year or the next month or whatever the government ends up deciding.
+And so you can have a situation where your retailer curtailed you as a home customer, because they thought this was one of those hours. But they won't know that until next year or next month. And so there could be situations where people are not consuming electricity when they should have been, because there's no problem on the grid, there's no issue. It was just a financial transfer of money and no connection to reliability. And that's the fundamental problem, is that it's designed to transfer money from one party to another in a way that's disconnected from the fundamental reliability of the grid. And if that disconnection exists, then it'll lead to bad outcomes.
+Cody Simms:
+What would you propose as an alternative, Eric?
+Eric Goff:
+So I think that the energy market works very well today and we can build on something that we know works well, instead of trying to reinvent the wheel. So there's another kind of insurance product called ancillary services. And these are basically things that ERCOT or the ISO... ISOs across the world buy these in order to make sure there's enough capacity for tomorrow or to make sure that if a generator trips off line unexpectedly, the lights won't go out for the whole grid.
+Because you have enough backup to replace it. And there are proposals by the independent market monitor, which is a official position in ERCOT and many other ISOs to just buy more of that if the state wants to have a higher level of confidence in the electric grid. And that fits within the existing construct without creating the risk for the world's 9th largest economy of creating something from whole cloth.
+Cody Simms:
+Does this mechanism exist in other deregulated markets?
+Eric Goff:
+Yes. This exists throughout the whole world. Europe has ancillary services, California has ancillary services. New England has ancillary services. And this is just saying, "Buy more insurance. Buy more ancillary services." And that comes at a cost to consumers. But that's an easy policy trade off to say, "You know what? As a state we want more insurance because the grid is so important to people." Versus trying to create a new structure that hasn't been tested anywhere in the world. One thing that Jaden didn't say is this PCM has done nowhere else in, it's funny to say, the Solar System. But nowhere else in the world.
+Cody Simms:
+I saw it called a, first of its kind proposal. So it's clever, I guess is the way to think about it.
+Eric Goff:
+And sometimes innovative things are good to do, but when it's something as important to people as electricity, let's let some other place try this before... Texas, as I said, is the 9th largest economy in the world. And we don't want to mess that up with something that many experts say is a bad idea.
+Cody Simms:
+Did you really just say, "Don't mess with Texas?" I think you did.
+Eric Goff:
+Yeah, I did say, don't mess with Texas.
+Cody Simms:
+But help me understand. So then this ancillary services model, is it sort of almost like a power purchase agreement for on demand access to power?
+Eric Goff:
+Yeah, exactly right. And so Jaden gave an example earlier where David Energy or any other retailer buys a certain amount of electricity in advance to cover their risk. And some of that is by direct transfer of megawatts from a generator to a consumer and other is like an option. So if the price gets a certain amount, I want to have the right to buy it from you at that price.
+Cody Simms:
+It's like a futures market. It's how jet fuel works, for example, right?
+Eric Goff:
+A 100%. The difference between that and this is that this is a contract that's created by ERCOT with specific requirements where the demand isn't based on the inherent demand of the market, but instead based on ERCOT says, "I want 3000 megawatts." And so it's intervening into the outcome of the market where ERCOT is demanding something in excess of what the market would deliver. And so for that reason, it's still the government intervening in the natural market, but it fits within the context of the existing marketplace.
+Cody Simms:
+And it would presumably only be triggered in one of these emergency scenarios or that's where ERCOT as a regulatory body comes into play is that they're the ones who can control when the switch gets flipped.
+Eric Goff:
+Exactly. So ERCOT buys the call option, rather than David Energy buy the call option.
+Cody Simms:
+Great. Okay, that makes sense. And what's holding this idea back? If this is what's done elsewhere in the world, presumably it's been on the table, why has that not made it through from the proposal phase?
+Eric Goff:
+I would say it is on the table. So if I'm a generator, and I can make $3 or $5. I'm going to tell you the idea that makes me $5. But fundamentally, it is on the table. It's one of the ideas being considered by ERCOT and the Public Utility Commission and the Texas Legislature, but the PCM is the one that was recommended by the Public Utility Commission. And it's kind of the leading choice right now. And so the opponents to that are recommending to you ancillary services or other ideas.
+Cody Simms:
+Okay. And I guess it makes sense. I mean, if you're a generator and because of the nature of deregulation and the firewall between generating and servicing retail consumers, your customer is not the retail consumer. You're not necessarily focused on their needs, even though we're all humans, we all to some extent have empathetic care in the world. But if you're running a business and your focus is on maximizing profits to the power generation that you can deliver, I guess I understand why those motivations exist.
+Jaden Crawford:
+And they do. I think that firewall idea is an interesting one as well, right? David Energy... I see Eric is laughing. David Energy can't own generation. But there are what are called gentailors in ERCOT. Gentailors are organizations that own lots of generation and also own customer relationships. And there is at least a theoretical firewall between the two companies.
+Cody Simms:
+I thought we established, that couldn't be the case. Maybe did I misunderstand that?
+Jaden Crawford:
+Well, they are technically different companies, but the P&Ls all roll up to the same broader organization.
+Eric Goff:
+So when you talk about utilities, and utilities mean something different in Texas than it does in other places. In Texas, a utility owns the wires and the poles and the meter. And in California and in South Dakota, the utility owns the wires, the pulse, the meter, and the generator. And so there were companies, like before deregulation, Houston Lighting & Power owned all of that. They were the natural monopoly.
+And now CenterPoint owns the wires, the poles and the meters. And the generation was sold through a number of transactions eventually to a company called NRG. And NRG also owns the customer relationship where they own the generation in the Houston area, some of it, and they've inherited many of the customers away from that old Houston Lighting & Power. They've acquired new customers, the retail competition, but they're the largest generator in Houston. And that's why the NFL stadium is named NRG Field or whatever it's called.
+Jaden Crawford:
+Right. And that's important. This distinction is important between this theoretical firewall idea. Because one of the things that the performance credit mechanism is, is a requirement on suppliers like David Energy and the supply side of NRG to buy these performance credits. It's completely optional for generators to sell them. Just because you have a generator doesn't mean you have to sell these performance credits. So if you elect not to, you actually own the supply of those. And to Eric's point earlier, you're going to make the decision between X dollars or X plus dollars and you really owe it to your shareholders to always choose X plus.
+Cody Simms:
+Yeah, makes sense. I understand, I guess I should say, and I mean Texas presumably also needs more generation significantly. There's a huge population inflow into Texas, et cetera. So I would assume the capacity needs of Texas are growing,
+Jaden Crawford:
+The capacity needs are growing. People are moving to Texas. Industry is growing in Texas. These are all good problems to have if you're Texas. So yes, there is the need to grow capacity. Renewables are also growing. This does mean you need to grow dispatchable generation as well. You don't need to completely remove renewables. The idea that renewables are a problem is just not true. Yes, you need to have some amount of dispatchable generation to ensure that you have enough power whenever you need it, regardless of whether the wind is blowing, the sun is shining. All true.
+So you do need to increase capacity. I think that the idea of never letting a good tragedy go to waste is in full effect here. And it is the case that the things that caused Uri are not being solved by the performance credit mechanism. It's being a bit conflated with this broader question around capacity and resource mix in Texas.
+And so I think the idea that we have to increase capacity is very true, but the performance credit mechanism isn't really going to grow necessarily capacity. On its own it doesn't do it. It definitely transfers money from consumers to existing generators. It does that very, very efficiently. But it doesn't necessarily grow capacity. I think if we want to grow capacity, one of the easiest things that we can do is more of what we have already seen since 2021 that is working, right?
+These changes to the ORDC that I was talking about earlier. That increased these revenues by $5 billion. There were significant increases in the queue as a result. I think one of the things we could do to increase capacity is start ratcheting that maximum offer price up again, until we start seeing the type of megawatts in the queue that we want. That means we have to decide how much we want. We need to decide what is the right amount of capacity to have. What is that reserve margin that we want to see. But by increasing the maximum offer price in addition to the changes that were made to the operating reserves demand curve, we can definitely start increasing the capacity within the energy only market construct because we're seeing it already happening right now.
+Cody Simms:
+Eric, how about you? Thoughts on my question? Does Texas need more generation?
+Eric Goff:
+So Texas has gotten tens of thousands of megawatts of new generation under the existing regime, which isn't the PCM. It's what is referred to, and Jaden mentioned already, the energy only market in Texas. And even up until the present moment, we're getting new generation be built in Texas without new reliability market to try to get above and beyond that. So for example, yesterday the front page of the Houston Chronicle's business section talked about how NRG had had a fire that caused one of the generators in the Houston area to break down and they had to replace the turbine. And they did replace the turbine. They found another turbine and shipped it to the Houston area and installed it.
+And they thought that was worthwhile to their shareholders to do, without the need for the performance credit mechanism. And meanwhile, there are other companies that said, "If you get the performance credit mechanism, we will ship a turbine to taxes and install it."
+So somehow it's happening anyway without the need for additional government intervention. And it's just because they want to maintain their investment and continue to make money in the way they are today. There's another company that's building new dispatchable generation natural gas today, that has been installing more than a 1000 megawatts over the last several years. And they say that they want the PCM, but of course they would because they'll make even more money.
+But for some reason they've made the decision to install natural gas capacity today under the existing mechanism. And then one last point, there's been an enormous growth in solar plus storage since winter storm Uri. Because there were pictures that went out on social media of one house that had their lights on, on a block. And that was because you had solar plus storage at your house. And so there's this resiliency value above and beyond the market value to know that, okay, whatever my dollars and cents savings are from installing solar plus storage or lack of that, it's still worth it to me because my lights will stay on.
+And that's not just a solar plus storage story. There's also companies like Generac that are doing home natural gas. And they're growing substantially as well in Texas because residential consumers value keeping their lights on and are willing to pay for it.
+Cody Simms:
+Yeah. And you're talking residential solar plus storage in this case, in particular.
+Eric Goff:
+Yeah.
+Cody Simms:
+So for people who are listening who live in Texas, or even if they don't live in Texas who are motivated here to get involved, what should they be doing?
+Eric Goff:
+Well, they could start a new retailer. But so what you can do is to communicate with the Texas Legislature about your desire to have a light touch approach to these changes. I don't think that we're in a rush, but many politicians feel the sense of urgency around making dramatic changes because of the literally dramatic experience that the state had, that I think that some companies are taking advantage of the political opportunity here. And we should take our time to make sure that we get it right.
+And if we need to take interim steps like a bridge mechanism to... There's no harm in buying more ancillary services if you're going to do the PCM anyway or some other thing anyway, in the meantime, you're just buying insurance for tomorrow. So while we're deciding, do we need to make some drastic decision, we could just buy more insurance, more ancillary services tomorrow, and that would literally buy us time to have a thorough discourse.
+Cody Simms:
+Did changes need to be put in place today to enable the ability to transact ancillary services?
+Eric Goff:
+No. ERCOT can make the decision tomorrow if they wanted to.
+Cody Simms:
+But ERCOT does have to actually approve it as an available mechanism.
+Eric Goff:
+Yeah. So ERCOT is the one that says how much they want to buy. And what they want to buy,
+Cody Simms:
+Right. Because you said they're the ones who have their finger on the switch, I guess.
+Jaden Crawford:
+There's something else I think that people in Texas can do. Yes, engage with your legislators and ask them to take a light touch approach. But also engage with the Public Utilities Commission of Texas. Engage with your suppliers and make them explain to you how what's being proposed is actually going to do what they say it's going to do. I think that a lot of times this industry is really, it is complicated. It's esoteric. It's weird. And we are used to talking to each other. We're used to talking at each other in our own language. But that doesn't mean that people don't and can't understand what's happening.
+Demand to know how expending this amount of money, demand to know why transferring money from your pocket to these generators for already existing is going to save you money. Make them answer the question. And if they realize they can't answer the question, maybe it goes away as well. But ask that and demand to know. You have a right to know.
+Cody Simms:
+Okay, so we've talked about the performance credit mechanism. We've talked about the ancillary services model, which is what the rest of the world uses. Is ERCOT considering anything else besides those two?
+Eric Goff:
+Yeah, there's one idea before the Texas Legislature that is going out and just directly procuring new natural gas generation. So if they believe that there's a market failure where there's not enough natural gas generation, just go and either spend state money or spend consumer money to buy more. And so Berkshire Hathaway is pushing that idea to go out and do an RFP to buy a certain amount of new natural gas capacity. And it would be competitive procurement government contract and they would hope to win it. So that's the idea.
+Cody Simms:
+It feels very... I mean, to me, yes, I was born in Texas, but I'm definitely not in the flow of Texas. It feels very un-Texas to essentially nationalized power in that regard, which is what that kind of would be, is it not?
+Eric Goff:
+It would be a state procurement. The difference between nationalization and this, is that the state might not own that capacity. But it would be paid for by the state and owned by Berkshire Hathaway or somebody else.
+Cody Simms:
+Okay. So that may be something that ends up getting further looked at much as the performance credit mechanism is currently sort of making its rounds through the legislature. Is that what we might expect to see in the coming months?
+Eric Goff:
+Yeah, we'll see a discussion of that plan or versions of that plan where, there was pushback in a meeting yesterday at the Texas Senate about whether or not to do that or instead have the utilities that we said earlier cannot own generation, to let them own generation through this mechanism for the sole purpose of this backstop. So we'll see what happens. It's something that is being considered by the Texas Government.
+Jaden Crawford:
+And one thing to kind of clarify about this as well is that if they bought this generation or if this generation was procured on behalf of Texans, if it was operated, it would completely mess with the market signals that would encourage competitive generation and creator prices to the point where you wouldn't have new competitive generation.
+And so what they're saying is, "Yeah, we're going to build it, but we're going to put it in the closet. And just kind of hang onto it until we need it." Which means that in your effort not to have a capacity market, all you've done is eliminate the market. Which to your point, Cody is very much not a Texas thing. So it's very interesting that this is a topic of conversation in that you're going to charge folks to build all of this generation capacity that you deliberately don't use unless there is an emergency or unless folks later decide that we should be using it, because it would be a shame not to use a thing we paid for. And we kind of run into that flow of events that inevitably occurs.
+Eric Goff:
+If we have it behind, break glass in case of emergency, it will be very expensive because most people when they invest in something new, they intend to make money with it. And this is saying, "We're not going to make money with it. You're just going to give us the cost of doing it." And inevitably people will want to use it because it's there. Why wouldn't you want to use it? And that will cause all kinds of problems potentially.
+Cody Simms:
+It sounds a little bit like the strategic oil reserve of the US Federal Government to some extent, like that same kind of model.
+Eric Goff:
+Exactly. And just like that, when the price of gasoline gets high, but there's no strategic issue, President Biden released oil in order to lower the price of gasoline. And that was smart politically, just like it would be smart politically to use these generators in the future.
+Cody Simms:
+Well, fantastic. Well, guys, anything I should have asked that I didn't ask?
+Eric Goff:
+Yeah, I think this is a really complex conversation and we managed to avoid most of the acronyms, but the end of the day, this is just a question of do we need to make a radical change to the market design in response to this one-off event, or can the market react to it on its own? And so that's a big question. Do you trust markets or not? We don't need to get into that. But fundamentally, people lost billions of dollars in winter storm Uri in addition to hundreds of lives that were lost.
+And those companies that lost billions of dollars realize that they have a strong incentive to not do that again. And so that's what markets are good at, is to help manage risk and make very complex decisions. And a policymaker wants to be able to say to his or her voters, "I did something to fix it." And that's compelling. But at the same time, it's really getting into a complex area of law and economics that really deserves a thorough consideration before you make drastic changes.
+Jaden Crawford:
+Yeah. And I would just say, if there are folks who want to learn more about how all of this works, if you're curious about how electricity markets work, if you're curious about distributed energy and you don't want to go about it in this crazy textbooky like super, super nerdy sort of way, there is a group out there called the DER Task Force. I would encourage people to check it out, join, ask questions.
+It's got lots of professionals like myself, like Eric, lots of people who are consumers, lots of people who are wondering what they can do, what's real, what's going to make a difference. So it's really just kind of a community, and I would encourage people to just, if you have questions and you want to know more, check it out. It's free.
+Cody Simms:
+That's great. Yeah. And DER is for, to unpack the acronym soup is Distributed Energy Resources, right?
+Eric Goff:
+That's right. That's right.
+Cody Simms:
+Eric, Jaden, thank you so much for coming on today. Super appreciate you updating us in terms of what's going on and where folks like each of us can help. So thanks for your time.
+Jaden Crawford:
+Thank you, Cody. It's been great.
+Eric Goff:
+Thank you very much. This was fun.
+Jason Jacobs:
+Thanks again for joining us on the My Climate Journey podcast
+Cody Simms:
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity. To do this, we focus on three main pillars, content like this podcast and our weekly newsletter, capital to fund companies that are working to address climate change, and our member community to bring people together as Yin described earlier.
+Jason Jacobs:
+If you'd like to learn more about MCJ Collective, visit us at www.mcjcollective.com. And if you have guest suggestions, feel free to let us know on Twitter @MCJpod.
+Cody Simms:
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

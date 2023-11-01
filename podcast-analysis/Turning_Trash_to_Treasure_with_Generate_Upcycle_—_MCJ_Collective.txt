@@ -1,0 +1,297 @@
+Bill Caesar is President at Generate Upcycle, a subsidiary of Generate Capital. 
+Generate Upcycle reduces the environmental footprint of businesses, farms, cities and consumers by diverting organic waste from landfills and producing renewable fuels, electricity, and organic fertilizers. Bill's journey from the CIA to McKinsey to waste management, culminating in his role at Generate, is fascinating.
+Cody and Bill talk about his journey and break down Generate Upcycle's key businesses, including anaerobic digestion, composting and mechanical vapor recompression, a relatively new method of wastewater management. Lastly, the conversation touches on areas that Bill is eyeing as disruptive technologies on the horizon. As the world population continues to grow, so will our waste footprint, and by finding profitable and lower emissions means of harnessing and reusing our waste, Generate Upcycle is betting that they can turn trash into treasure.
+Get connected: Bill Caesar Twitter / LinkedInCody Simms Twitter / LinkedInMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on Jul 26, 2023 (Published on Aug 21, 2023)
+In this episode, we cover:
+[02:08]: Generate Upcycle's relationship with Generate Capital
+[04:30]: Bill's background: Russian studies, CIA, McKinsey, waste management
+[07:11]: His experience in waste management and recycling
+[14:01]: Moving from waste to Generate Capital
+[17:50] Bill's confidence in the anaerobic digestion business
+[23:08] His "waste to value" work at Generate Upcycle
+[26:21] An overview of anaerobic digestion
+[27:22] Generate's composting business
+[28:55] The company's wastewater treatment business
+[31:57] Logistics challenges in anaerobic digestion
+[37:47] Tipping fees
+[39:52] The percentage of waste going to landfills and the climate impact
+[43:44] Landfill diversion incentives
+[46:54] The energy outputs of Generate's digesters
+[50:44] What's on the horizon for Generate Upcycle and how folks can get in touch
+Cody Simms (00:00):
+Today's guest on My Climate Journey is Bill Caesar, President at Generate Upcycle. Generate Upcycle reduces the environmental footprint of businesses, farms, cities and consumers by diverting organic waste from landfills and producing renewable fuels, electricity, and organic fertilizers. They're a wholly owned subsidiary of Generate Capital, a leading sustainable infrastructure and financial services platform.
+(00:26):
+Bill has a fascinating background, having started his career in the CIA, moved to McKinsey for over a decade and transitioned into the waste and recycling space in 2010, joining Waste Management first as Chief Strategy Officer and then advancing to the role of president of their recycling and organic growth division. After serving as CEO of and ultimately exiting WCA Waste Corporation, Bill joined Generate in 2021 as the company established Generate Upcycle. Bill and I discuss his journey and then breakdown Generate Upcycle's key businesses, including anaerobic digestion, composting and mechanical vapor recompression, a relatively new method of wastewater management. We talk about the technologies inherent in each of these and how they work as businesses.
+(01:15):
+Lastly, we touch on areas that Bill is eyeing as disruptive technologies on the horizon. As the world population continues to grow, so will our waste footprint, and by finding profitable and lower emissions means of harnessing and reusing our waste, Generate Upcycle as betting that they can turn trash into treasure. But before we start.
+(01:38):
+I'm Cody Simms.
+Yin Lu (01:39):
+I'm Yin Lu.
+Jason Jacobs (01:40):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+Yin Lu (01:46):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:52):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Bill, welcome to the show.
+Bill Caesar (02:07):
+Glad to be here.
+Cody Simms (02:08):
+Bill, I am really excited to learn from you. Obviously we've had Scott Jacobs, the CEO of Generate Capital on the show, but from what I understand Generate Upcycle is a sort of a separate business that is an operating company attached to the broader sort of Capital business. So maybe take a quick second and just explain a little bit about how you relate to Generate Capital and then we're going to spend all sorts of time going into your background and your journey.
+Bill Caesar (02:34):
+Sure. Generate Capital is, I'll call it more traditional. Scott might not like the use of that terminology, but a more traditional entity designed to invest and provide project finance and do all the things that you do, taking money from one group of people and investing it into something else. And that's all focused on the idea of distributed sustainable infrastructure, providing support to sectors like solar and battery storage and battery backup and energy efficiency and broadband and the waste space, which is what we're part of.
+(03:07):
+Along the way, Generate Capital had made a number of investments in the organic waste space, a number of anaerobic digesters, and they thought that they had reached a point where, hey, I've got critical mass in this space and this is a space that would be better run as a business than as a series of one-off project finance investments. And so that was where the genesis of Generate Upcycle came from is that we had critical mass.
+(03:37):
+Now we've taken what were six anaerobic digestion assets and we've then added on top of that a composting business. We now have a wastewater treatment business, and then we acquired seven anaerobic digesters in the UK as well. So we're building out this platform, which is all around the theme of managing organic waste in one form or another. We run it as a business. So I have my own separate payroll. I'm on a separate health insurance. I have my own team that surrounds me. I report to Generate Capital's COO, but the executive team in practice acts like my board. All the financing for the things that we invest in comes via Generate Capital. There may be a time in the future where I'm able to seek additional financing, but for right now everything comes through Generate Capital.
+Cody Simms (04:30):
+Very cool setup. Let's understand how you got there. So maybe let's start with your background and we'll spend a little bit of time talking through how you built your career in this space and then ultimately how you ended up working with Generate Capital to decide that it was time to build this as its own business.
+Bill Caesar (04:46):
+Yeah, so I had a somewhat circuitous path to where I am today. I have undergraduate and graduate degrees in Russian studies. I worked at the CIA and the State Department for six and a half years out of college. A great time to do that. I graduated from college in 1988. 1985 was when Gorbachev came in. 1991 is when the Soviet Union dissolved. '89 was when the wall came down. It was a very exciting time to be doing those things, and my expertise was in the non Russians Republics. So what used to be a fairly sleepy place to focus your attention on all of a sudden became 14 new countries, each of which had a US embassy, each of which we had to have a set of policies, and that's what I did for a while.
+(05:33):
+And then I sort of reached the point of all the excitement that had occurred in the former Soviet Union was now slowing down. It was 1995 and I had done some very interesting things and had a great time. I highly recommend to anybody coming out of college do something that you would never do when you're 40, when you're 22.
+Cody Simms (05:54):
+Bill, I think we talked about this before we recorded, but I studied Chinese in the late '90s, lived in China a few times and then randomly found myself in tech. I was a kid from Kansas and it got me out of my comfort zone for sure, which was great.
+Bill Caesar (06:07):
+Yep, so it was a terrific experience and then I went from there to business school because I figured that I needed to know something about something before I went and got a job. I had spent my career at the agency providing guidance and counsel to other people, and I always saw myself as a person who would be the one taking guidance and counsel in making decisions. And so I went to business school and went into management consulting where I provided guidance and counsel to people who were making decisions. So I didn't quite get the leap that I expected right away.
+(06:42):
+13 years later, I left McKinsey, but within McKinsey was where two parts of what I had been working on started to come together. One was I had done a lot of work with a large biotech seed and agrichemical company and became very familiar with the corn and soybean markets and as a result, the ethanol and biodiesel markets.
+Cody Simms (07:07):
+This was sort of in the Clean Tech 1.0 wave, I guess.
+Bill Caesar (07:11):
+This was early 2004 to '06 something. And at the same time I found myself working for Waste Management where I didn't do any of the work around the nuts and bolts core solid waste collection disposal business, but I worked on the recycling business, I worked on the waste energy business. I worked on the peripheral things that were trying to make something of value out of material that was being collected as opposed to putting it in a landfill.
+(07:39):
+And so when I decided that I had had enough of providing guidance and counsel to other people, I left and with a very clear intent that I wanted to find a way to leverage all that I had learned about the biofuels and bio-based chemical space with what I had learned about the waste space. I went to Waste Management as the first Chief Strategy Officer there.
+(08:03):
+I had several different things that I did while I was there. The first was to sort of help them figure out what they wanted to focus on. At this time, it wasn't even called sustainability, but it was getting value from the material that we collect was the way we thought about it. And then I wound up taking over the recycling business.
+Cody Simms (08:21):
+You finally moved from the making recommendation space to the taking action space.
+Bill Caesar (08:27):
+It was 2012 when I had a P&L, which was great. It was a $1.5 billion business. It was very challenging. The recycling business in North America, as in most of the world, has got a lot of commodity risk. The prices of the core elements, cardboard, HDP and PET, plastics, aluminum, ferrous metals bounce around a lot and it can be a very challenging place to work. I mean, literally at Waste Management there are $100 million EBITDA swings in a given year based on what's going on with commodity prices. And I just saw today, waste Management just announced their earnings for Q2 of '23 and they had a big hit in commodities. They had been doing a good job of managing that, but things happen and I spent a lot of time trying to de-risk that business.
+Cody Simms (09:16):
+Driven by housing slowdown, if I understand, is a big cause of that. Is that correct?
+Bill Caesar (09:21):
+That's one of the causes of, and whenever commodities in general oil or metals come down, it all pushes itself down into the recycling space. I think that's what you're seeing right now, a little bit of a malaise. And so shortly after taking over the recycling business, I also was given responsibility for the group at Waste Management that had been doing corporate venturing. Waste had invested something on the order of $350 million in early stage technologies and services around the waste space.
+(09:48):
+I came into that business as the second guy. There was someone else who had built up that portfolio, and those of you who have been around the venture game for a long time know that things die and you need to kill them when they're dead. And when I came into Waste Management after six years, we hadn't killed anything and it was time for a little bit of a restructuring of the portfolio, and so I spent the better part of the next year and a half deciding what we wanted to continue to invest in and what we needed to let go.
+Cody Simms (10:21):
+At that timeframe, you were probably at a time where the business itself was moving toward a lot of cloud-based compute solutions, like looking at Enterprise SaaS as ways you manage the business from a business operation's perspective. But I'm guessing that out in the field ops were still fairly manual then, and I'm guessing fast-forward now, whatever, 10 years later, a lot more automation, AI, et cetera, is making its way into the field, and you've kind of been part of that journey as that transition has happened. Correct me if I'm wrong.
+Bill Caesar (10:53):
+No, no. From an operational standpoint, things have gotten much more sophisticated as the big companies have adopted these technologies. You can still go regional, local, and it is not too far away from the way it was done 10, 15, 20 years ago, but the big companies have gotten very sophisticated. Waste management is very sophisticated in its data management, its ability to assess propensity to accept price increases as well as its ability to dispatch trucks in an efficient manner. So there's lots of that stuff has gone into the market, routing software and other things, but my investments were in things like waste plastic conversion to synthetic oil or some other product that was coming out of that waste material or taking organic waste and turning it into green gasoline. There were a lot of these things out there.
+Cody Simms (11:44):
+So this is cleaning up a lot of the Clean Tech 1.0 investments that just weren't quite working.
+Bill Caesar (11:50):
+That's exactly what this was, was 2012, 2013 investments that had been made for 2, 3, 4 years in the past. It wasn't going to work, and it was time to pull the plug and then figure out what you did want to invest in, and there were some things that we did want to continue to put money into and others that we pulled out. So it was a very interesting time to be involved in that space. The first time I had really been involved with early stage companies, I wound up being the Waste Management Board representative on a couple of these companies.
+(12:21):
+It was interesting to me to sort of come into the entrepreneurial tech science world as what I would say was a former management consultant/wannabe operator. I really hadn't been operating long enough to say that I was an operator, but that was the lens that I was coming from is how can I make this thing work in the field? What can I do to leverage this technology with the materials that I already have available to me? I had a different voice at the table, one that was, I don't want to say more practical, but was more, what does this mean for us in the next year? Not, what does this mean for us in the course of the next three to five years? Because I got to see something here if I'm going to continue to support these things.
+Cody Simms (13:08):
+Not to bury the lead, but I'm assuming in your current job at Generate Upcycle, a lot of what you need to do is to decide where to make technology investments in the next stage of biomaterials, reuse and circularity. Is that accurate?
+Bill Caesar (13:23):
+Yeah, so I jump ahead real quick. I left waste to run a regional traditional solid waste collection and disposal business. [inaudible 00:13:32] backed. It was not about learning something new on the technology side. It was about learning how to run a company and be a leader and a whole different set of growth vectors that come out of running a company. I had 1,700 employees, $400 million in revenue, $100 million of EBITDA. I had a board, I had the whole nine yards. A very successful exit. In 2020, we sold the business to a company called GFL, which is the fourth largest publicly traded waste company.
+(14:01):
+Then I leave that space and I come into Generate Capital and I'm thinking, "This is a great opportunity for me to do the two things that I really like doing. One, which is operating a business, and two, which is leveraging all the stuff that I've learned about the waste space and all the technologies that are out there." And that was when I said, "Okay, well let's look at what we can do and what makes sense to invest in."
+Cody Simms (14:30):
+How did the path from exiting WCA, I think was the name of the company, to moving into something that happened where Generate Capital said, "Hey, we should create an upcycle business." Were they looking for a president, a leader of that business? They had already made the decision or did you help them create the business plan for doing this?
+Bill Caesar (14:47):
+So Scott at Matan I had a relationship with since maybe 2016 or '17. Scott's a former McKinsey guy, Matan doesn't like to talk about it, but he's a former McKinsey guy. He was only there a couple years. Some of the first investments that Generate Capital made were in the waste to value space, were these anaerobic digesters in New York and for whatever reason, they sort of found me and I would have regular calls with them about them wanting me to think about coming to Generate Capital and me going, "I got to get out of this business first and I got to mess on my hands, so let me clean this thing up, get it functioning. It is a PE. We were going to exit. There was no doubt it was going to happen at some point in time, I just didn't know when. And so when we finally got through that, I picked up the phone and I said, "Let's have a conversation."
+(15:42):
+Now, I did the same thing with two other players in a similar space who had also been interested in me. I wound up having some very good conversations and it was all around this idea that we were going to create a new entity. We didn't know exactly what it was going to look like. We didn't know what the legal structure was going to be, any of those things, but we knew that we had critical mass and that we needed to run these assets differently than Generate ran some other assets. A typical model for Generate is to buy the asset, hire a third party to provide O&M services and sort of manage it through an asset management team.
+Cody Simms (16:21):
+And O&M meaning operations and management?
+Bill Caesar (16:23):
+Operations and maintenance.
+Cody Simms (16:24):
+Maintenance. Okay.
+Bill Caesar (16:25):
+So you hire somebody to do the nuts and bolts work on the ground. Generate Capital learned the hard way that that's difficult to do in the anaerobic digestion space, we had a bad experience with the third party O&M provider and realize that it needs to be our management team, needs to be our employees. However, at the time that I joined Generate Capital didn't have a single hourly employee on its payroll. Everyone was salaried. It was a financial services entity, and so we knew that we were going to have to create a new structure. I currently today have something like 350 employees. I am bigger than Generate Capital is today by virtue of having all these people in the field.
+Cody Simms (17:08):
+And looking at Generate's website, it looks like there's one other business unit, Generate Ubiquity. Is that correct? That is also kind of has a similar-ish setup?
+Bill Caesar (17:16):
+Yeah, there are two other, there's Ubiquity and then there's something called esVolta, which are both what we call platforms. The difference between Upcycle, Ubiquity and esVolta are that Ubiquity and esVolta were functioning companies that became part of Generate Capital as opposed to Upcycle, which was within the mothership and was pushed out. We're a 100% owned subsidiary, but we came from the parent as opposed to coming from the outside and joining the parent.
+Cody Simms (17:50):
+What gave you the confidence on the anaerobic digestion business in particular that you wanted to go all in? Had you worked in that space in your prior roles?
+Bill Caesar (17:59):
+Interesting story here, how things come around and go around because things have times. Some ideas show up before they're actually ready. We were talking earlier about when I was running the venturing group at Waste Management, one of the assets that I exited was a company called Harvest Power, which had built an anaerobic digester in London, Ontario. Had also built one outside of Orlando to serve Disney and had built one in British Columbia.
+(18:29):
+But I was not loving this business. A lot of things that needed to be in place weren't in place, and so I exited it. It was actually one of the few that I exited where Waste Management turned a profit on its initial investment. Not a lot, but it was a successful exit. Flash forward eight years, it's 2020, Generate Capital before I joined, acquired the asset in London, Ontario that had belonged to Harvest Power, had been through a bankruptcy and come out of it with a company called StormFisher Environmental that was now running it and that we had acquired the assets and StormFisher was our third party O&M provider.
+(19:09):
+So I come into an asset, I said, "Hey, I got rid of that thing eight years ago and now it boomeranged back at me." However, some really important things had changed. Amongst them, Canada has gone to push the collection of source separated organics at the curb for residential customers. So there is now legislation that requires you and me if we lived in the greater Toronto area to put on the curb our source separated organics. So there's a huge regulatory support for volume coming into the facility.
+Cody Simms (19:45):
+Source separated organics meaning my food waste and yard waste are in a green bin?
+Bill Caesar (19:50):
+Are separate from your traditional recycling and separate from your MSW, from your municipal solid waste. And then the other thing that changed, so we have this, you have to find a place to process this SSO, and we were making electricity at the time from the anaerobic digestion process generates biogas and you use that biogas to turn a turbine and make a CHP unit and make electricity. But we had just put in place what is known as a biogas upgrade system, a BUS.
+(20:19):
+The methane that comes out of an anaerobic digester is about, well, the gas that comes out is about 50% methane, a whole lot of carbon dioxide and some other contaminants. So what you do is you take that biogas, you run it through the upgrade and it's pipeline quality. So I can now inject this gas directly into the pipeline and it is green gas. It has come from material that otherwise would've been sitting in a landfill offgassing methane into the atmosphere except we captured it. It's still going to off gas, but it's done in a controlled environment. We capture the gas clean up, put it in.
+(20:54):
+That gas, which is the molecular equivalent of natural gas and natural gas was selling for $354 an MMBtu I sell my RNG, my renewable natural gas for somewhere between $20 and $25 an MMBtu now, partly supported by regulatory requirements in Canada for their large utilities to have a portion of their power generated by renewables. But also more recently I'm selling that gas into the voluntary market. So there's no regulatory requirement for some of the customers that are buying my gas and they're still paying $20 to $25 for that gas and inching up.
+Cody Simms (21:40):
+And these are customers looking to decarbonize their own operations and not have a fossil equivalent but aren't ready to move off of methane or natural gas to do whatever it is that they do. They just don't want it to be fossil produced. Is that accurate?
+Bill Caesar (21:56):
+They are looking at ways to reduce their carbon footprint. They have processes, I'll use an example without using the name, because we haven't gotten all the way there, but a company that makes glass. The process of making glass is sand or particular form of sand, and that heat is not going to be generated by anything other than a natural gas or electricity produced from a large source right now. And so they're going to use our gas in their process to significantly reduce their carbon footprint.
+(22:27):
+And then we have a company that manages commercial office space that wants to be able to offer their tenants a green alternative to their energy bills within the commercial office space. So there's lots of different companies looking at doing things in the space. Those two big things, a lot of regulatory support to push for the separation of waste that required us to be able to process it and then a fundamental change in the market for the material that we're making changes the whole economic dynamic
+Cody Simms (23:00):
+And gave you the confidence to jump in.
+Bill Caesar (23:03):
+Right, jumping into this AD space made sense now when 10 years prior it didn't feel like it did.
+Cody Simms (23:08):
+Let's take a broad step back and your work at Generate Upcycle, as I understand it really is to take bio waste material from various sources, agricultural, household, industrial, wastewater, et cetera, and turn it into usable product. If you had to generalize your business at the highest of levels, is that the idea?
+Bill Caesar (23:29):
+We call it waste to value. I take material that otherwise would have no value and I turn it into a product, either a fertilizer or a source of energy or a compost, some other material. Or clean water, which we will talk about Sedron in a little bit that now has value and the demand in the market for it.
+Cody Simms (23:52):
+And so you have to be good at three different things. One is the logistics around collecting and all the stuff that you're ... different streams of waste that you may access and how you get it to where it needs to go. You have multiple different kinds of processes. We're going to talk about the different technologies that you use, but multiple different processes to process different kinds of waste, and then you need to be able to sell the outputs of that somewhere and find a buyer for that. If I broke down your business at the highest level, is that accurate?
+Bill Caesar (24:20):
+Yeah, that is exactly right. So I don't run trucks, I'm not collecting the waste off the street, but I have to be able to contract with the people who are doing that and I have to be able to process that material when it comes in because even though the SSO that we were talking about has been separated from other waste, it's still highly contaminated because none of us have gotten to the point yet where we know what exactly we should be putting into the bin.
+(24:45):
+And then some municipalities have decided that they're going to allow other stuff in there that really has no business being in there. So we have to be able to get the material and aggregate it and put it in a form where it can then be transformed. Then there is this biological process that occurs within the digester that takes this material, which is basically used as the feedstock for microorganisms that generate the methane, and then we have to be able to sell this material. And all three of those are critical, whether we're selling electricity on a P P A or whether we're selling renewable natural gas on a long-term contract.
+Yin Lu (25:21):
+Hey everyone, I'm Yin, a partner at MCJ Collective here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change.
+(25:47):
+Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to MCJCollective.com and click on the members tab at the top. Thanks, and enjoy the rest of the show.
+Cody Simms (26:21):
+On your website it talks about three different technologies that you're sort of working in. We've talked mostly about anaerobic digestion, sounds like you also do composting and then you also do wastewater separation and treatment through a partner. Let's go into depth on each of those in a little bit, but maybe hit them at a high level before we do, just so people understand the differences in those business.
+Bill Caesar (26:41):
+Sure. Anaerobic digestion, think of taking food waste and putting it into a very large tank and you introduce microorganisms in there. Food waste comes in. Over the course of about 40 days the bugs will consume that food waste and will off-gas the biogas, which is then collected and cleaned up. And then what's left is what is known as digestate, which is basically a soup of material that has a lot of nutrient value, which we land apply on farmland, displacing chemical-based fertilizers. That is what the anaerobic digestion process is. Composting world is simpler and similar. We take green waste and some food waste and some biosolids depending upon the location and what we're dealing with.
+Cody Simms (27:32):
+Green waste, mostly yard waste, forestry trimmings, et cetera.
+Bill Caesar (27:37):
+Exactly. Think of Florida where we have five different sites. Stuff grows year round. I used to run trucks in Florida, we picked up green waste once a week from every residential home. There's that much stuff growing. You're picking up palms and tree branches and leaves and whatever it is. That comes in, you shred that material, you add water to it, you put it on the ground and you leave it to break down aerobically, so with oxygen for about 40, 45 days as well. Then you screen that material, you have a compost, you have other material that's left over that you then sell that product. A typical structure would be we have green waste coming in either from municipalities or from landscapers who bring us the raw material.
+(28:27):
+We are processing that material and then we're selling that finished good back to the same landscapers. Sometimes they literally come in, drop off the material they collected on one side of our house, pick up a load of compost on the other side of the house and go off to the next home or commercial location that they're working on. That's a composting business, relatively straightforward, less complex than the anaerobic digestion business, but not without its complexity.
+(28:55):
+And then the third business is a wastewater treatment business where we've partnered with a company called Sedron Technologies, which has developed a technology that allows them to take either a septage or the effluent from a wastewater treatment plant or biosolids or dairy manure, and you run it through a process that evaporates the water. So this slurry of material that comes in is something around 10% solids, 90% liquids.
+(29:28):
+You run it through this system where the water is evaporated off. I don't know that they would say it was potable, but it's pretty darn clean. And you can use that to water cattle. You can use that on crops. At the same time, you're going to aggregate this 10% solid into a solid fertilizer, which can be used on farmland. And in the case of doing this at a dairy farm, along with the water that you're collecting, you're also capturing ammonia in a liquid form. And this ammonia is the only certified organic ammonia based fertilizer that exists in North America today. And we take that ammonia and we're going to convert that into an ammonium nitrate, which can then be used on organic farms.
+Cody Simms (30:13):
+Coincidentally, for listeners who are interested in this topic in particular, we actually have that company Sedron Technologies scheduled for a future pod recording. So we will be recording an episode going really deep on cleaning up, for lack of a better term, poo-poo and pee-pee separation and doing things with it.
+Bill Caesar (30:32):
+And I'm sure it's going to be a guy named Stanley Janicki who you'll have a very good time with.
+Cody Simms (30:37):
+It is Stanley.
+Bill Caesar (30:38):
+Yes. We work very closely together and it's a fantastic technology. We have built one facility in Washington state to serve the biosolid septage market in Western Washington. And I'll tell you why this is an important thing. Typically, biosolids or this type of material goes on to agricultural land and is land applied. In the state of Washington the people live mostly on the west side of Washington, and the east side of Washington over a mountain range is where all the agricultural land is. And so these trucks, tanker trucks would have to make a four-hour drive to where the agricultural land is to apply the materials to the agricultural land and then come back.
+(31:22):
+What we do is we allow them to drive to our site, which is where the people are. The truck doesn't have to go anywhere. We have the water that goes right into the POTW stream. We are collecting the dry fertilizer and we're collecting the ammonia and nobody's driving eight hour trip. From a sustainability standpoint, it's a absolute home run because we're not putting something on the ground that is going to off gas a little bit. We're not driving trucks eight hours in order to deposit this material. We're handling it all upfront in a very efficient way.
+Cody Simms (31:57):
+All right, logistics is the next whole area I want to talk about so that is a perfect setup. Composting, I assume is mostly a local business. You're collecting the material from a municipality or wherever, composting it locally, and for the most part that compost material is going back out in that same geographic region. Accurate?
+Bill Caesar (32:16):
+Yeah. Yeah. In general, waste is a local business. There are certainly cases where solid waste gets on a train and goes a long ways, but most of the time waste is a local business.
+Cody Simms (32:31):
+Let's talk about the anaerobic digestion in particular since it sounds like that's still the bulk of your business anyway.
+Bill Caesar (32:37):
+It is, yeah.
+Cody Simms (32:38):
+These feed stocks, just looking through your website, the waste that you're bringing into the digestion process is coming from a huge range of places, whether it's commercial food waste from restaurants, whether it's industrial byproduct of, I don't know, creating yogurt or whatever it is you may have or things from sewage treatment. So it's a wide variety of sources. What does that look like in terms of determining what the cocktail mix needs to be and where it comes from, and are you setting up shop near waste sources or are you building facilities and waste is finding its way to you?
+Bill Caesar (33:14):
+I'll start with the last one. The facilities that we have are ones that had been built by somebody else and we acquired. We are actively looking at opportunities to develop new sites. They will generally be where the people or where the industries are because that logistic question is pretty darn important. The way to think about it is that you mentioned a few of the key sources. There's a category known as FOG, fats, oils, and greases. Things that come from a grease trap in a restaurant or that come from industrial food production. There are lots of bits in whatever your processed food is that don't make it into the package.
+Cody Simms (33:54):
+So if I make olive oil, I've got a bunch of crushed sort of leftover olive residue, right?
+Bill Caesar (33:59):
+Right, or you will have manufacturing, you mentioned yogurt. In New York state, we work with a yogurt manufacturer and there's product either from different runs of material that's a waste product or as part of their manufacturing process is a waste product, but it's organic and it has energy in it.
+(34:16):
+There are also consumer packaged goods, beer, sodas. `I will tell a short story about the fizzy drinks that have alcohol in them. So a year or so ago, there was a company that, I don't want to say the name so I'm trying to be careful, the fizzy water that has alcohol in it. Part of what consumer packaged goods companies in the spirit of sustainability tried to do was to thin wall their packaging. You saw it in water bottles where the PET got really thin. Well, this particular company found the point at which you can't make your aluminum can any skinnier, and they found that by making it too skinny, and as a result there was this material on the shelves in trucks exploding all over the place. And so they had to recall, and at one point in time there were 1100 truckloads of this canned drink floating around the east coast of the United States looking for homes, and we took as much as we could, but that's not something that you contract for, that's an event.
+Cody Simms (35:26):
+Sounds like you guys had a nice Friday night party when you landed that contract.
+Bill Caesar (35:33):
+The bugs love the alcohol, it converts to sugars, they make gas out of it. Everybody's happy. We have to be careful about what we put in. I'll tell another quick story. Before I started, I heard the story. I was up at one of our sites in upstate New York and I had heard that the digester had literally gotten an upset stomach the year before. I said, "Well, what happened?" And they said, "Well, one of the fast food chains had a Shamrock Shake promotion in March for St. Patrick's Day, except they had a forecasting error and they had way too much shake mix. So we took the shake mix and as any five-year-old will tell you, too much milkshake is not good for the tummy, and we were down for three days while we got the bugs back into a state of health." There's all sorts of stuff that can happen.
+Cody Simms (36:27):
+Interesting. So in some cases you're tuning it near a facility where you have a fairly consistent supply of call it leftover seed oil residue, but in some cases someone's going to call you and say, "Oh my gosh, we have this oversupply of X. Can you take it off our hands?"
+Bill Caesar (36:41):
+And it happens all the time.
+Cody Simms (36:42):
+Do you have to mix the cocktail that's in the digesters accordingly to do this, or is it a fairly resilient setup?
+Bill Caesar (36:50):
+You have to be thoughtful about what you're putting in, and we've got people who know what the tolerances are. Sometimes you step out of your tolerance. It is a biological process. You thought they could take it and maybe they couldn't, but you have to be thoughtful about that. The other thing is that we've also looked at all the products that we receive and we know what our handling cost is. We know how much energy those products will create for us, which allows us to price those products. So I know what the contribution margin is of every product that comes into one of my digesters. I know what I want, I know what I don't want. The stuff I don't want gets a much higher price than the stuff that I do want, and we're able to manage it that way as well.
+Cody Simms (37:39):
+And I've heard the phrase tipping fee that has something to do with how these products are purchased or brought to the facilities. Can you unpack that a little bit?
+Bill Caesar (37:47):
+That is the term of art when someone is going to bring you a waste material and it comes from the act of a garbage truck tipping its load. You get paid typically a price per ton. Or if it's a liquid product, you're getting a price per gallon is how you charge your customer.
+Cody Simms (38:07):
+And just so I understand, you are charging them to bring the waste to you.
+Bill Caesar (38:12):
+Yes. In the US and Canada, and I'm going to draw a distinction with the UK in a second, this material is something that we get paid for, and so typically what sets the price in a market for your tipping fee is whatever the local landfill is. I could take this material to the landfill and they would charge me $40 a ton or I could take it to Generate Upcycle's anaerobic digester. And as long as it's not anything more than $40 a ton, I'm feeling good that I'm being sustainable and I'm not paying anymore for that service.
+(38:47):
+What we've seen in the last two years is that some companies have gotten religion on sustainability and they're willing to pay us more than what they would otherwise pay the landfill in order to divert their waste from landfills. So that's been another regulatory uninvolved development in the market.
+Cody Simms (39:09):
+Is that because your digesters essentially are crowded and so they're willing to pay more in order to incentivize you to prioritize taking their stuff?
+Bill Caesar (39:17):
+Yep. That's it. But let me distinguish. The UK is a very different market, so I have seven digesters in the UK and the Brits and probably other parts of Europe have figured out that the material that they take to a digester gets turned into energy and made into money. And so they have actually evolved their market where I have to buy that feed stock in order to put in my digester. Now I get much higher prices off of the electricity and the gas I produce because there are government subsidies in place, but the economic model is very different.
+Cody Simms (39:52):
+I want to talk about the energy that you produce because that is a huge part of the story, obviously. You're taking this waste and turning it into something. You talked about land filling and at least in the US and Canada, the decisions that a waste producer is going to have to make between land filling their waste or like you said, often paying a premium to have it digested. What percentage of waste today is still going to a landfill? And maybe let's talk about the climate impact of that.
+Bill Caesar (40:21):
+Yeah, well, I mean the numbers are still pretty staggering. My sites in North America handle numbers in the millions of pounds of material. There are something like 200 million tons of material that goes into landfills in the United States, 65 million tons of that is organic waste. Somewhere between a third and 40% of what Americans put into their trash is something that could be digested but is not.
+Cody Simms (41:02):
+That's consumer and industrial waste, right? It's a combination.
+Bill Caesar (41:05):
+Consumer and industrial waste. Yeah, it's a combination of both. There aren't digesters everywhere. The economics don't always work. So for example, in the state of New York, the average landfill tip fee is probably somewhere between $60 and $70 a ton. So I get paid somewhere between $60 and $70 a ton. In Houston, where I'm located right now, the average tip fee at a landfill is probably closer to $25 to $30 a ton just because there is more real estate and the market is lower cost to manage a site in Texas. To my knowledge, there are no anaerobic digesters in Texas. And part of that is because that economic model is off on the part of your revenue stream that comes from your tip fee.
+(41:55):
+You can still sell your gas for the same amount that I would be selling my gas for, but you're missing that other part of the revenue stream. Now things can evolve. The price of energy may go up to the point where it's okay that you have a lower tip fee or you could see ... probably not in Texas anytime soon, you could see regulatory pressure that would raise the price of landfills in order to keep things out. And different places, things will evolve in different speeds.
+Cody Simms (42:20):
+I mean, you said in the UK, like the tip fee goes the opposite direction where you're paying to acquire. So at some point you've had to get comfortable with a business model in the UK that is turned on its head and still seems like at least today a viable business. How do you see that changing in the US potentially?
+Bill Caesar (42:37):
+I hope it doesn't turn quite to what the UK is, partly because the reason that that model functions is because there's a lot of regulatory support on the energy. What they get paid for electricity is multiple orders of magnitude more than what I get paid for electricity in the US. Gas prices will probably not be too much different, but the electricity prices will be very ... and that's all a function of government subsidy. There's a time and a place for subsidy, 20 year contracts, I'd rather not be in that world. I'd rather it be more a voluntary world. So in the US I think we'll see an evolution where you will see more anaerobic digesters built. There are multiple companies in the space right now who have seen this as an opportunity and are out there looking for opportunities to build sites.
+Cody Simms (43:29):
+And more likely the incentives to come on the generation of clean energy than on the collection and diversion of waste material from landfill would you expect? You don't have to guess, who knows, right?
+Bill Caesar (43:44):
+They're both driving towards the same economic result, which is a positive thing. You want there to be landfill diversion and companies who are trying to be more sustainable want there to be landfill diversion and communities, municipalities want there to be landfill diversion. And sometimes it's because there are landfills running out of space. It's not just because they're being altruistic, they have a problem and this is one way to address that problem. And then the energy sale is what allows you to monetize what is a fairly substantial capital investment and get a return on that investment.
+Cody Simms (44:17):
+You said 30% to 40% of waste by weight in the US is organic material and maybe unpack the climate impact, just the emissions impact of that for us really quickly too.
+Bill Caesar (44:29):
+All of that material that I'm talking about is most often headed to a landfill. Now, landfills come in a couple different sizes and shapes, but in general, any landfill that's been built since the '90s is a lined landfill that if it is of a certain size has to have a methane collection system built into it. So there are some smaller sites that may be off-gassing methane, and in general the loss of methane from landfills is not a good thing, but there are processes in place to try to capture that gas though waste management companies realize that they have access to a valuable product and they are regulatorily required to capture that product. What they do with it is up to them.
+(45:19):
+Initially, if you went back 10 years, almost all that gas was being flared at the site. Now you have companies like Waste Management and Republic and Waste Connections that are capturing that gas and they're either cleaning it up like I do at my digester and putting it into a pipeline and selling it as pipeline quality gas or waste management has actually gone a step further where they take that gas, they clean it up, and then they put it directly into their CNG powered trucks in a very nice little circular system where the waste that they are collecting on the street comes to a landfill covered up, break down, captured, goes into the truck that picks up the waste for the next time around.
+(46:00):
+So there are a number of landfill gas companies that sort of sprang up out of nowhere last year. They started to aggregate and a couple of them went public and there's an opportunity there. These landfills aren't going anywhere. You can see what the curve looks like. You know what the gas is going to be produced, you know how to capture it. You got to get better at capturing it because there are losses there that aren't good for anybody. But that is the model at the landfill today, and I would argue that taking that food waste to a digester, way more efficient in gas capture than putting it in a hole in the ground, covering it up and capturing the gas later on.
+Cody Simms (46:36):
+Super helpful context. So now let's shift to the output model. So talking about what comes out of your digesters, which is, as I understood it, water, electricity, and some kind of residual biomaterial that may be used as fertilizers or other things. Each one of those become a revenue stream for you then?
+Bill Caesar (46:54):
+The gas which either turns into electricity or is used as renewable natural gas, absolutely a source of revenue. The digestate, depending upon where you are, is something that can be a small revenue generator. But again, coming back to the logistics, tanker trucks full of large volumes of material going to farms, it typically winds up as your single largest cost in your OpEx is your digestate management. We are looking very hard today at ways to manage that more effectively.
+(47:32):
+There is still residual value in that material. It is absolutely a fertilizer when it goes on to farmland, but there are companies that are looking at ways to take that digestate and pull bio-based chemicals out of it, otherwise transform it into something of value. Theoretically, although we haven't proven it yet, but we believe it to be possible in our world, you can take that digestate and introduce it into compost. Compost needs water. The rest of it is food waste that also goes into compost. So you could find yourself in a synergistic situation where the digestive that I'm generating from my AD can go right into my compost facility where I need water. I'm typically water poor and I could use the nutrients in there as well.
+Cody Simms (48:17):
+Super fascinating, and I realize I made a leap. When I said electricity, obviously it's gas and then the gas gets converted in many cases to electricity. Are you all doing that conversion on site or are you typically selling the gas?
+Bill Caesar (48:28):
+No, we have both. I have what are known as combined heat and power units. In the US all of my digesters have them. My big site in Canada, we're actually increasing our RNG production capacity and I'm going to take my CHP units offline. I am planning to do the same thing with my New York digesters because the gas is worth so much more than the electricity is, and I hope to do the same thing with my digester in Michigan. In the UK, I have a mix of electricity and gas. A little bit depends on what the purchase agreements are for those, so whether we'll convert them or not.
+Cody Simms (49:07):
+And so part of your team is heavily involved in basically power brokering, like selling power purchase agreements and finding buyers for either this gas or this electricity that you're generating.
+Bill Caesar (49:19):
+I have two guys who their full-time job is managing our contracts and looking for new contracts for the RNG that we have. The contracts come in all different sizes. I have 20-year contracts for very large volumes of gas. I also have these little ones that come in, and we got this little one from this industrial enterprise in Ontario and it was for 20,000 gigajoules. We're going to make 675,000 gigajoules at this facility when we're done with the expansion. So it's small amount, and this is over two and a half years.
+(49:54):
+And I said, "Chris, where did this one come from?" And he said, "It was an inbound email." They are looking for gas and I will tell you what they were willing to pay for that gas was more than we had been selling it for otherwise. Now there's a reason, because it's a smaller amount and administrative cost associated with that, but it's outbound. I have guys looking for opportunities, but I'm also getting inbound calls. So the city of Hamilton in Ontario is running their buses off RNG, and we are working with them to supply them with RNG from the community that the waste is coming from. Similar to the waste management deal where they're collecting waste and turning it into RNG, that goes into their CNG powered trucks. I'm taking waste from a community, turning it into gas and using it for their buses.
+Cody Simms (50:44):
+Super cool, Bill. I realize we're starting to run a little long here. I would be remiss to not ask you what you think is on the horizon. Is the focus likely going to be increasing the technology capabilities of your existing facilities and new facilities that you may bring online? Is it looking at whole new upcycle type of businesses that you could create? Where do you see the future headed?
+Bill Caesar (51:07):
+I think there's really two vectors. The businesses that we're in today, composting, AD and wastewater are ones that we are going to try and grow and expand, develop new sites. There are a lot of tailwinds to support that. A lot of regulatory tailwinds, a lot of industry tailwinds. There's a lot of IRA money running around that could support some of those things. So we're going to continue to push down the path that we're already on, but I have an open invitation to explore new technologies.
+(51:39):
+Now, Generate Capital and Generate Upcycle don't do venture as a general rule. There's probably a few things out there where someone says, "Hey, this thing," but in general, we're not doing venture. I need something to be beyond first plant scale up. Now, Sedron we built the first plant. So like I said, there are exceptions to that rule, but if there are technologies that can take a waste material and convert it into something of value, we have looked at waste plastic.
+(52:13):
+I've looked at tires, I've looked at construction and demolition waste. I've looked at batteries. Anything that someone says, "That's a waste product," well, to me that's a feedstock and it's up to me and the community to figure out what's the right technology that can convert that feedstock into something of value. Do it economically so that everybody's feeling good about it. Keep whatever the product is out of a traditional landfill and recirculate whatever that product is back into the economy. I've got a remit to look at both. I'm focused on what I've got in the portfolio today, but regularly I'm having conversations with guys who are developing other technologies.
+Cody Simms (52:52):
+For those companies that are in that phase where they maybe have their first facility, they're starting to show that they can do this at some form of commercial or industrial scale. How should they get in touch with y'all?
+Bill Caesar (53:03):
+Bill.Caesar@GenerateUpcycle.com.
+Cody Simms (53:07):
+There you have it, folks. Bill, I'm so grateful for you joining us today, sharing more about what you're doing, and I know food waste is one of the topics. When folks first jump into exploring how they can work in climate, food waste is one of the biggest topics that people often explore first because it's so tangible to them. It's so real to them. It's great to hear from you often how this stuff actually runs its lifecycle through, so we appreciate it.
+Bill Caesar (53:34):
+No, it's great. I enjoyed the conversation and it's a topic I have a lot of passion about. I think we're trying to do well by doing good, and I think we've got a recipe to do that.
+Cody Simms (53:44):
+All right, thank you, Bill.
+Bill Caesar (53:46):
+Great.
+Jason Jacobs (53:47):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (53:51):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+Jason Jacobs (54:00):
+If you'd like to learn more about MCJ Collective, visit us at MCJCollective.com. And if you have a guest suggestion, let us know that via Twitter @MCJpod.
+Yin Lu (54:13):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds be sure to subscribe to our newsletter on our website.
+Cody Simms (54:23):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT

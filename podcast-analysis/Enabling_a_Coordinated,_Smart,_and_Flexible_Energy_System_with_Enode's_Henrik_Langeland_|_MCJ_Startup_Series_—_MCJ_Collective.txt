@@ -1,0 +1,207 @@
+Henrik Langeland is the Co-founder and CEO at Enode. 
+Enode is building digital infrastructure to enable a coordinated, smart, and flexible energy system. In particular, Enode's software API connects over 400 smart devices like EVs, solar panels, and thermostats, so that they can work together to help a home run as efficiently as possible, both within itself and as a node in a larger energy system. The idea of energy demand response relies on the ability of each node in an energy system to be as smart as possible. And Enode is this digital glue layer between them.
+Cody and Henrik spend time talking about his background and the electrification progress made in Norway, where Enode is headquartered. They also talk about the role of software, climate, and energy systems, plus what Enode is and how it works. Henrik compares Enode's role in energy systems to Plaid's role in the banking world, as a service solution that creates more efficiency for all and solves a common problem that all actors in the system would otherwise need to build themselves. We're happy to be multi-time investors in Enode via our MCJ Collective Venture funds and hope you enjoy hearing from Henrik about what they're building.
+Get connected: Cody Simms Twitter / LinkedInHenrik Langeland / EnodeMCJ Podcast / Collective
+*You can also reach us via email at info@mcjcollective.com, where we encourage you to share your feedback on episodes and suggestions for future topics or guests.
+Episode recorded on May 4, 2023.
+In this episode, we cover:
+[2:54] Henrik's background and early interest in energy 
+[7:04] EV adoption in Norway and the inspiration for Enode's software solution 
+[12:05] Enode's role in connecting and integrating different energy devices 
+[16:58] The company's product offering 
+[18:14] Enode's consumers including OEMs, energy retailers, etc. 
+[23:08] Henrik's perspective on how software can make a difference in climate 
+[26:22] Risks of deregulation of the energy system (e.g. ERCOT)
+[27:17] How Enode uses AI 
+[31:51] Henrik's predictions for energy interoperability and his company's role in it
+Cody Simms (00:00):
+Today's guest on My Climate Journey's Startup Series is Henrik Langeland, Co-founder and CEO at Enode. Enode is building digital infrastructure to enable a coordinated, smart, and flexible energy system. In particular, Enode's software API creates connectivity between over 400 smart devices like EVs, solar panels, and thermostats, so that they can work together to help a home run as efficiently as possible, both within itself and as a node in a larger energy system. The idea of energy demand response relies on the ability for each node in an energy system to be as smart as possible. An Enode is this digital glue layer between them.
+(00:45):
+Henrik and I spend a bit of time talking about his background and about the electrification progress that's been made in Norway, where he's from, and where Enode is headquartered. We then talk about the role of software and climate and energy systems in particular before getting into what Enode is and how it works. Hendrick compares Enode's role in energy systems to plaid's role in the banking world as a software, as a service solution that creates more efficiency for all and solves a common problem that all actors in the system would otherwise need to build themselves. We're happy to be multi-time investors in Enode via our MCJ Collective Venture funds, and I hope you enjoy hearing from Henrik about what they're building. But first, I'm Cody Simms.
+Yin Lu (01:36):
+I'm Yin Lu.
+Jason Jacobs (01:38):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+Yin Lu (01:44):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+Cody Simms (01:49):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Henrik, welcome to the show.
+Henrik Langeland (02:05):
+Thank you so much. Excited to be here.
+Cody Simms (02:07):
+Well, this feels overdue. We've obviously known you for a while at MCJ. We're thrilled to be multiple time investors in Enode through our venture funds and have seen you grow from some of the earliest days to what's turning into a really impactful startup in the space of connecting multiple distributed energy resources with each other and with consumers, so I'm excited to dive into the Enode journey with you.
+Henrik Langeland (02:32):
+Thank you for the kind words. Yeah, excited to dive in.
+Cody Simms (02:36):
+Well, let's start with you. You've been building Enode since the spring of 2020, I think. You took it through Y Combinator and have obviously seen a lot of growth since then, but maybe take us back a little bit further. We're going to talk all about Enode, so let's start learning more about you and your background.
+Henrik Langeland (02:54):
+Yeah, sure. I very early on found an interest for energy, so that was one thing that I found fascinating since an early age and I think comes from understanding that it plays such an important role in so many factors of the life that we are living. It shapes the geopolitical situation, it plays such an important role in the economy and in our everyday life, so that led me to really wanting to learn more about energy. So I went into university studying energy engineering and economics, and I think at that time I also had a little bit of a dystopian view of the world and on energy that we were all screwed and we're going to use up this finite resource that we have. There's not really a good way out of it. But I think for me personally, at least the time at university, I changed my mindset a little bit around that and maybe it was because learning more about technology and learning more about what we can do through human innovation and ingenuity, realizing that it doesn't necessarily have to be that bleak of a picture.
+(03:57):
+I changed my perspective a little bit towards a more positive view of the world and thinking that we can make this work and we can figure out solutions, and maybe there is no real boundary to what we can achieve as humans. I'm not going to try to predict the future because I don't think anyone can do that, but I think it's more fun to have that positive outlook and live in a world where you believe that it's possible to make things happen and we can change the trajectory and we can build the world that we want to live in. That's much more fun than being in the world where everything is going down the drain.
+Cody Simms (04:32):
+I had this realization the other day, and this is going to sound silly, but when you think of things in our daily lives that have electrified not even in our lifetime, but how much better and more accessible almost all of them got, starting all the way back to the light bulb. We used to burn candles and oil lanterns and now we have light bulbs. Music. Man, the electric guitar made music a lot better frankly, and of course moving it to digital formats made music easier and more accessible. Things that you don't think about as well. We electrified that industry too, and it created this inevitability that it feels like the energy sector is actually now one of the last major things in our lives that is going through that.
+Henrik Langeland (05:12):
+Absolutely. Yeah, we can talk more about that, of course, how big this change is and how much we need to do, but it's also exciting to have all these problems to solve. At least that's what I think. After university, for me, it was going into the tech and startup world mainly, doing various things there, and then fast-forward to 2019 when I co-founding a PropTech startup, which was acquired, and I started to think more deeply about what I was spending my time on. I love to work, I don't mind that, but I was perhaps maybe soul-searching a little bit on why and what am I actually spending my time on.
+(05:47):
+I think the answer for me, or one thing that was very clear to me when thinking about these things is how much I really enjoy nature and really like to be outdoors and camping or snowboarding or doing stuff in nature. It would be such a shame if we didn't take care of it. We already lost too much of it. I realized that that's one of the things that I really wanted to spend my time on, playing some part in making sure that we can keep that, what we have left.
+Cody Simms (06:15):
+You had built a PropTech startup and we're going to get into what Enode does, but obviously Enode has significant touchpoints with the built environment and with buildings and controllers around buildings. Did your prior company lend you any insight into what Enode ended up becoming? Where did you make that leap from, hey, I've exited this PropTech business to, ah, I have the nugget of idea specifically for what we're going to go do with Enode?
+Henrik Langeland (06:40):
+There's definitely something that's applicable, but it was mainly about the type of technology that we were building. We were building APIs for accessing real estate data and valuation models for real estate. The main thing that we took from that business into Enode was building an API-first company.
+Cody Simms (06:59):
+Got it. And so then where did the nugget of insight for, hey, let's connect all these devices together come from?
+Henrik Langeland (07:04):
+One of the nuggets was definitely coming from the fact that I'm Norwegian and I live in Norway. As you said, Norway is an energy nation. We export a lot of oil and gas, not necessarily a thing that we're too proud of, but we also have pretty much a hundred percent renewable electricity generation and we've had that for decades. And we also have come really, really far on the electrification journey, most likely further than any other country. And at the time in 2019, it was also very clear that electrification of transportation was hitting an inflection point, and at that time I think it was about 50% adoption rate, so we had about one out of two cars being sold was an EV at that time. Now it's more than 90%, so more than nine out of 10 cars. And it was very clear that electrification of transportation and electrification in general is really happening and it's not just something we talk about.
+Cody Simms (08:01):
+I just want to underline what you said, make sure listeners heard that. Nine out of 10 cars sold in Norway right now are EVs. That's what you said?
+Henrik Langeland (08:08):
+Yeah.
+Cody Simms (08:09):
+Wow, amazing.
+Henrik Langeland (08:10):
+So obviously everyone you know is getting an EV and you're in these discussions all the time. People talk about their cars and they talk about how they fuel their cars, where they get their energy from and how much they're paying for fueling that battery and so on, so it's definitely already mainstream
+Cody Simms (08:30):
+Such an interesting consideration. You were talking about the oil wealth of Norway and the legacy of oil. I saw a stat recently that said that Norway's oil fund is larger than the combined wealth of the 10 richest people in the world. So just insane amounts of history and money and power, and yet Norway has been able to electrify its domestic energy economy in parallel to that, which you would think there are all these entrenched interests locally that are going to want to prevent that, but it sounds like quite the opposite, in fact.
+Henrik Langeland (09:05):
+Yeah, maybe it's trying to get rid of some bad conscience, I don't know. But yeah, it's definitely something that Norway has invested in good incentives for purchasing EVs. We have that for a long time and that has been crucial to that acceleration, right? We have very, very high taxes on ICE vehicles and we have no taxes on EVs basically. So already at that point, 2018/19, an EV car was cheaper and better, and now it's an no-brainer.
+Cody Simms (09:32):
+So you're in this place where your friends, you're all having conversations about how do you charge your EV, how you optimize for it, and then what led to that insights of the fact that there needed to be a software layer in between there?
+Henrik Langeland (09:44):
+So one of the things that came up always in these conversations was that charging at home, how you do that was something that people expected to be managed and not something you would do manually. It doesn't make sense. You plug in your car when you're home and then that charging happens when it's most beneficial for the energy system when the price of electric is lowest. That was one very clear use case that was quickly becoming mainstream. And then from there on it was also, zooming out a little bit, we have all these devices coming into the grid, to the energy system, and the demand for electricity is going to go up significantly and it's going to happen pretty fast. And then of course at the same time, in Norway we already have renewable energy, but in the rest of the world, all of that generation is going to come from intermittent sources, so solar and wind mainly, and we have to replace all those fossil fuel generators with renewable energy sources, and all of this is going to happen at the same time.
+(10:46):
+So you're going to have increasing demand and you're going to have much more intermittent supply, and listeners already know this, but it's going to need us to transform the energy system completely because it's not only about increasing the demand and increasing the supply, it's about an energy system that is going to be much more dynamic where the demand is going to be responsive and respond in real time to the supply. And there's also, when you go deeper into the nuts and bolts of how the energy system works, there's going to be so much that needs to be reconfigured and so many things that needs to be done differently than it is today.
+(11:21):
+I think that the realization that we had was if we're ever going to get to this point where we can fully electrify and also have renewable energy, all of these devices, and there's going to be billions of them within the next decade, have to be connected and they need to be controlled and managed through an app of some sort or a system of some sort. So they need to be interoperable, they need to be able to communicate programmatically with other systems, we need to get data from them, we need to be able to control how they consume energy, and that is going to be fundamental across every energy system out there. The demand side needs to be droppable and it needs to play a part in the transition.
+Cody Simms (12:05):
+And you all obviously put your hands up and said, "Hey, we want to be this neutral third party company that provides this controlling digital infrastructure to enable these devices to talk to each other." Who else do you think in the world of distributed energy systems sees the same opportunity, thinks that this might be their world to control? Do the energy retailers think they might play a role, does some dominant device in the house like a thermostat or the EV itself think it might be the head honcho of coordinating and orchestrating all of this? Where are you seeing certain players participate in a distributed system and where are you seeing other players want to be that source of truth enabler?
+Henrik Langeland (12:50):
+So this is very much an ongoing thing. There is a lot of unanswered questions and we'll have to see how it all plays out, but some things we can see pretty clearly, and one thing is that the value of, for instance, a connected EV and the value that it has in the energy system is very, very high. It's in order of 500 to 1,000 potentially US dollars per EV per year. So there's a lot of value in connecting these devices, and the same goes for your HVAC system and for your home battery if you have one and so on.
+Cody Simms (13:23):
+Smart panels are obviously starting to become a thing as well.
+Henrik Langeland (13:26):
+Exactly. Every device you have in your home will be very valuable or connecting it is very valuable. And then owning, of course, the consumer experience or the application that you are using or that's managing that energy consumption, having that position is also of course then going to be very valuable. There's a lot of companies trying to capture that and to play that part. Our job is to accelerate them. Our job is to help them get there faster by relieving them of the hard work of making all these integrations to all these devices which are increasing in number, in variation, and they have to be maintained. And it's really hard work to make these integrations reliable and also have a good coverage. That's our job. And most companies who want to work in this space, they're very happy that they don't have to spend a lot of engineers and time on doing that.
+Cody Simms (14:22):
+The closest parallel I can think of, wearing my consumer internet product background, I was in consumer internet product for over a decade, and in the mid two thousands and early 20 teens were the identity wars where Facebook Connect came out and Google OAuth and Google single sign-on came out and there were a few third-party services that were basically productizing OAuth to be this central authentication layer as well. Ultimately, frankly, Google and Facebook won that battle. They had the heaviest identity networks and thus won the login battles across the internet. How do you see that being different in the energy space?
+Henrik Langeland (15:01):
+Take another analogy is the financial or open banking and the FinTech revolution where you had a lot of companies trying to get data and then build new services based on that. And Plaid is an example that's very parallel to what we are doing. They were building integrations to every bank and then making it very easy to build an application on top of those integrations, for instance, Venmo, where you could easily access every bank account out there without being constrained by having to have a certain bank account, and then they would build all those integrations across all the different financial institutions.
+Cody Simms (15:37):
+You're right, that's a better analogy because they're just selling it as enterprise SaaS software. They're not trying to monetize the consumer data that's flowing through the platform like a Google or a Facebook was.
+Henrik Langeland (15:49):
+Exactly.
+Cody Simms (15:50):
+Google, an OAuth login. That's super helpful.
+Henrik Langeland (15:52):
+That's pretty much exactly what we are doing, but with energy devices instead of bank accounts.
+Yin Lu (15:57):
+Hey everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club workshops and more.
+(16:43):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+Cody Simms (16:58):
+Yeah, so let's go into that. At the highest of levels, explain what Enode does, and then let's go into some of the product functionality that you offer.
+Henrik Langeland (17:06):
+We make it very easy to integrate energy devices into applications. We're B2B. Our customers are companies trying to build energy management apps or other types of use cases that are centered around residential energy consumption, and then they use us as a service provider to make it as easy to use API to connect to all these different type of devices.
+Cody Simms (17:28):
+And then you go out and build business development relationships on the backend with those OEM devices, whether it's a thermostat or an EV manufacturer or whatnot, so that you're already natively included in whatever front end software package they might offer to an integrator?
+Henrik Langeland (17:46):
+Yeah, absolutely. So we have various different approaches to the different OEMs. One of our jobs is to make that seamless and make it work well.
+Cody Simms (17:55):
+Selling the software, the API to both the OEM side in terms of enabling them to be a company that can be integrated into a platform as well as the consumer side. I think we should talk about who is the consumer in the consumer world in your mind. Is it an end user consumer or is it a energy retailer, et cetera?
+Henrik Langeland (18:14):
+Yeah, so we have customers that are OEMs who want to expand their reach, for instance, or they want to get access to heating devices or they're an EV OEM and then they want to build a holistic energy management solutions to their customers. So we have those as customers and we have energy management. It can be smartphone providers or it can be energy retailers, for instance, if you want to build better user experiences for their customers and help them save energy and help them use energy smarter. So we have a wide variety of customers that use our API.
+Cody Simms (18:46):
+And you have over 300 devices today that are enabled to be connected. Is that correct?
+Henrik Langeland (18:52):
+Yeah, more than 400 actually.
+Cody Simms (18:52):
+More than 400. Wow, that's awesome. I imagine, EV connection, you've set the stage with, hey, nine out of 10 new cars purchased in Norway are EV's, EV connection has been your big needle-mover thus far, moving into potentially fleet management and things like that. How do you think about different lines of business at Enode from EV management to whole-home optimization to managing HVAC, heating and cooling loads, et cetera?
+Henrik Langeland (19:24):
+So our main use cases in the end is centered around the consumer and residential energy consumption, so it's the things that you have in your house or in your home and the most important components of your energy consumption. So it's your EV, it's your HVAC system, electrified of course, and a home battery if you have one and solar attached to it, and those are really the main parts. And then of course your EV charger and so on. Those are the main components.
+Cody Simms (19:54):
+And as a consumer in my home, how am I going to discover Enode? It's not something I need to know to go to Enode to use. I presume it's going to be integrated into one of these devices which will then ask to be connected to other devices in my home. Is that accurate?
+Henrik Langeland (20:10):
+So as a consumer, you will get some offer from one of our customers about you're going to get the discount on your EV charging or we're going to help you participate in the demand response program where you get a certain amount or you get refunded something or you get paid to do that. And in order to participate in that user experience in that app, you will connect your device and that connection will then happen through Enode as it would when you connect your bank account in the Venmo app through Plaid. So as a consumer, you wouldn't necessarily be that aware about us being in the mix, but we enable that connection.
+Cody Simms (20:47):
+So basically, you are relying on the individual end consumer devices to be motivated and incentivized to want to opt their customers into some kind of demand response program or whatnot, and you are the mechanism they use to do it. And so as a consumer, I'm going to come across mostly just as a little OAuth popup authentication window to connect one device to another and it's put there by get a new thermostat or I get my new EV or I get my new battery, and all of a sudden they're wanting to help manage energy loads in the home.
+Henrik Langeland (21:21):
+Exactly. That's also touching on the important aspect there is that the energy transition is not going to happen without participation from the consumer. So the consumer is responsible for most of the energy consumed, and the consumer is the owner of these devices. They own their EV and they own the data from that EV, and they need to be incentivized to participate and they need to actively make that decision. They don't necessarily need to actively participate. It could be a set and forget thing where you just connect it and then you get some kind of benefits. But every one of these devices, the consumer has to make the decision to participate with these devices and participate in the energy system. And since the value is so large, there's plenty to go. They will get compensated for that.
+Cody Simms (22:09):
+The positioning to the consumer is one of any of the following, which is either connect these two devices so that we can use energy at a time when it's cheaper for you or connect these two devices so that if you have rooftop solar or a battery or something, we can pay you for accessing the energy in your home as an energy retailer at times when we need it, when you don't need it and we'll know you don't need it because you've connected these two devices together, so these are the kinds of value props that helping different companies offer to consumers.
+Henrik Langeland (22:40):
+Exactly. And there's going to be a wide range of these value propositions, and we're only at the beginning, and we're also only at the beginning of being able to really use them to the full extent that they can be used.
+Cody Simms (22:54):
+Back to the Plaid metaphor, do you get involved in the financial transaction between OEM and consumer or is that happening at the billing level and you're just enabling the connectivity between them?
+Henrik Langeland (23:05):
+Yeah, we only connect the device. Yeah.
+Cody Simms (23:08):
+I want to ask a little bit about, to me, you guys are the perfect example When someone says, "Hey, isn't climate tech something that's super capital-intensive and really has to be moving heavy atoms back and forth?" And my response is, there's a lot of that and we need that because without that, we obviously can't decarbonize our economy, and yet there's probably half of the opportunity set in pure software-based businesses that are reducing friction and helping with the transition. I'm curious how you think about the opportunity for software to make a difference in climate and why now is the time.
+Henrik Langeland (23:48):
+Software is going to be a huge component to this, and looking at the electricity or the grid and the energy system, that will be the main energy system that we have going forward and thinking about what's going to happen and the changes that's necessary. There are so many problems and so many of these problems need to be solved through software, so that's obvious. And I think the question to why now is that we are at the inflection point now where it's actually happening both on the demand side and the supply side. It's happening because, just pure economics, it's becoming better and cheaper. So this is going to happen because of the technological development. It's not going to be driven anymore by regulation. That's also really important, of course, but it's happening now. It's not happening everywhere at the same time, but it's starting to happen and I think at least now is a very good time to start solving those problems.
+Cody Simms (24:44):
+You mentioned regulation for a second there. Are there specific regulatory practices that make the connected world that Enode is trying to envision easier to accomplish?
+Henrik Langeland (24:58):
+Building on the Plaid and open banking analogy, you could think of something similar in energy where interoperability, where you have, for instance in Europe, the PSD2, where you mandate financial institutions to open up the third parties, integrate with their systems. You could think of similar things in energy, which would be to everybody's best and would help accelerate the transition if you had regulations that mandated interoperability for these devices.
+Cody Simms (25:26):
+I assume as well, economies that have decentralized energy systems from a utility perspective also helps incentivize the creation of new energy retailers. I live in California where I'm pretty much mandated on what utility I have to use. If I lived in Texas, anyone could be an energy retailer, which means that you can aver retailers like folks like David Energy who can specialize in demand response as their primary value prop to consumers. And I would think that organizations like that may be wanting to be a little bit more innovative with you on ways that they can connect things up and offer rebates to customers.
+Henrik Langeland (26:04):
+Yeah. So in general, opening things up and also enabling markets to do their job, deregulating the energy system and opening up for competition to the extent that it's possible, on the retailer side for instance, I think is generally a good thing and something that will enable us to move faster.
+Cody Simms (26:22):
+What are the risks of deregulation of the energy system that you've seen? And I know you're a global company, you're based in Norway, but you clearly have had a heavy initial go-to market in the Nordics, I presume. Like I said, I think you have customers all over the world. How have you seen different systems adopt you in different ways?
+Henrik Langeland (26:39):
+So in general, we see more innovation in a deregulated energy system or energy market. So because there is more competition for the consumer, just in general, it's more competition basically. That's generally more interesting markets for us to work in or to participate in or Texas is an example. That's where we have most of our focus in the US right now.
+Cody Simms (27:01):
+We had a great episode by the way a couple of months ago on ERCOT, the Texas Energy Regulatory organization. Anyone who wants to understand what we mean when we talk about decentralization, go listen to that episode because it's also going through a lot of reform right now in terms of how it works, which is fascinating. Another question I have for you is we're living through all these crazy advancements in AI right now, whether it's ChatGPT and all these other technologies that lots of technologists are playing with, experimenting with. How do you see that impacting the work you all do at Enode?
+Henrik Langeland (27:34):
+Right now, it's of course a tool that we use extensively in most of our functions in the company internally, which is helping us move faster, and then just a fantastic progress.
+Cody Simms (27:45):
+Any examples you can share about how you're using tools like that?
+Henrik Langeland (27:48):
+All our developers are using it. We just had a Slack thread on how do you use ChatGPT, and everyone had all these amazing examples, and it's just an amazing tool that everyone will use. But more on the industry level, related to what we do right now, I think we're at a little bit more fundamental level when it comes to building the infrastructure and getting the things in place that enables that technology on top of that, at some point in the future. I think we're building something a little bit more fundamental, it feels like. We're making these things communicate with each other, making it work.
+Cody Simms (28:24):
+Without Enode, what would an integration look like between two smart devices in a home if Enode weren't involved?
+Henrik Langeland (28:31):
+Yeah, so if we weren't involved, our customers or the ones who would need those integrations. They would probably try to build them themselves and they would spend a lot of time and a lot of resources on that, while they really wanted to spend their time and resources on something else. Ultimately, they probably wouldn't be able to build something that's as good as what we offer, so it will definitely mean longer time to market. It will definitely mean a worse end user experience and a worse product.
+Cody Simms (29:04):
+You're selling an API that enables easy access to integrate with hundreds of other devices and connectivity and the ability to optimize and aggregate across them. What they're buying is time to market, simplicity, and then potentially the ability because of that time to market and simplicity to offer different financial incentives to their customers is what I'm hearing you say.
+Henrik Langeland (29:29):
+And a better user experience, a better product.
+Cody Simms (29:32):
+It's interesting. Climate isn't really the value prop in any of that. I guess the idea here is we're enabling all of these electric devices to make the grid smarter and better, which creates less waste from an electrons perspective.
+Henrik Langeland (29:44):
+Yeah, you're basically enabling the grid to be run by renewable energy. Without demand response, without these devices being responsive to the supply, that wouldn't be possible
+Cody Simms (29:56):
+Because you're enabling electrons to go in and out of storage or to be used when the grid is cleaner, without that, you're basically requiring a higher amount of base load power from traditional sources. One of the value props I saw on your website is that you can enable your customers to basically create virtual power plants that help balance supply and demand. What does that look like? These are mostly going to be these deregulated energy retailers that would sit on top of the devices in a home? Unpack that for me a little bit.
+Henrik Langeland (30:29):
+An energy device such as an electric vehicle, it can play mainly three parts in the energy system. It can change when it consumes energy, so that goes to generation. It can use energy when energy is available, for instance, when there is the surplus of solar and wind for instance, or it's cheaper. So changing the time you consume kilowatt-hours matters a lot for generation. And that's one part. The second part is the transmission system. So the transmission system is constantly trying to balance or keep the constant frequency in the grid, and they need to adjust a supply and demand constantly. A flexible load such as an EV is very valuable to the transmission system. So if they can respond very quickly to changes in frequency, that's also very valuable.
+(31:15):
+And then the third part is the distribution, so that's the last mile delivery of your electrons. And the distribution system is going to need to be built out a lot. It's already being congested because of the increase in demand. And by using energy smarter based on your location and a lot of different variables, they will reduce the need to invest and build new copper wires. So we have all these different price signals and all these different parts of the energy system where a flexible load or energy device such as an EV is valuable.
+Cody Simms (31:51):
+Fantastic. Let's continue on from there, actually. So what we've laid out so far is really what Enode has accomplished thus far, where you've got 400 plus different devices on the system. You've got hundreds of gigawatt hours that you're managing, flowing through the system today. You're generating business, you've got real revenue. What does this look like? What do you think Enode looks like in five years and how are the energy systems around us changing as a result of software playing a bigger role in being a broker?
+Henrik Langeland (32:22):
+The complexity is going to increase exponentially as more of these devices get connected, more of these devices get bought by consumers, and the needs of the grid is going to be transformed. So the scale of this is massive and it's only at the very, very beginning. Now, I think we can play a very important role in enabling this interoperability, which is going to be a prerequisite to build all these smart use cases, all these smart energy management apps that's going to be necessary, which our customers are building. And I think we're going to keep doing what we're doing and what we're good at, which is making these integrations work seamlessly and to build the interoperability into that, and not only interoperability towards the device necessary, but also interoperability into the energy system. So getting access to those different markets and those different price signals, which will also play their part, deciding when advice will be consuming and when it will be turned off or giving energy back to the grid.
+Cody Simms (33:25):
+Where do you need help going forward as you look to build to that vision?
+Henrik Langeland (33:29):
+Yeah, we need help from great people joining our team, of course. That's always something we need. We are building out the team and expanding there. We're also, of course, looking to accelerate any company out there who are interested in building something in energy management. We can help them accelerate that. So yeah, reach out if you're one of those.
+Cody Simms (33:52):
+And maybe share a little bit about where you are, how you finance the business thus far, what the growth has looked like.
+Henrik Langeland (33:58):
+We have recently raised a Series A, which MCJ participated in among others. Creandum, a European VC, Lower Carbon also was part of that, and a number of others. Very fortunate to have very strong investors backing us all the way from YC until the Series A. The team is currently about 40 people. We're also growing that team on the demand side, and on the customer side, we're seeing a lot of new companies. We're seeing, of course, existing companies going into this and seeing this opportunity, so we're working with some of the largest energy retailers and energy companies in the world. We're also working with a lot of exciting startups who see this opportunity, and I think we're going to see a lot more of those as well. And as electrification moves forward, there's only going to be more demand for those type of companies.
+Cody Simms (34:46):
+Yeah. I'm curious what the wave of new devices and new smart appliances and things like that you're seeing come online look like. We talk about EVs, we talk about HVAC, we talk about battery storage, we talk about smart panels. What else are you seeing come online that's interested in playing in this ecosystem?
+Henrik Langeland (35:04):
+Yeah, so I think it's useful to think about what are the percentages of your home's energy consumption. Your EV is going to be 30%, your heating is going to be 30 to 40%, and then your water heater is going to be 10%. So those are the main bulk of it. And then you have a long tail of different, less important devices, but I think there's plenty to work on. EVs, HVAC, solar panels, and batteries.
+Jason Jacobs (35:27):
+Thanks again for joining us on My Climate Journey podcast.
+Cody Simms (35:32):
+At MCJ Collective, we're all about power and collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+Jason Jacobs (35:41):
+If you'd like to learn more about MCJ Collective, visit us at mmcjcollective.com. And if you have a guest suggestion, let us know that via Twitter @MCJPod.
+Yin Lu (35:54):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+Cody Simms (36:03):
+Thanks, and see you next episode.
+All rights reserved by MCJ Collective 2022.DESIGNED BY FRINGE22 Studio
+CAPITAL
+MEMBERS
+MEDIA
+ABOUT
